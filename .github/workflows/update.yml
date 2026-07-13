@@ -2,7 +2,7 @@ name: Update GP UltraHub Availability
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
