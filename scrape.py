@@ -1,6 +1,7 @@
 from playwright.sync_api import sync_playwright, TimeoutError
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 import json
 import time
 
@@ -125,8 +126,8 @@ with sync_playwright() as p:
     browser.close()
 
 output["last_updated"] = datetime.now(
-    timezone.utc
-).isoformat()
+    ZoneInfo("Australia/Brisbane")
+).strftime("%Y-%m-%d %I:%M:%S %p AEST")
 
 with open(
     "availability.json",
