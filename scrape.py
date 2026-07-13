@@ -1,3 +1,4 @@
+import os
 from playwright.sync_api import sync_playwright, TimeoutError
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -129,21 +130,59 @@ output["last_updated"] = datetime.now(
     ZoneInfo("Australia/Brisbane")
 ).strftime("%Y-%m-%d %I:%M:%S %p AEST")
 
-with open(
-    "availability.json",
-    "w",
-    encoding="utf-8"
-) as f:
+json_text = json.dumps(
+    output,
+    indent=4,
+    ensure_ascii=False
+)
 
-    json.dump(
-        output,
-        f,
-        indent=4,
-        ensure_ascii=False
-    )
+file_changed = True
+
+if os.path.exists("availability.json"):
+
+    with open(
+        "availability.json",
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        existing = f.read()
+
+    if existing == json_text:
+        file_changed = False
+
+if file_changed:
+
+    with open(
+        "availability.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        f.write(json_text)
+
+    print("\n✓ availability.json updated.")
+
+else:
+
+    print("\n✓ No changes detected.")
 
 print("\n==========================================")
 print("Availability Update Complete")
+print("==========================================")
+print(f"Successful clinics : {output['successful_clinics']}/{output['total_clinics']}")
+print(f"Doctors scraped    : {output['total_doctors']}")
+
+if output["failed_clinics"]:
+
+    print("\nFailed Clinics:")
+
+    for clinic in output["failed_clinics"]:
+        print(f"- {clinic['clinic']}")
+
+else:
+
+    print("\nAll clinics scraped successfully!")
 print("==========================================")
 print(f"Successful clinics : {output['successful_clinics']}/{output['total_clinics']}")
 print(f"Doctors scraped    : {output['total_doctors']}")
