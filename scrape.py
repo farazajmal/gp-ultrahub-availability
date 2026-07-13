@@ -126,17 +126,11 @@ with sync_playwright() as p:
 
     browser.close()
 
-output["last_updated"] = datetime.now(
-    ZoneInfo("Australia/Brisbane")
-).strftime("%Y-%m-%d %I:%M:%S %p AEST")
+# ---------------------------------------
+# Only save when availability changes
+# ---------------------------------------
 
-json_text = json.dumps(
-    output,
-    indent=4,
-    ensure_ascii=False
-)
-
-file_changed = True
+old_data = None
 
 if os.path.exists("availability.json"):
 
@@ -146,26 +140,54 @@ if os.path.exists("availability.json"):
         encoding="utf-8"
     ) as f:
 
-        existing = f.read()
+        old_data = json.load(f)
 
-    if existing == json_text:
-        file_changed = False
+# Compare WITHOUT timestamp
 
-if file_changed:
+old_compare = None
 
-    with open(
-        "availability.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
+if old_data:
 
-        f.write(json_text)
+    old_compare = {
+        "clinics": old_data.get("clinics", {})
+    }
 
-    print("\n✓ availability.json updated.")
+new_compare = {
+    "clinics": output["clinics"]
+}
 
-else:
+if old_compare == new_compare:
 
-    print("\n✓ No changes detected.")
+    print("\n✓ No availability changes detected.")
+    print("\n==========================================")
+    print("Availability Update Complete")
+    print("==========================================")
+    print(f"Successful clinics : {output['successful_clinics']}/{output['total_clinics']}")
+    print(f"Doctors scraped    : {output['total_doctors']}")
+    print("\nNo file updated.")
+    exit()
+
+# Only update timestamp when availability changed
+
+output["last_updated"] = datetime.now(
+    ZoneInfo("Australia/Brisbane")
+).strftime("%Y-%m-%d %I:%M:%S %p AEST")
+
+with open(
+    "availability.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        output,
+        f,
+        indent=4,
+        ensure_ascii=False
+    )
+
+print("\n✓ Availability changed.")
+print("✓ availability.json updated.")
 
 print("\n==========================================")
 print("Availability Update Complete")
@@ -178,24 +200,9 @@ if output["failed_clinics"]:
     print("\nFailed Clinics:")
 
     for clinic in output["failed_clinics"]:
-        print(f"- {clinic['clinic']}")
+
+        print("-", clinic["clinic"])
 
 else:
 
     print("\nAll clinics scraped successfully!")
-print("==========================================")
-print(f"Successful clinics : {output['successful_clinics']}/{output['total_clinics']}")
-print(f"Doctors scraped    : {output['total_doctors']}")
-
-if output["failed_clinics"]:
-
-    print("\nFailed Clinics:")
-
-    for clinic in output["failed_clinics"]:
-        print(f"- {clinic['clinic']}")
-
-else:
-
-    print("\nAll clinics scraped successfully!")
-
-print("\navailability.json updated.")
