@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 09:15:38 AM AEST",
+    "last_updated": "2026-07-15 09:31:01 AM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -39,7 +39,7 @@
             {
                 "doctor": "Practice Nurse",
                 "clinic": "Gladstone",
-                "availability": "Today, 9:45 am",
+                "availability": "Today, 10:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514"
             }
         ],
@@ -47,7 +47,7 @@
             {
                 "doctor": "Dr. Aisha Asghar",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 1:15 pm",
+                "availability": "Today, 3:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
             {
@@ -105,7 +105,7 @@
             {
                 "doctor": "Dr. Nauman Ahmed",
                 "clinic": "Toowoomba",
-                "availability": "Today, 9:40 am",
+                "availability": "Today, 9:50 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
             {
@@ -117,7 +117,7 @@
             {
                 "doctor": "Dr. Jahangir Khan",
                 "clinic": "Toowoomba",
-                "availability": "Today, 9:20 am",
+                "availability": "Today, 9:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
         ]
