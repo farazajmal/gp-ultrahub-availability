@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14 09:27:23 AM AEST",
+    "last_updated": "2026-07-14 05:22:09 PM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -9,19 +9,19 @@
             {
                 "doctor": "Dr. Shahid",
                 "clinic": "Gladstone",
-                "availability": "Today, 6:15 pm",
+                "availability": "Fri, 11:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
             {
                 "doctor": "Dr. Nasim Ullah",
                 "clinic": "Gladstone",
-                "availability": "Thu, 11:15 am",
+                "availability": "Thu, 5:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
             {
                 "doctor": "Dr. Bushra Khan",
                 "clinic": "Gladstone",
-                "availability": "Thu, 12:15 pm",
+                "availability": "Fri, 12:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
             {
@@ -33,13 +33,13 @@
             {
                 "doctor": "Mehwish Saghir",
                 "clinic": "Gladstone",
-                "availability": "Today, 11:00 am",
+                "availability": "Tomorrow, 11:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir"
             },
             {
                 "doctor": "Practice Nurse",
                 "clinic": "Gladstone",
-                "availability": "Today, 2:15 pm",
+                "availability": "Tomorrow, 9:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514"
             }
         ],
@@ -47,25 +47,25 @@
             {
                 "doctor": "Dr. Aisha Asghar",
                 "clinic": "Calliope",
-                "availability": "Thu, 2:30 pm",
+                "availability": "Tomorrow, 12:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
             {
                 "doctor": "Dr. Arooj Fatima",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 7:45 am",
+                "availability": "Tomorrow, 12:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1"
             },
             {
                 "doctor": "Dr. Muhammad Rehman",
                 "clinic": "Calliope",
-                "availability": "Today, 2:45 pm",
+                "availability": "Tomorrow, 11:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-muhammad-rehman-1"
             },
             {
                 "doctor": "Practice Nurse",
                 "clinic": "Calliope",
-                "availability": "Today, 2:00 pm",
+                "availability": "Tomorrow, 3:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515"
             }
         ],
@@ -73,19 +73,19 @@
             {
                 "doctor": "Dr. Carmen Au",
                 "clinic": "Burnett Heads",
-                "availability": "in 7 days",
+                "availability": "Tomorrow, 8:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
             },
             {
                 "doctor": "Dr. Rezwan Alam",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 11:45 am",
+                "availability": "Tomorrow, 9:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
             },
             {
                 "doctor": "Practice Nurse (including Flu Vaccines)",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 9:30 am",
+                "availability": "Tomorrow, 8:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1"
             }
         ],
@@ -93,19 +93,19 @@
             {
                 "doctor": "Dr. Aasma Sheraz",
                 "clinic": "Toowoomba",
-                "availability": "Today, 12:00 pm",
+                "availability": "Tomorrow, 9:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
             {
                 "doctor": "Dr. Reneesha Puran Singh",
                 "clinic": "Toowoomba",
-                "availability": "Tomorrow, 8:30 am",
+                "availability": "Fri, 9:20 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-reneesha-puran-singh-2"
             },
             {
                 "doctor": "Dr. Nauman Ahmed",
                 "clinic": "Toowoomba",
-                "availability": "Today, 11:00 am",
+                "availability": "Today, 5:50 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
             {
@@ -117,7 +117,7 @@
             {
                 "doctor": "Dr. Jahangir Khan",
                 "clinic": "Toowoomba",
-                "availability": "Today, 9:40 am",
+                "availability": "Tomorrow, 8:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
         ]
