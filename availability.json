@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 06:45:38 AM AEST",
+    "last_updated": "2026-07-15 07:01:05 AM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -59,7 +59,7 @@
             {
                 "doctor": "Dr. Muhammad Rehman",
                 "clinic": "Calliope",
-                "availability": "Today, 11:30 am",
+                "availability": "Today, 12:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-muhammad-rehman-1"
             },
             {
