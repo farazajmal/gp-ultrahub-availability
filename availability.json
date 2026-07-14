@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 07:15:46 AM AEST",
+    "last_updated": "2026-07-15 07:45:37 AM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -9,7 +9,7 @@
             {
                 "doctor": "Dr. Shahid",
                 "clinic": "Gladstone",
-                "availability": "Fri, 12:30 pm",
+                "availability": "Today, 6:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
             {
@@ -53,13 +53,13 @@
             {
                 "doctor": "Dr. Arooj Fatima",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 8:00 am",
+                "availability": "Tomorrow, 7:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1"
             },
             {
                 "doctor": "Dr. Muhammad Rehman",
                 "clinic": "Calliope",
-                "availability": "Today, 11:30 am",
+                "availability": "Today, 12:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-muhammad-rehman-1"
             },
             {
