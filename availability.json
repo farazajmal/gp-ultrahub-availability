@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14 05:22:09 PM AEST",
+    "last_updated": "2026-07-14 10:02:49 PM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -47,13 +47,13 @@
             {
                 "doctor": "Dr. Aisha Asghar",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 12:15 pm",
+                "availability": "Thu, 1:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
             {
                 "doctor": "Dr. Arooj Fatima",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 12:15 pm",
+                "availability": "Thu, 8:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1"
             },
             {
@@ -99,13 +99,13 @@
             {
                 "doctor": "Dr. Reneesha Puran Singh",
                 "clinic": "Toowoomba",
-                "availability": "Fri, 9:20 am",
+                "availability": "Fri, 12:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-reneesha-puran-singh-2"
             },
             {
                 "doctor": "Dr. Nauman Ahmed",
                 "clinic": "Toowoomba",
-                "availability": "Today, 5:50 pm",
+                "availability": "Tomorrow, 8:10 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
             {
