@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 06:01:09 AM AEST",
+    "last_updated": "2026-07-15 06:45:38 AM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -73,7 +73,7 @@
             {
                 "doctor": "Dr. Carmen Au",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 8:30 am",
+                "availability": "in 6 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
             },
             {
