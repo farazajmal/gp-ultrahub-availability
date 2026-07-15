@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 03:45:36 PM AEST",
+    "last_updated": "2026-07-15 04:01:12 PM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -9,13 +9,13 @@
             {
                 "doctor": "Dr. Shahid",
                 "clinic": "Gladstone",
-                "availability": "Fri, 5:15 pm",
+                "availability": "Fri, 5:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
             {
                 "doctor": "Dr. Nasim Ullah",
                 "clinic": "Gladstone",
-                "availability": "Tomorrow, 6:30 pm",
+                "availability": "Tomorrow, 6:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
             {
@@ -53,7 +53,7 @@
             {
                 "doctor": "Dr. Arooj Fatima",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 10:15 am",
+                "availability": "Tomorrow, 10:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1"
             },
             {
@@ -85,7 +85,7 @@
             {
                 "doctor": "Practice Nurse (including Flu Vaccines)",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 4:00 pm",
+                "availability": "Tomorrow, 8:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1"
             }
         ],
@@ -105,7 +105,7 @@
             {
                 "doctor": "Dr. Nauman Ahmed",
                 "clinic": "Toowoomba",
-                "availability": "Today, 4:10 pm",
+                "availability": "Today, 4:20 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
             {
