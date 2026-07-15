@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 04:45:39 PM AEST",
+    "last_updated": "2026-07-15 05:01:05 PM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -21,7 +21,7 @@
             {
                 "doctor": "Dr. Bushra Khan",
                 "clinic": "Gladstone",
-                "availability": "Sun, 11:45 am",
+                "availability": "Tomorrow, 4:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
             {
