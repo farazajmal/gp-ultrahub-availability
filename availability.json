@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 11:01:11 AM AEST",
+    "last_updated": "2026-07-15 11:15:40 AM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -93,7 +93,7 @@
             {
                 "doctor": "Dr. Aasma Sheraz",
                 "clinic": "Toowoomba",
-                "availability": "Today, 11:20 am",
+                "availability": "Today, 11:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
             {
@@ -105,7 +105,7 @@
             {
                 "doctor": "Dr. Nauman Ahmed",
                 "clinic": "Toowoomba",
-                "availability": "Today, 11:20 am",
+                "availability": "Today, 11:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
             {
