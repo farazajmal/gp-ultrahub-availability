@@ -1,10 +1,11 @@
 import os
-from playwright.sync_api import sync_playwright, TimeoutError
-from bs4 import BeautifulSoup
-from datetime import datetime
-from zoneinfo import ZoneInfo
 import json
 import time
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright, TimeoutError
 
 CLINICS = {
     "Gladstone": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors",
@@ -16,7 +17,7 @@ CLINICS = {
 BASE_URL = "https://www.hotdoc.com.au"
 
 MAX_RETRIES = 3
-RETRY_DELAY = 3  # seconds
+RETRY_DELAY = 3
 
 output = {
     "last_updated": None,
@@ -30,7 +31,6 @@ output = {
 with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
-
     page = browser.new_page()
 
     for clinic_name, url in CLINICS.items():
@@ -61,7 +61,7 @@ with sync_playwright() as p:
                     "html.parser"
                 )
 
-                doctors = soup.select(".DoctorAvailability")
+                doctors = soup.select(".DoctorAvailabilityRow")
 
                 clinic_results = []
 
@@ -75,6 +75,22 @@ with sync_playwright() as p:
                         ".DoctorAvailability-earliestAvailable"
                     )
 
+                    profile_link = doctor.select_one(
+                        ".DoctorAvailabilityRow-doctorLink"
+                    )
+
+                    profile_title = doctor.select_one(
+                        ".DoctorAvailabilityRow-profileText p"
+                    )
+
+                    bio = doctor.select_one(
+                        ".server-html p"
+                    )
+
+                    interest_items = doctor.select(
+                        ".DoctorAvailabilityRow-profileText ul li"
+                    )
+
                     if not button or not availability:
                         continue
 
@@ -85,11 +101,59 @@ with sync_playwright() as p:
 
                     booking_url = BASE_URL + button["href"]
 
+                    profile_url = None
+
+                    if profile_link:
+                        profile_url = BASE_URL + profile_link["href"]
+
+                    role = None
+                    gender = None
+                    qualifications = []
+
+                    if profile_title:
+
+                        parts = [
+                            part.strip()
+                            for part in profile_title.get_text(
+                                strip=True
+                            ).split(",")
+                        ]
+
+                        if len(parts) >= 1:
+                            role = parts[0]
+
+                        if len(parts) >= 2:
+                            gender = parts[1]
+
+                        if len(parts) > 2:
+                            qualifications = parts[2:]
+
+                    bio_text = ""
+
+                    if bio:
+                        bio_text = bio.get_text(
+                            " ",
+                            strip=True
+                        )
+
+                    areas_of_interest = []
+
+                    for item in interest_items:
+                        areas_of_interest.append(
+                            item.get_text(strip=True)
+                        )
+
                     clinic_results.append({
                         "doctor": doctor_name,
+                        "role": role,
+                        "gender": gender,
+                        "qualifications": qualifications,
+                        "areas_of_interest": areas_of_interest,
+                        "bio": bio_text,
                         "clinic": clinic_name,
                         "availability": availability.get_text(strip=True),
-                        "booking_url": booking_url
+                        "booking_url": booking_url,
+                        "profile_url": profile_url
                     })
 
                 output["clinics"][clinic_name] = clinic_results
@@ -110,6 +174,7 @@ with sync_playwright() as p:
                 print("Error:", e)
 
             if attempt < MAX_RETRIES:
+
                 print(f"Retrying in {RETRY_DELAY} seconds...\n")
                 time.sleep(RETRY_DELAY)
 
@@ -142,8 +207,6 @@ if os.path.exists("availability.json"):
 
         old_data = json.load(f)
 
-# Compare WITHOUT timestamp
-
 old_compare = None
 
 if old_data:
@@ -166,8 +229,6 @@ if old_compare == new_compare:
     print(f"Doctors scraped    : {output['total_doctors']}")
     print("\nNo file updated.")
     exit()
-
-# Only update timestamp when availability changed
 
 output["last_updated"] = datetime.now(
     ZoneInfo("Australia/Brisbane")
@@ -200,7 +261,6 @@ if output["failed_clinics"]:
     print("\nFailed Clinics:")
 
     for clinic in output["failed_clinics"]:
-
         print("-", clinic["clinic"])
 
 else:
