@@ -109,6 +109,8 @@ with sync_playwright() as p:
                     role = None
                     gender = None
                     qualifications = []
+                    
+                    provider_type = "Other"
 
                     if profile_title:
 
@@ -128,6 +130,28 @@ with sync_playwright() as p:
                         if len(parts) > 2:
                             qualifications = parts[2:]
 
+                    if role:
+
+    role_lower = role.lower()
+
+    if "general practitioner" in role_lower:
+        provider_type = "GP"
+
+    elif "registrar" in role_lower:
+        provider_type = "GP"
+
+    elif "practice nurse" in role_lower:
+        provider_type = "Nurse"
+
+    elif "nurse" in role_lower:
+        provider_type = "Nurse"
+
+    elif "dentist" in role_lower:
+        provider_type = "Dentist"
+
+    elif "skin" in role_lower:
+        provider_type = "Skin Specialist"
+
                     bio_text = ""
 
                     if bio:
@@ -146,6 +170,7 @@ with sync_playwright() as p:
                     clinic_results.append({
                         "doctor": doctor_name,
                         "role": role,
+                        "provider_type": provider_type,
                         "gender": gender,
                         "qualifications": qualifications,
                         "areas_of_interest": areas_of_interest,
