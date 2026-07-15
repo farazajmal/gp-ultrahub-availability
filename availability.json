@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 02:31:04 PM AEST",
+    "last_updated": "2026-07-15 02:45:37 PM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -9,7 +9,7 @@
             {
                 "doctor": "Dr. Shahid",
                 "clinic": "Gladstone",
-                "availability": "Fri, 3:00 pm",
+                "availability": "Fri, 4:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
             {
@@ -47,13 +47,13 @@
             {
                 "doctor": "Dr. Aisha Asghar",
                 "clinic": "Calliope",
-                "availability": "Mon, 10:15 am",
+                "availability": "Tomorrow, 1:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
             {
                 "doctor": "Dr. Arooj Fatima",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 8:15 am",
+                "availability": "Tomorrow, 10:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1"
             },
             {
@@ -93,7 +93,7 @@
             {
                 "doctor": "Dr. Aasma Sheraz",
                 "clinic": "Toowoomba",
-                "availability": "Today, 2:50 pm",
+                "availability": "Today, 3:10 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
             {
@@ -117,7 +117,7 @@
             {
                 "doctor": "Dr. Jahangir Khan",
                 "clinic": "Toowoomba",
-                "availability": "Today, 2:40 pm",
+                "availability": "Today, 3:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
         ]
