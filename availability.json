@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 04:15:40 PM AEST",
+    "last_updated": "2026-07-15 04:31:01 PM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -47,7 +47,7 @@
             {
                 "doctor": "Dr. Aisha Asghar",
                 "clinic": "Calliope",
-                "availability": "Mon, 10:15 am",
+                "availability": "Mon, 10:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
             {
