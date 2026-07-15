@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 09:25:07 PM AEST",
+    "last_updated": "2026-07-15 12:45:39 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -9,6 +9,7 @@
             {
                 "doctor": "Dr. Shahid",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
                     "MRCGP",
@@ -33,6 +34,7 @@
             {
                 "doctor": "Dr. Nasim Ullah",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
                     "MRCGP",
@@ -58,6 +60,7 @@
             {
                 "doctor": "Dr. Bushra Khan",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [],
                 "areas_of_interest": [
@@ -76,6 +79,7 @@
             {
                 "doctor": "Dr. Arif",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
                     "MRCGP",
@@ -97,6 +101,7 @@
             {
                 "doctor": "Mehwish Saghir",
                 "role": "Physiotherapist",
+                "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [],
                 "areas_of_interest": [
@@ -118,6 +123,7 @@
             {
                 "doctor": "Practice Nurse",
                 "role": "Practice Nurse",
+                "provider_type": "Nurse",
                 "gender": null,
                 "qualifications": [],
                 "areas_of_interest": [],
@@ -132,6 +138,7 @@
             {
                 "doctor": "Dr. Aisha Asghar",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
                     "AMC",
@@ -154,6 +161,7 @@
             {
                 "doctor": "Dr. Arooj Fatima",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
                     "AMC",
@@ -175,6 +183,7 @@
             {
                 "doctor": "Dr. Muhammad Rehman",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
                     "MRCGP",
@@ -196,6 +205,7 @@
             {
                 "doctor": "Practice Nurse",
                 "role": "Practice Nurse",
+                "provider_type": "Nurse",
                 "gender": null,
                 "qualifications": [],
                 "areas_of_interest": [],
@@ -210,6 +220,7 @@
             {
                 "doctor": "Dr. Carmen Au",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
@@ -236,6 +247,7 @@
             {
                 "doctor": "Dr. Rezwan Alam",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
                     "MRCGP",
@@ -261,6 +273,7 @@
             {
                 "doctor": "Practice Nurse (including Flu Vaccines)",
                 "role": "Practice Nurse",
+                "provider_type": "Nurse",
                 "gender": null,
                 "qualifications": [],
                 "areas_of_interest": [],
@@ -275,6 +288,7 @@
             {
                 "doctor": "Dr. Aasma Sheraz",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
                     "MRCGP",
@@ -300,6 +314,7 @@
             {
                 "doctor": "Dr. Nauman Ahmed",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
                     "MRCGP",
@@ -325,6 +340,7 @@
             {
                 "doctor": "Dr. Reneesha Puran Singh",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
                     "FRACGP",
@@ -347,6 +363,7 @@
             {
                 "doctor": "Dr. Umair Siddiqui",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
                     "MBBS",
@@ -369,6 +386,7 @@
             {
                 "doctor": "Dr. Jahangir Khan",
                 "role": "General Practitioner",
+                "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
                     "MBBS",
