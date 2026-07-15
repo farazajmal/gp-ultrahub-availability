@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 05:31:05 PM AEST",
+    "last_updated": "2026-07-15 05:45:42 PM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -105,7 +105,7 @@
             {
                 "doctor": "Dr. Nauman Ahmed",
                 "clinic": "Toowoomba",
-                "availability": "Today, 5:50 pm",
+                "availability": "Today, 6:10 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
             {
