@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 05:15:39 PM AEST",
+    "last_updated": "2026-07-15 05:31:05 PM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -21,7 +21,7 @@
             {
                 "doctor": "Dr. Bushra Khan",
                 "clinic": "Gladstone",
-                "availability": "Tomorrow, 4:45 pm",
+                "availability": "Sun, 11:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
             {
@@ -105,7 +105,7 @@
             {
                 "doctor": "Dr. Nauman Ahmed",
                 "clinic": "Toowoomba",
-                "availability": "Today, 5:40 pm",
+                "availability": "Today, 5:50 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
             {
