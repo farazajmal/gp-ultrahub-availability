@@ -130,27 +130,27 @@ with sync_playwright() as p:
                         if len(parts) > 2:
                             qualifications = parts[2:]
 
-                    if role:
+                                        if role:
 
-    role_lower = role.lower()
+                        role_lower = role.lower()
 
-    if "general practitioner" in role_lower:
-        provider_type = "GP"
+                        if "general practitioner" in role_lower:
+                            provider_type = "GP"
 
-    elif "registrar" in role_lower:
-        provider_type = "GP"
+                        elif "registrar" in role_lower:
+                            provider_type = "GP"
 
-    elif "practice nurse" in role_lower:
-        provider_type = "Nurse"
+                        elif "practice nurse" in role_lower:
+                            provider_type = "Nurse"
 
-    elif "nurse" in role_lower:
-        provider_type = "Nurse"
+                        elif "nurse" in role_lower:
+                            provider_type = "Nurse"
 
-    elif "dentist" in role_lower:
-        provider_type = "Dentist"
+                        elif "dentist" in role_lower:
+                            provider_type = "Dentist"
 
-    elif "skin" in role_lower:
-        provider_type = "Skin Specialist"
+                        elif "skin" in role_lower:
+                            provider_type = "Skin Specialist"
 
                     bio_text = ""
 
