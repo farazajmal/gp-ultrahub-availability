@@ -2,7 +2,6 @@ import os
 import json
 import time
 from datetime import datetime
-from zoneinfo import ZoneInfo
 
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, TimeoutError
@@ -67,58 +66,33 @@ with sync_playwright() as p:
 
                 for doctor in doctors:
 
-                    button = doctor.select_one(
-                        ".DoctorAvailability-actionButton"
-                    )
-
-                    availability = doctor.select_one(
-                        ".DoctorAvailability-earliestAvailable"
-                    )
-
-                    profile_link = doctor.select_one(
-                        ".DoctorAvailabilityRow-doctorLink"
-                    )
-
-                    profile_title = doctor.select_one(
-                        ".DoctorAvailabilityRow-profileText p"
-                    )
-
-                    bio = doctor.select_one(
-                        ".server-html p"
-                    )
-
-                    interest_items = doctor.select(
-                        ".DoctorAvailabilityRow-profileText ul li"
-                    )
+                    button = doctor.select_one(".DoctorAvailability-actionButton")
+                    availability = doctor.select_one(".DoctorAvailability-earliestAvailable")
+                    profile_link = doctor.select_one(".DoctorAvailabilityRow-doctorLink")
+                    profile_title = doctor.select_one(".DoctorAvailabilityRow-profileText p")
+                    bio = doctor.select_one(".server-html p")
+                    interest_items = doctor.select(".DoctorAvailabilityRow-profileText ul li")
 
                     if not button or not availability:
                         continue
 
-                    doctor_name = (
-                        button.get_text(strip=True)
-                        .replace("View ", "")
-                    )
-
+                    doctor_name = button.get_text(strip=True).replace("View ", "")
                     booking_url = BASE_URL + button["href"]
 
                     profile_url = None
-
                     if profile_link:
                         profile_url = BASE_URL + profile_link["href"]
 
                     role = None
                     gender = None
                     qualifications = []
-                    
                     provider_type = "Other"
 
                     if profile_title:
 
                         parts = [
                             part.strip()
-                            for part in profile_title.get_text(
-                                strip=True
-                            ).split(",")
+                            for part in profile_title.get_text(strip=True).split(",")
                         ]
 
                         if len(parts) >= 1:
@@ -130,7 +104,7 @@ with sync_playwright() as p:
                         if len(parts) > 2:
                             qualifications = parts[2:]
 
-                                        if role:
+                    if role:
 
                         role_lower = role.lower()
 
@@ -153,19 +127,13 @@ with sync_playwright() as p:
                             provider_type = "Skin Specialist"
 
                     bio_text = ""
-
                     if bio:
-                        bio_text = bio.get_text(
-                            " ",
-                            strip=True
-                        )
+                        bio_text = bio.get_text(" ", strip=True)
 
-                    areas_of_interest = []
-
-                    for item in interest_items:
-                        areas_of_interest.append(
-                            item.get_text(strip=True)
-                        )
+                    areas_of_interest = [
+                        item.get_text(strip=True)
+                        for item in interest_items
+                    ]
 
                     clinic_results.append({
                         "doctor": doctor_name,
@@ -191,15 +159,12 @@ with sync_playwright() as p:
                 break
 
             except TimeoutError:
-
                 print("Timeout.")
 
             except Exception as e:
-
                 print("Error:", e)
 
             if attempt < MAX_RETRIES:
-
                 print(f"Retrying in {RETRY_DELAY} seconds...\n")
                 time.sleep(RETRY_DELAY)
 
@@ -217,25 +182,19 @@ with sync_playwright() as p:
     browser.close()
 
 # ---------------------------------------
-# Only save when availability changes
+# Compare old data
 # ---------------------------------------
 
 old_data = None
 
 if os.path.exists("availability.json"):
 
-    with open(
-        "availability.json",
-        "r",
-        encoding="utf-8"
-    ) as f:
-
+    with open("availability.json", "r", encoding="utf-8") as f:
         old_data = json.load(f)
 
 old_compare = None
 
 if old_data:
-
     old_compare = {
         "clinics": old_data.get("clinics", {})
     }
@@ -255,15 +214,9 @@ if old_compare == new_compare:
     print("\nNo file updated.")
     exit()
 
-output["last_updated"] = datetime.now(
-    ZoneInfo("Australia/Brisbane")
-).strftime("%Y-%m-%d %I:%M:%S %p AEST")
+output["last_updated"] = datetime.now().strftime("%Y-%m-%d %I:%M:%S %p")
 
-with open(
-    "availability.json",
-    "w",
-    encoding="utf-8"
-) as f:
+with open("availability.json", "w", encoding="utf-8") as f:
 
     json.dump(
         output,
@@ -289,5 +242,4 @@ if output["failed_clinics"]:
         print("-", clinic["clinic"])
 
 else:
-
     print("\nAll clinics scraped successfully!")
