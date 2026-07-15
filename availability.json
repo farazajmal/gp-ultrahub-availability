@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 06:01:14 PM AEST",
+    "last_updated": "2026-07-15 06:15:35 PM AEST",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -15,7 +15,7 @@
             {
                 "doctor": "Dr. Nasim Ullah",
                 "clinic": "Gladstone",
-                "availability": "Tomorrow, 6:45 pm",
+                "availability": "Fri, 7:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
             {
@@ -99,7 +99,7 @@
             {
                 "doctor": "Dr. Nauman Ahmed",
                 "clinic": "Toowoomba",
-                "availability": "Today, 6:20 pm",
+                "availability": "Today, 6:40 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
             {
