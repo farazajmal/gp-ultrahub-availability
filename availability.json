@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15 11:45:38 PM",
+    "last_updated": "2026-07-16 12:01:19 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -154,7 +154,7 @@
                 ],
                 "bio": "Dr. Aisha Asghar is a committed General Practitioner with 19 years of experience providing exemplary healthcare.",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 9:30 am",
+                "availability": "Mon, 11:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
@@ -395,7 +395,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 10:00 am",
+                "availability": "Today, 10:20 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
