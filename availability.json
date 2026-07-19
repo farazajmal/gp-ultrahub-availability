@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-19 11:02:15 PM",
+    "last_updated": "2026-07-19 11:15:45 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -27,7 +27,7 @@
                 ],
                 "bio": "With over 14 years of extensive experience as a General Practitioner, Dr. Shahid is dedicated to providing comprehensive healthcare to patients of all ages. He specialises in managing acute and chronic health conditions, child health, mental health, and preventive care. Passionate about family and general medicine, Dr. Shahid strives to ensure every patient receives the best possible care, with a focus on promoting long-term health and well-being.",
                 "clinic": "Gladstone",
-                "availability": "Today, 10:15 am",
+                "availability": "Tomorrow, 7:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
@@ -154,7 +154,7 @@
                 ],
                 "bio": "Dr. Aisha Asghar is a committed General Practitioner with 19 years of experience providing exemplary healthcare.",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 1:15 pm",
+                "availability": "Tomorrow, 11:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
@@ -287,7 +287,7 @@
                 ],
                 "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 2:00 pm",
+                "availability": "Today, 2:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
             },
@@ -354,7 +354,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 9:30 am",
+                "availability": "Today, 9:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
