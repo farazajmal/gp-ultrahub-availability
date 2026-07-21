@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21 03:45:41 AM",
+    "last_updated": "2026-07-21 04:00:48 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -232,7 +232,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Calliope",
-                "availability": "Today, 2:00 pm",
+                "availability": "Today, 3:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515"
             }
@@ -287,7 +287,7 @@
                 ],
                 "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 2:15 pm",
+                "availability": "Today, 2:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
             },
@@ -416,7 +416,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 2:00 pm",
+                "availability": "Today, 2:20 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
