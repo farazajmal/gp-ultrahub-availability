@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21 07:30:47 AM",
+    "last_updated": "2026-07-21 07:45:36 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -129,7 +129,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Gladstone",
-                "availability": "Tomorrow, 8:00 am",
+                "availability": "Tomorrow, 8:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514"
             }
@@ -176,7 +176,7 @@
                 ],
                 "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements.",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 12:30 pm",
+                "availability": "Tomorrow, 12:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1"
             },
@@ -354,7 +354,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 5:50 pm",
+                "availability": "Today, 6:10 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
