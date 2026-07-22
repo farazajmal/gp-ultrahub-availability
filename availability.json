@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-22 05:45:35 AM",
+    "last_updated": "2026-07-22 06:01:00 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -154,7 +154,7 @@
                 ],
                 "bio": "Dr. Aisha Asghar is a committed General Practitioner with 19 years of experience providing exemplary healthcare.",
                 "clinic": "Calliope",
-                "availability": "Mon, 3:00 pm",
+                "availability": "in 6 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
@@ -198,7 +198,7 @@
                 ],
                 "bio": "Dr. Muhammad Rehman is a highly skilled General Practitioner with a strong commitment to excellence in patient care. He holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting his professional expertise and dedication to the field of general practice.",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 11:15 am",
+                "availability": "Tomorrow, 11:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-muhammad-rehman-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-muhammad-rehman-1"
             },
@@ -354,7 +354,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 4:10 pm",
+                "availability": "Today, 4:20 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
