@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-23 02:00:57 AM",
+    "last_updated": "2026-07-23 02:15:45 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -27,7 +27,7 @@
                 ],
                 "bio": "With over 14 years of extensive experience as a General Practitioner, Dr. Shahid is dedicated to providing comprehensive healthcare to patients of all ages. He specialises in managing acute and chronic health conditions, child health, mental health, and preventive care. Passionate about family and general medicine, Dr. Shahid strives to ensure every patient receives the best possible care, with a focus on promoting long-term health and well-being.",
                 "clinic": "Gladstone",
-                "availability": "Sun, 11:15 am",
+                "availability": "Sun, 11:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
@@ -94,7 +94,7 @@
                 ],
                 "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years of international clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care.",
                 "clinic": "Gladstone",
-                "availability": "Sat, 3:15 pm",
+                "availability": "Sun, 10:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arif-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arif-1"
             },
@@ -261,7 +261,7 @@
                 ],
                 "bio": "Dr. Carem Au completed her Bachelor of Medicine / Bachelor of Surgery (MBBS) at The University of Queensland in 2014 and went on to achieve Fellowship with The Royal Australian College of General Practitioners (FRACGP) in 2021.",
                 "clinic": "Burnett Heads",
-                "availability": "Tue, 8:45 am",
+                "availability": "Mon, 11:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
             },
