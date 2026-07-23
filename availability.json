@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-23 11:15:37 PM",
+    "last_updated": "2026-07-23 11:30:44 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -72,7 +72,7 @@
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice.",
                 "clinic": "Gladstone",
-                "availability": "Mon, 2:00 pm",
+                "availability": "Wed, 3:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
@@ -116,7 +116,7 @@
                 ],
                 "bio": "Mehwish is a qualified and experienced physiotherapist with a strong academic background, holding both a Doctor of Physical Therapy and a Master’s degree in Neuromuscular Physical Therapy. She is passionate about helping patients improve their physical function, manage pain, and return to the activities they enjoy.",
                 "clinic": "Gladstone",
-                "availability": "Today, 9:30 am",
+                "availability": "Today, 10:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir"
             },
@@ -372,7 +372,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 9:20 am",
+                "availability": "Today, 9:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
