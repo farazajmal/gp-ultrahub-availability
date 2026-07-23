@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-23 09:30:47 PM",
+    "last_updated": "2026-07-23 09:45:39 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -129,7 +129,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Gladstone",
-                "availability": "Today, 8:00 am",
+                "availability": "Today, 11:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514"
             }
@@ -176,7 +176,7 @@
                 ],
                 "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements.",
                 "clinic": "Calliope",
-                "availability": "Today, 12:00 pm",
+                "availability": "Mon, 11:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1"
             },
