@@ -1,9 +1,9 @@
 {
-    "last_updated": "2026-07-23 10:30:51 AM",
+    "last_updated": "2026-07-23 12:00:58 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
-    "total_doctors": 19,
+    "total_doctors": 18,
     "clinics": {
         "Gladstone": [
             {
@@ -201,27 +201,6 @@
                 "availability": "Sat, 11:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-muhammad-rehman-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-muhammad-rehman-1"
-            },
-            {
-                "doctor": "Dr. Arif",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MRCGP",
-                    "MBBS"
-                ],
-                "areas_of_interest": [
-                    "Men's health",
-                    "Mental  Health",
-                    "General Family Medicine",
-                    "Chronic Disease Prevention and Management"
-                ],
-                "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years of international clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care.",
-                "clinic": "Calliope",
-                "availability": "in 9 days",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
             {
                 "doctor": "Practice Nurse",
