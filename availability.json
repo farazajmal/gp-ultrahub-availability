@@ -1,11 +1,30 @@
 {
-    "last_updated": "2026-07-24 06:30:41 AM",
+    "last_updated": "2026-07-24 06:46:01 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
-    "total_doctors": 16,
+    "total_doctors": 17,
     "clinics": {
         "Gladstone": [
+            {
+                "doctor": "Dr. Bushra Khan",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Female",
+                "qualifications": [],
+                "areas_of_interest": [
+                    "Women's health",
+                    "Children's health",
+                    "Aesthetics",
+                    "Family medicine",
+                    "Skin cancer Checks"
+                ],
+                "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice.",
+                "clinic": "Gladstone",
+                "availability": "Wed, 4:30 pm",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
+            },
             {
                 "doctor": "Dr. Shahid",
                 "role": "General Practitioner",
@@ -53,28 +72,22 @@
                 ],
                 "bio": "With over 16 years of experience in general practice and family medicine, Dr Nasim provides comprehensive, patient-centred healthcare to individuals and families of all ages.",
                 "clinic": "Gladstone",
-                "availability": "Tomorrow, 3:00 pm",
+                "availability": "Tomorrow, 12:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
             {
-                "doctor": "Dr. Bushra Khan",
+                "doctor": "Dr. Mehwish Javaid",
                 "role": "General Practitioner",
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [],
-                "areas_of_interest": [
-                    "Women's health",
-                    "Children's health",
-                    "Aesthetics",
-                    "Family medicine",
-                    "Skin cancer Checks"
-                ],
-                "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice.",
+                "areas_of_interest": [],
+                "bio": "",
                 "clinic": "Gladstone",
-                "availability": "Wed, 4:30 pm",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
+                "availability": "in 6 days",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
             },
             {
                 "doctor": "Mehwish Saghir",
@@ -311,7 +324,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 4:50 pm",
+                "availability": "Today, 5:10 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
