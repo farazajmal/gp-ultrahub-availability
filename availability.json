@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-24 07:00:51 AM",
+    "last_updated": "2026-07-24 07:15:38 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -63,7 +63,6 @@
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
-                    "Mental health",
                     "Men's health",
                     "General medicine",
                     "Family medicine",
@@ -324,7 +323,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 5:20 pm",
+                "availability": "Today, 5:40 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
