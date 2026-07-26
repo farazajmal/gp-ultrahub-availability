@@ -1,78 +1,112 @@
 {
-    "last_updated": "2026-07-26 08:15:43 AM",
+    "last_updated": "2026-07-26 08:23:07 AM",
     "total_services": 12,
     "services": [
         {
             "name": "General Practice",
-            "description": "Our general practitioners offer a wide range of primary healthcare services, including health assessments, preventive care, management of acute and chronic conditions, and referrals to specialists when needed.",
+            "teaser": "Our general practitioners offer a wide range of primary healthcare services, including health assessments, preventive care, management of acute and chronic conditions, and referrals to specialists when needed.",
             "url": "https://gpultrahub.com.au/services/gp/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/04/GP.jpg"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/04/GP.jpg",
+            "details": "GP UltraHub offers a comprehensive array of general practice services aimed at promoting overall health and well-being. These services include:\n- Primary Care: Regular check-ups, vaccinations, and preventive health screenings.\n- Chronic Disease Management: Expert care and monitoring for conditions such as diabetes, hypertension, and asthma.\n- Women’s Health: Pap smears, contraceptive advice, and menopause management.\n- Men’s Health: Prostate checks, testosterone level assessments, and reproductive health consultations.\n- Paediatric Care: Immunisations, growth and development monitoring, and childhood illness management.\n- Mental Health: Counselling, therapy, and support for mental well-being.\n- Geriatric Care: Specialised health assessments and management tailored for elderly patients.\n- Minor Surgical Procedures: Wound care, suturing, and removal of skin lesions.\n- Health Promotion: Nutritional advice, weight management programs, and smoking cessation support.\n- Emergency Care: Initial assessment and stabilisation for acute medical conditions.\nThese services are delivered by a team of dedicated healthcare professionals committed to providing compassionate and personalized care to patients of all ages and backgrounds."
         },
         {
             "name": "Work Medical",
-            "description": "We provide occupational health services tailored to the needs of businesses, including pre-employment medical assessments, workplace injury management, health promotion programs, and occupational health surveillance.",
+            "teaser": "We provide occupational health services tailored to the needs of businesses, including pre-employment medical assessments, workplace injury management, health promotion programs, and occupational health surveillance.",
             "url": "https://gpultrahub.com.au/services/work-medical/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/07/wm.jpg"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/07/wm.jpg",
+            "details": "Work Medical is deeply rooted in the Gladstone community, offering tailored occupational health services to businesses, workers and contractors \nWith local expertise, personalized approaches, and comprehensive services, we’re committed to promoting health and safety in the workplace.\n- Gladstone Industry Pass\n- Coal Board Medical\n- Health Surveillance\n- Rail Medical\n- Driver Licence Medical\n- Company Specific Medicals\n- Drug and Alcohol Testing\n- Work Injury Management\n- Fitness for Work Assessment\n- Site Services\nOur mission is to support your organization by enhancing productivity and reducing health-related risks. We offer comprehensive care and rehabilitation for workplace injuries, ongoing health monitoring, and customized health assessments tailored to your company’s specific requirements.\nWe have partnered with the following companies to ensure the best for their employees and clients."
         },
         {
             "name": "Mole View Skin Cancer Clinic",
-            "description": "Our specialized skin cancer clinic offers early detection, diagnosis, and treatment of skin cancer, including skin examinations, mole mapping, biopsies, and personalized treatment plans.",
+            "teaser": "Our specialized skin cancer clinic offers early detection, diagnosis, and treatment of skin cancer, including skin examinations, mole mapping, biopsies, and personalized treatment plans.",
             "url": "https://gpultrahub.com.au/services/mole-view-skin-cancer-clinic/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/04/9.jpg"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/04/9.jpg",
+            "details": "Mole View Skin Cancer Clinic offers specialized care in the screening, diagnosis, and treatment of skin cancer. Our dedicated team of doctors possesses advanced training and extensive experience in managing various types of skin cancer, including those requiring advanced procedures such as flaps and grafts. We are committed to utilizing the latest technology and techniques to provide comprehensive and personalized care, ensuring the best possible outcomes for our patients. Trust us to deliver expert care and support throughout your journey to skin health."
         },
         {
             "name": "Weight Loss Centre",
-            "description": "Our weight loss centre offers personalized weight loss programs tailored to each individual’s needs, including customized meal plans, fitness training, behavioral counseling, and ongoing support to achieve long-term success.",
+            "teaser": "Our weight loss centre offers personalized weight loss programs tailored to each individual’s needs, including customized meal plans, fitness training, behavioral counseling, and ongoing support to achieve long-term success.",
             "url": "https://gpultrahub.com.au/services/weight-loss-centre/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/wl.jpg"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/wl.jpg",
+            "details": "At our weight loss clinic, we offer a unique, holistic approach to help you achieve and maintain your weight loss goals. Our program combines the expertise of various health professionals to provide you with the best care possible.\nOur Comprehensive Approach Includes:\n👨‍⚕️ GP-Led Care : Get started with expert guidance from our experienced General Practitioners who understand your medical needs and craft a safe, effective weight loss plan.\n👩‍⚕️ Nurses : Benefit from continuous support and monitoring from our dedicated nursing team, ensuring your progress and well-being every step of the way.\n🍏 Dieticians : Enjoy personalized nutrition plans from our skilled dieticians who design meal plans that are delicious, nutritious, and tailored to your preferences.\n💪 Exercise Physiologists and Personal Trainers : Engage in customized fitness programs developed by our exercise physiologists and personal trainers to keep you motivated and active.\n🧠 Psychologists and Counselors : Address the mental and emotional aspects of weight loss with our compassionate psychologists and counselors, helping you overcome any psychological barriers.\n💊 Medications : Access medically-approved weight loss medications that can assist in your journey, under the careful supervision of our healthcare professionals.\n🌟 Holistic Care : Our multidisciplinary team works together to address every aspect of your health.\n🌟 Personalized Plans : We create customized plans that fit your unique lifestyle and preferences.\n🌟 Continuous Support : Our team is with you every step of the way, offering encouragement and adjusting your plan as needed.\n🌟 Sustainable Results : We focus on long-term success, helping you lose weight and keep it off for good.\n🚀 Step 1: Consultation – Meet with our specialists to discuss your goals and challenges.\n🍎 Step 2: Custom Plan – Receive a personalized plan that suits your lifestyle and preferences.\n💪 Step 3: Active Support – Benefit from regular check-ins, progress tracking, and continuous encouragement from our expert team.\n🌟 Step 4: Celebrate Success – Achieve your weight loss goals and celebrate a healthier, happier you!"
         },
         {
             "name": "Child Immunization",
-            "description": "We offer comprehensive childhood immunization services to protect children from vaccine-preventable diseases, including routine vaccinations, catch-up vaccinations, and specialized vaccines as needed.",
+            "teaser": "We offer comprehensive childhood immunization services to protect children from vaccine-preventable diseases, including routine vaccinations, catch-up vaccinations, and specialized vaccines as needed.",
             "url": "https://gpultrahub.com.au/services/childhood-immunizations/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/03/10.jpg"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/03/10.jpg",
+            "details": ""
         },
         {
             "name": "Telehealth",
-            "description": "Our telehealth services allow patients to access medical care remotely via secure video consultations, providing convenient and timely healthcare from the comfort of home or office.",
+            "teaser": "Our telehealth services allow patients to access medical care remotely via secure video consultations, providing convenient and timely healthcare from the comfort of home or office.",
             "url": "https://gpultrahub.com.au/services/telehealth/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/03/tele-1.jpg"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/03/tele-1.jpg",
+            "details": "At GP UltraHub, we understand the importance of convenient and accessible healthcare services, which is why we offer telehealth consultations for patients seeking medical care from the comfort of their own homes or offices. Our telehealth services enable you to connect with our experienced healthcare professionals remotely, ensuring timely access to quality care whenever you need it.\n- Convenience : With telehealth consultations, you can skip the commute and waiting room, saving you time and hassle. Our telehealth services allow you to access medical care from anywhere with an internet connection, making healthcare more convenient than ever before.\n- Accessibility : Telehealth breaks down barriers to healthcare access, particularly for patients in rural or underserved areas. Whether you’re unable to travel due to distance, mobility issues, or other constraints, telehealth provides a convenient solution for accessing medical care.\n- Continuity of Care : Telehealth consultations allow you to maintain continuity of care with your regular healthcare provider, even if you’re unable to visit the clinic in person. This ensures that you receive consistent and coordinated care for your ongoing health needs.\n- Safe and Secure : Our telehealth platform is designed with privacy and security in mind, ensuring that your personal health information remains confidential and protected. You can feel confident knowing that your telehealth consultations are conducted in a safe and secure environment.\n- General Medical Consultations : Whether you have a minor health concern or need medical advice, our experienced general practitioners are available for telehealth consultations to address a wide range of medical issues, from colds and flu to chronic conditions.\n- Prescription Refills and Medication Management : If you need a prescription refill or have questions about your medication, our healthcare providers can assist you with medication management through telehealth consultations.\n- Follow-Up Appointments : Telehealth consultations are an ideal option for follow-up appointments to discuss treatment progress, review test results, or address any concerns you may have following a previous visit to our clinic.\n- Mental Health Support : Access mental health support and counseling services from the comfort of your home with telehealth consultations. Our compassionate mental health professionals are available to provide support and guidance for various mental health concerns.\n- Chronic Disease Management : Manage chronic conditions such as diabetes, hypertension, or asthma through telehealth consultations with our healthcare team. We can provide ongoing monitoring, medication adjustments, and lifestyle recommendations to help you manage your condition effectively.\nExperience the convenience and flexibility of telehealth with GP UltraHub. Schedule a telehealth consultation today and receive quality medical care without leaving your home."
         },
         {
             "name": "Chronic Disease Management",
-            "description": "We specialize in managing chronic conditions such as diabetes, hypertension, heart disease, asthma, and arthritis, offering personalized care plans, regular monitoring, and support to improve health outcomes and quality of life.",
+            "teaser": "We specialize in managing chronic conditions such as diabetes, hypertension, heart disease, asthma, and arthritis, offering personalized care plans, regular monitoring, and support to improve health outcomes and quality of life.",
             "url": "https://gpultrahub.com.au/services/chronic-disease-management/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/03/13.jpg"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/03/13.jpg",
+            "details": "Chronic Disease Management: At GP UltraHub, we provide expert care and comprehensive monitoring for a wide range of chronic conditions to help patients achieve optimal health and improve their quality of life. Our services include:\nOur chronic disease management program emphasises patient education, self-management support, and regular follow-up appointments to ensure patients stay on track with their treatment plans. By working collaboratively with patients, we aim to empower them to take control of their health and achieve the best possible outcomes."
         },
         {
             "name": "Allied Health",
-            "description": "Our allied health services complement medical care and include physiotherapy, occupational therapy, speech therapy, mental health counseling, nutrition counseling, and social work services to support holistic health and well-being.",
+            "teaser": "Our allied health services complement medical care and include physiotherapy, occupational therapy, speech therapy, mental health counseling, nutrition counseling, and social work services to support holistic health and well-being.",
             "url": "https://gpultrahub.com.au/services/allied-health/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2025/07/Allied-Health.jpg"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2025/07/Allied-Health.jpg",
+            "details": "Physiotherapists are highly qualified, university-trained health professionals who work collaboratively with patients to effectively treat physical injuries, pain, and movement conditions.\nAt GP UltraHub, Mehwish brings a hands-on, evidence-based approach to physiotherapy. Her practice combines advanced assessment techniques and tailored rehabilitation plans to help reduce pain, restore mobility, and enhance overall quality of life. Whether you’re recovering from injury or looking to improve your physical function, Mehwish will support you through every step of your treatment journey.\nMehwish offers expert treatment across a wide spectrum of physiotherapy needs, with the exception of pelvic health, vestibular, and acupuncture services. She is especially experienced in neuromuscular physiotherapy and provides care for both acute and chronic conditions.\nHer treatment approach is client-centred, combining manual therapy, tailored exercise programs, and education to ensure optimal recovery and long-term results.\nMehwish can assist with:\n- – Neuromuscular physiotherapy\n- – Lower back pain\n- – Neck pain\n- – Headaches & migraines\n- – Tendonopathy / Tendinitis\n- – Bursitis\n- – Wrist, hand, and elbow pain\n- – Hip and groin injuries\n- – Knee injuries\n- – Ankle sprains\n- – Post-operative rehabilitation\n- – Pre-surgical conditioning\n- – Injury prevention & performance enhancement\nYour first appointment with Mehwish will be a comprehensive consultation where she will assess your current physical health, lifestyle, and specific injury or concern. From there, a personalised treatment plan will be developed to target your goals.\nPlease wear comfortable, loose clothing as Mehwish will need to assess your movement and access the area of concern.\nIf you have any existing medical reports, scans (e.g. x-rays or MRIs), or previous assessments, please bring them along to your appointment.\nTreatment may include:\n- – Tailored exercise and stretching programs\n- – Clinical Pilates-based rehabilitation\n- – Neuromuscular re-education\n- – Home care strategies and movement advice\nThe number of sessions required will depend on your condition and progress. As you improve in strength and mobility, follow-up appointments may become less frequent."
         },
         {
             "name": "Gladstone",
-            "description": "",
+            "teaser": "",
             "url": "https://gpultrahub.com.au/gladstone/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png",
+            "details": ""
         },
         {
             "name": "Calliope",
-            "description": "",
+            "teaser": "",
             "url": "https://gpultrahub.com.au/calliope/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png",
+            "details": ""
         },
         {
             "name": "Burnett Heads",
-            "description": "",
+            "teaser": "",
             "url": "https://gpultrahub.com.au/burnett-heads/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png",
+            "details": "<span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">﻿</span>"
         },
         {
             "name": "Toowoomba Plaza",
-            "description": "",
+            "teaser": "",
             "url": "https://gpultrahub.com.au/toowoomba-plaza/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png"
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png",
+            "details": ""
+        }
+    ],
+    "clinic_locations": [
+        {
+            "clinic": "Gladstone",
+            "address": "No 2, Gladstone Square, 184 Goondoon St, Gladstone, QLD, 4680",
+            "phone": "07 4910 8614"
+        },
+        {
+            "clinic": "Calliope",
+            "address": "No 16/2041 Dawson Highway, Calliope, QLD, 4680",
+            "phone": "07 4910 8614"
+        },
+        {
+            "clinic": "Burnett Heads",
+            "address": "No 4 / 115 Hermans Road. Burnett Heads. QLD. 4670",
+            "phone": "07 4335 6535"
+        },
+        {
+            "clinic": "Toowoomba Plaza",
+            "address": "No15A Toowoomba Plaza Shopping Centre. 878 Ruthven St, Kearneys Spring, Qld. 4350",
+            "phone": "07 4574 5237"
         }
     ]
 }
