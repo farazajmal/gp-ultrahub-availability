@@ -44,6 +44,12 @@ def scrape_services_list():
         image_url = image_el["src"] if image_el and image_el.has_attr("src") else None
         url = link["href"]
 
+        # Only keep actual service pages (they live under /services/).
+        # This filters out other cards on the page that share the same
+        # layout, such as clinic location links (/gladstone/, etc.)
+        if not url.startswith(f"{BASE_URL}/services/") or url.rstrip("/") == SERVICES_PAGE_URL.rstrip("/"):
+            continue
+
         if any(s["url"] == url for s in services):
             continue
 
