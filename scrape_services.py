@@ -11,14 +11,35 @@ SERVICES_PAGE_URL = f"{BASE_URL}/services/"
 OUTPUT_FILE = "services.json"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; GPUltraHubBot/1.0)"
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+    )
 }
+
+MAX_RETRIES = 3
+RETRY_DELAY = 5
 
 
 def get_soup(url):
-    response = requests.get(url, timeout=20, headers=HEADERS)
-    response.raise_for_status()
-    return BeautifulSoup(response.text, "html.parser")
+
+    last_error = None
+
+    for attempt in range(1, MAX_RETRIES + 1):
+
+        try:
+            response = requests.get(url, timeout=30, headers=HEADERS)
+            response.raise_for_status()
+            return BeautifulSoup(response.text, "html.parser")
+
+        except Exception as e:
+            last_error = e
+            print(f"  ! Attempt {attempt}/{MAX_RETRIES} failed for {url}: {e}")
+
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_DELAY)
+
+    raise last_error
 
 
 def scrape_services_list():
