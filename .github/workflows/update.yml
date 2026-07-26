@@ -25,16 +25,18 @@ jobs:
             playwright-${{ runner.os }}-
       - name: Install Chromium
         run: python -m playwright install chromium
-      - name: Run scraper
+      - name: Run doctor availability scraper
         run: python scrape.py
+      - name: Run services scraper
+        run: python scrape_services.py
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add availability.json
+          git add availability.json services.json
           if git diff --cached --quiet; then
-            echo "No availability changes."
+            echo "No changes."
           else
-            git commit -m "Update availability"
+            git commit -m "Update availability and services"
             git push
           fi
