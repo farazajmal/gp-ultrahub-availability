@@ -1,0 +1,78 @@
+{
+    "last_updated": "2026-07-26 08:12:39 AM",
+    "total_services": 12,
+    "services": [
+        {
+            "name": "General Practice",
+            "description": "Our general practitioners offer a wide range of primary healthcare services, including health assessments, preventive care, management of acute and chronic conditions, and referrals to specialists when needed.",
+            "url": "https://gpultrahub.com.au/services/gp/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/04/GP.jpg"
+        },
+        {
+            "name": "Work Medical",
+            "description": "We provide occupational health services tailored to the needs of businesses, including pre-employment medical assessments, workplace injury management, health promotion programs, and occupational health surveillance.",
+            "url": "https://gpultrahub.com.au/services/work-medical/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/07/wm.jpg"
+        },
+        {
+            "name": "Mole View Skin Cancer Clinic",
+            "description": "Our specialized skin cancer clinic offers early detection, diagnosis, and treatment of skin cancer, including skin examinations, mole mapping, biopsies, and personalized treatment plans.",
+            "url": "https://gpultrahub.com.au/services/mole-view-skin-cancer-clinic/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/04/9.jpg"
+        },
+        {
+            "name": "Weight Loss Centre",
+            "description": "Our weight loss centre offers personalized weight loss programs tailored to each individual’s needs, including customized meal plans, fitness training, behavioral counseling, and ongoing support to achieve long-term success.",
+            "url": "https://gpultrahub.com.au/services/weight-loss-centre/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/wl.jpg"
+        },
+        {
+            "name": "Child Immunization",
+            "description": "We offer comprehensive childhood immunization services to protect children from vaccine-preventable diseases, including routine vaccinations, catch-up vaccinations, and specialized vaccines as needed.",
+            "url": "https://gpultrahub.com.au/services/childhood-immunizations/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/03/10.jpg"
+        },
+        {
+            "name": "Telehealth",
+            "description": "Our telehealth services allow patients to access medical care remotely via secure video consultations, providing convenient and timely healthcare from the comfort of home or office.",
+            "url": "https://gpultrahub.com.au/services/telehealth/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/03/tele-1.jpg"
+        },
+        {
+            "name": "Chronic Disease Management",
+            "description": "We specialize in managing chronic conditions such as diabetes, hypertension, heart disease, asthma, and arthritis, offering personalized care plans, regular monitoring, and support to improve health outcomes and quality of life.",
+            "url": "https://gpultrahub.com.au/services/chronic-disease-management/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/03/13.jpg"
+        },
+        {
+            "name": "Allied Health",
+            "description": "Our allied health services complement medical care and include physiotherapy, occupational therapy, speech therapy, mental health counseling, nutrition counseling, and social work services to support holistic health and well-being.",
+            "url": "https://gpultrahub.com.au/services/allied-health/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2025/07/Allied-Health.jpg"
+        },
+        {
+            "name": "Gladstone",
+            "description": "",
+            "url": "https://gpultrahub.com.au/gladstone/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png"
+        },
+        {
+            "name": "Calliope",
+            "description": "",
+            "url": "https://gpultrahub.com.au/calliope/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png"
+        },
+        {
+            "name": "Burnett Heads",
+            "description": "",
+            "url": "https://gpultrahub.com.au/burnett-heads/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png"
+        },
+        {
+            "name": "Toowoomba Plaza",
+            "description": "",
+            "url": "https://gpultrahub.com.au/toowoomba-plaza/",
+            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png"
+        }
+    ]
+}
