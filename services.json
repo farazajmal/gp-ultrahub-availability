@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-26 08:23:07 AM",
-    "total_services": 12,
+    "last_updated": "2026-07-26 08:41:04 AM",
+    "total_services": 8,
     "services": [
         {
             "name": "General Practice",
@@ -57,34 +57,6 @@
             "url": "https://gpultrahub.com.au/services/allied-health/",
             "image_url": "https://gpultrahub.com.au/wp-content/uploads/2025/07/Allied-Health.jpg",
             "details": "Physiotherapists are highly qualified, university-trained health professionals who work collaboratively with patients to effectively treat physical injuries, pain, and movement conditions.\nAt GP UltraHub, Mehwish brings a hands-on, evidence-based approach to physiotherapy. Her practice combines advanced assessment techniques and tailored rehabilitation plans to help reduce pain, restore mobility, and enhance overall quality of life. Whether you’re recovering from injury or looking to improve your physical function, Mehwish will support you through every step of your treatment journey.\nMehwish offers expert treatment across a wide spectrum of physiotherapy needs, with the exception of pelvic health, vestibular, and acupuncture services. She is especially experienced in neuromuscular physiotherapy and provides care for both acute and chronic conditions.\nHer treatment approach is client-centred, combining manual therapy, tailored exercise programs, and education to ensure optimal recovery and long-term results.\nMehwish can assist with:\n- – Neuromuscular physiotherapy\n- – Lower back pain\n- – Neck pain\n- – Headaches & migraines\n- – Tendonopathy / Tendinitis\n- – Bursitis\n- – Wrist, hand, and elbow pain\n- – Hip and groin injuries\n- – Knee injuries\n- – Ankle sprains\n- – Post-operative rehabilitation\n- – Pre-surgical conditioning\n- – Injury prevention & performance enhancement\nYour first appointment with Mehwish will be a comprehensive consultation where she will assess your current physical health, lifestyle, and specific injury or concern. From there, a personalised treatment plan will be developed to target your goals.\nPlease wear comfortable, loose clothing as Mehwish will need to assess your movement and access the area of concern.\nIf you have any existing medical reports, scans (e.g. x-rays or MRIs), or previous assessments, please bring them along to your appointment.\nTreatment may include:\n- – Tailored exercise and stretching programs\n- – Clinical Pilates-based rehabilitation\n- – Neuromuscular re-education\n- – Home care strategies and movement advice\nThe number of sessions required will depend on your condition and progress. As you improve in strength and mobility, follow-up appointments may become less frequent."
-        },
-        {
-            "name": "Gladstone",
-            "teaser": "",
-            "url": "https://gpultrahub.com.au/gladstone/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png",
-            "details": ""
-        },
-        {
-            "name": "Calliope",
-            "teaser": "",
-            "url": "https://gpultrahub.com.au/calliope/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png",
-            "details": ""
-        },
-        {
-            "name": "Burnett Heads",
-            "teaser": "",
-            "url": "https://gpultrahub.com.au/burnett-heads/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png",
-            "details": "<span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">﻿</span>"
-        },
-        {
-            "name": "Toowoomba Plaza",
-            "teaser": "",
-            "url": "https://gpultrahub.com.au/toowoomba-plaza/",
-            "image_url": "https://gpultrahub.com.au/wp-content/uploads/2024/06/cropped-File-1-PNG-1.png",
-            "details": ""
         }
     ],
     "clinic_locations": [
