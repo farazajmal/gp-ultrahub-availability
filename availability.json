@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-29 05:30:48 AM",
+    "last_updated": "2026-07-29 05:45:48 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -71,7 +71,7 @@
                 ],
                 "bio": "With over 16 years of experience in general practice and family medicine, Dr Nasim provides comprehensive, patient-centred healthcare to individuals and families of all ages.",
                 "clinic": "Gladstone",
-                "availability": "Tomorrow, 12:00 pm",
+                "availability": "Tomorrow, 12:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
@@ -155,7 +155,7 @@
                 ],
                 "bio": "Dr. Aisha Asghar is a committed General Practitioner with 19 years of experience providing exemplary healthcare.",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 3:00 pm",
+                "availability": "Mon, 12:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
@@ -212,7 +212,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Calliope",
-                "availability": "Today, 3:45 pm",
+                "availability": "Tomorrow, 9:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515"
             }
@@ -334,7 +334,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 3:50 pm",
+                "availability": "Today, 4:10 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
@@ -373,7 +373,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 3:40 pm",
+                "availability": "Tomorrow, 8:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
