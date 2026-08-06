@@ -1,9 +1,9 @@
 {
-    "last_updated": "2026-08-06 06:01:02 AM",
+    "last_updated": "2026-08-06 06:15:49 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
-    "total_doctors": 16,
+    "total_doctors": 17,
     "clinics": {
         "Gladstone": [
             {
@@ -98,6 +98,28 @@
                 "availability": "Tue, 10:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
+            },
+            {
+                "doctor": "Dr. Arif",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Male",
+                "qualifications": [
+                    "MRCGP",
+                    "MBBS"
+                ],
+                "areas_of_interest": [
+                    "Chronic disease management",
+                    "General medicine",
+                    "Family medicine",
+                    "Mental health",
+                    "Men's health"
+                ],
+                "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years of international clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care.",
+                "clinic": "Gladstone",
+                "availability": "Sun, 10:00 am",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arif-1",
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arif-1"
             },
             {
                 "doctor": "Mehwish Saghir",
@@ -286,7 +308,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 4:20 pm",
+                "availability": "Today, 5:50 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
@@ -312,7 +334,7 @@
                 ],
                 "bio": "Dr. Aasma Sheraz is a dedicated General Practitioner with over 12 years of clinical experience. She is committed to providing comprehensive, patient-centred healthcare for individuals and families of all ages, with a strong focus on preventive medicine, chronic disease management, and women’s health.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 4:20 pm",
+                "availability": "Tomorrow, 11:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
