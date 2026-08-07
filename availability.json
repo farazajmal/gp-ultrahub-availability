@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07 03:15:47 AM",
+    "last_updated": "2026-08-07 03:31:00 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -233,7 +233,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Calliope",
-                "availability": "Today, 1:30 pm",
+                "availability": "Tue, 3:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515"
             }
@@ -394,7 +394,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 1:20 pm",
+                "availability": "Today, 1:40 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
