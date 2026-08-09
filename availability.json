@@ -1,9 +1,9 @@
 {
-    "last_updated": "2026-08-09 02:15:43 AM",
+    "last_updated": "2026-08-09 02:45:40 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
-    "total_doctors": 17,
+    "total_doctors": 18,
     "clinics": {
         "Gladstone": [
             {
@@ -98,6 +98,28 @@
                 "availability": "Tue, 3:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
+            },
+            {
+                "doctor": "Dr. Arif",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Male",
+                "qualifications": [
+                    "MRCGP",
+                    "MBBS"
+                ],
+                "areas_of_interest": [
+                    "Chronic disease management",
+                    "General medicine",
+                    "Family medicine",
+                    "Mental health",
+                    "Men's health"
+                ],
+                "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years of international clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care.",
+                "clinic": "Gladstone",
+                "availability": "Today, 2:00 pm",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arif-1",
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arif-1"
             },
             {
                 "doctor": "Mehwish Saghir",
