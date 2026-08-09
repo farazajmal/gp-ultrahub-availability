@@ -1,9 +1,9 @@
 {
-    "last_updated": "2026-08-09 12:15:39 AM",
+    "last_updated": "2026-08-09 12:30:50 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
-    "total_doctors": 18,
+    "total_doctors": 17,
     "clinics": {
         "Gladstone": [
             {
@@ -100,28 +100,6 @@
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
             },
             {
-                "doctor": "Dr. Arif",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MRCGP",
-                    "MBBS"
-                ],
-                "areas_of_interest": [
-                    "Chronic disease management",
-                    "General medicine",
-                    "Family medicine",
-                    "Mental health",
-                    "Men's health"
-                ],
-                "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years of international clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care.",
-                "clinic": "Gladstone",
-                "availability": "Today, 3:15 pm",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arif-1",
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arif-1"
-            },
-            {
                 "doctor": "Mehwish Saghir",
                 "role": "Physiotherapist",
                 "provider_type": "Other",
@@ -199,7 +177,7 @@
                 ],
                 "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements.",
                 "clinic": "Calliope",
-                "availability": "Wed, 7:45 am",
+                "availability": "Wed, 11:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1"
             },
