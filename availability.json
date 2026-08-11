@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11 04:15:53 AM",
+    "last_updated": "2026-08-11 04:30:56 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -95,7 +95,7 @@
                 ],
                 "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health.",
                 "clinic": "Gladstone",
-                "availability": "Tomorrow, 2:45 pm",
+                "availability": "Tomorrow, 4:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
             },
@@ -130,7 +130,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Gladstone",
-                "availability": "Today, 2:45 pm",
+                "availability": "Today, 3:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514"
             }
@@ -155,7 +155,7 @@
                 ],
                 "bio": "Dr. Aisha Asghar is a committed General Practitioner with 19 years of experience providing exemplary healthcare.",
                 "clinic": "Calliope",
-                "availability": "Thu, 10:00 am",
+                "availability": "in 6 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
@@ -266,7 +266,7 @@
                 ],
                 "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 2:45 pm",
+                "availability": "Today, 3:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
             },
@@ -279,7 +279,7 @@
                 "areas_of_interest": [],
                 "bio": "Book your Flu Vaccinations here.",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 2:30 pm",
+                "availability": "Today, 2:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1"
             }
@@ -372,7 +372,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 2:20 pm",
+                "availability": "Today, 2:40 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
