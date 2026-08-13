@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13 01:31:02 AM",
+    "last_updated": "2026-08-13 01:45:44 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -211,7 +211,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Calliope",
-                "availability": "Today, 1:45 pm",
+                "availability": "Today, 2:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515"
             }
@@ -333,7 +333,7 @@
                 ],
                 "bio": "Dr. Aasma Sheraz is a dedicated General Practitioner with over 12 years of clinical experience. She is committed to providing comprehensive, patient-centred healthcare for individuals and families of all ages, with a strong focus on preventive medicine, chronic disease management, and women’s health.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 11:50 am",
+                "availability": "Today, 12:40 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
@@ -372,7 +372,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 11:40 am",
+                "availability": "Today, 12:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
