@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-14 04:15:40 AM",
+    "last_updated": "2026-08-14 04:30:57 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -266,7 +266,7 @@
                 ],
                 "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 4:00 pm",
+                "availability": "Mon, 9:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
             },
@@ -279,7 +279,7 @@
                 "areas_of_interest": [],
                 "bio": "Book your Flu Vaccinations here.",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 2:30 pm",
+                "availability": "Today, 3:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1"
             }
@@ -372,7 +372,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 2:20 pm",
+                "availability": "Today, 2:40 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
