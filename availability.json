@@ -1,9 +1,9 @@
 {
-    "last_updated": "2026-08-20 01:45:41 AM",
+    "last_updated": "2026-08-20 02:00:51 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
-    "total_doctors": 16,
+    "total_doctors": 14,
     "clinics": {
         "Gladstone": [
             {
@@ -142,7 +142,7 @@
                 ],
                 "bio": "Dr. Aisha Asghar is a committed General Practitioner with 19 years of experience providing exemplary healthcare.",
                 "clinic": "Calliope",
-                "availability": "Mon, 2:35 pm",
+                "availability": "Mon, 2:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
@@ -188,19 +188,6 @@
                 "availability": "Today, 2:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
-            },
-            {
-                "doctor": "Practice Nurse",
-                "role": "Practice Nurse",
-                "provider_type": "Nurse",
-                "gender": null,
-                "qualifications": [],
-                "areas_of_interest": [],
-                "bio": "",
-                "clinic": "Calliope",
-                "availability": "Today, 1:15 pm",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515"
             }
         ],
         "Burnett Heads": [
@@ -256,19 +243,6 @@
                 "availability": "Today, 1:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
-            },
-            {
-                "doctor": "Practice Nurse (including Flu Vaccines)",
-                "role": "Practice Nurse",
-                "provider_type": "Nurse",
-                "gender": null,
-                "qualifications": [],
-                "areas_of_interest": [],
-                "bio": "Book your Flu Vaccinations here.",
-                "clinic": "Burnett Heads",
-                "availability": "Today, 1:30 pm",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1"
             }
         ],
         "Toowoomba": [
@@ -320,7 +294,7 @@
                 ],
                 "bio": "Dr. Aasma Sheraz is a dedicated General Practitioner with over 12 years of clinical experience. She is committed to providing comprehensive, patient-centred healthcare for individuals and families of all ages, with a strong focus on preventive medicine, chronic disease management, and women’s health.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 1:50 pm",
+                "availability": "Today, 12:40 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
@@ -359,7 +333,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 12:00 pm",
+                "availability": "Today, 12:20 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
