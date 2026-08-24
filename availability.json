@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-24 05:30:47 AM",
+    "last_updated": "2026-08-24 05:45:41 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -21,7 +21,7 @@
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice.",
                 "clinic": "Gladstone",
-                "availability": "Thu, 10:45 am",
+                "availability": "in 7 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
@@ -185,7 +185,7 @@
                 ],
                 "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years of international clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care.",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 12:45 pm",
+                "availability": "Tomorrow, 1:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
@@ -263,7 +263,7 @@
                 ],
                 "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.",
                 "clinic": "Burnett Heads",
-                "availability": "Wed, 9:00 am",
+                "availability": "Wed, 9:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
             }
@@ -291,7 +291,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 6:30 pm",
+                "availability": "Today, 6:40 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
@@ -340,7 +340,7 @@
                 ],
                 "bio": "Dr. Mohammad Umair Siddiqui is a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 4:00 pm",
+                "availability": "Today, 4:10 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3"
             },
@@ -356,7 +356,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 3:40 pm",
+                "availability": "Today, 3:50 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
