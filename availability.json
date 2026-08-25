@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-25 05:30:45 AM",
+    "last_updated": "2026-08-25 05:45:38 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -185,7 +185,7 @@
                 ],
                 "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years of international clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care.",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 11:15 am",
+                "availability": "Today, 5:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
@@ -237,7 +237,7 @@
                 ],
                 "bio": "Dr. Carem Au completed her Bachelor of Medicine / Bachelor of Surgery (MBBS) at The University of Queensland in 2014 and went on to achieve Fellowship with The Royal Australian College of General Practitioners (FRACGP) in 2021.",
                 "clinic": "Burnett Heads",
-                "availability": "Tomorrow, 11:45 am",
+                "availability": "in 7 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
             },
@@ -291,7 +291,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 5:30 pm",
+                "availability": "Today, 6:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
@@ -356,7 +356,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 3:40 pm",
+                "availability": "Today, 3:50 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
