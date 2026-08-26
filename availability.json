@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-25 11:45:43 PM",
+    "last_updated": "2026-08-26 12:00:58 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -117,7 +117,7 @@
                 ],
                 "bio": "Mehwish is a qualified and experienced physiotherapist with a strong academic background, holding both a Doctor of Physical Therapy and a Master’s degree in Neuromuscular Physical Therapy. She is passionate about helping patients improve their physical function, manage pain, and return to the activities they enjoy.",
                 "clinic": "Gladstone",
-                "availability": "Today, 10:00 am",
+                "availability": "Today, 10:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir"
             }
@@ -291,7 +291,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 10:40 am",
+                "availability": "Today, 10:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
@@ -356,7 +356,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 9:50 am",
+                "availability": "Today, 10:10 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
