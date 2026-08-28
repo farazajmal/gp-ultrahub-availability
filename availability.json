@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-28 04:45:44 AM",
+    "last_updated": "2026-08-28 05:01:00 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -116,7 +116,7 @@
                 ],
                 "bio": "Dr. Mohammad Umair Siddiqui is a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018",
                 "clinic": "Gladstone",
-                "availability": "Tue, 12:45 pm",
+                "availability": "Tue, 1:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1"
             },
@@ -138,7 +138,7 @@
                 ],
                 "bio": "Mehwish is a qualified and experienced physiotherapist with a strong academic background, holding both a Doctor of Physical Therapy and a Master’s degree in Neuromuscular Physical Therapy. She is passionate about helping patients improve their physical function, manage pain, and return to the activities they enjoy.",
                 "clinic": "Gladstone",
-                "availability": "Today, 3:00 pm",
+                "availability": "Today, 3:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir"
             }
@@ -229,7 +229,7 @@
                 ],
                 "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs.",
                 "clinic": "Calliope",
-                "availability": "Mon, 10:15 am",
+                "availability": "Mon, 10:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar"
             },
@@ -393,7 +393,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 2:50 pm",
+                "availability": "Today, 3:10 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
