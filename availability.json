@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-02 09:30:52 PM",
+    "last_updated": "2026-09-02 09:45:42 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -46,7 +46,7 @@
                 ],
                 "bio": "With over 14 years of extensive experience as a General Practitioner, Dr. Shahid is dedicated to providing comprehensive healthcare to patients of all ages. He specialises in managing acute and chronic health conditions, child health, mental health, and preventive care. Passionate about family and general medicine, Dr. Shahid strives to ensure every patient receives the best possible care, with a focus on promoting long-term health and well-being.",
                 "clinic": "Gladstone",
-                "availability": "Today, 8:30 am",
+                "availability": "Tomorrow, 7:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
@@ -116,7 +116,7 @@
                 ],
                 "bio": "Dr. Mohammad Umair Siddiqui is a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018",
                 "clinic": "Gladstone",
-                "availability": "Today, 8:15 am",
+                "availability": "Today, 11:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1"
             },
@@ -229,7 +229,7 @@
                 ],
                 "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs.",
                 "clinic": "Calliope",
-                "availability": "Today, 2:00 pm",
+                "availability": "Mon, 7:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar"
             },
