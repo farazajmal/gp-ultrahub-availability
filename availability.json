@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-07 01:30:51 AM",
+    "last_updated": "2026-09-07 01:45:43 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -70,7 +70,7 @@
                 ],
                 "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health.",
                 "clinic": "Gladstone",
-                "availability": "Wed, 9:15 am",
+                "availability": "Wed, 9:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
             },
@@ -251,7 +251,7 @@
                 ],
                 "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years of international clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care.",
                 "clinic": "Calliope",
-                "availability": "Wed, 11:15 am",
+                "availability": "Wed, 9:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
@@ -462,7 +462,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 11:40 am",
+                "availability": "Today, 11:50 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
