@@ -1,9 +1,9 @@
 {
-    "last_updated": "2026-09-07 01:00:57 AM",
+    "last_updated": "2026-09-07 01:15:41 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
-    "total_doctors": 19,
+    "total_doctors": 20,
     "clinics": {
         "Gladstone": [
             {
@@ -51,6 +51,30 @@
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
             {
+                "doctor": "Dr. Mehwish Javaid",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Female",
+                "qualifications": [
+                    "MRCGP",
+                    "MBBS",
+                    "MCPS"
+                ],
+                "areas_of_interest": [
+                    "Womens Health",
+                    "Mental health",
+                    "Family medicine",
+                    "Preventative health",
+                    "General medicine",
+                    "Chronic Disease Managment"
+                ],
+                "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health.",
+                "clinic": "Gladstone",
+                "availability": "Wed, 9:15 am",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
+            },
+            {
                 "doctor": "Dr. Nasim Ullah",
                 "role": "General Practitioner",
                 "provider_type": "GP",
@@ -74,30 +98,6 @@
                 "availability": "Today, 5:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
-            },
-            {
-                "doctor": "Dr. Mehwish Javaid",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "MRCGP",
-                    "MBBS",
-                    "MCPS"
-                ],
-                "areas_of_interest": [
-                    "Womens Health",
-                    "Mental health",
-                    "Family medicine",
-                    "Preventative health",
-                    "General medicine",
-                    "Chronic Disease Managment"
-                ],
-                "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health.",
-                "clinic": "Gladstone",
-                "availability": "Wed, 9:15 am",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
             },
             {
                 "doctor": "Dr Mohammad Umair Siddiqui",
@@ -141,6 +141,30 @@
                 "availability": "Today, 2:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir"
+            },
+            {
+                "doctor": "Saiqa Syeda",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Female",
+                "qualifications": [
+                    "MBBS",
+                    "FRACGP"
+                ],
+                "areas_of_interest": [
+                    "Women's health",
+                    "Chronic disease management",
+                    "Mental health",
+                    "General medicine",
+                    "Family medicine",
+                    "Children's health",
+                    "Skin cancer Checks"
+                ],
+                "bio": "Dr. Saiqa Syeda is a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care.",
+                "clinic": "Gladstone",
+                "availability": "26 Sep, 10:00 am",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1"
             },
             {
                 "doctor": "Dr. Arooj Fatima",
@@ -250,7 +274,7 @@
                 ],
                 "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs.",
                 "clinic": "Calliope",
-                "availability": "Wed, 8:15 am",
+                "availability": "Wed, 9:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar"
             },
@@ -345,7 +369,7 @@
                 ],
                 "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 11:30 am",
+                "availability": "Today, 11:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
             }
@@ -422,7 +446,7 @@
                 ],
                 "bio": "Dr. Mohammad Umair Siddiqui is a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018.",
                 "clinic": "Toowoomba",
-                "availability": "Today, 1:40 pm",
+                "availability": "Today, 2:20 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3"
             },
@@ -438,7 +462,7 @@
                 "areas_of_interest": [],
                 "bio": "",
                 "clinic": "Toowoomba",
-                "availability": "Today, 11:10 am",
+                "availability": "Today, 11:20 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
