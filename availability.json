@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-08 08:00:59 PM",
+    "last_updated": "2026-09-08 09:15:54 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -21,7 +21,7 @@
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice.",
                 "clinic": "Gladstone",
-                "availability": "Mon, 12:15 pm",
+                "availability": "in 6 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
@@ -298,7 +298,7 @@
                 ],
                 "bio": "Dr. Mohammad Umair Siddiqui is a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 8:00 am",
+                "availability": "Tomorrow, 8:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-umair-siddiqui",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-umair-siddiqui"
             },
