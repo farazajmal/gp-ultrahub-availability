@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-09 09:15:57 AM",
+    "last_updated": "2026-09-09 09:31:04 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -17,7 +17,7 @@
                     "Children’s health",
                     "Aesthetics",
                     "Family medicine",
-                    "Skin cancer Checks",
+                    "Skin cancer checks & procedures.",
                     "Child Immunization"
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
@@ -58,8 +58,8 @@
                 "qualifications": [
                     "MCPS (Family Medicine)",
                     "MRCGP",
-                    "MBBS",
-                    "MCPS"
+                    "MCPS",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "DFM",
-                    "MBBS",
-                    "MRCGP",
                     "General Practitioner",
-                    "MCPS"
+                    "MRCGP",
+                    "DFM",
+                    "MCPS",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -117,7 +117,7 @@
                 "areas_of_interest": [
                     "General Practice",
                     "Occupational Medicine",
-                    "Skin Cancer Management",
+                    "Skin cancer checks & procedures",
                     "Preventative Health",
                     "Chronic Disease Management"
                 ],
@@ -162,13 +162,12 @@
                     "FRACGP"
                 ],
                 "areas_of_interest": [
-                    "Women's health",
-                    "Chronic disease management",
-                    "Mental health",
-                    "General medicine",
-                    "Family medicine",
-                    "Children's health",
-                    "Skin cancer Checks"
+                    "General Practice",
+                    "Women’s Health",
+                    "Mental Health",
+                    "Skin cancer checks & procedures",
+                    "Preventive & Holistic Healthcare",
+                    "Comprehensive Patient Care"
                 ],
                 "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
                 "clinic": "Gladstone",
@@ -278,14 +277,14 @@
                     "MBBS"
                 ],
                 "areas_of_interest": [
-                    "Women's health",
+                    "Women’s health",
                     "Chronic disease management",
                     "Family medicine",
                     "General medicine",
                     "Preventive health",
                     "Minor procedures"
                 ],
-                "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs.",
+                "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs. She is passionate about building strong, ongoing relationships with her patients and takes the time to understand their individual health concerns and goals. Her approach focuses on early intervention, continuity of care and developing personalised treatment and management plans to support long term health and wellbeing. Dr Beenish takes a holistic and collaborative approach to healthcare, working closely with her patients to help them feel informed, supported and confident in managing their health. Gladstone",
                 "clinic": "Calliope",
                 "availability": "Fri, 7:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
@@ -303,7 +302,7 @@
                 "areas_of_interest": [
                     "General Practice",
                     "Occupational Medicine",
-                    "Skin Cancer Management",
+                    "Skin cancer checks & procedures",
                     "Preventative Health",
                     "Chronic Disease Management"
                 ],
@@ -322,7 +321,14 @@
                     "MBBS",
                     "FRACGP"
                 ],
-                "areas_of_interest": [],
+                "areas_of_interest": [
+                    "General Practice",
+                    "Women’s Health",
+                    "Mental Health",
+                    "Skin cancer checks & procedures",
+                    "Preventive & Holistic Healthcare",
+                    "Comprehensive Patient Care"
+                ],
                 "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
                 "clinic": "Calliope",
                 "availability": "in 8 days",
@@ -341,18 +347,18 @@
                     "FRACGP"
                 ],
                 "areas_of_interest": [
-                    "Women's health",
+                    "Women’s health",
                     "Chronic disease management",
                     "Mental health",
-                    "Men's health",
+                    "Men’s health",
                     "Paediatrics",
                     "General medicine",
                     "Family medicine",
-                    "Children's health",
-                    "Skin cancer Checks",
+                    "Children’s health",
+                    "Skin cancer checks & procedures",
                     "Diabetes management"
                 ],
-                "bio": "Gladstone",
+                "bio": "Dr. Carem Au completed her Bachelor of Medicine / Bachelor of Surgery (MBBS) at The University of Queensland in 2014 and went on to achieve Fellowship with The Royal Australian College of General Practitioners (FRACGP) in 2021. Over the past few years, Dr. Au has worked extensively as a locum GP across Australia, gaining broad experience in all aspects of general practice before settling with GP UltraHub in Burnett Heads. She has a special interest in women’s health, children’s health, skin checks, skin cancer medicine and excisions, while also providing comprehensive care for patients and families across all stages of life. Gladstone",
                 "clinic": "Burnett Heads",
                 "availability": "Mon, 2:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
@@ -396,7 +402,7 @@
                 "areas_of_interest": [
                     "General Practice",
                     "Occupational Medicine",
-                    "Skin Cancer Management",
+                    "Skin cancer checks & procedures",
                     "Preventative Health",
                     "Chronic Disease Management"
                 ],
@@ -420,7 +426,8 @@
                 "areas_of_interest": [
                     "Occupational Health & Medicals",
                     "Family Medicine",
-                    "Men’s Health"
+                    "Men’s Health",
+                    "Skin cancer checks & procedures."
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine. With over 14 years of dedicated service in the medical field, Dr Nauman Ahmed stands out as a trusted General Practitioner. His expertise is further enhanced by over six years of specialized training in Occupational Medicine, making him a leading expert in the field. Holding prestigious qualifications such as MBBS and MRCGP, he is committed to delivering exceptional, patient-centered care. His approach ensures personalized attention and effective treatment plans tailored to individual needs. Whether you’re seeking general health advice, skin consultations, or specialized occupational health solutions, you can expect comprehensive care designed with your well-being in mind. Join countless others who have experienced top-tier medical care with a focus on quality and compassion. Gladstone",
                 "clinic": "Toowoomba",
@@ -434,8 +441,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MRCGP",
+                    "MRCPG",
                     "MBBS"
                 ],
                 "areas_of_interest": [
@@ -445,7 +452,8 @@
                     "General medicine",
                     "Family medicine",
                     "Children’s health",
-                    "Child Immunization"
+                    "Child Immunization",
+                    "Skin cancer checks & procedures."
                 ],
                 "bio": "Dr Aasma Sheraz is a dedicated and experienced General Practitioner with extensive clinical experience. She holds an MBBS and MRCGP (International), and provides comprehensive care for patients of all ages. Dr Aasma has a strong interest in chronic disease management, women’s and children’s health, and preventive care. She is also experienced in minor procedures and managing a wide range of acute and ongoing health conditions. Known for her compassionate and patient-centred approach, Dr Aasma is committed to delivering high-quality care and supporting her patients in achieving better health outcomes. Gladstone",
                 "clinic": "Toowoomba",
@@ -465,7 +473,7 @@
                 "areas_of_interest": [
                     "General Practice",
                     "Occupational Medicine",
-                    "Skin Cancer Management",
+                    "Skin cancer checks & procedures",
                     "Preventative Health",
                     "Chronic Disease Management"
                 ],
@@ -489,7 +497,7 @@
                     "Children’s health",
                     "Aesthetics",
                     "Family medicine",
-                    "Skin cancer Checks",
+                    "Skin cancer checks & procedures.",
                     "Child Immunization"
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
