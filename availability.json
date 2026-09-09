@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-09 08:15:47 PM",
+    "last_updated": "2026-09-09 08:30:57 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,8 +56,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MCPS (Family Medicine)",
+                    "MRCGP",
                     "MCPS",
                     "MBBS"
                 ],
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "General Practitioner",
                     "MBBS",
                     "MCPS",
-                    "DFM",
                     "MRCGP",
-                    "General Practitioner"
+                    "DFM"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -360,7 +360,7 @@
                 ],
                 "bio": "Dr. Carem Au completed her Bachelor of Medicine / Bachelor of Surgery (MBBS) at The University of Queensland in 2014 and went on to achieve Fellowship with The Royal Australian College of General Practitioners (FRACGP) in 2021. Over the past few years, Dr. Au has worked extensively as a locum GP across Australia, gaining broad experience in all aspects of general practice before settling with GP UltraHub in Burnett Heads. She has a special interest in women’s health, children’s health, skin checks, skin cancer medicine and excisions, while also providing comprehensive care for patients and families across all stages of life. Gladstone",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 3:45 pm",
+                "availability": "Mon, 2:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
             },
@@ -441,8 +441,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MRCPG",
+                    "MRCGP",
                     "MBBS"
                 ],
                 "areas_of_interest": [
