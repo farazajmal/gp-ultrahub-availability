@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-09 10:15:57 PM",
+    "last_updated": "2026-09-09 10:30:55 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MCPS",
-                    "MBBS",
-                    "MCPS (Family Medicine)"
+                    "MCPS (Family Medicine)",
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,10 +82,10 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MRCGP",
-                    "MCPS",
                     "MBBS",
                     "General Practitioner",
+                    "MRCGP",
+                    "MCPS",
                     "DFM"
                 ],
                 "areas_of_interest": [
@@ -133,9 +133,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
+                    "MCPS (Family Medicine)",
                     "MBBS",
-                    "MCPS (Family Medicine)"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -263,7 +263,7 @@
                 ],
                 "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years ofinternational clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care. His areas of expertise include the comprehensive management of acute and chronic healthconditions,delivered through a patient-centred, evidence-based approach that prioritises safety and continuity of care. Dr. Arif’s clinical strengths also encompass child health, preventive care, and the evaluation and management of mental health conditions, ensuring holistic and equitable care for patients of all ages. With extensive multicultural experience and an unwavering dedication to ongoing professional development, Dr. Muhammad Arif continues to provide high-quality primary healthcare grounded in compassion, clinical precision, and ethical practice. Gladstone",
                 "clinic": "Calliope",
-                "availability": "Today, 4:15 pm",
+                "availability": "Sat, 10:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
@@ -441,9 +441,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MRCPG",
                     "MRCGP",
-                    "MBBS",
-                    "MRCPG"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -502,7 +502,7 @@
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Today, 8:20 am",
+                "availability": "Today, 8:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
