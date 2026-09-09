@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-09 06:45:54 PM",
+    "last_updated": "2026-09-09 07:01:06 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MCPS (Family Medicine)",
                     "MRCGP",
-                    "MCPS"
+                    "MCPS (Family Medicine)",
+                    "MCPS",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -72,7 +72,7 @@
                 ],
                 "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health. Dr Mehwish has a strong interest in women’s health, mental health, preventive care, and the management of common acute and ongoing health conditions. She takes a holistic approach to care and works closely with her patients to support their overall wellbeing. Known for her compassionate and patient-centred approach, Dr Mehwish is committed to creating a respectful and supportive environment where patients feel comfortable discussing their health concerns. Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Today, 1:30 pm",
+                "availability": "Today, 1:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
             },
@@ -82,9 +82,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "DFM",
-                    "MCPS",
                     "MBBS",
+                    "MCPS",
+                    "DFM",
                     "General Practitioner",
                     "MRCGP"
                 ],
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -441,8 +441,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
+                    "MBBS",
                     "MRCPG"
                 ],
                 "areas_of_interest": [
