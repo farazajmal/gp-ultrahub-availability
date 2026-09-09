@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-09 02:45:46 PM",
+    "last_updated": "2026-09-09 03:01:03 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
-                    "MBBS",
+                    "MCPS (Family Medicine)",
                     "MRCGP",
-                    "MCPS (Family Medicine)"
+                    "MCPS",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,10 +82,10 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "DFM",
                     "General Practitioner",
                     "MCPS",
                     "MRCGP",
-                    "DFM",
                     "MBBS"
                 ],
                 "areas_of_interest": [
@@ -133,8 +133,8 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MCPS (Family Medicine)",
+                    "MBBS",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -441,9 +441,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
+                    "MRCPG",
                     "MRCGP",
-                    "MRCPG"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
