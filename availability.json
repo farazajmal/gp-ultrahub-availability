@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-10 02:31:00 AM",
+    "last_updated": "2026-09-10 02:45:46 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -57,9 +57,9 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MCPS (Family Medicine)",
+                    "MRCGP",
                     "MCPS",
-                    "MRCGP"
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -72,7 +72,7 @@
                 ],
                 "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health. Dr Mehwish has a strong interest in women’s health, mental health, preventive care, and the management of common acute and ongoing health conditions. She takes a holistic approach to care and works closely with her patients to support their overall wellbeing. Known for her compassionate and patient-centred approach, Dr Mehwish is committed to creating a respectful and supportive environment where patients feel comfortable discussing their health concerns. Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Today, 5:15 pm",
+                "availability": "Today, 5:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
             },
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "MBBS",
                     "General Practitioner",
                     "MRCGP",
-                    "MBBS",
-                    "MCPS",
-                    "DFM"
+                    "DFM",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -134,8 +134,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MRCGP",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -286,7 +286,7 @@
                 ],
                 "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs. She is passionate about building strong, ongoing relationships with her patients and takes the time to understand their individual health concerns and goals. Her approach focuses on early intervention, continuity of care and developing personalised treatment and management plans to support long term health and wellbeing. Dr Beenish takes a holistic and collaborative approach to healthcare, working closely with her patients to help them feel informed, supported and confident in managing their health. Gladstone",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 10:45 am",
+                "availability": "Tomorrow, 1:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar"
             },
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MRCPG",
                     "MBBS",
-                    "MRCGP",
-                    "MRCPG"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
