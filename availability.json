@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-10 06:45:49 AM",
+    "last_updated": "2026-09-10 07:01:05 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MCPS",
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MCPS (Family Medicine)",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
+                    "General Practitioner",
                     "MRCGP",
+                    "MBBS",
                     "DFM",
-                    "MCPS",
-                    "General Practitioner"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -133,9 +133,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
+                    "MBBS",
                     "MCPS (Family Medicine)",
-                    "MRCGP",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -263,7 +263,7 @@
                 ],
                 "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years ofinternational clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care. His areas of expertise include the comprehensive management of acute and chronic healthconditions,delivered through a patient-centred, evidence-based approach that prioritises safety and continuity of care. Dr. Arif’s clinical strengths also encompass child health, preventive care, and the evaluation and management of mental health conditions, ensuring holistic and equitable care for patients of all ages. With extensive multicultural experience and an unwavering dedication to ongoing professional development, Dr. Muhammad Arif continues to provide high-quality primary healthcare grounded in compassion, clinical precision, and ethical practice. Gladstone",
                 "clinic": "Calliope",
-                "availability": "Sat, 2:15 pm",
+                "availability": "Sat, 2:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -409,7 +409,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine. With over 14 years of dedicated service in the medical field, Dr Nauman Ahmed stands out as a trusted General Practitioner. His expertise is further enhanced by over six years of specialized training in Occupational Medicine, making him a leading expert in the field. Holding prestigious qualifications such as MBBS and MRCGP, he is committed to delivering exceptional, patient-centered care. His approach ensures personalized attention and effective treatment plans tailored to individual needs. Whether you’re seeking general health advice, skin consultations, or specialized occupational health solutions, you can expect comprehensive care designed with your well-being in mind. Join countless others who have experienced top-tier medical care with a focus on quality and compassion. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Today, 5:10 pm",
+                "availability": "Today, 5:20 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
+                    "MBBS",
                     "MRCPG",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
