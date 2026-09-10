@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-10 08:01:11 AM",
+    "last_updated": "2026-09-10 08:16:16 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -13,14 +13,13 @@
                 "gender": "Female",
                 "qualifications": [],
                 "areas_of_interest": [
-                    "Women’s health",
-                    "Children’s health",
+                    "Women's health",
+                    "Children's health",
                     "Aesthetics",
                     "Family medicine",
-                    "Skin cancer checks & procedures.",
-                    "Child Immunization"
+                    "Skin cancer Checks"
                 ],
-                "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
+                "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice.",
                 "clinic": "Gladstone",
                 "availability": "in 6 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
@@ -37,14 +36,15 @@
                     "MRCP Ireland"
                 ],
                 "areas_of_interest": [
-                    "Chronic Disease Management",
-                    "Mental Health",
-                    "Family Medicine",
-                    "Men",
-                    "’s",
-                    "Health"
+                    "Chronic disease management",
+                    "Mental health",
+                    "Men's health",
+                    "General medicine",
+                    "Family medicine",
+                    "Diabetes management",
+                    "Children's health"
                 ],
-                "bio": "General Practitioner, MaleMRCGP, MRCPI , MBBSWith over 14 years of extensive experience as a General Practitioner, Dr. Shahid is dedicated to providing comprehensive healthcare to patients of all ages. He specializes in managing acute and chronic health conditions, child health, mental health, and preventive care. Passionate about family and general medicine, Dr. Shahid strives to ensure every patient receives the best possible care, with a focus on promoting long-term health and well-being.",
+                "bio": "With over 14 years of extensive experience as a General Practitioner, Dr. Shahid is dedicated to providing comprehensive healthcare to patients of all ages. He specialises in managing acute and chronic health conditions, child health, mental health, and preventive care. Passionate about family and general medicine, Dr. Shahid strives to ensure every patient receives the best possible care, with a focus on promoting long-term health and well-being.",
                 "clinic": "Gladstone",
                 "availability": "Sat, 12:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
@@ -56,21 +56,19 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
-                    "MCPS (Family Medicine)",
                     "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
-                    "Women’s health",
+                    "Womens Health",
                     "Mental health",
                     "Family medicine",
-                    "Preventive health",
+                    "Preventative health",
                     "General medicine",
-                    "Chronic disease management",
-                    "Child Immunization"
+                    "Chronic Disease Managment"
                 ],
-                "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health. Dr Mehwish has a strong interest in women’s health, mental health, preventive care, and the management of common acute and ongoing health conditions. She takes a holistic approach to care and works closely with her patients to support their overall wellbeing. Known for her compassionate and patient-centred approach, Dr Mehwish is committed to creating a respectful and supportive environment where patients feel comfortable discussing their health concerns. Gladstone",
+                "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health.",
                 "clinic": "Gladstone",
                 "availability": "Tomorrow, 10:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
@@ -82,23 +80,20 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "MRCGP",
                     "DFM",
                     "MBBS",
-                    "MCPS",
-                    "General Practitioner",
-                    "MRCGP"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
-                    "Diabetes care",
-                    "Men’s health",
-                    "Children’s health",
-                    "Mental health",
-                    "Preventive medicine",
+                    "Men's health",
+                    "General medicine",
                     "Family medicine",
-                    "Skin Check"
+                    "Children's health",
+                    "Diabetes management"
                 ],
-                "bio": "With over 16 years of experience in general practice and family medicine, Dr Nasim provides comprehensive, patient-centred healthcare to individuals and families of all ages. Dr Nasim has extensive experience in managing acute and chronic medical conditions, preventive healthcare, men’s health, children’s health, mental health, and chronic disease management. He is committed to delivering compassionate, evidence-based care and helping patients achieve their long-term health goals. Gladstone",
+                "bio": "With over 16 years of experience in general practice and family medicine, Dr Nasim provides comprehensive, patient-centred healthcare to individuals and families of all ages.",
                 "clinic": "Gladstone",
                 "availability": "Tomorrow, 3:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
@@ -115,13 +110,11 @@
                     "GDipOccEnvMed"
                 ],
                 "areas_of_interest": [
-                    "General Practice",
                     "Occupational Medicine",
-                    "Skin cancer checks & procedures",
-                    "Preventative Health",
-                    "Chronic Disease Management"
+                    "Skin cancer Checks",
+                    "General Family Medicine"
                 ],
-                "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui’s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
+                "bio": "Dr. Mohammad Umair Siddiqui is a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018",
                 "clinic": "Gladstone",
                 "availability": "in 11 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
@@ -132,21 +125,18 @@
                 "role": "Physiotherapist",
                 "provider_type": "Other",
                 "gender": "Female",
-                "qualifications": [
-                    "MCPS (Family Medicine)",
-                    "MBBS",
-                    "MRCGP"
-                ],
+                "qualifications": [],
                 "areas_of_interest": [
-                    "Women’s health",
-                    "Mental health",
-                    "Family medicine",
-                    "Preventive health",
-                    "General medicine",
                     "Chronic disease management",
-                    "Child Immunization"
+                    "Women's health",
+                    "Men's health",
+                    "Physiotherapy",
+                    "Physiotherapist",
+                    "Physio",
+                    "General Physiotherapy",
+                    "NDIS Physiotherapy"
                 ],
-                "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health. Dr Mehwish has a strong interest in women’s health, mental health, preventive care, and the management of common acute and ongoing health conditions. She takes a holistic approach to care and works closely with her patients to support their overall wellbeing. Known for her compassionate and patient-centred approach, Dr Mehwish is committed to creating a respectful and supportive environment where patients feel comfortable discussing their health concerns. Gladstone",
+                "bio": "Mehwish is a qualified and experienced physiotherapist with a strong academic background, holding both a Doctor of Physical Therapy and a Master’s degree in Neuromuscular Physical Therapy. She is passionate about helping patients improve their physical function, manage pain, and return to the activities they enjoy.",
                 "clinic": "Gladstone",
                 "availability": "Tomorrow, 8:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
@@ -162,14 +152,15 @@
                     "FRACGP"
                 ],
                 "areas_of_interest": [
-                    "General Practice",
-                    "Women’s Health",
-                    "Mental Health",
-                    "Skin cancer checks & procedures",
-                    "Preventive & Holistic Healthcare",
-                    "Comprehensive Patient Care"
+                    "Women's health",
+                    "Chronic disease management",
+                    "Mental health",
+                    "General medicine",
+                    "Family medicine",
+                    "Children's health",
+                    "Skin cancer Checks"
                 ],
-                "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
+                "bio": "Dr. Saiqa Syeda is a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care.",
                 "clinic": "Gladstone",
                 "availability": "26 Sep, 10:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
@@ -184,14 +175,13 @@
                     "MBBS"
                 ],
                 "areas_of_interest": [
-                    "Women’s health",
-                    "Chronic disease management",
-                    "General medicine",
+                    "Childrens health",
                     "Family medicine",
-                    "Children’s health",
-                    "Child Immunization"
+                    "General medicine",
+                    "Chronic Disease Managment",
+                    "Womens Health"
                 ],
-                "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements. In 2025, she joined GP Ultra Hub, where her patient-centered approach and expertise in preventive care empower individuals and families to achieve better health outcomes. Dr. Fatima remains committed to personalized, evidence-based care, fostering trust and well-being for her patients and community. Gladstone",
+                "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements.",
                 "clinic": "Gladstone",
                 "availability": "29 Sep, 8:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
@@ -210,14 +200,13 @@
                     "FRACGP"
                 ],
                 "areas_of_interest": [
-                    "Skin cancer checks & procedures.",
-                    "Chronic disease management.",
-                    "Veteran patients (DVA)",
-                    "Geriatric",
-                    "Women & Child health.",
-                    "Child Immunization"
+                    "Women's health",
+                    "Family medicine",
+                    "Skin cancer Checks",
+                    "Chronic disease management",
+                    "Children's health"
                 ],
-                "bio": "Dr. Aisha Asgharis a committed General Practitioner with 19 years of experience providing exemplary healthcare. She joined GP Ultra Hub in 2024 where she continues to excel in delivering comprehensive care tailored to each patient’s unique needs. Dr Aisha specializes in general practice, Skin cancer, women’s and child health, geriatric patients. Area of experties: Gladstone",
+                "bio": "Dr. Aisha Asghar is a committed General Practitioner with 19 years of experience providing exemplary healthcare.",
                 "clinic": "Calliope",
                 "availability": "7 Oct, 12:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
@@ -233,14 +222,13 @@
                     "MBBS"
                 ],
                 "areas_of_interest": [
-                    "Women’s health",
+                    "Women's health",
                     "Chronic disease management",
                     "General medicine",
                     "Family medicine",
-                    "Children’s health",
-                    "Child Immunization"
+                    "Children's health"
                 ],
-                "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements. In 2025, she joined GP Ultra Hub, where her patient-centered approach and expertise in preventive care empower individuals and families to achieve better health outcomes. Dr. Fatima remains committed to personalized, evidence-based care, fostering trust and well-being for her patients and community. Gladstone",
+                "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements.",
                 "clinic": "Calliope",
                 "availability": "30 Sep, 7:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
@@ -261,7 +249,7 @@
                     "General Family Medicine",
                     "Chronic Disease Prevention and Management"
                 ],
-                "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years ofinternational clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care. His areas of expertise include the comprehensive management of acute and chronic healthconditions,delivered through a patient-centred, evidence-based approach that prioritises safety and continuity of care. Dr. Arif’s clinical strengths also encompass child health, preventive care, and the evaluation and management of mental health conditions, ensuring holistic and equitable care for patients of all ages. With extensive multicultural experience and an unwavering dedication to ongoing professional development, Dr. Muhammad Arif continues to provide high-quality primary healthcare grounded in compassion, clinical precision, and ethical practice. Gladstone",
+                "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years of international clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care.",
                 "clinic": "Calliope",
                 "availability": "Sat, 2:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
@@ -277,14 +265,14 @@
                     "MBBS"
                 ],
                 "areas_of_interest": [
-                    "Women’s health",
+                    "Women's health",
                     "Chronic disease management",
                     "Family medicine",
                     "General medicine",
                     "Preventive health",
                     "Minor procedures"
                 ],
-                "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs. She is passionate about building strong, ongoing relationships with her patients and takes the time to understand their individual health concerns and goals. Her approach focuses on early intervention, continuity of care and developing personalised treatment and management plans to support long term health and wellbeing. Dr Beenish takes a holistic and collaborative approach to healthcare, working closely with her patients to help them feel informed, supported and confident in managing their health. Gladstone",
+                "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs.",
                 "clinic": "Calliope",
                 "availability": "Mon, 7:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
@@ -299,15 +287,8 @@
                     "MBBS",
                     "FRACGP"
                 ],
-                "areas_of_interest": [
-                    "General Practice",
-                    "Women’s Health",
-                    "Mental Health",
-                    "Skin cancer checks & procedures",
-                    "Preventive & Holistic Healthcare",
-                    "Comprehensive Patient Care"
-                ],
-                "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
+                "areas_of_interest": [],
+                "bio": "Dr. Saiqa Syeda is a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care.",
                 "clinic": "Calliope",
                 "availability": "in 7 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
@@ -325,18 +306,18 @@
                     "FRACGP"
                 ],
                 "areas_of_interest": [
-                    "Women’s health",
+                    "Women's health",
                     "Chronic disease management",
                     "Mental health",
-                    "Men’s health",
+                    "Men's health",
                     "Paediatrics",
                     "General medicine",
                     "Family medicine",
-                    "Children’s health",
-                    "Skin cancer checks & procedures",
+                    "Children's health",
+                    "Skin cancer Checks",
                     "Diabetes management"
                 ],
-                "bio": "Dr. Carem Au completed her Bachelor of Medicine / Bachelor of Surgery (MBBS) at The University of Queensland in 2014 and went on to achieve Fellowship with The Royal Australian College of General Practitioners (FRACGP) in 2021. Over the past few years, Dr. Au has worked extensively as a locum GP across Australia, gaining broad experience in all aspects of general practice before settling with GP UltraHub in Burnett Heads. She has a special interest in women’s health, children’s health, skin checks, skin cancer medicine and excisions, while also providing comprehensive care for patients and families across all stages of life. Gladstone",
+                "bio": "Dr. Carem Au completed her Bachelor of Medicine / Bachelor of Surgery (MBBS) at The University of Queensland in 2014 and went on to achieve Fellowship with The Royal Australian College of General Practitioners (FRACGP) in 2021.",
                 "clinic": "Burnett Heads",
                 "availability": "Mon, 1:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
@@ -355,14 +336,14 @@
                     "Chronic disease management",
                     "General medicine",
                     "Family medicine",
-                    "Men’s health",
+                    "Men's health",
                     "Diabetes management",
                     "Mental health",
-                    "Children’s health",
-                    "Preventive care",
-                    "Geriatric care"
+                    "Children's health",
+                    "Preventive Care",
+                    "Geriatric Care"
                 ],
-                "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.He holds Membership of the Royal College of General Practitioners (MRCGP, UK) and has a broad clinical background, enabling him to manage a wide range of acute and chronic conditions with evidence-based, compassionate care. Dr Alam has a strong interest in all areas of general practice, particularly chronic disease management, including diabetes, hypertension, obesity, and cardiac and respiratory conditions. He also provides care across adult and elderly health, mental health, women’s health, children’s health, men’s health, and preventive care.He is committed to building strong doctor–patient relationships and ensuring every patient feels heard, informed, and supported.Outside of work, Dr Alam enjoys travelling, cricket, and spending time with family and friends. Gladstone",
+                "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.",
                 "clinic": "Burnett Heads",
                 "availability": "Tomorrow, 10:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
@@ -378,13 +359,15 @@
                     "FRACGP"
                 ],
                 "areas_of_interest": [
-                    "General Practice",
-                    "Occupational Medicine",
-                    "Skin cancer checks & procedures",
-                    "Preventative Health",
-                    "Chronic Disease Management"
+                    "Chronic disease management",
+                    "Mental health",
+                    "Men's health",
+                    "General medicine",
+                    "Family medicine",
+                    "Skin cancer Checks",
+                    "Diabetes management"
                 ],
-                "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui’s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
+                "bio": "Dr. Mohammad Umair Siddiqui is a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018",
                 "clinic": "Burnett Heads",
                 "availability": "25 Sep, 8:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
@@ -402,12 +385,17 @@
                     "MBBS"
                 ],
                 "areas_of_interest": [
-                    "Occupational Health & Medicals",
-                    "Family Medicine",
-                    "Men’s Health",
-                    "Skin cancer checks & procedures."
+                    "Chronic disease management",
+                    "Men's health",
+                    "General medicine",
+                    "Family medicine",
+                    "Children's health",
+                    "Skin cancer Checks",
+                    "Diabetes management",
+                    "Ingrown toenail removal",
+                    "Skin Cancer Excisions"
                 ],
-                "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine. With over 14 years of dedicated service in the medical field, Dr Nauman Ahmed stands out as a trusted General Practitioner. His expertise is further enhanced by over six years of specialized training in Occupational Medicine, making him a leading expert in the field. Holding prestigious qualifications such as MBBS and MRCGP, he is committed to delivering exceptional, patient-centered care. His approach ensures personalized attention and effective treatment plans tailored to individual needs. Whether you’re seeking general health advice, skin consultations, or specialized occupational health solutions, you can expect comprehensive care designed with your well-being in mind. Join countless others who have experienced top-tier medical care with a focus on quality and compassion. Gladstone",
+                "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine.",
                 "clinic": "Toowoomba",
                 "availability": "Tomorrow, 1:10 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
@@ -419,21 +407,21 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MRCGP",
                     "MBBS"
                 ],
                 "areas_of_interest": [
-                    "Women’s health",
+                    "Women's health",
                     "Chronic disease management",
                     "Paediatrics",
                     "General medicine",
                     "Family medicine",
-                    "Children’s health",
-                    "Child Immunization",
-                    "Skin cancer checks & procedures."
+                    "Children's health",
+                    "Mental health",
+                    "Preventive Care",
+                    "Skin Cancer Check"
                 ],
-                "bio": "Dr Aasma Sheraz is a dedicated and experienced General Practitioner with extensive clinical experience. She holds an MBBS and MRCGP (International), and provides comprehensive care for patients of all ages. Dr Aasma has a strong interest in chronic disease management, women’s and children’s health, and preventive care. She is also experienced in minor procedures and managing a wide range of acute and ongoing health conditions. Known for her compassionate and patient-centred approach, Dr Aasma is committed to delivering high-quality care and supporting her patients in achieving better health outcomes. Gladstone",
+                "bio": "Dr. Aasma Sheraz is a dedicated General Practitioner with over 12 years of clinical experience. She is committed to providing comprehensive, patient-centred healthcare for individuals and families of all ages, with a strong focus on preventive medicine, chronic disease management, and women’s health.",
                 "clinic": "Toowoomba",
                 "availability": "Tomorrow, 9:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
@@ -449,13 +437,14 @@
                     "FRACGP"
                 ],
                 "areas_of_interest": [
-                    "General Practice",
-                    "Occupational Medicine",
-                    "Skin cancer checks & procedures",
-                    "Preventative Health",
-                    "Chronic Disease Management"
+                    "Chronic disease management",
+                    "Mental health",
+                    "Men's health",
+                    "General medicine",
+                    "Family medicine",
+                    "Skin cancer Checks"
                 ],
-                "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui’s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
+                "bio": "Dr. Mohammad Umair Siddiqui is a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018.",
                 "clinic": "Toowoomba",
                 "availability": "Mon, 11:40 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
@@ -470,15 +459,8 @@
                     "MBBS",
                     "FRACGP"
                 ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Children’s health",
-                    "Aesthetics",
-                    "Family medicine",
-                    "Skin cancer checks & procedures.",
-                    "Child Immunization"
-                ],
-                "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
+                "areas_of_interest": [],
+                "bio": "",
                 "clinic": "Toowoomba",
                 "availability": "Tomorrow, 8:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
