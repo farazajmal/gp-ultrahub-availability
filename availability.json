@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11 04:15:45 AM",
+    "last_updated": "2026-09-11 04:30:56 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
-                    "MRCGP",
+                    "MCPS (Family Medicine)",
                     "MBBS",
-                    "MCPS (Family Medicine)"
+                    "MCPS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -83,10 +83,10 @@
                 "gender": "Male",
                 "qualifications": [
                     "DFM",
-                    "MCPS",
+                    "General Practitioner",
                     "MBBS",
-                    "MRCGP",
-                    "General Practitioner"
+                    "MCPS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -133,9 +133,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
+                    "MCPS (Family Medicine)",
                     "MBBS",
-                    "MCPS (Family Medicine)"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -148,7 +148,7 @@
                 ],
                 "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health. Dr Mehwish has a strong interest in women’s health, mental health, preventive care, and the management of common acute and ongoing health conditions. She takes a holistic approach to care and works closely with her patients to support their overall wellbeing. Known for her compassionate and patient-centred approach, Dr Mehwish is committed to creating a respectful and supportive environment where patients feel comfortable discussing their health concerns. Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Today, 2:30 pm",
+                "availability": "Today, 3:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir"
             },
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MBBS",
                     "MRCPG",
-                    "MRCGP",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
