@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11 10:15:51 PM",
+    "last_updated": "2026-09-11 10:30:59 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -57,9 +57,9 @@
                 "gender": "Female",
                 "qualifications": [
                     "MCPS",
+                    "MBBS",
                     "MCPS (Family Medicine)",
-                    "MRCGP",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -84,9 +84,9 @@
                 "qualifications": [
                     "DFM",
                     "MCPS",
-                    "MRCGP",
                     "MBBS",
-                    "General Practitioner"
+                    "General Practitioner",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -134,8 +134,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MCPS (Family Medicine)",
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
+                    "MBBS",
                     "MRCGP",
-                    "MBBS"
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
