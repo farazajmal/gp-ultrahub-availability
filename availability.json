@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11 05:15:50 AM",
+    "last_updated": "2026-09-11 05:30:56 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,9 +56,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MCPS (Family Medicine)",
                     "MRCGP",
+                    "MBBS",
                     "MCPS"
                 ],
                 "areas_of_interest": [
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "DFM",
-                    "MRCGP",
                     "MBBS",
+                    "General Practitioner",
+                    "DFM",
                     "MCPS",
-                    "General Practitioner"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -133,9 +133,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -148,7 +148,7 @@
                 ],
                 "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health. Dr Mehwish has a strong interest in women’s health, mental health, preventive care, and the management of common acute and ongoing health conditions. She takes a holistic approach to care and works closely with her patients to support their overall wellbeing. Known for her compassionate and patient-centred approach, Dr Mehwish is committed to creating a respectful and supportive environment where patients feel comfortable discussing their health concerns. Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Today, 3:30 pm",
+                "availability": "Mon, 3:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir"
             },
@@ -263,7 +263,7 @@
                 ],
                 "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years ofinternational clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care. His areas of expertise include the comprehensive management of acute and chronic healthconditions,delivered through a patient-centred, evidence-based approach that prioritises safety and continuity of care. Dr. Arif’s clinical strengths also encompass child health, preventive care, and the evaluation and management of mental health conditions, ensuring holistic and equitable care for patients of all ages. With extensive multicultural experience and an unwavering dedication to ongoing professional development, Dr. Muhammad Arif continues to provide high-quality primary healthcare grounded in compassion, clinical precision, and ethical practice. Gladstone",
                 "clinic": "Calliope",
-                "availability": "Today, 4:30 pm",
+                "availability": "Mon, 5:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -409,7 +409,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine. With over 14 years of dedicated service in the medical field, Dr Nauman Ahmed stands out as a trusted General Practitioner. His expertise is further enhanced by over six years of specialized training in Occupational Medicine, making him a leading expert in the field. Holding prestigious qualifications such as MBBS and MRCGP, he is committed to delivering exceptional, patient-centered care. His approach ensures personalized attention and effective treatment plans tailored to individual needs. Whether you’re seeking general health advice, skin consultations, or specialized occupational health solutions, you can expect comprehensive care designed with your well-being in mind. Join countless others who have experienced top-tier medical care with a focus on quality and compassion. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Today, 3:50 pm",
+                "availability": "Today, 4:20 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCPG",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
