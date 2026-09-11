@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11 05:45:47 AM",
+    "last_updated": "2026-09-11 06:01:13 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -22,7 +22,7 @@
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Wed, 10:03 am",
+                "availability": "Wed, 10:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
@@ -46,7 +46,7 @@
                 ],
                 "bio": "General Practitioner, MaleMRCGP, MRCPI , MBBSWith over 14 years of extensive experience as a General Practitioner, Dr. Shahid is dedicated to providing comprehensive healthcare to patients of all ages. He specializes in managing acute and chronic health conditions, child health, mental health, and preventive care. Passionate about family and general medicine, Dr. Shahid strives to ensure every patient receives the best possible care, with a focus on promoting long-term health and well-being.",
                 "clinic": "Gladstone",
-                "availability": "Mon, 7:30 am",
+                "availability": "Mon, 7:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
@@ -56,8 +56,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
+                    "MBBS",
                     "MCPS",
                     "MCPS (Family Medicine)"
                 ],
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
                     "MRCGP",
-                    "MBBS",
                     "DFM",
-                    "General Practitioner"
+                    "MCPS",
+                    "General Practitioner",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -133,8 +133,8 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
+                    "MBBS",
                     "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -419,8 +419,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
+                    "MBBS",
                     "MRCPG"
                 ],
                 "areas_of_interest": [
