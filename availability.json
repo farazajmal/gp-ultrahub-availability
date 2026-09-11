@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11 07:15:50 PM",
+    "last_updated": "2026-09-11 07:30:56 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MCPS",
-                    "MBBS",
-                    "MRCGP"
+                    "MCPS (Family Medicine)",
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,9 +82,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "DFM",
                     "MRCGP",
                     "MCPS",
-                    "DFM",
                     "MBBS",
                     "General Practitioner"
                 ],
@@ -134,8 +134,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MCPS (Family Medicine)",
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCPG",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
