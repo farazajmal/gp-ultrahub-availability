@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-12 05:30:56 PM",
+    "last_updated": "2026-09-12 05:45:44 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,9 +56,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MBBS",
                     "MCPS (Family Medicine)",
+                    "MRCGP",
                     "MCPS"
                 ],
                 "areas_of_interest": [
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "General Practitioner",
-                    "MRCGP",
                     "MBBS",
+                    "DFM",
                     "MCPS",
-                    "DFM"
+                    "General Practitioner",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -133,9 +133,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
+                    "MBBS",
                     "MCPS (Family Medicine)",
-                    "MRCGP",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MBBS",
                     "MRCGP",
-                    "MRCPG",
-                    "MBBS"
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
