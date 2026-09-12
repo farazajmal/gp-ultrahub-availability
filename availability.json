@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-12 11:15:46 PM",
+    "last_updated": "2026-09-12 11:31:00 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MRCGP",
                     "MBBS",
                     "MCPS",
-                    "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
+                    "DFM",
                     "General Practitioner",
-                    "MRCGP",
                     "MCPS",
-                    "DFM"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -100,7 +100,7 @@
                 ],
                 "bio": "With over 16 years of experience in general practice and family medicine, Dr Nasim provides comprehensive, patient-centred healthcare to individuals and families of all ages. Dr Nasim has extensive experience in managing acute and chronic medical conditions, preventive healthcare, men’s health, children’s health, mental health, and chronic disease management. He is committed to delivering compassionate, evidence-based care and helping patients achieve their long-term health goals. Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Today, 1:30 pm",
+                "availability": "Today, 2:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
@@ -133,9 +133,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
+                    "MRCGP",
                     "MBBS",
-                    "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MRCGP",
                     "MBBS",
-                    "MRCPG",
-                    "MRCGP"
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
