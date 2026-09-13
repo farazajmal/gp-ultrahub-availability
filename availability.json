@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-13 04:01:08 AM",
+    "last_updated": "2026-09-13 04:15:49 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -22,7 +22,7 @@
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Thu, 7:15 am",
+                "availability": "Thu, 10:27 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MCPS (Family Medicine)",
                     "MBBS",
-                    "MCPS"
+                    "MCPS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "General Practitioner",
-                    "MRCGP",
                     "DFM",
+                    "MCPS",
                     "MBBS",
-                    "MCPS"
+                    "General Practitioner",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -133,9 +133,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MBBS",
                     "MRCGP",
-                    "MRCPG",
-                    "MBBS"
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
