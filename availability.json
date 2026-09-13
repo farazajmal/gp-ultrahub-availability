@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-13 12:30:58 AM",
+    "last_updated": "2026-09-13 12:45:47 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -22,7 +22,7 @@
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Thu, 7:15 am",
+                "availability": "Wed, 2:09 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
@@ -57,9 +57,9 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
+                    "MCPS (Family Medicine)",
                     "MRCGP",
-                    "MCPS",
-                    "MCPS (Family Medicine)"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
-                    "MRCGP",
-                    "MBBS",
                     "DFM",
-                    "General Practitioner"
+                    "General Practitioner",
+                    "MBBS",
+                    "MRCGP",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -100,7 +100,7 @@
                 ],
                 "bio": "With over 16 years of experience in general practice and family medicine, Dr Nasim provides comprehensive, patient-centred healthcare to individuals and families of all ages. Dr Nasim has extensive experience in managing acute and chronic medical conditions, preventive healthcare, men’s health, children’s health, mental health, and chronic disease management. He is committed to delivering compassionate, evidence-based care and helping patients achieve their long-term health goals. Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Today, 2:45 pm",
+                "availability": "Today, 3:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
@@ -419,8 +419,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MBBS",
+                    "MRCPG",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
