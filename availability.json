@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-13 12:15:45 AM",
+    "last_updated": "2026-09-13 12:30:58 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,8 +56,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MBBS",
+                    "MRCGP",
                     "MCPS",
                     "MCPS (Family Medicine)"
                 ],
@@ -84,9 +84,9 @@
                 "qualifications": [
                     "MCPS",
                     "MRCGP",
-                    "General Practitioner",
                     "MBBS",
-                    "DFM"
+                    "DFM",
+                    "General Practitioner"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -100,7 +100,7 @@
                 ],
                 "bio": "With over 16 years of experience in general practice and family medicine, Dr Nasim provides comprehensive, patient-centred healthcare to individuals and families of all ages. Dr Nasim has extensive experience in managing acute and chronic medical conditions, preventive healthcare, men’s health, children’s health, mental health, and chronic disease management. He is committed to delivering compassionate, evidence-based care and helping patients achieve their long-term health goals. Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Today, 2:30 pm",
+                "availability": "Today, 2:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
@@ -133,8 +133,8 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MBBS",
+                    "MRCGP",
                     "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
@@ -273,8 +273,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MRCPG",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
