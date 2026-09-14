@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-14 08:01:04 AM",
+    "last_updated": "2026-09-14 08:15:48 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
                     "MRCGP",
-                    "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MBBS",
+                    "MCPS",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
-                    "General Practitioner",
                     "DFM",
-                    "MRCGP",
-                    "MBBS"
+                    "General Practitioner",
+                    "MBBS",
+                    "MCPS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -103,6 +103,23 @@
                 "availability": "Tomorrow, 12:45 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
+            },
+            {
+                "doctor": "Dr. Elsadig Hassan",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Male",
+                "qualifications": [
+                    "MRCGP",
+                    "MBBS",
+                    "Dip Occ Med (RCPI)"
+                ],
+                "areas_of_interest": [],
+                "bio": "",
+                "clinic": "Gladstone",
+                "availability": "in 8 days",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan"
             },
             {
                 "doctor": "Dr Mohammad Umair Siddiqui",
@@ -133,8 +150,8 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
+                    "MBBS",
                     "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
@@ -196,22 +213,6 @@
                 "availability": "29 Sep, 8:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima"
-            },
-            {
-                "doctor": "Dr. Elsadig Hassan",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MRCGP",
-                    "MBBS"
-                ],
-                "areas_of_interest": [],
-                "bio": "",
-                "clinic": "Gladstone",
-                "availability": "in 8 days",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan"
             }
         ],
         "Calliope": [
@@ -325,7 +326,7 @@
                 ],
                 "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
                 "clinic": "Calliope",
-                "availability": "Thu, 10:45 am",
+                "availability": "Thu, 1:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1"
             }
@@ -435,8 +436,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MRCPG",
+                    "MRCGP",
                     "MBBS"
                 ],
                 "areas_of_interest": [
