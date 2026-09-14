@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-14 04:01:04 AM",
+    "last_updated": "2026-09-14 04:15:51 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
                     "MCPS (Family Medicine)",
                     "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
-                    "General Practitioner",
                     "DFM",
+                    "General Practitioner",
+                    "MBBS",
                     "MRCGP",
-                    "MBBS"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -100,7 +100,7 @@
                 ],
                 "bio": "With over 16 years of experience in general practice and family medicine, Dr Nasim provides comprehensive, patient-centred healthcare to individuals and families of all ages. Dr Nasim has extensive experience in managing acute and chronic medical conditions, preventive healthcare, men’s health, children’s health, mental health, and chronic disease management. He is committed to delivering compassionate, evidence-based care and helping patients achieve their long-term health goals. Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Today, 5:00 pm",
+                "availability": "Tomorrow, 11:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
@@ -419,9 +419,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -435,7 +435,7 @@
                 ],
                 "bio": "Dr Aasma Sheraz is a dedicated and experienced General Practitioner with extensive clinical experience. She holds an MBBS and MRCGP (International), and provides comprehensive care for patients of all ages. Dr Aasma has a strong interest in chronic disease management, women’s and children’s health, and preventive care. She is also experienced in minor procedures and managing a wide range of acute and ongoing health conditions. Known for her compassionate and patient-centred approach, Dr Aasma is committed to delivering high-quality care and supporting her patients in achieving better health outcomes. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Today, 2:40 pm",
+                "availability": "Today, 3:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
@@ -457,7 +457,7 @@
                 ],
                 "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui’s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Today, 3:10 pm",
+                "availability": "12 Oct, 12:20 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3"
             },
