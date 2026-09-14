@@ -1,9 +1,9 @@
 {
-    "last_updated": "2026-09-14 07:46:51 AM",
+    "last_updated": "2026-09-14 08:01:04 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
-    "total_doctors": 20,
+    "total_doctors": 21,
     "clinics": {
         "Gladstone": [
             {
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MCPS",
                     "MRCGP",
-                    "MBBS",
                     "MCPS (Family Medicine)",
-                    "MCPS"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "MCPS",
+                    "General Practitioner",
                     "DFM",
                     "MRCGP",
-                    "MBBS",
-                    "General Practitioner",
-                    "MCPS"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -133,8 +133,8 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MBBS",
+                    "MRCGP",
                     "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
@@ -196,6 +196,22 @@
                 "availability": "29 Sep, 8:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima"
+            },
+            {
+                "doctor": "Dr. Elsadig Hassan",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Male",
+                "qualifications": [
+                    "MRCGP",
+                    "MBBS"
+                ],
+                "areas_of_interest": [],
+                "bio": "",
+                "clinic": "Gladstone",
+                "availability": "in 8 days",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan"
             }
         ],
         "Calliope": [
@@ -420,8 +436,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MRCGP",
-                    "MBBS",
-                    "MRCPG"
+                    "MRCPG",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
