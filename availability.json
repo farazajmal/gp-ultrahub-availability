@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-15 01:30:58 AM",
+    "last_updated": "2026-09-15 01:45:44 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -57,9 +57,9 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
+                    "MCPS (Family Medicine)",
                     "MRCGP",
-                    "MCPS",
-                    "MCPS (Family Medicine)"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
                     "DFM",
-                    "General Practitioner",
+                    "MBBS",
+                    "MCPS",
                     "MRCGP",
-                    "MCPS"
+                    "General Practitioner"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -156,8 +156,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MRCGP",
-                    "MCPS (Family Medicine)"
+                    "MCPS (Family Medicine)",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -386,7 +386,7 @@
                 ],
                 "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.He holds Membership of the Royal College of General Practitioners (MRCGP, UK) and has a broad clinical background, enabling him to manage a wide range of acute and chronic conditions with evidence-based, compassionate care. Dr Alam has a strong interest in all areas of general practice, particularly chronic disease management, including diabetes, hypertension, obesity, and cardiac and respiratory conditions. He also provides care across adult and elderly health, mental health, women’s health, children’s health, men’s health, and preventive care.He is committed to building strong doctor–patient relationships and ensuring every patient feels heard, informed, and supported.Outside of work, Dr Alam enjoys travelling, cricket, and spending time with family and friends. Gladstone",
                 "clinic": "Burnett Heads",
-                "availability": "Today, 1:00 pm",
+                "availability": "Tomorrow, 10:30 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
             },
