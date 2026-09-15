@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-15 06:01:06 AM",
+    "last_updated": "2026-09-15 06:15:53 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MCPS (Family Medicine)",
+                    "MCPS",
                     "MRCGP",
-                    "MCPS"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "DFM",
+                    "MRCGP",
                     "General Practitioner",
                     "MBBS",
-                    "MRCGP",
-                    "MCPS",
-                    "DFM"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -155,9 +155,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
+                    "MCPS (Family Medicine)",
                     "MRCGP",
-                    "MCPS (Family Medicine)"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -295,8 +295,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -441,9 +441,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
+                    "MRCGP",
                     "MRCPG",
-                    "MRCGP"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -457,7 +457,7 @@
                 ],
                 "bio": "Dr Aasma Sheraz is a dedicated and experienced General Practitioner with extensive clinical experience. She holds an MBBS and MRCGP (International), and provides comprehensive care for patients of all ages. Dr Aasma has a strong interest in chronic disease management, women’s and children’s health, and preventive care. She is also experienced in minor procedures and managing a wide range of acute and ongoing health conditions. Known for her compassionate and patient-centred approach, Dr Aasma is committed to delivering high-quality care and supporting her patients in achieving better health outcomes. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Tomorrow, 12:50 pm",
+                "availability": "Tomorrow, 1:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
