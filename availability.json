@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-15 01:01:07 AM",
+    "last_updated": "2026-09-15 01:15:48 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP",
                     "MCPS (Family Medicine)",
-                    "MCPS"
+                    "MBBS",
+                    "MCPS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -83,10 +83,10 @@
                 "gender": "Male",
                 "qualifications": [
                     "MBBS",
-                    "MRCGP",
-                    "General Practitioner",
+                    "MCPS",
                     "DFM",
-                    "MCPS"
+                    "MRCGP",
+                    "General Practitioner"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -114,8 +114,13 @@
                     "MBBS",
                     "Dip Occ Med (RCPI)"
                 ],
-                "areas_of_interest": [],
-                "bio": "",
+                "areas_of_interest": [
+                    "Family medicine",
+                    "Occupational Medicine",
+                    "Acute Medicine",
+                    "Chronic disease management"
+                ],
+                "bio": "Dr Elsadig Hassan is an experienced General Practitioner with more than 14 years of medical experience. He provides comprehensive, patient-centered care to patients of all ages, with experience across acute illness, chronic disease management, preventive health, and men’s, women’s and children’s health.",
                 "clinic": "Gladstone",
                 "availability": "in 7 days",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
@@ -150,8 +155,8 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MCPS (Family Medicine)",
+                    "MBBS",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
@@ -452,7 +457,7 @@
                 ],
                 "bio": "Dr Aasma Sheraz is a dedicated and experienced General Practitioner with extensive clinical experience. She holds an MBBS and MRCGP (International), and provides comprehensive care for patients of all ages. Dr Aasma has a strong interest in chronic disease management, women’s and children’s health, and preventive care. She is also experienced in minor procedures and managing a wide range of acute and ongoing health conditions. Known for her compassionate and patient-centred approach, Dr Aasma is committed to delivering high-quality care and supporting her patients in achieving better health outcomes. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Today, 1:50 pm",
+                "availability": "Today, 2:20 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
