@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-16 12:45:57 PM",
+    "last_updated": "2026-09-16 01:01:05 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,9 +56,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
-                    "MCPS (Family Medicine)",
                     "MRCGP",
+                    "MCPS (Family Medicine)",
+                    "MCPS",
                     "MBBS"
                 ],
                 "areas_of_interest": [
@@ -82,10 +82,10 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "MRCGP",
                     "General Practitioner",
                     "MCPS",
                     "DFM",
-                    "MRCGP",
                     "MBBS"
                 ],
                 "areas_of_interest": [
@@ -110,9 +110,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "Dip Occ Med (RCPI)",
                     "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "Dip Occ Med (RCPI)"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -155,8 +155,8 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MRCGP",
+                    "MCPS (Family Medicine)",
                     "MBBS"
                 ],
                 "areas_of_interest": [
@@ -441,8 +441,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MRCGP",
+                    "MRCPG",
                     "MBBS"
                 ],
                 "areas_of_interest": [
@@ -502,7 +502,7 @@
                 ],
                 "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Tomorrow, 10:50 am",
+                "availability": "Tomorrow, 11:10 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             }
