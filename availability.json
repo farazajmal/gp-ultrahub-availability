@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-16 10:15:46 PM",
+    "last_updated": "2026-09-16 10:30:51 PM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -46,7 +46,7 @@
                 ],
                 "bio": "General Practitioner, MaleMRCGP, MRCPI , MBBSWith over 14 years of extensive experience as a General Practitioner, Dr. Shahid is dedicated to providing comprehensive healthcare to patients of all ages. He specializes in managing acute and chronic health conditions, child health, mental health, and preventive care. Passionate about family and general medicine, Dr. Shahid strives to ensure every patient receives the best possible care, with a focus on promoting long-term health and well-being.",
                 "clinic": "Gladstone",
-                "availability": "Tomorrow, 12:15 pm",
+                "availability": "Tomorrow, 12:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
@@ -57,9 +57,9 @@
                 "gender": "Female",
                 "qualifications": [
                     "MCPS",
-                    "MRCGP",
+                    "MBBS",
                     "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
-                    "MRCGP",
                     "DFM",
+                    "MCPS",
                     "General Practitioner",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -111,8 +111,8 @@
                 "gender": "Male",
                 "qualifications": [
                     "Dip Occ Med (RCPI)",
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -155,9 +155,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
+                    "MBBS",
                     "MCPS (Family Medicine)",
-                    "MRCGP",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -295,8 +295,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -331,7 +331,7 @@
                 ],
                 "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
                 "clinic": "Calliope",
-                "availability": "Tomorrow, 11:45 am",
+                "availability": "Tomorrow, 11:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1"
             }
@@ -441,9 +441,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MBBS",
                     "MRCPG",
-                    "MRCGP",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
