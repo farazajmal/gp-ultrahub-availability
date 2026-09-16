@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-16 02:31:03 AM",
+    "last_updated": "2026-09-16 02:45:47 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -46,7 +46,7 @@
                 ],
                 "bio": "General Practitioner, MaleMRCGP, MRCPI , MBBSWith over 14 years of extensive experience as a General Practitioner, Dr. Shahid is dedicated to providing comprehensive healthcare to patients of all ages. He specializes in managing acute and chronic health conditions, child health, mental health, and preventive care. Passionate about family and general medicine, Dr. Shahid strives to ensure every patient receives the best possible care, with a focus on promoting long-term health and well-being.",
                 "clinic": "Gladstone",
-                "availability": "Tomorrow, 7:45 am",
+                "availability": "Fri, 7:45 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             },
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
                     "MCPS",
-                    "MCPS (Family Medicine)"
+                    "MCPS (Family Medicine)",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP",
                     "General Practitioner",
-                    "DFM",
-                    "MCPS"
+                    "MRCGP",
+                    "MBBS",
+                    "MCPS",
+                    "DFM"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -110,9 +110,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
-                    "Dip Occ Med (RCPI)"
+                    "Dip Occ Med (RCPI)",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -145,7 +145,7 @@
                 ],
                 "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui’s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
                 "clinic": "Gladstone",
-                "availability": "Mon, 9:45 am",
+                "availability": "Mon, 2:00 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1"
             },
@@ -155,9 +155,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
+                    "MRCGP",
                     "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -295,8 +295,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -441,9 +441,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
-                    "MRCPG"
+                    "MRCPG",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
