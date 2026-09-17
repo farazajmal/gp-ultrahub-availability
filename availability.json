@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-17 01:15:53 AM",
+    "last_updated": "2026-09-17 01:30:59 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
                     "MBBS",
-                    "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MCPS",
+                    "MRCGP",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -83,10 +83,10 @@
                 "gender": "Male",
                 "qualifications": [
                     "MCPS",
-                    "MBBS",
-                    "MRCGP",
                     "General Practitioner",
-                    "DFM"
+                    "MBBS",
+                    "DFM",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -110,8 +110,8 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "Dip Occ Med (RCPI)",
                     "MBBS",
+                    "Dip Occ Med (RCPI)",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
@@ -156,8 +156,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MRCGP",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -431,7 +431,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine. With over 14 years of dedicated service in the medical field, Dr Nauman Ahmed stands out as a trusted General Practitioner. His expertise is further enhanced by over six years of specialized training in Occupational Medicine, making him a leading expert in the field. Holding prestigious qualifications such as MBBS and MRCGP, he is committed to delivering exceptional, patient-centered care. His approach ensures personalized attention and effective treatment plans tailored to individual needs. Whether you’re seeking general health advice, skin consultations, or specialized occupational health solutions, you can expect comprehensive care designed with your well-being in mind. Join countless others who have experienced top-tier medical care with a focus on quality and compassion. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Today, 11:40 am",
+                "availability": "Today, 11:50 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
@@ -441,9 +441,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
