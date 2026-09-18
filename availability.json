@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-18 01:15:50 AM",
+    "last_updated": "2026-09-18 01:30:56 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
-                    "DFM",
-                    "General Practitioner",
                     "MRCGP",
-                    "MBBS"
+                    "MCPS",
+                    "MBBS",
+                    "DFM",
+                    "General Practitioner"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -155,8 +155,8 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
+                    "MBBS",
                     "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
@@ -308,7 +308,7 @@
                 ],
                 "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs. She is passionate about building strong, ongoing relationships with her patients and takes the time to understand their individual health concerns and goals. Her approach focuses on early intervention, continuity of care and developing personalised treatment and management plans to support long term health and wellbeing. Dr Beenish takes a holistic and collaborative approach to healthcare, working closely with her patients to help them feel informed, supported and confident in managing their health. Gladstone",
                 "clinic": "Calliope",
-                "availability": "Today, 1:30 pm",
+                "availability": "Tomorrow, 9:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar"
             },
@@ -431,7 +431,7 @@
                 ],
                 "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine. With over 14 years of dedicated service in the medical field, Dr Nauman Ahmed stands out as a trusted General Practitioner. His expertise is further enhanced by over six years of specialized training in Occupational Medicine, making him a leading expert in the field. Holding prestigious qualifications such as MBBS and MRCGP, he is committed to delivering exceptional, patient-centered care. His approach ensures personalized attention and effective treatment plans tailored to individual needs. Whether you’re seeking general health advice, skin consultations, or specialized occupational health solutions, you can expect comprehensive care designed with your well-being in mind. Join countless others who have experienced top-tier medical care with a focus on quality and compassion. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Today, 11:40 am",
+                "availability": "Today, 11:50 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
@@ -457,7 +457,7 @@
                 ],
                 "bio": "Dr Aasma Sheraz is a dedicated and experienced General Practitioner with extensive clinical experience. She holds an MBBS and MRCGP (International), and provides comprehensive care for patients of all ages. Dr Aasma has a strong interest in chronic disease management, women’s and children’s health, and preventive care. She is also experienced in minor procedures and managing a wide range of acute and ongoing health conditions. Known for her compassionate and patient-centred approach, Dr Aasma is committed to delivering high-quality care and supporting her patients in achieving better health outcomes. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Today, 2:10 pm",
+                "availability": "Today, 1:40 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
