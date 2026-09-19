@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-19 11:15:47 AM",
+    "last_updated": "2026-09-19 11:30:54 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -83,10 +83,10 @@
                 "gender": "Male",
                 "qualifications": [
                     "MRCGP",
-                    "General Practitioner",
-                    "MBBS",
                     "MCPS",
-                    "DFM"
+                    "General Practitioner",
+                    "DFM",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -110,9 +110,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "Dip Occ Med (RCPI)",
                     "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "Dip Occ Med (RCPI)"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
