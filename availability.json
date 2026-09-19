@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-19 02:30:55 AM",
+    "last_updated": "2026-09-19 02:45:49 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MCPS",
                     "MBBS",
-                    "MCPS (Family Medicine)",
                     "MRCGP",
-                    "MCPS"
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
-                    "DFM",
                     "MBBS",
+                    "MRCGP",
                     "General Practitioner",
-                    "MRCGP"
+                    "MCPS",
+                    "DFM"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -110,9 +110,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "Dip Occ Med (RCPI)",
                     "MBBS",
-                    "MRCGP",
-                    "Dip Occ Med (RCPI)"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -156,8 +156,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MRCGP",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -360,7 +360,7 @@
                 ],
                 "bio": "Dr. Carem Au completed her Bachelor of Medicine / Bachelor of Surgery (MBBS) at The University of Queensland in 2014 and went on to achieve Fellowship with The Royal Australian College of General Practitioners (FRACGP) in 2021. Over the past few years, Dr. Au has worked extensively as a locum GP across Australia, gaining broad experience in all aspects of general practice before settling with GP UltraHub in Burnett Heads. She has a special interest in women’s health, children’s health, skin checks, skin cancer medicine and excisions, while also providing comprehensive care for patients and families across all stages of life. Gladstone",
                 "clinic": "Burnett Heads",
-                "availability": "Mon, 4:15 pm",
+                "availability": "Wed, 2:15 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
             },
@@ -441,9 +441,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MRCPG",
                     "MBBS",
-                    "MRCGP",
-                    "MRCPG"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -457,7 +457,7 @@
                 ],
                 "bio": "Dr Aasma Sheraz is a dedicated and experienced General Practitioner with extensive clinical experience. She holds an MBBS and MRCGP (International), and provides comprehensive care for patients of all ages. Dr Aasma has a strong interest in chronic disease management, women’s and children’s health, and preventive care. She is also experienced in minor procedures and managing a wide range of acute and ongoing health conditions. Known for her compassionate and patient-centred approach, Dr Aasma is committed to delivering high-quality care and supporting her patients in achieving better health outcomes. Gladstone",
                 "clinic": "Toowoomba",
-                "availability": "Mon, 12:50 pm",
+                "availability": "Mon, 1:30 pm",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
