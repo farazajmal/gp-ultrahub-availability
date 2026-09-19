@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-19 10:15:54 AM",
+    "last_updated": "2026-09-19 10:30:58 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,8 +56,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
                     "MBBS",
+                    "MCPS",
                     "MRCGP",
                     "MCPS (Family Medicine)"
                 ],
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
-                    "General Practitioner",
                     "DFM",
+                    "General Practitioner",
+                    "MRCGP",
                     "MBBS",
-                    "MRCGP"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -111,8 +111,8 @@
                 "gender": "Male",
                 "qualifications": [
                     "MBBS",
-                    "MRCGP",
-                    "Dip Occ Med (RCPI)"
+                    "Dip Occ Med (RCPI)",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -155,9 +155,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -308,7 +308,7 @@
                 ],
                 "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs. She is passionate about building strong, ongoing relationships with her patients and takes the time to understand their individual health concerns and goals. Her approach focuses on early intervention, continuity of care and developing personalised treatment and management plans to support long term health and wellbeing. Dr Beenish takes a holistic and collaborative approach to healthcare, working closely with her patients to help them feel informed, supported and confident in managing their health. Gladstone",
                 "clinic": "Calliope",
-                "availability": "Mon, 10:00 am",
+                "availability": "Mon, 11:15 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar"
             },
@@ -442,8 +442,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MRCGP",
-                    "MRCPG"
+                    "MRCPG",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
