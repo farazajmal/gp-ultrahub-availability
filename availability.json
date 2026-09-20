@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-20 04:01:06 AM",
+    "last_updated": "2026-09-20 04:16:09 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -56,10 +56,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
-                    "MRCGP",
+                    "MBBS",
                     "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MRCGP",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,11 +82,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
-                    "DFM",
                     "MRCGP",
+                    "MCPS",
+                    "DFM",
                     "General Practitioner",
-                    "MCPS"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -110,17 +110,17 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "Dip Occ Med (RCPI)",
                     "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "Dip Occ Med (RCPI)"
                 ],
                 "areas_of_interest": [
-                    "Family Medicine",
+                    "Family medicine",
                     "Occupational Medicine",
                     "Acute Medicine",
-                    "Chronic Disease Management"
+                    "Chronic disease management"
                 ],
-                "bio": "Dr Elsadig Hassan is an experienced General Practitioner with more than 14 years of medical experience. He provides comprehensive, patient-centred care to patients of all ages, with experience across acute illness, chronic disease management, preventive health, and men’s, women’s and children’s health.Dr Hassan also has four years of experience in occupational medicine and holds a Diploma in Occupational Medicine from the Royal College of Physicians of Ireland (RCPI). He has a particular interest in workplace health, fitness-for-work assessments, workplace injury management and health surveillance.Dr Hassan is committed to taking the time to listen to his patients, clearly explain their options, and provide safe, evidence-based care tailored to each individual’s needs.Outside of medicine, Dr Hassan enjoys soccer, going to the gym and cooking. Gladstone",
+                "bio": "Dr Elsadig Hassan is an experienced General Practitioner with more than 14 years of medical experience. He provides comprehensive, patient-centered care to patients of all ages, with experience across acute illness, chronic disease management, preventive health, and men’s, women’s and children’s health.",
                 "clinic": "Gladstone",
                 "availability": "Tue, 9:00 am",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
@@ -155,9 +155,9 @@
                 "provider_type": "Other",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
+                    "MBBS",
                     "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -295,8 +295,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -441,9 +441,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MBBS",
                     "MRCPG",
-                    "MRCGP",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
