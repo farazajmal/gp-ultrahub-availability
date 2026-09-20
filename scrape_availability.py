@@ -119,6 +119,21 @@ def scrape_availability(days_ahead=14):
         headers["app-current-session-uuid"] = str(uuid.uuid4())
         headers["app-device-uuid"] = str(uuid.uuid4())
 
+        clinic_slug = doctors[0].get("clinic_slug") if doctors else "gp-ultra-hub-gladstone"
+        clinic_api_url = f"https://www.hotdoc.com.au/api/patient/clinics/{clinic_slug}?id={clinic_slug}"
+        doc_avail_map = {}
+        try:
+            resp = session.get(clinic_api_url, headers=headers, timeout=10)
+            if resp.status_code == 200:
+                c_data = resp.json()
+                for dr in c_data.get("doctor_reasons", []):
+                    d_id = dr.get("doctor_id")
+                    a_id = dr.get("availability_type_id")
+                    if d_id and a_id:
+                        doc_avail_map.setdefault(d_id, []).append(str(a_id))
+        except Exception as e:
+            logging.warning(f"Could not fetch clinic API for {clinic_slug}: {e}")
+
         clinic_results = []
 
         for d in doctors:
@@ -126,13 +141,13 @@ def scrape_availability(days_ahead=14):
             full_name = d.get("doctor")
             clinic_id = d.get("clinic_id")
             booking_url = d.get("profile_url") or d.get("booking_url")
-            avail_ids = d.get("availability_type_ids") or []
+            avail_ids = doc_avail_map.get(doc_id) or d.get("availability_type_ids") or []
 
             raw_slots = []
             seen_slot_ids = set()
 
-            # Take primary availability type ID (Standard Consult) to maximize speed & avoid rate limiting
-            for a_id in avail_ids[:1]:
+            # Take up to first 3 availability type IDs per doctor to capture all available slot types
+            for a_id in avail_ids[:3]:
                 params = [
                     ("start_time", start_iso),
                     ("end_time", end_iso),
