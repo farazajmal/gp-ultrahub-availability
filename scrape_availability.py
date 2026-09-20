@@ -123,6 +123,22 @@ def scrape_availability(days_ahead=14):
         headers["app-device-uuid"] = str(uuid.uuid4())
 
         clinic_slug = doctors[0].get("clinic_slug") if doctors else "gp-ultra-hub-gladstone"
+        clinic_html_urls = {
+            "gp-ultra-hub-gladstone": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors",
+            "outback-gp": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors",
+            "gp-ultra-hub-burnett-heads": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors",
+            "gp-ultra-hub-toowoomba": "https://www.hotdoc.com.au/medical-centres/toowoomba-city-QLD-4350/gp-ultra-hub-toowoomba/doctors"
+        }
+        html_url = clinic_html_urls.get(clinic_slug)
+        if html_url:
+            try:
+                session.get(html_url, headers={
+                    "User-Agent": headers["User-Agent"],
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+                }, timeout=10)
+            except Exception:
+                pass
+
         clinic_api_url = f"https://www.hotdoc.com.au/api/patient/clinics/{clinic_slug}?id={clinic_slug}"
         doc_avail_map = {}
         try:
