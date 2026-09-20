@@ -256,7 +256,10 @@ def scrape_doctor_metadata():
             bio_text = d.get("statement") or ""
 
             # HotDoc profile page URL as requested by user
-            if doc_slug:
+            listing_path = d.get("listing_path")
+            if listing_path:
+                profile_url = f"https://www.hotdoc.com.au{listing_path}"
+            elif doc_slug:
                 profile_url = f"https://www.hotdoc.com.au/medical-centres/{slug}/doctors/{doc_slug}"
             else:
                 profile_url = f"https://www.hotdoc.com.au/medical-centres/book/appointment/start?clinic={clinic_id}&doctor={doc_id}"
