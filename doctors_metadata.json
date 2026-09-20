@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-20 02:28:59 PM",
+    "last_updated": "2026-09-20 06:21:39 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -10,9 +10,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MRCGP",
+                    "MBBS",
                     "Dip Occ Med (RCPI)",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -30,8 +30,8 @@
                     "1614361",
                     "1614363"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan"
             },
             {
                 "doctor_id": 198821,
@@ -47,8 +47,8 @@
                 "clinic_slug": "gp-ultra-hub-gladstone",
                 "doctor_slug": "practice-nurse-514",
                 "availability_type_ids": [],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/practice-nurse-514"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514"
             },
             {
                 "doctor_id": 250178,
@@ -57,10 +57,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
-                    "MRCGP",
                     "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MBBS",
+                    "MCPS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -92,8 +92,8 @@
                     "1591629",
                     "1591634"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
             },
             {
                 "doctor_id": 246027,
@@ -102,11 +102,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MRCGP",
+                    "DFM",
                     "General Practitioner",
+                    "MRCGP",
                     "MBBS",
-                    "MCPS",
-                    "DFM"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -137,8 +137,8 @@
                     "1591632",
                     "1591636"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
             },
             {
                 "doctor_id": 194201,
@@ -183,8 +183,8 @@
                     "991249",
                     "1597177"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1"
             },
             {
                 "doctor_id": 194582,
@@ -230,8 +230,8 @@
                     "1373562",
                     "1373563"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1"
             },
             {
                 "doctor_id": 209447,
@@ -271,8 +271,8 @@
                     "1153479",
                     "1153480"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima"
             },
             {
                 "doctor_id": 195622,
@@ -316,8 +316,8 @@
                     "1026499",
                     "1504235"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan"
             },
             {
                 "doctor_id": 219466,
@@ -326,9 +326,9 @@
                 "provider_type": "Physiotherapist",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -350,8 +350,8 @@
                     "1226231",
                     "1226231"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/mehwish-saghir"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir"
             },
             {
                 "doctor_id": 232148,
@@ -393,8 +393,8 @@
                     "1591630",
                     "1591633"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-shahid",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-gladstone/doctors/dr-shahid"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
             }
         ],
         "Calliope": [
@@ -439,8 +439,8 @@
                     "1593728",
                     "1432800"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-arooj-fatima-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-arooj-fatima-1"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1"
             },
             {
                 "doctor_id": 150207,
@@ -486,8 +486,8 @@
                     "1593729",
                     "1160008"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-aisha-asghar-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-aisha-asghar-1"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1"
             },
             {
                 "doctor_id": 232607,
@@ -519,8 +519,8 @@
                     "1591449",
                     "1362850"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-arif-2",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-arif-2"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
             {
                 "doctor_id": 129248,
@@ -565,8 +565,8 @@
                     "1597167",
                     "710956"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-saiqa-syeda-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-saiqa-syeda-1"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1"
             },
             {
                 "doctor_id": 128870,
@@ -582,8 +582,8 @@
                 "clinic_slug": "outback-gp",
                 "doctor_slug": "practice-nurse-515",
                 "availability_type_ids": [],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/practice-nurse-515",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/practice-nurse-515"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515"
             },
             {
                 "doctor_id": 252703,
@@ -592,8 +592,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -622,8 +622,8 @@
                     "1609671",
                     "1609675"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-beenish-zafar",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/outback-gp/doctors/dr-beenish-zafar"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar"
             }
         ],
         "Burnett Heads": [
@@ -663,8 +663,8 @@
                     "1609064",
                     "1609065"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2"
             },
             {
                 "doctor_id": 211262,
@@ -680,8 +680,8 @@
                 "clinic_slug": "gp-ultra-hub-burnett-heads",
                 "doctor_slug": "practice-nurse-including-flu-vaccines-1",
                 "availability_type_ids": [],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1"
             },
             {
                 "doctor_id": 212479,
@@ -728,8 +728,8 @@
                     "1591704",
                     "1591702"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
             },
             {
                 "doctor_id": 239619,
@@ -771,8 +771,8 @@
                     "1591701",
                     "1591703"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam"
             }
         ],
         "Toowoomba": [
@@ -813,8 +813,8 @@
                     "1541554",
                     "1591715"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
             },
             {
                 "doctor_id": 242874,
@@ -823,9 +823,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MBBS",
                     "MRCPG",
-                    "MRCGP",
-                    "MBBS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -858,8 +858,8 @@
                     "1512892",
                     "1512892"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
             },
             {
                 "doctor_id": 228958,
@@ -887,8 +887,8 @@
                 "availability_type_ids": [
                     "1609981"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6"
             },
             {
                 "doctor_id": 218037,
@@ -928,8 +928,8 @@
                     "1427345",
                     "1427344"
                 ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3"
             },
             {
                 "doctor_id": 239587,
@@ -945,8 +945,8 @@
                 "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
                 "doctor_slug": "practice-nurse-443",
                 "availability_type_ids": [],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/practice-nurse-443",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gp-ultra-hub-toowoomba-plaza/doctors/practice-nurse-443"
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/practice-nurse-443",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/practice-nurse-443"
             }
         ]
     }
