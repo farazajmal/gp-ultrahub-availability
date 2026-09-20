@@ -89,13 +89,16 @@ def scrape_availability(days_ahead=14):
 
     session = requests.Session()
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "accept": "application/au.com.hotdoc.v5",
+        "accept-language": "en-US,en;q=0.9",
         "app-origin": "website",
         "app-platform": "web",
         "app-timezone": "Australia/Brisbane",
         "content-type": "application/json; charset=utf-8",
         "device-based-auth": "true",
+        "is-kiosk": "false",
+        "is-walk-ins": "false",
     }
 
     output = {
