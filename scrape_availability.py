@@ -1,281 +1,203 @@
 import os
+import sys
 import json
-import time
-import uuid
-import logging
-from datetime import datetime, timedelta, timezone
+import re
+from datetime import datetime, timedelta
+from playwright.sync_api import sync_playwright
 
-import requests
-from scrape_doctors import scrape_doctor_metadata
+def parse_time_to_minutes(t_str):
+    t_str = t_str.strip().lower()
+    dt = datetime.strptime(t_str, "%I:%M %p")
+    return dt.hour * 60 + dt.minute
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+def parse_date_header(raw_header):
+    month_names = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    m = re.search(r"(\d{1,2})\s+([A-Za-z]{3})", raw_header)
+    if not m:
+        return None
+    day_num = int(m.group(1))
+    month_str = m.group(2).capitalize()
+    if month_str not in month_names:
+        return None
+    month_idx = month_names.index(month_str) + 1
+    
+    now = datetime.now()
+    year = now.year
+    if month_idx < now.month - 6:
+        year += 1
+        
+    date_obj = datetime(year, month_idx, day_num)
+    return date_obj
 
+def scrape_doctor_live_grid(page, clinic_slug, doctor_slug):
+    url = f"https://www.hotdoc.com.au/request/consult/for?defaults=practice-{clinic_slug},practitioner-{doctor_slug}"
+    
+    try:
+        page.goto(url, wait_until="domcontentloaded")
+        page.wait_for_timeout(2500)
+        
+        # 1. Myself
+        btn1 = page.locator("text='For myself'").first
+        if btn1.is_visible():
+            btn1.click()
+            page.wait_for_timeout(1000)
+            
+        # 2. Existing
+        btn2 = page.locator("text='Existing patient'").first
+        if btn2.is_visible():
+            btn2.click()
+            page.wait_for_timeout(1000)
+            
+        # 3. Reason
+        reason = page.locator("button:has-text('Appointment'), .flow-button").first
+        if reason.is_visible():
+            reason.click()
+            page.wait_for_timeout(1000)
+            
+        # 4. Continue
+        try:
+            cont = page.get_by_text("Continue").first
+            if cont and cont.is_visible():
+                cont.click()
+                page.wait_for_timeout(2500)
+        except Exception:
+            pass
 
-def build_patches_from_slots(raw_slots, doctor_booking_url):
-    """
-    Merges contiguous or close discrete time slots into availability patches (windows).
-    """
-    if not raw_slots:
+        # Take screenshot for layout trigger
+        page.screenshot(path=f"scratch/last_grid_{doctor_slug}.png")
+
+        text = page.locator("body").inner_text()
+        lines = [l.strip() for l in text.split("\n") if l.strip()]
+        
+        # Parse date headers from text
+        date_pattern = re.compile(r"^(\d{1,2})\s+([A-Za-z]{3})$")
+        header_dates = []
+        
+        for idx, l in enumerate(lines):
+            m = date_pattern.match(l)
+            if m:
+                day_name = lines[idx-1] if idx > 0 and lines[idx-1] in ["Today", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"] else ""
+                date_obj = parse_date_header(l)
+                if date_obj:
+                    header_dates.append({
+                        "date_obj": date_obj,
+                        "day_name": date_obj.strftime("%A"),
+                        "date_str": date_obj.strftime("%Y-%m-%d"),
+                        "raw": l,
+                        "label": f"{date_obj.strftime('%A')}, {date_obj.strftime('%b %d')}"
+                    })
+                    
+        # Parse time slots
+        time_regex = re.compile(r"^(\d{1,2}:\d{2}\s*(?:am|pm))$", re.IGNORECASE)
+        raw_times = []
+        for l in lines:
+            if time_regex.match(l):
+                raw_times.append(l.strip())
+                
+        # Group times by time-reset
+        day_groups = []
+        current_group = []
+        prev_minutes = -1
+        
+        for t in raw_times:
+            minutes = parse_time_to_minutes(t)
+            if prev_minutes != -1 and minutes <= prev_minutes:
+                day_groups.append(current_group)
+                current_group = []
+            current_group.append(t)
+            prev_minutes = minutes
+            
+        if current_group:
+            day_groups.append(current_group)
+
+        # Match day_groups to header_dates
+        # Note: Day groups are ordered by day that has slots!
+        # Find which header_dates actually match each group by checking position
+        patches = []
+        if day_groups and header_dates:
+            # We match group i to header_dates starting from the first non-past header
+            # E.g. if header_dates has [Today, Tue, Wed, Thu, Fri] and day_groups has 3 items
+            # The first day with slots is Tue (index 1 in header_dates)
+            # Let's match based on available header dates offset
+            start_offset = 0
+            if len(header_dates) > len(day_groups):
+                start_offset = len(header_dates) - len(day_groups)
+                # Ensure offset isn't out of range
+                if start_offset < 0:
+                    start_offset = 0
+
+            for group_idx, discrete_slots in enumerate(day_groups):
+                h_idx = start_offset + group_idx
+                if h_idx < len(header_dates):
+                    hd = header_dates[h_idx]
+                    start_t = discrete_slots[0]
+                    end_t = discrete_slots[-1]
+                    display_time = f"{start_t} - {end_t}" if len(discrete_slots) > 1 else start_t
+                    
+                    patches.append({
+                        "date": hd["date_str"],
+                        "day_name": hd["day_name"],
+                        "date_label": hd["label"],
+                        "start_time": start_t,
+                        "end_time": end_t,
+                        "time_range": display_time,
+                        "discrete_slots": discrete_slots,
+                        "display": display_time,
+                        "display_full": f"{hd['label']}: {display_time}"
+                    })
+
+        print(f"[{doctor_slug}] Scraped {len(patches)} day patches ({len(raw_times)} total slots)")
+        return patches
+
+    except Exception as e:
+        print(f"[{doctor_slug}] Error scraping: {e}")
         return []
 
-    slots_by_day = {}
-    for s in raw_slots:
-        st_str = s.get("start_time")
-        et_str = s.get("end_time")
-        if not st_str or not et_str:
-            continue
-        try:
-            st = datetime.fromisoformat(st_str)
-            et = datetime.fromisoformat(et_str)
-            day_str = s.get("day") or st.strftime("%Y-%m-%d")
-            slots_by_day.setdefault(day_str, []).append((st, et))
-        except Exception:
-            continue
+def main():
+    meta_path = "doctors_metadata.json"
+    if not os.path.exists(meta_path):
+        print("Metadata file missing")
+        return
 
-    patches = []
-
-    for day_str in sorted(slots_by_day.keys()):
-        day_slots = sorted(slots_by_day[day_str], key=lambda x: x[0])
-        if not day_slots:
-            continue
-
-        current_start, current_end = day_slots[0]
-
-        for next_start, next_end in day_slots[1:]:
-            gap_seconds = (next_start - current_end).total_seconds()
-            if gap_seconds <= 1800:  # <= 30 mins gap merges into same patch
-                current_end = max(current_end, next_end)
-            else:
-                patches.append(_format_patch(day_str, current_start, current_end, doctor_booking_url))
-                current_start, current_end = next_start, next_end
-
-        patches.append(_format_patch(day_str, current_start, current_end, doctor_booking_url))
-
-    return patches
-
-
-def _format_patch(day_str, start_dt, end_dt, booking_url):
-    day_name = start_dt.strftime("%A")
-    date_label = start_dt.strftime("%b %d")
-    st_label = start_dt.strftime("%I:%M %p").lstrip("0").lower()
-    et_label = end_dt.strftime("%I:%M %p").lstrip("0").lower()
-    
-    display_time = f"{st_label} - {et_label}"
-    display_full = f"{day_name}, {date_label}: {display_time}"
-    
-    return {
-        "date": day_str,
-        "day_name": day_name,
-        "date_label": date_label,
-        "start_time": st_label,
-        "end_time": et_label,
-        "display": display_time,
-        "display_full": display_full,
-        "booking_url": booking_url,
-        "start_iso": start_dt.isoformat(),
-        "end_iso": end_dt.isoformat()
-    }
-
-
-def scrape_availability(days_ahead=14):
-    """
-    Lightweight, ultra-fast 15-minute scraper.
-    Reads pre-cached doctor IDs from doctors_metadata.json and fetches live availability patches.
-    """
-    if not os.path.exists("doctors_metadata.json"):
-        logging.info("doctors_metadata.json not found. Running doctor metadata scraper first...")
-        scrape_doctor_metadata()
-
-    with open("doctors_metadata.json", "r", encoding="utf-8") as f:
+    with open(meta_path, "r", encoding="utf-8") as f:
         metadata = json.load(f)
 
-    session = requests.Session()
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "accept": "application/au.com.hotdoc.v5",
-        "accept-language": "en-US,en;q=0.9",
-        "app-origin": "website",
-        "app-platform": "web",
-        "app-timezone": "Australia/Brisbane",
-        "content-type": "application/json; charset=utf-8",
-        "device-based-auth": "true",
-        "is-kiosk": "false",
-        "is-walk-ins": "false",
-    }
+    availability = {}
+    
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            viewport={"width": 1280, "height": 900},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
 
-    output = {
-        "last_updated": None,
-        "total_clinics": len(metadata.get("clinics", {})),
-        "successful_clinics": 0,
-        "failed_clinics": [],
-        "total_doctors": 0,
-        "clinics": {}
-    }
+        for clinic_name, docs in metadata.get("clinics", {}).items():
+            print(f"\n--- Scraping Clinic: {clinic_name} ({len(docs)} doctors) ---")
+            availability[clinic_name] = {}
+            for doc in docs:
+                doc_name = doc["doctor"]
+                clinic_slug = doc["clinic_slug"]
+                doctor_slug = doc["doctor_slug"]
+                
+                print(f"Scraping {doc_name} ({doctor_slug})...")
+                patches = scrape_doctor_live_grid(page, clinic_slug, doctor_slug)
+                
+                availability[clinic_name][doc_name] = {
+                    "doctor": doc_name,
+                    "clinic": clinic_name,
+                    "doctor_id": doc["doctor_id"],
+                    "clinic_id": doc["clinic_id"],
+                    "booking_url": doc["booking_url"],
+                    "patches": patches
+                }
 
-    now_utc = datetime.now(timezone.utc)
-    start_dt = datetime(now_utc.year, now_utc.month, now_utc.day, 14, 0, 0, tzinfo=timezone.utc) - timedelta(days=1)
-    end_dt = start_dt + timedelta(days=days_ahead, seconds=86399, microseconds=999000)
+        browser.close()
 
-    start_iso = start_dt.strftime("%Y-%m-%dT%H:%M:%S.000Z")
-    end_iso = end_dt.strftime("%Y-%m-%dT%H:%M:%S.999Z")
-
-    for clinic_name, doctors in metadata.get("clinics", {}).items():
-        logging.info(f"\n========== Stage 3: Fetching Time Slots for {clinic_name} ==========")
-        headers["app-current-session-uuid"] = str(uuid.uuid4())
-        headers["app-device-uuid"] = str(uuid.uuid4())
-
-        clinic_slug = doctors[0].get("clinic_slug") if doctors else "gp-ultra-hub-gladstone"
-        clinic_html_urls = {
-            "gp-ultra-hub-gladstone": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors",
-            "outback-gp": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors",
-            "gp-ultra-hub-burnett-heads": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors",
-            "gp-ultra-hub-toowoomba-plaza": "https://www.hotdoc.com.au/medical-centres/toowoomba-city-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors",
-            "gp-ultra-hub-toowoomba": "https://www.hotdoc.com.au/medical-centres/toowoomba-city-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors"
-        }
-        html_url = clinic_html_urls.get(clinic_slug)
-        if html_url:
-            try:
-                session.get(html_url, headers={
-                    "User-Agent": headers["User-Agent"],
-                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
-                }, timeout=10)
-            except Exception:
-                pass
-
-        clinic_api_url = f"https://www.hotdoc.com.au/api/patient/clinics/{clinic_slug}?id={clinic_slug}"
-        doc_avail_map = {}
-        hotdoc_doc_map = {}
-        try:
-            resp = session.get(clinic_api_url, headers=headers, timeout=10)
-            if resp.status_code == 200:
-                c_data = resp.json()
-                for h_d in c_data.get("doctors", []):
-                    h_id = h_d.get("id")
-                    if h_id is not None:
-                        hotdoc_doc_map[h_id] = h_d
-                        hotdoc_doc_map[str(h_id)] = h_d
-                for dr in c_data.get("doctor_reasons", []):
-                    d_id = dr.get("doctor_id")
-                    a_id = dr.get("availability_type_id")
-                    if d_id and a_id:
-                        doc_avail_map.setdefault(d_id, []).append(str(a_id))
-                        doc_avail_map.setdefault(str(d_id), []).append(str(a_id))
-        except Exception as e:
-            logging.warning(f"Could not fetch clinic API for {clinic_slug}: {e}")
-
-        clinic_results = []
-
-        for d in doctors:
-            doc_id = d.get("doctor_id")
-            full_name = d.get("doctor")
-            clinic_id = d.get("clinic_id")
-            
-            h_doc = hotdoc_doc_map.get(doc_id) or hotdoc_doc_map.get(str(doc_id))
-            if h_doc and h_doc.get("listing_path"):
-                booking_url = "https://www.hotdoc.com.au" + h_doc.get("listing_path")
-            else:
-                booking_url = d.get("profile_url") or d.get("booking_url")
-
-            avail_ids = doc_avail_map.get(doc_id) or doc_avail_map.get(str(doc_id)) or d.get("availability_type_ids") or []
-
-            raw_slots = []
-            seen_slot_ids = set()
-
-            for a_id in avail_ids[:2]:
-                params = [
-                    ("start_time", start_iso),
-                    ("end_time", end_iso),
-                    ("timezone", "Australia/Brisbane"),
-                    ("clinic_id", clinic_id),
-                    ("doctor_ids[]", str(doc_id)),
-                    ("availability_type_ids[]", str(a_id))
-                ]
-
-                try:
-                    res = session.get("https://www.hotdoc.com.au/api/patient/time_slots", headers=headers, params=params, timeout=3)
-                    if res.status_code == 200:
-                        data = res.json()
-                        for s in data.get("time_slots", []):
-                            s_id = s.get("id")
-                            if s_id not in seen_slot_ids:
-                                seen_slot_ids.add(s_id)
-                                raw_slots.append(s)
-                except Exception:
-                    pass
-
-            patches = build_patches_from_slots(raw_slots, booking_url)
-
-            earliest_iso = h_doc.get("earliest_available") if h_doc else None
-            
-            earliest_patch = None
-            if earliest_iso:
-                try:
-                    brisbane_tz = timezone(timedelta(hours=10))
-                    dt_utc = datetime.fromisoformat(earliest_iso.replace("Z", "+00:00"))
-                    dt_bne = dt_utc.astimezone(brisbane_tz)
-                    
-                    date_str = dt_bne.strftime("%Y-%m-%d")
-                    day_name = dt_bne.strftime("%A")
-                    date_label = dt_bne.strftime("%b %d")
-                    time_label = dt_bne.strftime("%I:%M %p").lstrip("0").lower()
-                    
-                    display_full = f"{day_name}, {date_label} from {time_label}"
-                    earliest_patch = {
-                        "date": date_str,
-                        "day_name": day_name,
-                        "date_label": date_label,
-                        "start_time": time_label,
-                        "end_time": "5:00 pm",
-                        "display": f"from {time_label}",
-                        "display_full": display_full,
-                        "booking_url": booking_url,
-                        "start_iso": dt_bne.isoformat(),
-                        "end_iso": ""
-                    }
-                except Exception as ex:
-                    logging.warning(f"Error parsing earliest_available for {full_name}: {ex}")
-
-            if patches:
-                availability_summary = patches[0].get("display_full") or patches[0].get("display")
-            elif earliest_patch:
-                patches = [earliest_patch]
-                availability_summary = earliest_patch.get("display_full")
-            else:
-                patches = []
-                availability_summary = "Call clinic to book"
-
-            doc_record = dict(d)
-            doc_record["availability"] = availability_summary
-            doc_record["availability_patches"] = patches
-            doc_record["booking_url"] = booking_url
-
-            clinic_results.append(doc_record)
-            logging.info(f"  ✓ Processed {full_name} ({len(patches)} availability patches)")
-
-        output["clinics"][clinic_name] = clinic_results
-        if clinic_results:
-            output["successful_clinics"] += 1
-            output["total_doctors"] += len(clinic_results)
-
-        time.sleep(2)
-
-    if output["successful_clinics"] > 0:
-        output["last_updated"] = datetime.now().strftime("%Y-%m-%d %I:%M:%S %p")
-        with open("availability.json", "w", encoding="utf-8") as f:
-            json.dump(output, f, indent=4, ensure_ascii=False)
-        logging.info("\n==========================================")
-        logging.info("Availability Update Complete")
-        logging.info("==========================================")
-        logging.info(f"Successful clinics : {output['successful_clinics']}/{output['total_clinics']}")
-        logging.info(f"Doctors scraped    : {output['total_doctors']}")
-        logging.info("Saved output to availability.json")
-    else:
-        logging.error("Zero clinics were successfully scraped. Preserving existing availability.json")
-
-
-def main():
-    scrape_availability(days_ahead=14)
-
+    out_file = "availability.json"
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump(availability, f, indent=2)
+    print(f"\nSUCCESS: Saved updated live availability to {out_file}")
 
 if __name__ == "__main__":
     main()
