@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-21 07:01:01 PM",
+    "last_updated": "2026-09-21 08:10:16 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -57,8 +57,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MBBS",
+                    "MCPS (Family Medicine)",
                     "MCPS",
                     "MRCGP"
                 ],
@@ -103,10 +103,10 @@
                 "gender": "Male",
                 "qualifications": [
                     "DFM",
-                    "MRCGP",
                     "MBBS",
+                    "MCPS",
                     "General Practitioner",
-                    "MCPS"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -326,8 +326,8 @@
                 "provider_type": "Physiotherapist",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MBBS",
+                    "MCPS (Family Medicine)",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
@@ -650,16 +650,16 @@
                 "clinic_slug": "gp-ultra-hub-burnett-heads",
                 "doctor_slug": "dr-umair-siddiqui-2",
                 "availability_type_ids": [
+                    "1609065",
+                    "1609063",
                     "1609063",
                     "1609063",
                     "1609064",
                     "1609063",
                     "1609063",
-                    "1609067",
+                    "1609063",
                     "1609066",
-                    "1609065",
-                    "1609063",
-                    "1609063",
+                    "1609067",
                     "1609064",
                     "1609065"
                 ],
@@ -714,19 +714,19 @@
                     "1510246",
                     "1510247",
                     "1510246",
-                    "1510248",
-                    "1591684",
-                    "1510246",
-                    "1510246",
-                    "1510247",
-                    "1510246",
-                    "1510246",
                     "1591680",
+                    "1510246",
+                    "1510246",
+                    "1591684",
+                    "1510248",
+                    "1510246",
+                    "1510246",
                     "1591688",
                     "1591690",
                     "1591692",
-                    "1591704",
-                    "1591702"
+                    "1510247",
+                    "1591702",
+                    "1591704"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
@@ -761,13 +761,13 @@
                     "1470118",
                     "1579869",
                     "1470118",
-                    "1591685",
-                    "1591683",
-                    "1591694",
                     "1591681",
+                    "1591683",
+                    "1591685",
                     "1591687",
                     "1591691",
                     "1591693",
+                    "1591694",
                     "1591701",
                     "1591703"
                 ],
