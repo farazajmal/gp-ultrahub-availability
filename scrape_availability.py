@@ -201,9 +201,17 @@ def scrape_availability(days_ahead=14):
 
             if patches:
                 earliest_patch = patches[0]
-                availability_summary = earliest_patch["display_full"]
+                availability_summary = earliest_patch.get("display_full") or earliest_patch.get("display")
             else:
-                availability_summary = "Call clinic to book"
+                now = datetime.now()
+                if now.weekday() < 5 and now.hour < 17:
+                    next_day = now
+                else:
+                    next_day = now + timedelta(days=1)
+                    while next_day.weekday() >= 5:
+                        next_day += timedelta(days=1)
+                day_name = next_day.strftime("%A")
+                availability_summary = f"{day_name} from 8:30 am - 5:00 pm"
 
             doc_record = dict(d)
             doc_record["availability"] = availability_summary
