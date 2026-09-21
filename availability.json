@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-21 06:03:40 AM",
+    "last_updated": "2026-09-21 06:18:32 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -35,7 +35,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -54,7 +54,7 @@
                 "availability_type_ids": [],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -101,7 +101,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -148,7 +148,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -196,7 +196,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -245,7 +245,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -288,7 +288,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -335,7 +335,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -371,7 +371,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -416,7 +416,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             }
         ],
@@ -464,7 +464,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -513,7 +513,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -548,7 +548,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -596,7 +596,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -615,7 +615,7 @@
                 "availability_type_ids": [],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -657,7 +657,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             }
         ],
@@ -700,7 +700,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -719,7 +719,7 @@
                 "availability_type_ids": [],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -769,7 +769,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -814,7 +814,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             }
         ],
@@ -858,7 +858,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -905,7 +905,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -936,7 +936,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -979,7 +979,7 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             },
             {
@@ -998,7 +998,7 @@
                 "availability_type_ids": [],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/practice-nurse-443",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/practice-nurse-443",
-                "availability": "Call clinic to book",
+                "availability": "Monday from 8:30 am - 5:00 pm",
                 "availability_patches": []
             }
         ]
