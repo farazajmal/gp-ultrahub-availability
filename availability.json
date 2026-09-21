@@ -1,1279 +1,311 @@
 {
-    "last_updated": "2026-09-21 08:45:58 AM",
-    "total_clinics": 4,
-    "successful_clinics": 4,
-    "failed_clinics": [],
-    "total_doctors": 25,
-    "clinics": {
-        "Gladstone": [
-            {
-                "doctor_id": 254365,
-                "doctor": "Dr. Elsadig Hassan",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MBBS",
-                    "Dip Occ Med (RCPI)",
-                    "MRCGP"
-                ],
-                "areas_of_interest": [
-                    "Family Medicine",
-                    "Occupational Medicine",
-                    "Acute Medicine",
-                    "Chronic Disease Management"
-                ],
-                "bio": "Dr Elsadig Hassan is an experienced General Practitioner with more than 14 years of medical experience. He provides comprehensive, patient-centred care to patients of all ages, with experience across acute illness, chronic disease management, preventive health, and men’s, women’s and children’s health.Dr Hassan also has four years of experience in occupational medicine and holds a Diploma in Occupational Medicine from the Royal College of Physicians of Ireland (RCPI). He has a particular interest in workplace health, fitness-for-work assessments, workplace injury management and health surveillance.Dr Hassan is committed to taking the time to listen to his patients, clearly explain their options, and provide safe, evidence-based care tailored to each individual’s needs.Outside of medicine, Dr Hassan enjoys soccer, going to the gym and cooking. Gladstone",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "dr-elsadig-hassan",
-                "availability_type_ids": [
-                    "1614363",
-                    "1614361",
-                    "1614363"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
-                "availability": "Tuesday, Sep 22 from 9:00 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "9:00 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 9:00 am",
-                        "display_full": "Tuesday, Sep 22 from 9:00 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
-                        "start_iso": "2026-09-22T09:00:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 198821,
-                "doctor": "Practice Nurse",
-                "role": "Practice Nurse",
-                "provider_type": "Nurse",
-                "gender": "",
-                "qualifications": [],
-                "areas_of_interest": [],
-                "bio": "",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "practice-nurse-514",
-                "availability_type_ids": [],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
-                "availability": "Call clinic to book",
-                "availability_patches": []
-            },
-            {
-                "doctor_id": 250178,
-                "doctor": "Dr. Mehwish Javaid",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "MCPS",
-                    "MCPS (Family Medicine)",
-                    "MBBS",
-                    "MRCGP"
-                ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Mental health",
-                    "Family medicine",
-                    "Preventive health",
-                    "General medicine",
-                    "Chronic disease management",
-                    "Child Immunization"
-                ],
-                "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health. Dr Mehwish has a strong interest in women’s health, mental health, preventive care, and the management of common acute and ongoing health conditions. She takes a holistic approach to care and works closely with her patients to support their overall wellbeing. Known for her compassionate and patient-centred approach, Dr Mehwish is committed to creating a respectful and supportive environment where patients feel comfortable discussing their health concerns. Gladstone",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "dr-mehwish-javaid",
-                "availability_type_ids": [
-                    "1588205",
-                    "1588208",
-                    "1588207",
-                    "1567704",
-                    "1567704",
-                    "1591400",
-                    "1588205",
-                    "1567704",
-                    "1567704",
-                    "1567704",
-                    "1591608",
-                    "1591613",
-                    "1591629",
-                    "1591634"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
-                "availability": "Wednesday, Sep 23 from 12:45 pm",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-23",
-                        "day_name": "Wednesday",
-                        "date_label": "Sep 23",
-                        "start_time": "12:45 pm",
-                        "end_time": "5:00 pm",
-                        "display": "from 12:45 pm",
-                        "display_full": "Wednesday, Sep 23 from 12:45 pm",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
-                        "start_iso": "2026-09-23T12:45:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 246027,
-                "doctor": "Dr. Nasim Ullah",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "DFM",
-                    "MBBS",
-                    "MRCGP",
-                    "MCPS",
-                    "General Practitioner"
-                ],
-                "areas_of_interest": [
-                    "Chronic disease management",
-                    "Diabetes care",
-                    "Men’s health",
-                    "Children’s health",
-                    "Mental health",
-                    "Preventive medicine",
-                    "Family medicine",
-                    "Skin Check"
-                ],
-                "bio": "With over 16 years of experience in general practice and family medicine, Dr Nasim provides comprehensive, patient-centred healthcare to individuals and families of all ages. Dr Nasim has extensive experience in managing acute and chronic medical conditions, preventive healthcare, men’s health, children’s health, mental health, and chronic disease management. He is committed to delivering compassionate, evidence-based care and helping patients achieve their long-term health goals. Gladstone",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "dr-nasim-ullah",
-                "availability_type_ids": [
-                    "1548197",
-                    "1523606",
-                    "1591398",
-                    "1591399",
-                    "1591401",
-                    "1548197",
-                    "1523606",
-                    "1523606",
-                    "1591602",
-                    "1591616",
-                    "1591632",
-                    "1591636"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
-                "availability": "Tuesday, Sep 22 from 11:30 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "11:30 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 11:30 am",
-                        "display_full": "Tuesday, Sep 22 from 11:30 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
-                        "start_iso": "2026-09-22T11:30:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 194201,
-                "doctor": "Dr Mohammad Umair Siddiqui",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MBBS",
-                    "FRACGP",
-                    "GDipOccEnvMed"
-                ],
-                "areas_of_interest": [
-                    "General Practice",
-                    "Occupational Medicine",
-                    "Skin cancer checks & procedures",
-                    "Preventative Health",
-                    "Chronic Disease Management"
-                ],
-                "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui’s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "dr-mohammad-umair-siddiqui-1",
-                "availability_type_ids": [
-                    "991249",
-                    "1373550",
-                    "1373549",
-                    "1597177",
-                    "1597177",
-                    "991249",
-                    "1026498",
-                    "1026496",
-                    "997131",
-                    "1597177",
-                    "991249",
-                    "1128702",
-                    "1597177",
-                    "1597177",
-                    "991249",
-                    "991249",
-                    "991249",
-                    "1597177"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
-                "availability": "Tuesday, Sep 22 from 11:30 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "11:30 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 11:30 am",
-                        "display_full": "Tuesday, Sep 22 from 11:30 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
-                        "start_iso": "2026-09-22T11:30:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 194582,
-                "doctor": "Saiqa Syeda",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "MBBS",
-                    "FRACGP"
-                ],
-                "areas_of_interest": [
-                    "General Practice",
-                    "Women’s Health",
-                    "Mental Health",
-                    "Skin cancer checks & procedures",
-                    "Preventive & Holistic Healthcare",
-                    "Comprehensive Patient Care"
-                ],
-                "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "saiqa-syeda-1",
-                "availability_type_ids": [
-                    "988658",
-                    "988658",
-                    "1026494",
-                    "1026497",
-                    "988658",
-                    "1369249",
-                    "1369249",
-                    "1369249",
-                    "1369249",
-                    "1369249",
-                    "1369252",
-                    "1369253",
-                    "988658",
-                    "1369249",
-                    "1369249",
-                    "1606893",
-                    "988658",
-                    "1373562",
-                    "1373563"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
-                "availability": "Saturday, Sep 26 from 10:30 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-26",
-                        "day_name": "Saturday",
-                        "date_label": "Sep 26",
-                        "start_time": "10:30 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 10:30 am",
-                        "display_full": "Saturday, Sep 26 from 10:30 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
-                        "start_iso": "2026-09-26T10:30:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 209447,
-                "doctor": "Dr. Arooj Fatima",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "MBBS"
-                ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Chronic disease management",
-                    "General medicine",
-                    "Family medicine",
-                    "Children’s health",
-                    "Child Immunization"
-                ],
-                "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements. In 2025, she joined GP Ultra Hub, where her patient-centered approach and expertise in preventive care empower individuals and families to achieve better health outcomes. Dr. Fatima remains committed to personalized, evidence-based care, fostering trust and well-being for her patients and community. Gladstone",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "dr-arooj-fatima",
-                "availability_type_ids": [
-                    "1153461",
-                    "1121873",
-                    "1153469",
-                    "1153461",
-                    "1121873",
-                    "1121873",
-                    "1128707",
-                    "1153461",
-                    "1121873",
-                    "1153470",
-                    "1591607",
-                    "1591612",
-                    "1153479",
-                    "1153480"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-                "availability": "Tuesday, Sep 29 from 8:30 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-29",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 29",
-                        "start_time": "8:30 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 8:30 am",
-                        "display_full": "Tuesday, Sep 29 from 8:30 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-                        "start_iso": "2026-09-29T08:30:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 195622,
-                "doctor": "Dr. Bushra Khan",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Children’s health",
-                    "Aesthetics",
-                    "Family medicine",
-                    "Skin cancer checks & procedures.",
-                    "Child Immunization"
-                ],
-                "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "dr-bushra-khan",
-                "availability_type_ids": [
-                    "1004658",
-                    "1035713",
-                    "1035713",
-                    "1035713",
-                    "1128703",
-                    "1004658",
-                    "1603794",
-                    "1603794",
-                    "1004658",
-                    "1035713",
-                    "1035713",
-                    "1035713",
-                    "1004658",
-                    "1603780",
-                    "1603780",
-                    "1162368",
-                    "1591603",
-                    "1591611",
-                    "1026499",
-                    "1504235"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-                "availability": "Monday, Sep 28 from 7:39 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-28",
-                        "day_name": "Monday",
-                        "date_label": "Sep 28",
-                        "start_time": "7:39 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 7:39 am",
-                        "display_full": "Monday, Sep 28 from 7:39 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-                        "start_iso": "2026-09-28T07:39:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 219466,
-                "doctor": "Mehwish Saghir",
-                "role": "Physiotherapist",
-                "provider_type": "Physiotherapist",
-                "gender": "Female",
-                "qualifications": [
-                    "MRCGP",
-                    "MBBS",
-                    "MCPS (Family Medicine)"
-                ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Mental health",
-                    "Family medicine",
-                    "Preventive health",
-                    "General medicine",
-                    "Chronic disease management",
-                    "Child Immunization"
-                ],
-                "bio": "Dr Mehwish Javaid is a dedicated and experienced General Practitioner who provides comprehensive care to patients of all ages. She holds an MBBS, MCPS in Family Medicine, MRCGP (International), and a Diploma in Family Medicine and Mental Health. Dr Mehwish has a strong interest in women’s health, mental health, preventive care, and the management of common acute and ongoing health conditions. She takes a holistic approach to care and works closely with her patients to support their overall wellbeing. Known for her compassionate and patient-centred approach, Dr Mehwish is committed to creating a respectful and supportive environment where patients feel comfortable discussing their health concerns. Gladstone",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "mehwish-saghir",
-                "availability_type_ids": [
-                    "1226231",
-                    "1226231",
-                    "1226231",
-                    "1226231"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
-                "availability": "Tuesday, Sep 22 from 11:00 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "11:00 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 11:00 am",
-                        "display_full": "Tuesday, Sep 22 from 11:00 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
-                        "start_iso": "2026-09-22T11:00:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 232148,
-                "doctor": "Dr. Shahid",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MRCGP",
-                    "MBBS",
-                    "MRCP Ireland"
-                ],
-                "areas_of_interest": [
-                    "Chronic Disease Management",
-                    "Mental Health",
-                    "Family Medicine",
-                    "Men",
-                    "’s",
-                    "Health"
-                ],
-                "bio": "General Practitioner, MaleMRCGP, MRCPI , MBBSWith over 14 years of extensive experience as a General Practitioner, Dr. Shahid is dedicated to providing comprehensive healthcare to patients of all ages. He specializes in managing acute and chronic health conditions, child health, mental health, and preventive care. Passionate about family and general medicine, Dr. Shahid strives to ensure every patient receives the best possible care, with a focus on promoting long-term health and well-being.",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "dr-shahid",
-                "availability_type_ids": [
-                    "1371748",
-                    "1358356",
-                    "1373556",
-                    "1373555",
-                    "1591615",
-                    "1591402",
-                    "1371748",
-                    "1371748",
-                    "1371748",
-                    "1358356",
-                    "1358356",
-                    "1591604",
-                    "1591630",
-                    "1591633"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-                "availability": "Tuesday, Sep 22 from 11:30 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "11:30 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 11:30 am",
-                        "display_full": "Tuesday, Sep 22 from 11:30 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-                        "start_iso": "2026-09-22T11:30:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            }
-        ],
-        "Calliope": [
-            {
-                "doctor_id": 221044,
-                "doctor": "Dr. Arooj Fatima",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "AMC",
-                    "MBBS"
-                ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Chronic disease management",
-                    "General medicine",
-                    "Family medicine",
-                    "Children’s health",
-                    "Child Immunization"
-                ],
-                "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements. In 2025, she joined GP Ultra Hub, where her patient-centered approach and expertise in preventive care empower individuals and families to achieve better health outcomes. Dr. Fatima remains committed to personalized, evidence-based care, fostering trust and well-being for her patients and community. Gladstone",
-                "clinic": "Calliope",
-                "clinic_id": "8407",
-                "clinic_slug": "outback-gp",
-                "doctor_slug": "dr-arooj-fatima-1",
-                "availability_type_ids": [
-                    "1432800",
-                    "1432794",
-                    "1432797",
-                    "1432796",
-                    "1432800",
-                    "1432794",
-                    "1432794",
-                    "1432800",
-                    "1432800",
-                    "1591663",
-                    "1591670",
-                    "1432794",
-                    "1432798",
-                    "1432799",
-                    "1593728",
-                    "1432800"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
-                "availability": "Wednesday, Sep 30 from 1:15 pm",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-30",
-                        "day_name": "Wednesday",
-                        "date_label": "Sep 30",
-                        "start_time": "1:15 pm",
-                        "end_time": "5:00 pm",
-                        "display": "from 1:15 pm",
-                        "display_full": "Wednesday, Sep 30 from 1:15 pm",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
-                        "start_iso": "2026-09-30T13:15:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 150207,
-                "doctor": "Dr. Aisha Asghar",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "AMC",
-                    "MBBS",
-                    "FRACGP"
-                ],
-                "areas_of_interest": [
-                    "Skin cancer checks & procedures.",
-                    "Chronic disease management.",
-                    "Veteran patients (DVA)",
-                    "Geriatric",
-                    "Women & Child health.",
-                    "Child Immunization"
-                ],
-                "bio": "Dr. Aisha Asgharis a committed General Practitioner with 19 years of experience providing exemplary healthcare. She joined GP Ultra Hub in 2024 where she continues to excel in delivering comprehensive care tailored to each patient’s unique needs. Dr Aisha specializes in general practice, Skin cancer, women’s and child health, geriatric patients. Area of experties: Gladstone",
-                "clinic": "Calliope",
-                "clinic_id": "8407",
-                "clinic_slug": "outback-gp",
-                "doctor_slug": "dr-aisha-asghar-1",
-                "availability_type_ids": [
-                    "1160007",
-                    "1160007",
-                    "1160008",
-                    "1160007",
-                    "1373508",
-                    "1373507",
-                    "1160008",
-                    "1160008",
-                    "1160008",
-                    "1160007",
-                    "1373158",
-                    "1591661",
-                    "1591672",
-                    "1160007",
-                    "1160015",
-                    "1160014",
-                    "1593729",
-                    "1160008"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
-                "availability": "Thursday, Oct 08 from 10:15 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-10-08",
-                        "day_name": "Thursday",
-                        "date_label": "Oct 08",
-                        "start_time": "10:15 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 10:15 am",
-                        "display_full": "Thursday, Oct 08 from 10:15 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
-                        "start_iso": "2026-10-08T10:15:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 232607,
-                "doctor": "Dr. Arif",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MRCGP",
-                    "MBBS"
-                ],
-                "areas_of_interest": [],
-                "bio": "Dr. Muhammad Arif is a distinguished General Practitioner with over 15 years ofinternational clinical experience in General Practice and Internal Medicine, gained through service in reputable healthcare institutions across diverse healthcare settings. He holds an MBBS degree and the esteemed MRCGP qualification, underscoring his strong clinical foundation and commitment to excellence in primary care. His areas of expertise include the comprehensive management of acute and chronic healthconditions,delivered through a patient-centred, evidence-based approach that prioritises safety and continuity of care. Dr. Arif’s clinical strengths also encompass child health, preventive care, and the evaluation and management of mental health conditions, ensuring holistic and equitable care for patients of all ages. With extensive multicultural experience and an unwavering dedication to ongoing professional development, Dr. Muhammad Arif continues to provide high-quality primary healthcare grounded in compassion, clinical precision, and ethical practice. Gladstone",
-                "clinic": "Calliope",
-                "clinic_id": "8407",
-                "clinic_slug": "outback-gp",
-                "doctor_slug": "dr-arif-2",
-                "availability_type_ids": [
-                    "1362850",
-                    "1373484",
-                    "1373530",
-                    "1373529",
-                    "1591448",
-                    "1362850",
-                    "1591662",
-                    "1593730",
-                    "1591671",
-                    "1373484",
-                    "1591449",
-                    "1362850"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
-                "availability": "Tuesday, Sep 22 from 12:45 pm",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "12:45 pm",
-                        "end_time": "5:00 pm",
-                        "display": "from 12:45 pm",
-                        "display_full": "Tuesday, Sep 22 from 12:45 pm",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
-                        "start_iso": "2026-09-22T12:45:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 129248,
-                "doctor": "Dr. Saiqa Syeda",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "MBBS",
-                    "FRACGP"
-                ],
-                "areas_of_interest": [
-                    "General Practice",
-                    "Women’s Health",
-                    "Mental Health",
-                    "Skin cancer checks & procedures",
-                    "Preventive & Holistic Healthcare",
-                    "Comprehensive Patient Care"
-                ],
-                "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
-                "clinic": "Calliope",
-                "clinic_id": "8407",
-                "clinic_slug": "outback-gp",
-                "doctor_slug": "dr-saiqa-syeda-1",
-                "availability_type_ids": [
-                    "710956",
-                    "710957",
-                    "710957",
-                    "710956",
-                    "710956",
-                    "710956",
-                    "710956",
-                    "1053457",
-                    "1053458",
-                    "710957",
-                    "710957",
-                    "710956",
-                    "710956",
-                    "710956",
-                    "710957",
-                    "1597166",
-                    "1597167",
-                    "710956"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
-                "availability": "Tuesday, Sep 22 from 11:45 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "11:45 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 11:45 am",
-                        "display_full": "Tuesday, Sep 22 from 11:45 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
-                        "start_iso": "2026-09-22T11:45:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 128870,
-                "doctor": "Practice Nurse",
-                "role": "Practice Nurse",
-                "provider_type": "Nurse",
-                "gender": "",
-                "qualifications": [],
-                "areas_of_interest": [],
-                "bio": "",
-                "clinic": "Calliope",
-                "clinic_id": "8407",
-                "clinic_slug": "outback-gp",
-                "doctor_slug": "practice-nurse-515",
-                "availability_type_ids": [],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
-                "availability": "Call clinic to book",
-                "availability_patches": []
-            },
-            {
-                "doctor_id": 252703,
-                "doctor": "Dr. Beenish Zafar",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "MBBS",
-                    "MRCGP"
-                ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Chronic disease management",
-                    "Family medicine",
-                    "General medicine",
-                    "Preventive health",
-                    "Minor procedures"
-                ],
-                "bio": "Dr Beenish is a compassionate and dedicated General Practitioner with more than 8 years of diverse clinical experience. She holds MBBS and MRCGP qualifications and brings extensive experience in providing comprehensive primary healthcare across a wide range of patient needs. She is passionate about building strong, ongoing relationships with her patients and takes the time to understand their individual health concerns and goals. Her approach focuses on early intervention, continuity of care and developing personalised treatment and management plans to support long term health and wellbeing. Dr Beenish takes a holistic and collaborative approach to healthcare, working closely with her patients to help them feel informed, supported and confident in managing their health. Gladstone",
-                "clinic": "Calliope",
-                "clinic_id": "8407",
-                "clinic_slug": "outback-gp",
-                "doctor_slug": "dr-beenish-zafar",
-                "availability_type_ids": [
-                    "1593711",
-                    "1593711",
-                    "1609671",
-                    "1593711",
-                    "1609672",
-                    "1609673",
-                    "1593711",
-                    "1593711",
-                    "1609674",
-                    "1609671",
-                    "1609671",
-                    "1609675"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
-                "availability": "Tuesday, Sep 22 from 8:00 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "8:00 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 8:00 am",
-                        "display_full": "Tuesday, Sep 22 from 8:00 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
-                        "start_iso": "2026-09-22T08:00:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            }
-        ],
-        "Burnett Heads": [
-            {
-                "doctor_id": 209152,
-                "doctor": "Dr. Umair Siddiqui",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MBBS",
-                    "FRACGP"
-                ],
-                "areas_of_interest": [
-                    "General Practice",
-                    "Occupational Medicine",
-                    "Skin cancer checks & procedures",
-                    "Preventative Health",
-                    "Chronic Disease Management"
-                ],
-                "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui’s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
-                "clinic": "Burnett Heads",
-                "clinic_id": "16389",
-                "clinic_slug": "gp-ultra-hub-burnett-heads",
-                "doctor_slug": "dr-umair-siddiqui-2",
-                "availability_type_ids": [
-                    "1609065",
-                    "1609063",
-                    "1609063",
-                    "1609063",
-                    "1609064",
-                    "1609063",
-                    "1609063",
-                    "1609063",
-                    "1609066",
-                    "1609067",
-                    "1609064",
-                    "1609065"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
-                "availability": "Friday, Sep 25 from 8:30 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-25",
-                        "day_name": "Friday",
-                        "date_label": "Sep 25",
-                        "start_time": "8:30 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 8:30 am",
-                        "display_full": "Friday, Sep 25 from 8:30 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
-                        "start_iso": "2026-09-25T08:30:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 211262,
-                "doctor": "Practice Nurse (including Flu Vaccines)",
-                "role": "Practice Nurse",
-                "provider_type": "Nurse",
-                "gender": "",
-                "qualifications": [],
-                "areas_of_interest": [],
-                "bio": "Book your Flu Vaccinations here.",
-                "clinic": "Burnett Heads",
-                "clinic_id": "16389",
-                "clinic_slug": "gp-ultra-hub-burnett-heads",
-                "doctor_slug": "practice-nurse-including-flu-vaccines-1",
-                "availability_type_ids": [],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
-                "availability": "Call clinic to book",
-                "availability_patches": []
-            },
-            {
-                "doctor_id": 212479,
-                "doctor": "Dr. Carmen Au",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "MBBS",
-                    "FRACGP"
-                ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Chronic disease management",
-                    "Mental health",
-                    "Men’s health",
-                    "Paediatrics",
-                    "General medicine",
-                    "Family medicine",
-                    "Children’s health",
-                    "Skin cancer checks & procedures",
-                    "Diabetes management"
-                ],
-                "bio": "Dr. Carem Au completed her Bachelor of Medicine / Bachelor of Surgery (MBBS) at The University of Queensland in 2014 and went on to achieve Fellowship with The Royal Australian College of General Practitioners (FRACGP) in 2021. Over the past few years, Dr. Au has worked extensively as a locum GP across Australia, gaining broad experience in all aspects of general practice before settling with GP UltraHub in Burnett Heads. She has a special interest in women’s health, children’s health, skin checks, skin cancer medicine and excisions, while also providing comprehensive care for patients and families across all stages of life. Gladstone",
-                "clinic": "Burnett Heads",
-                "clinic_id": "16389",
-                "clinic_slug": "gp-ultra-hub-burnett-heads",
-                "doctor_slug": "dr-carmen-au-1",
-                "availability_type_ids": [
-                    "1510246",
-                    "1510247",
-                    "1510246",
-                    "1591680",
-                    "1510246",
-                    "1510246",
-                    "1591684",
-                    "1510248",
-                    "1510246",
-                    "1510246",
-                    "1591688",
-                    "1591690",
-                    "1591692",
-                    "1510247",
-                    "1591702",
-                    "1591704"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-                "availability": "Tuesday, Sep 22 from 3:15 pm",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "3:15 pm",
-                        "end_time": "5:00 pm",
-                        "display": "from 3:15 pm",
-                        "display_full": "Tuesday, Sep 22 from 3:15 pm",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-                        "start_iso": "2026-09-22T15:15:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 239619,
-                "doctor": "Dr. Rezwan Alam",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MRCGP",
-                    "MBBS"
-                ],
-                "areas_of_interest": [
-                    "Chronic disease management",
-                    "General medicine",
-                    "Family medicine",
-                    "Men’s health",
-                    "Diabetes management",
-                    "Mental health",
-                    "Children’s health",
-                    "Preventive care",
-                    "Geriatric care"
-                ],
-                "bio": "Dr Rezwan Alam is a dedicated General Practitioner with over 12 years of clinical experience, focused on delivering high-quality, patient-centred care. He takes a holistic approach to health, working closely with patients to achieve better long-term outcomes.He holds Membership of the Royal College of General Practitioners (MRCGP, UK) and has a broad clinical background, enabling him to manage a wide range of acute and chronic conditions with evidence-based, compassionate care. Dr Alam has a strong interest in all areas of general practice, particularly chronic disease management, including diabetes, hypertension, obesity, and cardiac and respiratory conditions. He also provides care across adult and elderly health, mental health, women’s health, children’s health, men’s health, and preventive care.He is committed to building strong doctor–patient relationships and ensuring every patient feels heard, informed, and supported.Outside of work, Dr Alam enjoys travelling, cricket, and spending time with family and friends. Gladstone",
-                "clinic": "Burnett Heads",
-                "clinic_id": "16389",
-                "clinic_slug": "gp-ultra-hub-burnett-heads",
-                "doctor_slug": "dr-rezwan-alam",
-                "availability_type_ids": [
-                    "1470118",
-                    "1579869",
-                    "1470118",
-                    "1591681",
-                    "1591683",
-                    "1591685",
-                    "1591687",
-                    "1591691",
-                    "1591693",
-                    "1591694",
-                    "1591701",
-                    "1591703"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
-                "availability": "Tuesday, Sep 22 from 11:15 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "11:15 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 11:15 am",
-                        "display_full": "Tuesday, Sep 22 from 11:15 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
-                        "start_iso": "2026-09-22T11:15:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            }
-        ],
-        "Toowoomba": [
-            {
-                "doctor_id": 247082,
-                "doctor": "Dr. Nauman Ahmed",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MRCGP",
-                    "MBBS"
-                ],
-                "areas_of_interest": [
-                    "Occupational Health & Medicals",
-                    "Family Medicine",
-                    "Men’s Health",
-                    "Skin cancer checks & procedures."
-                ],
-                "bio": "Dr. Nauman Ahmed A Pillar of Excellence in General Practice and Occupational Medicine. With over 14 years of dedicated service in the medical field, Dr Nauman Ahmed stands out as a trusted General Practitioner. His expertise is further enhanced by over six years of specialized training in Occupational Medicine, making him a leading expert in the field. Holding prestigious qualifications such as MBBS and MRCGP, he is committed to delivering exceptional, patient-centered care. His approach ensures personalized attention and effective treatment plans tailored to individual needs. Whether you’re seeking general health advice, skin consultations, or specialized occupational health solutions, you can expect comprehensive care designed with your well-being in mind. Join countless others who have experienced top-tier medical care with a focus on quality and compassion. Gladstone",
-                "clinic": "Toowoomba",
-                "clinic_id": "17187",
-                "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
-                "doctor_slug": "dr-nauman-ahmed-1",
-                "availability_type_ids": [
-                    "1541553",
-                    "1541553",
-                    "1541553",
-                    "1541556",
-                    "1541555",
-                    "1591709",
-                    "1591722",
-                    "1591726",
-                    "1591730",
-                    "1591708",
-                    "1541554",
-                    "1541553",
-                    "1541554",
-                    "1591715"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
-                "availability": "Tuesday, Sep 22 from 8:40 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "8:40 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 8:40 am",
-                        "display_full": "Tuesday, Sep 22 from 8:40 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
-                        "start_iso": "2026-09-22T08:40:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 242874,
-                "doctor": "Dr. Aasma Sheraz",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "MBBS",
-                    "MRCPG",
-                    "MRCGP"
-                ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Chronic disease management",
-                    "Paediatrics",
-                    "General medicine",
-                    "Family medicine",
-                    "Children’s health",
-                    "Child Immunization",
-                    "Skin cancer checks & procedures."
-                ],
-                "bio": "Dr Aasma Sheraz is a dedicated and experienced General Practitioner with extensive clinical experience. She holds an MBBS and MRCGP (International), and provides comprehensive care for patients of all ages. Dr Aasma has a strong interest in chronic disease management, women’s and children’s health, and preventive care. She is also experienced in minor procedures and managing a wide range of acute and ongoing health conditions. Known for her compassionate and patient-centred approach, Dr Aasma is committed to delivering high-quality care and supporting her patients in achieving better health outcomes. Gladstone",
-                "clinic": "Toowoomba",
-                "clinic_id": "17187",
-                "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
-                "doctor_slug": "dr-aasma-sheraz",
-                "availability_type_ids": [
-                    "1492984",
-                    "1492984",
-                    "1512894",
-                    "1512895",
-                    "1512897",
-                    "1492984",
-                    "1591712",
-                    "1591720",
-                    "1591721",
-                    "1591728",
-                    "1591733",
-                    "1512897",
-                    "1512892",
-                    "1512892"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
-                "availability": "Tuesday, Sep 22 from 1:10 pm",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "1:10 pm",
-                        "end_time": "5:00 pm",
-                        "display": "from 1:10 pm",
-                        "display_full": "Tuesday, Sep 22 from 1:10 pm",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
-                        "start_iso": "2026-09-22T13:10:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 228958,
-                "doctor": "Dr. Jahangir Khan",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MBBS",
-                    "FRACGP"
-                ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Children’s health",
-                    "Aesthetics",
-                    "Family medicine",
-                    "Skin cancer checks & procedures.",
-                    "Child Immunization"
-                ],
-                "bio": "Dr. Bushra Inayat Khan is a seasoned General Practitioner with 19 years of extensive experience in the medical field. She holds an MBBS degree and is a Member of the Royal College of General Practitioners (MRCGP), reflecting her high level of expertise and commitment to excellence in general practice. Dr. Bushra has had a diverse international career experience has provided her with a broad perspective on healthcare and a deep understanding of different medical practices and patient needs. Her areas of interest are wide-ranging and include women’s health, children’s health, aged care, and aesthetic medicine. Dr. Bushra is dedicated to offering comprehensive and personalized care to her patients, ensuring they receive the highest standard of medical treatment. Personal Statement: “Committed to delivering compassionate and personalized healthcare, focusing on the unique needs of each patient.” Gladstone",
-                "clinic": "Toowoomba",
-                "clinic_id": "17187",
-                "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
-                "doctor_slug": "dr-jahangir-khan-6",
-                "availability_type_ids": [
-                    "1609981"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
-                "availability": "Tuesday, Sep 22 from 8:00 am",
-                "availability_patches": [
-                    {
-                        "date": "2026-09-22",
-                        "day_name": "Tuesday",
-                        "date_label": "Sep 22",
-                        "start_time": "8:00 am",
-                        "end_time": "5:00 pm",
-                        "display": "from 8:00 am",
-                        "display_full": "Tuesday, Sep 22 from 8:00 am",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
-                        "start_iso": "2026-09-22T08:00:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 218037,
-                "doctor": "Dr. Umair Siddiqui",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MBBS",
-                    "FRACGP"
-                ],
-                "areas_of_interest": [
-                    "General Practice",
-                    "Occupational Medicine",
-                    "Skin cancer checks & procedures",
-                    "Preventative Health",
-                    "Chronic Disease Management"
-                ],
-                "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui’s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
-                "clinic": "Toowoomba",
-                "clinic_id": "17187",
-                "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
-                "doctor_slug": "dr-umair-siddiqui-3",
-                "availability_type_ids": [
-                    "1427344",
-                    "1427344",
-                    "1434273",
-                    "1434268",
-                    "1591711",
-                    "1591724",
-                    "1591729",
-                    "1591732",
-                    "1427345",
-                    "1427344",
-                    "1591707",
-                    "1434277",
-                    "1427345",
-                    "1427344"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
-                "availability": "Monday, Oct 12 from 12:20 pm",
-                "availability_patches": [
-                    {
-                        "date": "2026-10-12",
-                        "day_name": "Monday",
-                        "date_label": "Oct 12",
-                        "start_time": "12:20 pm",
-                        "end_time": "5:00 pm",
-                        "display": "from 12:20 pm",
-                        "display_full": "Monday, Oct 12 from 12:20 pm",
-                        "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
-                        "start_iso": "2026-10-12T12:20:00+10:00",
-                        "end_iso": ""
-                    }
-                ]
-            },
-            {
-                "doctor_id": 239587,
-                "doctor": "Practice Nurse",
-                "role": "Practice Nurse",
-                "provider_type": "Nurse",
-                "gender": "",
-                "qualifications": [],
-                "areas_of_interest": [],
-                "bio": "",
-                "clinic": "Toowoomba",
-                "clinic_id": "17187",
-                "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
-                "doctor_slug": "practice-nurse-443",
-                "availability_type_ids": [],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/practice-nurse-443",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/practice-nurse-443",
-                "availability": "Call clinic to book",
-                "availability_patches": []
-            }
-        ]
+  "Gladstone": {
+    "Dr. Elsadig Hassan": {
+      "doctor": "Dr. Elsadig Hassan",
+      "clinic": "Gladstone",
+      "doctor_id": 254365,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
+      "patches": []
+    },
+    "Practice Nurse": {
+      "doctor": "Practice Nurse",
+      "clinic": "Gladstone",
+      "doctor_id": 198821,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/practice-nurse-514",
+      "patches": []
+    },
+    "Dr. Mehwish Javaid": {
+      "doctor": "Dr. Mehwish Javaid",
+      "clinic": "Gladstone",
+      "doctor_id": 250178,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
+      "patches": []
+    },
+    "Dr. Nasim Ullah": {
+      "doctor": "Dr. Nasim Ullah",
+      "clinic": "Gladstone",
+      "doctor_id": 246027,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
+      "patches": []
+    },
+    "Dr Mohammad Umair Siddiqui": {
+      "doctor": "Dr Mohammad Umair Siddiqui",
+      "clinic": "Gladstone",
+      "doctor_id": 194201,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
+      "patches": []
+    },
+    "Saiqa Syeda": {
+      "doctor": "Saiqa Syeda",
+      "clinic": "Gladstone",
+      "doctor_id": 194582,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
+      "patches": []
+    },
+    "Dr. Arooj Fatima": {
+      "doctor": "Dr. Arooj Fatima",
+      "clinic": "Gladstone",
+      "doctor_id": 209447,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
+      "patches": []
+    },
+    "Dr. Bushra Khan": {
+      "doctor": "Dr. Bushra Khan",
+      "clinic": "Gladstone",
+      "doctor_id": 195622,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
+      "patches": []
+    },
+    "Mehwish Saghir": {
+      "doctor": "Mehwish Saghir",
+      "clinic": "Gladstone",
+      "doctor_id": 219466,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/mehwish-saghir",
+      "patches": []
+    },
+    "Dr. Shahid": {
+      "doctor": "Dr. Shahid",
+      "clinic": "Gladstone",
+      "doctor_id": 232148,
+      "clinic_id": "15111",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
+      "patches": []
     }
+  },
+  "Calliope": {
+    "Dr. Arooj Fatima": {
+      "doctor": "Dr. Arooj Fatima",
+      "clinic": "Calliope",
+      "doctor_id": 221044,
+      "clinic_id": "8407",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
+      "patches": []
+    },
+    "Dr. Aisha Asghar": {
+      "doctor": "Dr. Aisha Asghar",
+      "clinic": "Calliope",
+      "doctor_id": 150207,
+      "clinic_id": "8407",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
+      "patches": []
+    },
+    "Dr. Arif": {
+      "doctor": "Dr. Arif",
+      "clinic": "Calliope",
+      "doctor_id": 232607,
+      "clinic_id": "8407",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
+      "patches": [
+        {
+          "date": "2026-09-22",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 22",
+          "start_time": "12:45 pm",
+          "end_time": "2:45 pm",
+          "time_range": "12:45 pm - 2:45 pm",
+          "discrete_slots": [
+            "12:45 pm",
+            "1:00 pm",
+            "1:15 pm",
+            "1:30 pm",
+            "2:15 pm",
+            "2:30 pm",
+            "2:45 pm"
+          ],
+          "display": "12:45 pm - 2:45 pm",
+          "display_full": "Tuesday, Sep 22: 12:45 pm - 2:45 pm"
+        },
+        {
+          "date": "2026-09-23",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 23",
+          "start_time": "10:45 am",
+          "end_time": "5:15 pm",
+          "time_range": "10:45 am - 5:15 pm",
+          "discrete_slots": [
+            "10:45 am",
+            "11:15 am",
+            "11:30 am",
+            "11:45 am",
+            "12:00 pm",
+            "12:15 pm",
+            "1:00 pm",
+            "1:15 pm",
+            "1:30 pm",
+            "2:00 pm",
+            "2:15 pm",
+            "2:30 pm",
+            "2:45 pm",
+            "3:15 pm",
+            "4:15 pm",
+            "4:30 pm",
+            "5:15 pm"
+          ],
+          "display": "10:45 am - 5:15 pm",
+          "display_full": "Wednesday, Sep 23: 10:45 am - 5:15 pm"
+        },
+        {
+          "date": "2026-09-24",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Sep 24",
+          "start_time": "11:45 am",
+          "end_time": "5:15 pm",
+          "time_range": "11:45 am - 5:15 pm",
+          "discrete_slots": [
+            "11:45 am",
+            "12:00 pm",
+            "12:15 pm",
+            "12:45 pm",
+            "1:00 pm",
+            "1:15 pm",
+            "2:30 pm",
+            "2:45 pm",
+            "3:00 pm",
+            "3:15 pm",
+            "3:30 pm",
+            "4:00 pm",
+            "4:15 pm",
+            "4:30 pm",
+            "4:45 pm",
+            "5:00 pm",
+            "5:15 pm"
+          ],
+          "display": "11:45 am - 5:15 pm",
+          "display_full": "Thursday, Sep 24: 11:45 am - 5:15 pm"
+        },
+        {
+          "date": "2026-09-25",
+          "day_name": "Friday",
+          "date_label": "Friday, Sep 25",
+          "start_time": "11:15 am",
+          "end_time": "5:00 pm",
+          "time_range": "11:15 am - 5:00 pm",
+          "discrete_slots": [
+            "11:15 am",
+            "11:45 am",
+            "12:15 pm",
+            "12:30 pm",
+            "12:45 pm",
+            "3:00 pm",
+            "3:15 pm",
+            "4:15 pm",
+            "4:30 pm",
+            "4:45 pm",
+            "5:00 pm"
+          ],
+          "display": "11:15 am - 5:00 pm",
+          "display_full": "Friday, Sep 25: 11:15 am - 5:00 pm"
+        }
+      ]
+    },
+    "Dr. Saiqa Syeda": {
+      "doctor": "Dr. Saiqa Syeda",
+      "clinic": "Calliope",
+      "doctor_id": 129248,
+      "clinic_id": "8407",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
+      "patches": []
+    },
+    "Practice Nurse": {
+      "doctor": "Practice Nurse",
+      "clinic": "Calliope",
+      "doctor_id": 128870,
+      "clinic_id": "8407",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/practice-nurse-515",
+      "patches": []
+    },
+    "Dr. Beenish Zafar": {
+      "doctor": "Dr. Beenish Zafar",
+      "clinic": "Calliope",
+      "doctor_id": 252703,
+      "clinic_id": "8407",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
+      "patches": []
+    }
+  },
+  "Burnett Heads": {
+    "Dr. Umair Siddiqui": {
+      "doctor": "Dr. Umair Siddiqui",
+      "clinic": "Burnett Heads",
+      "doctor_id": 209152,
+      "clinic_id": "16389",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
+      "patches": []
+    },
+    "Practice Nurse (including Flu Vaccines)": {
+      "doctor": "Practice Nurse (including Flu Vaccines)",
+      "clinic": "Burnett Heads",
+      "doctor_id": 211262,
+      "clinic_id": "16389",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/practice-nurse-including-flu-vaccines-1",
+      "patches": []
+    },
+    "Dr. Carmen Au": {
+      "doctor": "Dr. Carmen Au",
+      "clinic": "Burnett Heads",
+      "doctor_id": 212479,
+      "clinic_id": "16389",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
+      "patches": []
+    },
+    "Dr. Rezwan Alam": {
+      "doctor": "Dr. Rezwan Alam",
+      "clinic": "Burnett Heads",
+      "doctor_id": 239619,
+      "clinic_id": "16389",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
+      "patches": []
+    }
+  },
+  "Toowoomba": {
+    "Dr. Nauman Ahmed": {
+      "doctor": "Dr. Nauman Ahmed",
+      "clinic": "Toowoomba",
+      "doctor_id": 247082,
+      "clinic_id": "17187",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
+      "patches": []
+    },
+    "Dr. Aasma Sheraz": {
+      "doctor": "Dr. Aasma Sheraz",
+      "clinic": "Toowoomba",
+      "doctor_id": 242874,
+      "clinic_id": "17187",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
+      "patches": []
+    },
+    "Dr. Jahangir Khan": {
+      "doctor": "Dr. Jahangir Khan",
+      "clinic": "Toowoomba",
+      "doctor_id": 228958,
+      "clinic_id": "17187",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
+      "patches": []
+    },
+    "Dr. Umair Siddiqui": {
+      "doctor": "Dr. Umair Siddiqui",
+      "clinic": "Toowoomba",
+      "doctor_id": 218037,
+      "clinic_id": "17187",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
+      "patches": []
+    },
+    "Practice Nurse": {
+      "doctor": "Practice Nurse",
+      "clinic": "Toowoomba",
+      "doctor_id": 239587,
+      "clinic_id": "17187",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/practice-nurse-443",
+      "patches": []
+    }
+  }
 }
