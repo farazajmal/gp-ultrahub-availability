@@ -94,56 +94,54 @@ def build_patches_from_slots(raw_slots, date_headers=None):
             
     return patches
 
-def scrape_doctor_live(page, clinic_slug, doctor_slug):
+def scrape_doctor_proven(page, clinic_slug, doctor_slug):
     url = f"https://www.hotdoc.com.au/request/consult/for?defaults=practice-{clinic_slug},practitioner-{doctor_slug}"
     
     try:
         page.goto(url, wait_until="domcontentloaded")
-        page.wait_for_timeout(3000)
+        page.wait_for_timeout(2500)
         
-        # 1. Myself
+        # Step 1: For myself (4s max auto-wait timeout)
         try:
-            myself = page.get_by_text("For myself").first
-            if myself.is_visible():
-                myself.click()
-                page.wait_for_timeout(1000)
+            page.locator("text='For myself'").first.click(timeout=4000)
+            page.wait_for_timeout(1500)
         except Exception:
             pass
             
-        # 2. Existing
+        # Step 2: Existing patient (3s max timeout)
         try:
-            existing = page.get_by_text("Existing patient").first
-            if existing.is_visible():
-                existing.click()
-                page.wait_for_timeout(1000)
+            page.locator("text='Existing patient'").first.click(timeout=3000)
+            page.wait_for_timeout(1500)
         except Exception:
             pass
             
-        # 3. Reason
+        # Step 3: Reason (3s max timeout)
         try:
-            reason = page.locator("button:has-text('Appointment'), .flow-button").first
-            if reason.is_visible():
-                reason.click()
-                page.wait_for_timeout(1000)
+            page.locator("button:has-text('Appointment'), .flow-button").first.click(timeout=3000)
+            page.wait_for_timeout(1500)
         except Exception:
             pass
             
-        # 4. Continue
+        # Step 4: Continue button if present
         try:
             cont = page.get_by_text("Continue").first
             if cont and cont.is_visible():
-                cont.click()
-                page.wait_for_timeout(2500)
+                cont.click(timeout=2000)
+                page.wait_for_timeout(3000)
         except Exception:
             pass
 
-        # Force frame tick render
-        page.screenshot(path=f"scratch/grid_{doctor_slug}.png")
+        # Ensure grid is rendered
+        text = page.locator("body").inner_text()
+        if "Choose a time" not in text:
+            page.wait_for_timeout(3000)
+            text = page.locator("body").inner_text()
 
+        # Force screenshot layout render tick
+        page.screenshot(path=f"scratch/grid_loc_{doctor_slug}.png")
         text = page.locator("body").inner_text()
         lines = [l.strip() for l in text.split("\n") if l.strip()]
         
-        # Parse date headers from text
         date_pattern = re.compile(r"^(\d{1,2})\s+([A-Za-z]{3})$")
         header_dates = []
         
@@ -161,7 +159,6 @@ def scrape_doctor_live(page, clinic_slug, doctor_slug):
                         "label": f"{date_obj.strftime('%A')}, {date_obj.strftime('%b %d')}"
                     })
                     
-        # Parse time slots
         time_regex = re.compile(r"^(\d{1,2}:\d{2}\s*(?:am|pm))$", re.IGNORECASE)
         raw_times = []
         for l in lines:
@@ -173,7 +170,7 @@ def scrape_doctor_live(page, clinic_slug, doctor_slug):
         return patches
 
     except Exception as e:
-        logger.error(f"[{doctor_slug}] Error scraping live grid: {e}")
+        logger.error(f"[{doctor_slug}] Error scraping: {e}")
         return []
 
 def scrape_availability(days_ahead=14):
@@ -198,7 +195,7 @@ def scrape_availability(days_ahead=14):
         )
 
         for clinic_name, docs in metadata.get("clinics", {}).items():
-            logger.info(f"--- Scraping Clinic: {clinic_name} ({len(docs)} doctors) ---")
+            logger.info(f"\n--- Scraping Clinic: {clinic_name} ({len(docs)} doctors) ---")
             availability[clinic_name] = {}
             
             for doc in docs:
@@ -208,24 +205,34 @@ def scrape_availability(days_ahead=14):
                 
                 logger.info(f"Scraping {doc_name} ({doctor_slug})...")
                 page = context.new_page()
-                patches = scrape_doctor_live(page, clinic_slug, doctor_slug)
+                patches = scrape_doctor_proven(page, clinic_slug, doctor_slug)
                 page.close()
                 
-                availability[clinic_name][doc_name] = {
-                    "doctor": doc_name,
-                    "clinic": clinic_name,
-                    "doctor_id": doc["doctor_id"],
-                    "clinic_id": doc["clinic_id"],
-                    "booking_url": doc["booking_url"],
-                    "patches": patches
-                }
+                doc_data = dict(doc)
+                doc_data["availability_patches"] = patches
+                doc_data["patches"] = patches
+
+                if patches:
+                    p0 = patches[0]
+                    d_name = p0.get("day_name") or p0.get("date")
+                    date_lbl = p0.get("date_label") or ""
+                    times = [p.get("display") for p in patches if (p.get("day_name") == d_name or p.get("date") == d_name)]
+                    prefix = f"{d_name}, {date_lbl}" if date_lbl else d_name
+                    if times and prefix:
+                        doc_data["availability"] = f"{prefix} from " + " and ".join(times)
+                    else:
+                        doc_data["availability"] = "Call clinic to book"
+                else:
+                    doc_data["availability"] = "Call clinic to book"
+
+                availability[clinic_name][doc_name] = doc_data
 
         browser.close()
 
     out_file = "availability.json"
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(availability, f, indent=2)
-    logger.info(f"SUCCESS: Saved updated live availability to {out_file}")
+    logger.info(f"\nSUCCESS: Saved updated live availability to {out_file}")
 
 if __name__ == "__main__":
     scrape_availability()
