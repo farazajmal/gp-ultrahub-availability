@@ -56,15 +56,17 @@ def build_patches_from_slots(raw_slots, doctor_booking_url):
 
 def _format_patch(day_str, start_dt, end_dt, booking_url):
     day_name = start_dt.strftime("%A")
+    date_label = start_dt.strftime("%b %d")
     st_label = start_dt.strftime("%I:%M %p").lstrip("0").lower()
     et_label = end_dt.strftime("%I:%M %p").lstrip("0").lower()
     
     display_time = f"{st_label} - {et_label}"
-    display_full = f"{day_name} ({start_dt.strftime('%b %d')}): {display_time}"
+    display_full = f"{day_name}, {date_label}: {display_time}"
     
     return {
         "date": day_str,
         "day_name": day_name,
+        "date_label": date_label,
         "start_time": st_label,
         "end_time": et_label,
         "display": display_time,
@@ -127,7 +129,8 @@ def scrape_availability(days_ahead=14):
             "gp-ultra-hub-gladstone": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors",
             "outback-gp": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors",
             "gp-ultra-hub-burnett-heads": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors",
-            "gp-ultra-hub-toowoomba": "https://www.hotdoc.com.au/medical-centres/toowoomba-city-QLD-4350/gp-ultra-hub-toowoomba/doctors"
+            "gp-ultra-hub-toowoomba-plaza": "https://www.hotdoc.com.au/medical-centres/toowoomba-city-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors",
+            "gp-ultra-hub-toowoomba": "https://www.hotdoc.com.au/medical-centres/toowoomba-city-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors"
         }
         html_url = clinic_html_urls.get(clinic_slug)
         if html_url:
@@ -141,15 +144,22 @@ def scrape_availability(days_ahead=14):
 
         clinic_api_url = f"https://www.hotdoc.com.au/api/patient/clinics/{clinic_slug}?id={clinic_slug}"
         doc_avail_map = {}
+        hotdoc_doc_map = {}
         try:
             resp = session.get(clinic_api_url, headers=headers, timeout=10)
             if resp.status_code == 200:
                 c_data = resp.json()
+                for h_d in c_data.get("doctors", []):
+                    h_id = h_d.get("id")
+                    if h_id is not None:
+                        hotdoc_doc_map[h_id] = h_d
+                        hotdoc_doc_map[str(h_id)] = h_d
                 for dr in c_data.get("doctor_reasons", []):
                     d_id = dr.get("doctor_id")
                     a_id = dr.get("availability_type_id")
                     if d_id and a_id:
                         doc_avail_map.setdefault(d_id, []).append(str(a_id))
+                        doc_avail_map.setdefault(str(d_id), []).append(str(a_id))
         except Exception as e:
             logging.warning(f"Could not fetch clinic API for {clinic_slug}: {e}")
 
@@ -159,14 +169,19 @@ def scrape_availability(days_ahead=14):
             doc_id = d.get("doctor_id")
             full_name = d.get("doctor")
             clinic_id = d.get("clinic_id")
-            booking_url = d.get("profile_url") or d.get("booking_url")
-            avail_ids = doc_avail_map.get(doc_id) or d.get("availability_type_ids") or []
+            
+            h_doc = hotdoc_doc_map.get(doc_id) or hotdoc_doc_map.get(str(doc_id))
+            if h_doc and h_doc.get("listing_path"):
+                booking_url = "https://www.hotdoc.com.au" + h_doc.get("listing_path")
+            else:
+                booking_url = d.get("profile_url") or d.get("booking_url")
+
+            avail_ids = doc_avail_map.get(doc_id) or doc_avail_map.get(str(doc_id)) or d.get("availability_type_ids") or []
 
             raw_slots = []
             seen_slot_ids = set()
 
-            # Take up to first 3 availability type IDs per doctor to capture all available slot types
-            for a_id in avail_ids[:3]:
+            for a_id in avail_ids[:2]:
                 params = [
                     ("start_time", start_iso),
                     ("end_time", end_iso),
@@ -176,42 +191,58 @@ def scrape_availability(days_ahead=14):
                     ("availability_type_ids[]", str(a_id))
                 ]
 
-                for attempt in range(4):
-                    try:
-                        res = session.get("https://www.hotdoc.com.au/api/patient/time_slots", headers=headers, params=params, timeout=12)
-                        if res.status_code == 200:
-                            data = res.json()
-                            for s in data.get("time_slots", []):
-                                s_id = s.get("id")
-                                if s_id not in seen_slot_ids:
-                                    seen_slot_ids.add(s_id)
-                                    raw_slots.append(s)
-                            break
-                        elif res.status_code == 429:
-                            wait_sec = (attempt + 1) * 15
-                            logging.warning(f"Rate limited (429) on doc {full_name}, waiting {wait_sec}s...")
-                            time.sleep(wait_sec)
-                    except Exception as e:
-                        logging.warning(f"Error requesting slots for {full_name}: {e}")
-                        break
-
-                time.sleep(1.5)
+                try:
+                    res = session.get("https://www.hotdoc.com.au/api/patient/time_slots", headers=headers, params=params, timeout=3)
+                    if res.status_code == 200:
+                        data = res.json()
+                        for s in data.get("time_slots", []):
+                            s_id = s.get("id")
+                            if s_id not in seen_slot_ids:
+                                seen_slot_ids.add(s_id)
+                                raw_slots.append(s)
+                except Exception:
+                    pass
 
             patches = build_patches_from_slots(raw_slots, booking_url)
 
+            earliest_iso = h_doc.get("earliest_available") if h_doc else None
+            
+            earliest_patch = None
+            if earliest_iso:
+                try:
+                    brisbane_tz = timezone(timedelta(hours=10))
+                    dt_utc = datetime.fromisoformat(earliest_iso.replace("Z", "+00:00"))
+                    dt_bne = dt_utc.astimezone(brisbane_tz)
+                    
+                    date_str = dt_bne.strftime("%Y-%m-%d")
+                    day_name = dt_bne.strftime("%A")
+                    date_label = dt_bne.strftime("%b %d")
+                    time_label = dt_bne.strftime("%I:%M %p").lstrip("0").lower()
+                    
+                    display_full = f"{day_name}, {date_label} from {time_label}"
+                    earliest_patch = {
+                        "date": date_str,
+                        "day_name": day_name,
+                        "date_label": date_label,
+                        "start_time": time_label,
+                        "end_time": "5:00 pm",
+                        "display": f"from {time_label}",
+                        "display_full": display_full,
+                        "booking_url": booking_url,
+                        "start_iso": dt_bne.isoformat(),
+                        "end_iso": ""
+                    }
+                except Exception as ex:
+                    logging.warning(f"Error parsing earliest_available for {full_name}: {ex}")
+
             if patches:
-                earliest_patch = patches[0]
-                availability_summary = earliest_patch.get("display_full") or earliest_patch.get("display")
+                availability_summary = patches[0].get("display_full") or patches[0].get("display")
+            elif earliest_patch:
+                patches = [earliest_patch]
+                availability_summary = earliest_patch.get("display_full")
             else:
-                now = datetime.now()
-                if now.weekday() < 5 and now.hour < 17:
-                    next_day = now
-                else:
-                    next_day = now + timedelta(days=1)
-                    while next_day.weekday() >= 5:
-                        next_day += timedelta(days=1)
-                day_name = next_day.strftime("%A")
-                availability_summary = f"{day_name} from 8:30 am - 5:00 pm"
+                patches = []
+                availability_summary = "Call clinic to book"
 
             doc_record = dict(d)
             doc_record["availability"] = availability_summary
