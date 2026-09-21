@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-21 08:31:04 AM",
+    "last_updated": "2026-09-21 08:45:58 AM",
     "total_clinics": 4,
     "successful_clinics": 4,
     "failed_clinics": [],
@@ -1139,18 +1139,18 @@
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
-                "availability": "Tuesday, Sep 22 from 1:00 pm",
+                "availability": "Tuesday, Sep 22 from 1:10 pm",
                 "availability_patches": [
                     {
                         "date": "2026-09-22",
                         "day_name": "Tuesday",
                         "date_label": "Sep 22",
-                        "start_time": "1:00 pm",
+                        "start_time": "1:10 pm",
                         "end_time": "5:00 pm",
-                        "display": "from 1:00 pm",
-                        "display_full": "Tuesday, Sep 22 from 1:00 pm",
+                        "display": "from 1:10 pm",
+                        "display_full": "Tuesday, Sep 22 from 1:10 pm",
                         "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
-                        "start_iso": "2026-09-22T13:00:00+10:00",
+                        "start_iso": "2026-09-22T13:10:00+10:00",
                         "end_iso": ""
                     }
                 ]
