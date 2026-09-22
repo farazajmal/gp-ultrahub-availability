@@ -670,9 +670,87 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
-      "availability_patches": [],
-      "patches": [],
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-25",
+          "day_name": "Friday",
+          "date_label": "Friday, Sep 25",
+          "start_time": "11:30 am",
+          "end_time": "12:15 pm",
+          "time_range": "11:30 am - 12:15 pm",
+          "discrete_slots": [
+            "11:30 am",
+            "11:45 am",
+            "12:15 pm"
+          ],
+          "display": "11:30 am - 12:15 pm",
+          "display_full": "Friday, Sep 25: 11:30 am - 12:15 pm"
+        },
+        {
+          "date": "2026-09-26",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Sep 26",
+          "start_time": "9:00 am",
+          "end_time": "12:30 pm",
+          "time_range": "9:00 am - 12:30 pm",
+          "discrete_slots": [
+            "9:00 am",
+            "9:15 am",
+            "9:30 am",
+            "10:00 am",
+            "10:15 am",
+            "10:30 am",
+            "10:45 am",
+            "11:30 am",
+            "11:45 am",
+            "12:15 pm",
+            "12:30 pm"
+          ],
+          "display": "9:00 am - 12:30 pm",
+          "display_full": "Saturday, Sep 26: 9:00 am - 12:30 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-25",
+          "day_name": "Friday",
+          "date_label": "Friday, Sep 25",
+          "start_time": "11:30 am",
+          "end_time": "12:15 pm",
+          "time_range": "11:30 am - 12:15 pm",
+          "discrete_slots": [
+            "11:30 am",
+            "11:45 am",
+            "12:15 pm"
+          ],
+          "display": "11:30 am - 12:15 pm",
+          "display_full": "Friday, Sep 25: 11:30 am - 12:15 pm"
+        },
+        {
+          "date": "2026-09-26",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Sep 26",
+          "start_time": "9:00 am",
+          "end_time": "12:30 pm",
+          "time_range": "9:00 am - 12:30 pm",
+          "discrete_slots": [
+            "9:00 am",
+            "9:15 am",
+            "9:30 am",
+            "10:00 am",
+            "10:15 am",
+            "10:30 am",
+            "10:45 am",
+            "11:30 am",
+            "11:45 am",
+            "12:15 pm",
+            "12:30 pm"
+          ],
+          "display": "9:00 am - 12:30 pm",
+          "display_full": "Saturday, Sep 26: 9:00 am - 12:30 pm"
+        }
+      ],
+      "availability": "Friday, Friday, Sep 25 from 11:30 am - 12:15 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -1360,7 +1438,6 @@
             "11:45 am",
             "12:15 pm",
             "12:30 pm",
-            "2:15 pm",
             "2:45 pm",
             "3:15 pm"
           ],
@@ -1431,7 +1508,6 @@
             "11:45 am",
             "12:15 pm",
             "12:30 pm",
-            "2:15 pm",
             "2:45 pm",
             "3:15 pm"
           ],
@@ -2540,7 +2616,6 @@
             "9:20 am",
             "9:50 am",
             "10:20 am",
-            "10:30 am",
             "10:40 am",
             "10:50 am",
             "11:00 am",
@@ -2646,7 +2721,6 @@
             "9:20 am",
             "9:50 am",
             "10:20 am",
-            "10:30 am",
             "10:40 am",
             "10:50 am",
             "11:00 am",
@@ -2711,16 +2785,10 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
+          "time_range": "10:10 am - 4:00 pm",
           "discrete_slots": [
-            "9:10 am",
-            "9:20 am",
-            "9:30 am",
-            "9:40 am",
-            "9:50 am",
-            "10:00 am",
             "10:10 am",
             "10:20 am",
             "10:30 am",
@@ -2758,8 +2826,8 @@
             "3:50 pm",
             "4:00 pm"
           ],
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Thursday, Sep 24: 9:10 am - 4:00 pm"
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Thursday, Sep 24: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -2889,16 +2957,10 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
+          "time_range": "10:10 am - 4:00 pm",
           "discrete_slots": [
-            "9:10 am",
-            "9:20 am",
-            "9:30 am",
-            "9:40 am",
-            "9:50 am",
-            "10:00 am",
             "10:10 am",
             "10:20 am",
             "10:30 am",
@@ -2936,8 +2998,8 @@
             "3:50 pm",
             "4:00 pm"
           ],
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Thursday, Sep 24: 9:10 am - 4:00 pm"
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Thursday, Sep 24: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -3062,7 +3124,7 @@
           "display_full": "Saturday, Sep 26: 8:00 am - 4:00 pm"
         }
       ],
-      "availability": "Thursday, Thursday, Sep 24 from 9:10 am - 4:00 pm"
+      "availability": "Thursday, Thursday, Sep 24 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
