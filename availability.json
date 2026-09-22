@@ -526,75 +526,9 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
-      "availability_patches": [
-        {
-          "date": "2026-09-27",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Sep 27",
-          "start_time": "11:00 am",
-          "end_time": "3:45 pm",
-          "time_range": "11:00 am - 3:45 pm",
-          "discrete_slots": [
-            "11:00 am",
-            "11:15 am",
-            "11:30 am",
-            "11:45 am",
-            "12:00 pm",
-            "12:15 pm",
-            "12:30 pm",
-            "12:45 pm",
-            "1:00 pm",
-            "1:15 pm",
-            "1:30 pm",
-            "1:45 pm",
-            "2:00 pm",
-            "2:15 pm",
-            "2:30 pm",
-            "2:45 pm",
-            "3:00 pm",
-            "3:15 pm",
-            "3:30 pm",
-            "3:45 pm"
-          ],
-          "display": "11:00 am - 3:45 pm",
-          "display_full": "Sunday, Sep 27: 11:00 am - 3:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-09-27",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Sep 27",
-          "start_time": "11:00 am",
-          "end_time": "3:45 pm",
-          "time_range": "11:00 am - 3:45 pm",
-          "discrete_slots": [
-            "11:00 am",
-            "11:15 am",
-            "11:30 am",
-            "11:45 am",
-            "12:00 pm",
-            "12:15 pm",
-            "12:30 pm",
-            "12:45 pm",
-            "1:00 pm",
-            "1:15 pm",
-            "1:30 pm",
-            "1:45 pm",
-            "2:00 pm",
-            "2:15 pm",
-            "2:30 pm",
-            "2:45 pm",
-            "3:00 pm",
-            "3:15 pm",
-            "3:30 pm",
-            "3:45 pm"
-          ],
-          "display": "11:00 am - 3:45 pm",
-          "display_full": "Sunday, Sep 27: 11:00 am - 3:45 pm"
-        }
-      ],
-      "availability": "Sunday, Sunday, Sep 27 from 11:00 am - 3:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "availability": "Call clinic to book"
     },
     "Dr. Arooj Fatima": {
       "doctor_id": 209447,
@@ -767,9 +701,161 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-      "availability_patches": [],
-      "patches": [],
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-25",
+          "day_name": "Friday",
+          "date_label": "Friday, Sep 25",
+          "start_time": "7:00 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:00 am - 2:45 pm",
+          "discrete_slots": [
+            "7:00 am",
+            "7:15 am",
+            "7:30 am",
+            "7:45 am",
+            "8:00 am",
+            "12:30 pm",
+            "1:15 pm",
+            "2:30 pm",
+            "2:45 pm"
+          ],
+          "display": "7:00 am - 2:45 pm",
+          "display_full": "Friday, Sep 25: 7:00 am - 2:45 pm"
+        },
+        {
+          "date": "2026-09-26",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Sep 26",
+          "start_time": "7:00 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:00 am - 2:45 pm",
+          "discrete_slots": [
+            "7:00 am",
+            "7:15 am",
+            "7:45 am",
+            "8:15 am",
+            "11:15 am",
+            "11:45 am",
+            "1:00 pm",
+            "2:15 pm",
+            "2:30 pm",
+            "2:45 pm"
+          ],
+          "display": "7:00 am - 2:45 pm",
+          "display_full": "Saturday, Sep 26: 7:00 am - 2:45 pm"
+        },
+        {
+          "date": "2026-09-27",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Sep 27",
+          "start_time": "10:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:30 am - 3:45 pm",
+          "discrete_slots": [
+            "10:30 am",
+            "10:45 am",
+            "11:00 am",
+            "11:15 am",
+            "11:30 am",
+            "11:45 am",
+            "12:15 pm",
+            "12:30 pm",
+            "12:45 pm",
+            "1:15 pm",
+            "1:30 pm",
+            "1:45 pm",
+            "2:00 pm",
+            "2:15 pm",
+            "2:30 pm",
+            "2:45 pm",
+            "3:00 pm",
+            "3:15 pm",
+            "3:30 pm",
+            "3:45 pm"
+          ],
+          "display": "10:30 am - 3:45 pm",
+          "display_full": "Sunday, Sep 27: 10:30 am - 3:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-25",
+          "day_name": "Friday",
+          "date_label": "Friday, Sep 25",
+          "start_time": "7:00 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:00 am - 2:45 pm",
+          "discrete_slots": [
+            "7:00 am",
+            "7:15 am",
+            "7:30 am",
+            "7:45 am",
+            "8:00 am",
+            "12:30 pm",
+            "1:15 pm",
+            "2:30 pm",
+            "2:45 pm"
+          ],
+          "display": "7:00 am - 2:45 pm",
+          "display_full": "Friday, Sep 25: 7:00 am - 2:45 pm"
+        },
+        {
+          "date": "2026-09-26",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Sep 26",
+          "start_time": "7:00 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:00 am - 2:45 pm",
+          "discrete_slots": [
+            "7:00 am",
+            "7:15 am",
+            "7:45 am",
+            "8:15 am",
+            "11:15 am",
+            "11:45 am",
+            "1:00 pm",
+            "2:15 pm",
+            "2:30 pm",
+            "2:45 pm"
+          ],
+          "display": "7:00 am - 2:45 pm",
+          "display_full": "Saturday, Sep 26: 7:00 am - 2:45 pm"
+        },
+        {
+          "date": "2026-09-27",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Sep 27",
+          "start_time": "10:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:30 am - 3:45 pm",
+          "discrete_slots": [
+            "10:30 am",
+            "10:45 am",
+            "11:00 am",
+            "11:15 am",
+            "11:30 am",
+            "11:45 am",
+            "12:15 pm",
+            "12:30 pm",
+            "12:45 pm",
+            "1:15 pm",
+            "1:30 pm",
+            "1:45 pm",
+            "2:00 pm",
+            "2:15 pm",
+            "2:30 pm",
+            "2:45 pm",
+            "3:00 pm",
+            "3:15 pm",
+            "3:30 pm",
+            "3:45 pm"
+          ],
+          "display": "10:30 am - 3:45 pm",
+          "display_full": "Sunday, Sep 27: 10:30 am - 3:45 pm"
+        }
+      ],
+      "availability": "Friday, Friday, Sep 25 from 7:00 am - 2:45 pm"
     }
   },
   "Calliope": {
@@ -2082,7 +2168,6 @@
             "2:30 pm",
             "2:40 pm",
             "2:50 pm",
-            "3:10 pm",
             "3:20 pm"
           ],
           "display": "1:50 pm - 3:20 pm",
@@ -2187,7 +2272,6 @@
             "2:30 pm",
             "2:40 pm",
             "2:50 pm",
-            "3:10 pm",
             "3:20 pm"
           ],
           "display": "1:50 pm - 3:20 pm",
@@ -2311,16 +2395,10 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "12:10 pm",
+          "start_time": "1:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "12:10 pm - 4:00 pm",
+          "time_range": "1:10 pm - 4:00 pm",
           "discrete_slots": [
-            "12:10 pm",
-            "12:20 pm",
-            "12:30 pm",
-            "12:40 pm",
-            "12:50 pm",
-            "1:00 pm",
             "1:10 pm",
             "1:20 pm",
             "1:30 pm",
@@ -2340,8 +2418,8 @@
             "3:50 pm",
             "4:00 pm"
           ],
-          "display": "12:10 pm - 4:00 pm",
-          "display_full": "Friday, Sep 25: 12:10 pm - 4:00 pm"
+          "display": "1:10 pm - 4:00 pm",
+          "display_full": "Friday, Sep 25: 1:10 pm - 4:00 pm"
         },
         {
           "date": "2026-09-26",
@@ -2471,16 +2549,10 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "12:10 pm",
+          "start_time": "1:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "12:10 pm - 4:00 pm",
+          "time_range": "1:10 pm - 4:00 pm",
           "discrete_slots": [
-            "12:10 pm",
-            "12:20 pm",
-            "12:30 pm",
-            "12:40 pm",
-            "12:50 pm",
-            "1:00 pm",
             "1:10 pm",
             "1:20 pm",
             "1:30 pm",
@@ -2500,8 +2572,8 @@
             "3:50 pm",
             "4:00 pm"
           ],
-          "display": "12:10 pm - 4:00 pm",
-          "display_full": "Friday, Sep 25: 12:10 pm - 4:00 pm"
+          "display": "1:10 pm - 4:00 pm",
+          "display_full": "Friday, Sep 25: 1:10 pm - 4:00 pm"
         },
         {
           "date": "2026-09-26",
@@ -2626,7 +2698,7 @@
           "display_full": "Sunday, Sep 27: 8:00 am - 4:00 pm"
         }
       ],
-      "availability": "Friday, Friday, Sep 25 from 12:10 pm - 4:00 pm"
+      "availability": "Friday, Friday, Sep 25 from 1:10 pm - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
