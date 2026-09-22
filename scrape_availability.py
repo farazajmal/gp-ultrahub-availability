@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 
 # How many doctors to scrape at the same time. Raise for more speed,
 # lower if the site starts blocking / rate-limiting you.
-CONCURRENCY = int(os.environ.get("SCRAPE_CONCURRENCY", "5"))
+CONCURRENCY = int(os.environ.get("SCRAPE_CONCURRENCY", "4"))
 
 
 def parse_time_to_minutes(t_str):
@@ -132,29 +132,40 @@ async def scrape_doctor_proven(page, clinic_slug, doctor_slug):
         await page.goto(url, wait_until="domcontentloaded")
 
         # Step 1: For myself
-        await _click_when_ready(page, "For myself", timeout=6000)
+        ok1 = await _click_when_ready(page, "For myself", timeout=8000)
 
         # Step 2: Existing patient
-        await _click_when_ready(page, "Existing patient", timeout=4000)
+        ok2 = await _click_when_ready(page, "Existing patient", timeout=6000)
 
         # Step 3: Reason
-        await _click_appointment_button(page, timeout=4000)
+        ok3 = await _click_appointment_button(page, timeout=6000)
 
         # Step 4: Continue button if present
+        ok4 = True
         try:
             cont = page.get_by_text("Continue").first
-            await cont.wait_for(state="visible", timeout=2500)
+            await cont.wait_for(state="visible", timeout=3500)
             await cont.click()
         except Exception:
-            pass
+            ok4 = False
+
+        logger.info(
+            f"[{doctor_slug}] step status - for_myself={ok1} "
+            f"existing_patient={ok2} reason={ok3} continue={ok4}"
+        )
 
         # Ensure grid is rendered — wait for the actual text instead of
         # sleep-then-check-then-sleep-again.
+        grid_ready = True
         try:
-            await page.get_by_text("Choose a time").first.wait_for(state="visible", timeout=6000)
+            await page.get_by_text("Choose a time").first.wait_for(state="visible", timeout=8000)
         except Exception:
-            # Give it one more short beat in case it's still hydrating.
-            await page.wait_for_timeout(1000)
+            grid_ready = False
+            # Give it one more beat in case it's still hydrating.
+            await page.wait_for_timeout(2000)
+
+        if not grid_ready:
+            logger.warning(f"[{doctor_slug}] 'Choose a time' text never appeared — grid may not have loaded")
 
         # Force screenshot layout render tick
         await page.screenshot(path=f"scratch/grid_loc_{doctor_slug}.png")
@@ -192,18 +203,29 @@ async def scrape_doctor_proven(page, clinic_slug, doctor_slug):
         return []
 
 
-async def _scrape_one(context, clinic_name, doc, semaphore, availability):
+async def _scrape_one(browser, clinic_name, doc, semaphore, availability):
     async with semaphore:
         doc_name = doc["doctor"]
         clinic_slug = doc["clinic_slug"]
         doctor_slug = doc["doctor_slug"]
 
         logger.info(f"Scraping {doc_name} ({doctor_slug})...")
+
+        # Each doctor gets its OWN browser context (own cookies/session),
+        # not a shared one. HotDoc's booking flow tracks the "for myself /
+        # existing patient / reason" selections via session state, so
+        # concurrent doctors sharing a context were overwriting each
+        # other's progress mid-flow and coming back with no slots.
+        context = await browser.new_context(
+            viewport={"width": 1280, "height": 900},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
         page = await context.new_page()
         try:
             patches = await scrape_doctor_proven(page, clinic_slug, doctor_slug)
         finally:
             await page.close()
+            await context.close()
 
         doc_data = dict(doc)
         doc_data["availability_patches"] = patches
@@ -242,16 +264,12 @@ async def scrape_availability_async(days_ahead=14):
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context(
-            viewport={"width": 1280, "height": 900},
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        )
 
         tasks = []
         for clinic_name, docs in metadata.get("clinics", {}).items():
             availability.setdefault(clinic_name, {})
             for doc in docs:
-                tasks.append(_scrape_one(context, clinic_name, doc, semaphore, availability))
+                tasks.append(_scrape_one(browser, clinic_name, doc, semaphore, availability))
 
         logger.info(f"Scraping {len(tasks)} doctors with concurrency={CONCURRENCY}...")
         await asyncio.gather(*tasks, return_exceptions=False)
