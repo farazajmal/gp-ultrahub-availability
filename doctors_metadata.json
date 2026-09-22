@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-22 07:00:52 AM",
+    "last_updated": "2026-09-22 07:00:59 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -10,8 +10,8 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
                     "Dip Occ Med (RCPI)",
+                    "MBBS",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
@@ -102,10 +102,10 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
+                    "DFM",
                     "MRCGP",
                     "General Practitioner",
-                    "DFM",
+                    "MCPS",
                     "MBBS"
                 ],
                 "areas_of_interest": [
@@ -326,8 +326,8 @@
                 "provider_type": "Physiotherapist",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MBBS",
+                    "MCPS (Family Medicine)",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
@@ -650,16 +650,16 @@
                 "clinic_slug": "gp-ultra-hub-burnett-heads",
                 "doctor_slug": "dr-umair-siddiqui-2",
                 "availability_type_ids": [
-                    "1609065",
-                    "1609063",
                     "1609063",
                     "1609063",
                     "1609064",
                     "1609063",
                     "1609063",
-                    "1609063",
-                    "1609066",
                     "1609067",
+                    "1609066",
+                    "1609065",
+                    "1609063",
+                    "1609063",
                     "1609064",
                     "1609065"
                 ],
@@ -714,19 +714,19 @@
                     "1510246",
                     "1510247",
                     "1510246",
-                    "1591680",
-                    "1510246",
-                    "1510246",
-                    "1591684",
                     "1510248",
+                    "1591684",
                     "1510246",
                     "1510246",
+                    "1510247",
+                    "1510246",
+                    "1510246",
+                    "1591680",
                     "1591688",
                     "1591690",
                     "1591692",
-                    "1510247",
-                    "1591702",
-                    "1591704"
+                    "1591704",
+                    "1591702"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1"
@@ -761,13 +761,13 @@
                     "1470118",
                     "1579869",
                     "1470118",
-                    "1591681",
-                    "1591683",
                     "1591685",
+                    "1591683",
+                    "1591694",
+                    "1591681",
                     "1591687",
                     "1591691",
                     "1591693",
-                    "1591694",
                     "1591701",
                     "1591703"
                 ],
@@ -798,20 +798,20 @@
                 "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
                 "doctor_slug": "dr-nauman-ahmed-1",
                 "availability_type_ids": [
+                    "1591708",
+                    "1541553",
+                    "1541554",
                     "1541553",
                     "1541553",
-                    "1541553",
-                    "1541556",
+                    "1541554",
                     "1541555",
+                    "1541556",
+                    "1591715",
+                    "1541553",
                     "1591709",
                     "1591722",
-                    "1591726",
                     "1591730",
-                    "1591708",
-                    "1541554",
-                    "1541553",
-                    "1541554",
-                    "1591715"
+                    "1591726"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
@@ -843,20 +843,20 @@
                 "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
                 "doctor_slug": "dr-aasma-sheraz",
                 "availability_type_ids": [
+                    "1512897",
                     "1492984",
-                    "1492984",
+                    "1512892",
+                    "1512892",
                     "1512894",
                     "1512895",
+                    "1492984",
                     "1512897",
+                    "1591720",
                     "1492984",
                     "1591712",
-                    "1591720",
                     "1591721",
                     "1591728",
-                    "1591733",
-                    "1512897",
-                    "1512892",
-                    "1512892"
+                    "1591733"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
@@ -913,20 +913,20 @@
                 "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
                 "doctor_slug": "dr-umair-siddiqui-3",
                 "availability_type_ids": [
+                    "1591707",
+                    "1427344",
+                    "1427345",
                     "1427344",
                     "1427344",
-                    "1434273",
+                    "1427345",
                     "1434268",
+                    "1434273",
+                    "1434277",
+                    "1427344",
                     "1591711",
                     "1591724",
                     "1591729",
-                    "1591732",
-                    "1427345",
-                    "1427344",
-                    "1591707",
-                    "1434277",
-                    "1427345",
-                    "1427344"
+                    "1591732"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3"
