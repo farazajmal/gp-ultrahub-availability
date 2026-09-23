@@ -1981,11 +1981,10 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "11:30 am",
+          "start_time": "12:00 pm",
           "end_time": "6:40 pm",
-          "time_range": "11:30 am - 6:40 pm",
+          "time_range": "12:00 pm - 6:40 pm",
           "discrete_slots": [
-            "11:30 am",
             "12:00 pm",
             "12:10 pm",
             "12:20 pm",
@@ -2017,8 +2016,8 @@
             "6:30 pm",
             "6:40 pm"
           ],
-          "display": "11:30 am - 6:40 pm",
-          "display_full": "Thursday, Sep 24: 11:30 am - 6:40 pm"
+          "display": "12:00 pm - 6:40 pm",
+          "display_full": "Thursday, Sep 24: 12:00 pm - 6:40 pm"
         },
         {
           "date": "2026-09-25",
@@ -2073,11 +2072,10 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "11:30 am",
+          "start_time": "12:00 pm",
           "end_time": "6:40 pm",
-          "time_range": "11:30 am - 6:40 pm",
+          "time_range": "12:00 pm - 6:40 pm",
           "discrete_slots": [
-            "11:30 am",
             "12:00 pm",
             "12:10 pm",
             "12:20 pm",
@@ -2109,8 +2107,8 @@
             "6:30 pm",
             "6:40 pm"
           ],
-          "display": "11:30 am - 6:40 pm",
-          "display_full": "Thursday, Sep 24: 11:30 am - 6:40 pm"
+          "display": "12:00 pm - 6:40 pm",
+          "display_full": "Thursday, Sep 24: 12:00 pm - 6:40 pm"
         },
         {
           "date": "2026-09-25",
@@ -2161,7 +2159,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 11:30 am - 6:40 pm"
+      "availability": "Thursday, Sep 24 from 12:00 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
