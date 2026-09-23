@@ -49,6 +49,16 @@
           "time_range": "8:45 am - 3:45 pm",
           "display": "8:45 am - 3:45 pm",
           "display_full": "Friday, Sep 25: 8:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "8:45 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:45 am - 4:00 pm",
+          "display": "8:45 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 8:45 am - 4:00 pm"
         }
       ],
       "patches": [
@@ -71,6 +81,16 @@
           "time_range": "8:45 am - 3:45 pm",
           "display": "8:45 am - 3:45 pm",
           "display_full": "Friday, Sep 25: 8:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "8:45 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:45 am - 4:00 pm",
+          "display": "8:45 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 8:45 am - 4:00 pm"
         }
       ],
       "scrape_status": "ok",
@@ -171,6 +191,16 @@
           "time_range": "11:00 am - 3:45 pm",
           "display": "11:00 am - 3:45 pm",
           "display_full": "Sunday, Sep 27: 11:00 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:45 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:45 am - 6:45 pm",
+          "display": "11:45 am - 6:45 pm",
+          "display_full": "Monday, Sep 28: 11:45 am - 6:45 pm"
         }
       ],
       "patches": [
@@ -203,6 +233,16 @@
           "time_range": "11:00 am - 3:45 pm",
           "display": "11:00 am - 3:45 pm",
           "display_full": "Sunday, Sep 27: 11:00 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:45 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:45 am - 6:45 pm",
+          "display": "11:45 am - 6:45 pm",
+          "display_full": "Monday, Sep 28: 11:45 am - 6:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -272,6 +312,16 @@
           "time_range": "11:00 am - 6:15 pm",
           "display": "11:00 am - 6:15 pm",
           "display_full": "Friday, Sep 25: 11:00 am - 6:15 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:00 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:00 am - 6:45 pm",
+          "display": "11:00 am - 6:45 pm",
+          "display_full": "Monday, Sep 28: 11:00 am - 6:45 pm"
         }
       ],
       "patches": [
@@ -294,6 +344,16 @@
           "time_range": "11:00 am - 6:15 pm",
           "display": "11:00 am - 6:15 pm",
           "display_full": "Friday, Sep 25: 11:00 am - 6:15 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:00 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:00 am - 6:45 pm",
+          "display": "11:00 am - 6:45 pm",
+          "display_full": "Monday, Sep 28: 11:00 am - 6:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -354,6 +414,16 @@
           "time_range": "10:00 am - 12:30 pm",
           "display": "10:00 am - 12:30 pm",
           "display_full": "Thursday, Sep 24: 10:00 am - 12:30 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "7:15 am",
+          "end_time": "10:00 am",
+          "time_range": "7:15 am - 10:00 am",
+          "display": "7:15 am - 10:00 am",
+          "display_full": "Monday, Sep 28: 7:15 am - 10:00 am"
         }
       ],
       "patches": [
@@ -366,6 +436,16 @@
           "time_range": "10:00 am - 12:30 pm",
           "display": "10:00 am - 12:30 pm",
           "display_full": "Thursday, Sep 24: 10:00 am - 12:30 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "7:15 am",
+          "end_time": "10:00 am",
+          "time_range": "7:15 am - 10:00 am",
+          "display": "7:15 am - 10:00 am",
+          "display_full": "Monday, Sep 28: 7:15 am - 10:00 am"
         }
       ],
       "scrape_status": "ok",
@@ -533,10 +613,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "12:15 pm",
+          "end_time": "1:00 pm",
+          "time_range": "12:15 pm - 1:00 pm",
+          "display": "12:15 pm - 1:00 pm",
+          "display_full": "Monday, Sep 28: 12:15 pm - 1:00 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "12:15 pm",
+          "end_time": "1:00 pm",
+          "time_range": "12:15 pm - 1:00 pm",
+          "display": "12:15 pm - 1:00 pm",
+          "display_full": "Monday, Sep 28: 12:15 pm - 1:00 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Monday, Sep 28 from 12:15 pm - 1:00 pm"
     },
     "Mehwish Saghir": {
       "doctor_id": 219466,
@@ -648,6 +750,16 @@
           "time_range": "11:15 am - 3:30 pm",
           "display": "11:15 am - 3:30 pm",
           "display_full": "Sunday, Sep 27: 11:15 am - 3:30 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "7:00 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:00 am - 2:45 pm",
+          "display": "7:00 am - 2:45 pm",
+          "display_full": "Monday, Sep 28: 7:00 am - 2:45 pm"
         }
       ],
       "patches": [
@@ -680,6 +792,16 @@
           "time_range": "11:15 am - 3:30 pm",
           "display": "11:15 am - 3:30 pm",
           "display_full": "Sunday, Sep 27: 11:15 am - 3:30 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "7:00 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:00 am - 2:45 pm",
+          "display": "7:00 am - 2:45 pm",
+          "display_full": "Monday, Sep 28: 7:00 am - 2:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -848,6 +970,16 @@
           "time_range": "9:45 am - 3:45 pm",
           "display": "9:45 am - 3:45 pm",
           "display_full": "Saturday, Sep 26: 9:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:15 am",
+          "end_time": "5:15 pm",
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Monday, Sep 28: 11:15 am - 5:15 pm"
         }
       ],
       "patches": [
@@ -880,6 +1012,16 @@
           "time_range": "9:45 am - 3:45 pm",
           "display": "9:45 am - 3:45 pm",
           "display_full": "Saturday, Sep 26: 9:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:15 am",
+          "end_time": "5:15 pm",
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Monday, Sep 28: 11:15 am - 5:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -950,6 +1092,16 @@
           "time_range": "12:15 pm - 3:30 pm",
           "display": "12:15 pm - 3:30 pm",
           "display_full": "Friday, Sep 25: 12:15 pm - 3:30 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "9:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "9:30 am - 3:45 pm",
+          "display": "9:30 am - 3:45 pm",
+          "display_full": "Monday, Sep 28: 9:30 am - 3:45 pm"
         }
       ],
       "patches": [
@@ -972,6 +1124,16 @@
           "time_range": "12:15 pm - 3:30 pm",
           "display": "12:15 pm - 3:30 pm",
           "display_full": "Friday, Sep 25: 12:15 pm - 3:30 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "9:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "9:30 am - 3:45 pm",
+          "display": "9:30 am - 3:45 pm",
+          "display_full": "Monday, Sep 28: 9:30 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1057,6 +1219,16 @@
           "time_range": "7:45 am - 1:15 pm",
           "display": "7:45 am - 1:15 pm",
           "display_full": "Friday, Sep 25: 7:45 am - 1:15 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "7:30 am",
+          "end_time": "2:15 pm",
+          "time_range": "7:30 am - 2:15 pm",
+          "display": "7:30 am - 2:15 pm",
+          "display_full": "Monday, Sep 28: 7:30 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -1079,6 +1251,16 @@
           "time_range": "7:45 am - 1:15 pm",
           "display": "7:45 am - 1:15 pm",
           "display_full": "Friday, Sep 25: 7:45 am - 1:15 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "7:30 am",
+          "end_time": "2:15 pm",
+          "time_range": "7:30 am - 2:15 pm",
+          "display": "7:30 am - 2:15 pm",
+          "display_full": "Monday, Sep 28: 7:30 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1286,6 +1468,16 @@
           "time_range": "11:45 am - 3:45 pm",
           "display": "11:45 am - 3:45 pm",
           "display_full": "Friday, Sep 25: 11:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "9:15 am",
+          "end_time": "4:15 pm",
+          "time_range": "9:15 am - 4:15 pm",
+          "display": "9:15 am - 4:15 pm",
+          "display_full": "Monday, Sep 28: 9:15 am - 4:15 pm"
         }
       ],
       "patches": [
@@ -1308,6 +1500,16 @@
           "time_range": "11:45 am - 3:45 pm",
           "display": "11:45 am - 3:45 pm",
           "display_full": "Friday, Sep 25: 11:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "9:15 am",
+          "end_time": "4:15 pm",
+          "time_range": "9:15 am - 4:15 pm",
+          "display": "9:15 am - 4:15 pm",
+          "display_full": "Monday, Sep 28: 9:15 am - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1374,6 +1576,16 @@
           "time_range": "11:20 am - 6:40 pm",
           "display": "11:20 am - 6:40 pm",
           "display_full": "Friday, Sep 25: 11:20 am - 6:40 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:40 am",
+          "end_time": "6:40 pm",
+          "time_range": "11:40 am - 6:40 pm",
+          "display": "11:40 am - 6:40 pm",
+          "display_full": "Monday, Sep 28: 11:40 am - 6:40 pm"
         }
       ],
       "patches": [
@@ -1396,6 +1608,16 @@
           "time_range": "11:20 am - 6:40 pm",
           "display": "11:20 am - 6:40 pm",
           "display_full": "Friday, Sep 25: 11:20 am - 6:40 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:40 am",
+          "end_time": "6:40 pm",
+          "time_range": "11:40 am - 6:40 pm",
+          "display": "11:40 am - 6:40 pm",
+          "display_full": "Monday, Sep 28: 11:40 am - 6:40 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1465,6 +1687,16 @@
           "time_range": "8:30 am - 3:20 pm",
           "display": "8:30 am - 3:20 pm",
           "display_full": "Friday, Sep 25: 8:30 am - 3:20 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "8:10 am",
+          "end_time": "3:30 pm",
+          "time_range": "8:10 am - 3:30 pm",
+          "display": "8:10 am - 3:30 pm",
+          "display_full": "Monday, Sep 28: 8:10 am - 3:30 pm"
         }
       ],
       "patches": [
@@ -1487,6 +1719,16 @@
           "time_range": "8:30 am - 3:20 pm",
           "display": "8:30 am - 3:20 pm",
           "display_full": "Friday, Sep 25: 8:30 am - 3:20 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "8:10 am",
+          "end_time": "3:30 pm",
+          "time_range": "8:10 am - 3:30 pm",
+          "display": "8:10 am - 3:30 pm",
+          "display_full": "Monday, Sep 28: 8:10 am - 3:30 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1525,11 +1767,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "11:10 am",
+          "start_time": "12:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "11:10 am - 4:00 pm",
-          "display": "11:10 am - 4:00 pm",
-          "display_full": "Thursday, Sep 24: 11:10 am - 4:00 pm"
+          "time_range": "12:10 pm - 4:00 pm",
+          "display": "12:10 pm - 4:00 pm",
+          "display_full": "Thursday, Sep 24: 12:10 pm - 4:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -1540,6 +1782,16 @@
           "time_range": "8:00 am - 4:00 pm",
           "display": "8:00 am - 4:00 pm",
           "display_full": "Friday, Sep 25: 8:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 8:00 am - 4:00 pm"
         }
       ],
       "patches": [
@@ -1547,11 +1799,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "11:10 am",
+          "start_time": "12:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "11:10 am - 4:00 pm",
-          "display": "11:10 am - 4:00 pm",
-          "display_full": "Thursday, Sep 24: 11:10 am - 4:00 pm"
+          "time_range": "12:10 pm - 4:00 pm",
+          "display": "12:10 pm - 4:00 pm",
+          "display_full": "Thursday, Sep 24: 12:10 pm - 4:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -1562,10 +1814,20 @@
           "time_range": "8:00 am - 4:00 pm",
           "display": "8:00 am - 4:00 pm",
           "display_full": "Friday, Sep 25: 8:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 8:00 am - 4:00 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 11:10 am - 4:00 pm"
+      "availability": "Thursday, Sep 24 from 12:10 pm - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
