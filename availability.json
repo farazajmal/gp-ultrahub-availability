@@ -1088,10 +1088,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
           "start_time": "12:15 pm",
-          "end_time": "3:30 pm",
-          "time_range": "12:15 pm - 3:30 pm",
-          "display": "12:15 pm - 3:30 pm",
-          "display_full": "Friday, Sep 25: 12:15 pm - 3:30 pm"
+          "end_time": "2:15 pm",
+          "time_range": "12:15 pm - 2:15 pm",
+          "display": "12:15 pm - 2:15 pm",
+          "display_full": "Friday, Sep 25: 12:15 pm - 2:15 pm"
         },
         {
           "date": "2026-09-28",
@@ -1120,10 +1120,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
           "start_time": "12:15 pm",
-          "end_time": "3:30 pm",
-          "time_range": "12:15 pm - 3:30 pm",
-          "display": "12:15 pm - 3:30 pm",
-          "display_full": "Friday, Sep 25: 12:15 pm - 3:30 pm"
+          "end_time": "2:15 pm",
+          "time_range": "12:15 pm - 2:15 pm",
+          "display": "12:15 pm - 2:15 pm",
+          "display_full": "Friday, Sep 25: 12:15 pm - 2:15 pm"
         },
         {
           "date": "2026-09-28",
@@ -1767,11 +1767,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "2:10 pm",
+          "start_time": "3:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "2:10 pm - 4:00 pm",
-          "display": "2:10 pm - 4:00 pm",
-          "display_full": "Thursday, Sep 24: 2:10 pm - 4:00 pm"
+          "time_range": "3:10 pm - 4:00 pm",
+          "display": "3:10 pm - 4:00 pm",
+          "display_full": "Thursday, Sep 24: 3:10 pm - 4:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -1799,11 +1799,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "2:10 pm",
+          "start_time": "3:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "2:10 pm - 4:00 pm",
-          "display": "2:10 pm - 4:00 pm",
-          "display_full": "Thursday, Sep 24: 2:10 pm - 4:00 pm"
+          "time_range": "3:10 pm - 4:00 pm",
+          "display": "3:10 pm - 4:00 pm",
+          "display_full": "Thursday, Sep 24: 3:10 pm - 4:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -1827,7 +1827,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 2:10 pm - 4:00 pm"
+      "availability": "Thursday, Sep 24 from 3:10 pm - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
