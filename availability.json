@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MBBS",
         "MRCGP",
-        "Dip Occ Med (RCPI)",
-        "MBBS"
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -124,10 +124,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MCPS",
-        "MCPS (Family Medicine)",
-        "MBBS"
+        "MBBS",
+        "MRCGP",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -255,11 +255,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "General Practitioner",
-        "DFM",
+        "MRCGP",
         "MCPS",
-        "MBBS",
-        "MRCGP"
+        "DFM",
+        "General Practitioner",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -647,9 +647,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MCPS (Family Medicine)",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1077,11 +1077,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "1:30 pm",
+          "start_time": "2:15 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:30 pm - 2:45 pm",
-          "display": "1:30 pm - 2:45 pm",
-          "display_full": "Thursday, Sep 24: 1:30 pm - 2:45 pm"
+          "time_range": "2:15 pm - 2:45 pm",
+          "display": "2:15 pm - 2:45 pm",
+          "display_full": "Thursday, Sep 24: 2:15 pm - 2:45 pm"
         },
         {
           "date": "2026-09-25",
@@ -1109,11 +1109,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "1:30 pm",
+          "start_time": "2:15 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:30 pm - 2:45 pm",
-          "display": "1:30 pm - 2:45 pm",
-          "display_full": "Thursday, Sep 24: 1:30 pm - 2:45 pm"
+          "time_range": "2:15 pm - 2:45 pm",
+          "display": "2:15 pm - 2:45 pm",
+          "display_full": "Thursday, Sep 24: 2:15 pm - 2:45 pm"
         },
         {
           "date": "2026-09-25",
@@ -1137,7 +1137,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 1:30 pm - 2:45 pm"
+      "availability": "Thursday, Sep 24 from 2:15 pm - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1167,8 +1167,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1630,9 +1630,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MRCPG",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1672,11 +1672,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "2:20 pm",
+          "start_time": "2:30 pm",
           "end_time": "3:30 pm",
-          "time_range": "2:20 pm - 3:30 pm",
-          "display": "2:20 pm - 3:30 pm",
-          "display_full": "Thursday, Sep 24: 2:20 pm - 3:30 pm"
+          "time_range": "2:30 pm - 3:30 pm",
+          "display": "2:30 pm - 3:30 pm",
+          "display_full": "Thursday, Sep 24: 2:30 pm - 3:30 pm"
         },
         {
           "date": "2026-09-25",
@@ -1704,11 +1704,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "2:20 pm",
+          "start_time": "2:30 pm",
           "end_time": "3:30 pm",
-          "time_range": "2:20 pm - 3:30 pm",
-          "display": "2:20 pm - 3:30 pm",
-          "display_full": "Thursday, Sep 24: 2:20 pm - 3:30 pm"
+          "time_range": "2:30 pm - 3:30 pm",
+          "display": "2:30 pm - 3:30 pm",
+          "display_full": "Thursday, Sep 24: 2:30 pm - 3:30 pm"
         },
         {
           "date": "2026-09-25",
@@ -1732,7 +1732,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 2:20 pm - 3:30 pm"
+      "availability": "Thursday, Sep 24 from 2:30 pm - 3:30 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
