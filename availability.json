@@ -146,11 +146,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "3:15 pm",
+          "start_time": "4:30 pm",
           "end_time": "6:45 pm",
-          "time_range": "3:15 pm - 6:45 pm",
-          "display": "3:15 pm - 6:45 pm",
-          "display_full": "Thursday, Sep 24: 3:15 pm - 6:45 pm"
+          "time_range": "4:30 pm - 6:45 pm",
+          "display": "4:30 pm - 6:45 pm",
+          "display_full": "Thursday, Sep 24: 4:30 pm - 6:45 pm"
         },
         {
           "date": "2026-09-25",
@@ -178,11 +178,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "3:15 pm",
+          "start_time": "4:30 pm",
           "end_time": "6:45 pm",
-          "time_range": "3:15 pm - 6:45 pm",
-          "display": "3:15 pm - 6:45 pm",
-          "display_full": "Thursday, Sep 24: 3:15 pm - 6:45 pm"
+          "time_range": "4:30 pm - 6:45 pm",
+          "display": "4:30 pm - 6:45 pm",
+          "display_full": "Thursday, Sep 24: 4:30 pm - 6:45 pm"
         },
         {
           "date": "2026-09-25",
@@ -206,7 +206,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 3:15 pm - 6:45 pm"
+      "availability": "Thursday, Sep 24 from 4:30 pm - 6:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -824,10 +824,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
           "start_time": "1:15 pm",
-          "end_time": "4:45 pm",
-          "time_range": "1:15 pm - 4:45 pm",
-          "display": "1:15 pm - 4:45 pm",
-          "display_full": "Thursday, Sep 24: 1:15 pm - 4:45 pm"
+          "end_time": "4:30 pm",
+          "time_range": "1:15 pm - 4:30 pm",
+          "display": "1:15 pm - 4:30 pm",
+          "display_full": "Thursday, Sep 24: 1:15 pm - 4:30 pm"
         },
         {
           "date": "2026-09-25",
@@ -856,10 +856,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
           "start_time": "1:15 pm",
-          "end_time": "4:45 pm",
-          "time_range": "1:15 pm - 4:45 pm",
-          "display": "1:15 pm - 4:45 pm",
-          "display_full": "Thursday, Sep 24: 1:15 pm - 4:45 pm"
+          "end_time": "4:30 pm",
+          "time_range": "1:15 pm - 4:30 pm",
+          "display": "1:15 pm - 4:30 pm",
+          "display_full": "Thursday, Sep 24: 1:15 pm - 4:30 pm"
         },
         {
           "date": "2026-09-25",
@@ -883,7 +883,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 1:15 pm - 4:45 pm"
+      "availability": "Thursday, Sep 24 from 1:15 pm - 4:30 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1359,11 +1359,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "12:00 pm",
+          "start_time": "12:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:00 pm - 6:40 pm",
-          "display": "12:00 pm - 6:40 pm",
-          "display_full": "Thursday, Sep 24: 12:00 pm - 6:40 pm"
+          "time_range": "12:10 pm - 6:40 pm",
+          "display": "12:10 pm - 6:40 pm",
+          "display_full": "Thursday, Sep 24: 12:10 pm - 6:40 pm"
         },
         {
           "date": "2026-09-25",
@@ -1381,11 +1381,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "12:00 pm",
+          "start_time": "12:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:00 pm - 6:40 pm",
-          "display": "12:00 pm - 6:40 pm",
-          "display_full": "Thursday, Sep 24: 12:00 pm - 6:40 pm"
+          "time_range": "12:10 pm - 6:40 pm",
+          "display": "12:10 pm - 6:40 pm",
+          "display_full": "Thursday, Sep 24: 12:10 pm - 6:40 pm"
         },
         {
           "date": "2026-09-25",
@@ -1399,7 +1399,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 12:00 pm - 6:40 pm"
+      "availability": "Thursday, Sep 24 from 12:10 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1525,11 +1525,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Thursday, Sep 24: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Thursday, Sep 24: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -1547,11 +1547,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Thursday, Sep 24: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Thursday, Sep 24: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -1565,7 +1565,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 9:10 am - 4:00 pm"
+      "availability": "Thursday, Sep 24 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
