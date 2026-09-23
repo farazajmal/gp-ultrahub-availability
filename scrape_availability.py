@@ -85,7 +85,6 @@ def build_patches_from_slots(raw_slots, date_headers=None):
                     "start_time": start_t,
                     "end_time": end_t,
                     "time_range": display_time,
-                    "discrete_slots": discrete_slots,
                     "display": display_time,
                     "display_full": f"{hd['label']}: {display_time}"
                 })
@@ -98,7 +97,6 @@ def build_patches_from_slots(raw_slots, date_headers=None):
                 "start_time": start_t,
                 "end_time": end_t,
                 "time_range": display_time,
-                "discrete_slots": discrete_slots,
                 "display": display_time,
                 "display_full": display_time
             })
@@ -238,7 +236,6 @@ def scrape_doctor_proven(page, clinic_slug, doctor_slug):
                         "start_time": start_t,
                         "end_time": end_t,
                         "time_range": display_time,
-                        "discrete_slots": discrete_slots,
                         "display": display_time,
                         "display_full": f"{dt_info['label']}: {display_time}"
                     })
