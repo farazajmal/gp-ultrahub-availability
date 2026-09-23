@@ -106,6 +106,43 @@ def build_patches_from_slots(raw_slots, date_headers=None):
     return patches
 
 
+def parse_full_date(date_str):
+    if not date_str:
+        return None
+    m = re.search(r"([A-Za-z]+)\s+([A-Za-z]+)\s+(\d{1,2})", date_str)
+    if not m:
+        return None
+    day_name, month_str, day_num = m.group(1), m.group(2), int(m.group(3))
+    
+    month_names = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    full_months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    
+    month_idx = None
+    for idx, (short_m, long_m) in enumerate(zip(month_names, full_months), 1):
+        if month_str.lower() in [short_m.lower(), long_m.lower()]:
+            month_idx = idx
+            break
+            
+    if not month_idx:
+        return None
+        
+    now = datetime.now()
+    year = now.year
+    if month_idx < now.month - 6:
+        year += 1
+        
+    try:
+        dt = datetime(year, month_idx, day_num)
+        return {
+            "date_obj": dt,
+            "day_name": dt.strftime("%A"),
+            "date_str": dt.strftime("%Y-%m-%d"),
+            "label": f"{dt.strftime('%A')}, {dt.strftime('%b %d')}"
+        }
+    except Exception:
+        return None
+
+
 def scrape_doctor_proven(page, clinic_slug, doctor_slug):
     url = f"https://www.hotdoc.com.au/request/consult/for?defaults=practice-{clinic_slug},practitioner-{doctor_slug}"
     scrape_status = "ok"
@@ -130,19 +167,26 @@ def scrape_doctor_proven(page, clinic_slug, doctor_slug):
             
         # Step 3: Reason / Appointment type
         try:
-            page.locator("button:has-text('Appointment'), .flow-button").first.click(timeout=3000)
+            page.locator(".flow-button, button:has-text('Appointment'), button:has-text('Consultation')").first.click(timeout=3000)
             page.wait_for_timeout(1500)
         except Exception as e:
             logger.debug(f"[{doctor_slug}] Step 'Appointment button' notice: {e}")
             
-        # Step 4: Continue button if present
+        # Step 4: Continue button if disclaimer modal pops up
         try:
-            cont = page.get_by_text("Continue").first
-            if cont and cont.is_visible():
+            page.wait_for_timeout(1000)
+            cont = page.locator(".Button:has-text('Continue'), button:has-text('Continue')").first
+            if cont.count() > 0 and cont.is_visible():
                 cont.click(timeout=2000)
-                page.wait_for_timeout(3000)
+                page.wait_for_timeout(2000)
         except Exception as e:
             logger.debug(f"[{doctor_slug}] Step 'Continue' notice: {e}")
+
+        # Step 5: Wait for availability slot grid to render
+        try:
+            page.wait_for_selector(".AvailabilitySlotList-timeSlots-day, text='Choose a time'", timeout=5000)
+        except Exception:
+            page.wait_for_timeout(2000)
 
         # Ensure grid is rendered
         text = page.locator("body").inner_text()
@@ -153,100 +197,53 @@ def scrape_doctor_proven(page, clinic_slug, doctor_slug):
         # Force screenshot layout render tick
         page.screenshot(path=f"scratch/grid_loc_{doctor_slug}.png")
         text = page.locator("body").inner_text()
-        lines = [l.strip() for l in text.split("\n") if l.strip()]
-        
-        date_pattern = re.compile(r"^(\d{1,2})\s+([A-Za-z]{3})$")
-        time_regex = re.compile(r"^(\d{1,2}:\d{2}\s*(?:am|pm))$", re.IGNORECASE)
 
-        # 1. Extract all date headers from top carousel
-        header_dates = []
-        for idx, l in enumerate(lines):
-            m = date_pattern.match(l)
-            if m:
-                date_obj = parse_date_header(l)
-                if date_obj and date_obj.strftime("%Y-%m-%d") not in [h["date_str"] for h in header_dates]:
-                    header_dates.append({
-                        "date_obj": date_obj,
-                        "day_name": date_obj.strftime("%A"),
-                        "date_str": date_obj.strftime("%Y-%m-%d"),
-                        "raw": l,
-                        "label": f"{date_obj.strftime('%A')}, {date_obj.strftime('%b %d')}"
-                    })
-
-        # 2. Extract all time slots from body
-        raw_times = []
-        for l in lines:
-            if time_regex.match(l):
-                raw_times.append(l.strip())
-
-        # 3. Group raw times into day groups by time reset (< prev_minutes)
-        day_groups = []
-        current_group = []
-        prev_minutes = -1
-        for t in raw_times:
-            minutes = parse_time_to_minutes(t)
-            if prev_minutes != -1 and minutes < prev_minutes:
-                day_groups.append(current_group)
-                current_group = []
-            current_group.append(t)
-            prev_minutes = minutes
-        if current_group:
-            day_groups.append(current_group)
-
-        # 4. Align day groups to header dates
-        start_idx = 0
-        if header_dates and len(header_dates) > len(day_groups):
-            diff = len(header_dates) - len(day_groups)
-            # If header_dates[0] is today and past business hours or weekend, start from next available weekday
-            if header_dates[0]["day_name"] in ["Sunday", "Saturday"]:
-                start_idx = 0
-                while start_idx < len(header_dates) and header_dates[start_idx]["day_name"] in ["Sunday", "Saturday"]:
-                    start_idx += 1
-            else:
-                # If first header is weekday but has no slots, align start_idx to first open weekday
-                start_idx = 0
-                if diff > 0 and len(day_groups) > 0:
-                    # Match start_idx by checking day groups count
-                    start_idx = diff
+        # Direct DOM extraction of day columns (.AvailabilitySlotList-timeSlots-day)
+        dom_day_columns = page.evaluate("""() => {
+            const columns = [];
+            const dayEls = document.querySelectorAll('.AvailabilitySlotList-timeSlots-day');
+            dayEls.forEach(el => {
+                const label = el.getAttribute('aria-label') || '';
+                const slots = [];
+                const buttons = el.querySelectorAll('button, .AvailabilitySlotList-slot');
+                buttons.forEach(btn => {
+                    const txt = btn.innerText.trim();
+                    if (txt && /^\\d{1,2}:\\d{2}\\s*(?:am|pm)$/i.test(txt)) {
+                        slots.push(txt);
+                    }
+                });
+                columns.push({ ariaLabel: label, slots: slots });
+            });
+            return columns;
+        }""")
 
         slot_counts = {}
         patches = []
-        curr_h_idx = start_idx if (header_dates and start_idx < len(header_dates)) else 0
 
-        for group_idx, discrete_slots in enumerate(day_groups):
-            hd = header_dates[curr_h_idx] if (header_dates and curr_h_idx < len(header_dates)) else None
-            start_t = discrete_slots[0]
-            end_t = discrete_slots[-1]
-            display_time = f"{start_t} - {end_t}" if len(discrete_slots) > 1 else start_t
+        if dom_day_columns:
+            for col in dom_day_columns:
+                dt_info = parse_full_date(col["ariaLabel"])
+                discrete_slots = col["slots"]
+                if dt_info and discrete_slots:
+                    d_str = dt_info["date_str"]
+                    slot_counts[d_str] = len(discrete_slots)
+                    start_t = discrete_slots[0]
+                    end_t = discrete_slots[-1]
+                    display_time = f"{start_t} - {end_t}" if len(discrete_slots) > 1 else start_t
 
-            if hd:
-                d_str = hd["date_str"]
-                slot_counts[d_str] = len(discrete_slots)
-                patches.append({
-                    "date": d_str,
-                    "day_name": hd["day_name"],
-                    "date_label": hd["label"],
-                    "start_time": start_t,
-                    "end_time": end_t,
-                    "time_range": display_time,
-                    "discrete_slots": discrete_slots,
-                    "display": display_time,
-                    "display_full": f"{hd['label']}: {display_time}"
-                })
-                curr_h_idx += 1
-                while curr_h_idx < len(header_dates) and header_dates[curr_h_idx]["day_name"] == "Sunday" and (len(day_groups) - group_idx - 1) < (len(header_dates) - curr_h_idx):
-                    curr_h_idx += 1
-            else:
-                patches.append({
-                    "start_time": start_t,
-                    "end_time": end_t,
-                    "time_range": display_time,
-                    "discrete_slots": discrete_slots,
-                    "display": display_time,
-                    "display_full": display_time
-                })
+                    patches.append({
+                        "date": d_str,
+                        "day_name": dt_info["day_name"],
+                        "date_label": dt_info["label"],
+                        "start_time": start_t,
+                        "end_time": end_t,
+                        "time_range": display_time,
+                        "discrete_slots": discrete_slots,
+                        "display": display_time,
+                        "display_full": f"{dt_info['label']}: {display_time}"
+                    })
 
-        logger.info(f"[{doctor_slug}] Found {len(header_dates)} date headers, slot counts per header: {slot_counts}")
+        logger.info(f"[{doctor_slug}] DOM extraction found {len(dom_day_columns)} day columns, slot counts: {slot_counts}")
 
         scrape_status = "ok" if patches else ("no_availability" if "Choose a time" in text or "Existing patient" in text else "error")
         return patches, scrape_status
