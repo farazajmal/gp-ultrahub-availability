@@ -277,11 +277,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "5:30 pm",
+          "start_time": "6:15 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:30 pm - 6:30 pm",
-          "display": "5:30 pm - 6:30 pm",
-          "display_full": "Thursday, Sep 24: 5:30 pm - 6:30 pm"
+          "time_range": "6:15 pm - 6:30 pm",
+          "display": "6:15 pm - 6:30 pm",
+          "display_full": "Thursday, Sep 24: 6:15 pm - 6:30 pm"
         },
         {
           "date": "2026-09-25",
@@ -309,11 +309,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "5:30 pm",
+          "start_time": "6:15 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:30 pm - 6:30 pm",
-          "display": "5:30 pm - 6:30 pm",
-          "display_full": "Thursday, Sep 24: 5:30 pm - 6:30 pm"
+          "time_range": "6:15 pm - 6:30 pm",
+          "display": "6:15 pm - 6:30 pm",
+          "display_full": "Thursday, Sep 24: 6:15 pm - 6:30 pm"
         },
         {
           "date": "2026-09-25",
@@ -337,7 +337,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 5:30 pm - 6:30 pm"
+      "availability": "Thursday, Sep 24 from 6:15 pm - 6:30 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -664,10 +664,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
           "start_time": "7:00 am",
-          "end_time": "2:45 pm",
-          "time_range": "7:00 am - 2:45 pm",
-          "display": "7:00 am - 2:45 pm",
-          "display_full": "Friday, Sep 25: 7:00 am - 2:45 pm"
+          "end_time": "8:15 am",
+          "time_range": "7:00 am - 8:15 am",
+          "display": "7:00 am - 8:15 am",
+          "display_full": "Friday, Sep 25: 7:00 am - 8:15 am"
         },
         {
           "date": "2026-09-27",
@@ -696,10 +696,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
           "start_time": "7:00 am",
-          "end_time": "2:45 pm",
-          "time_range": "7:00 am - 2:45 pm",
-          "display": "7:00 am - 2:45 pm",
-          "display_full": "Friday, Sep 25: 7:00 am - 2:45 pm"
+          "end_time": "8:15 am",
+          "time_range": "7:00 am - 8:15 am",
+          "display": "7:00 am - 8:15 am",
+          "display_full": "Friday, Sep 25: 7:00 am - 8:15 am"
         },
         {
           "date": "2026-09-27",
@@ -723,7 +723,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Sep 25 from 7:00 am - 2:45 pm"
+      "availability": "Friday, Sep 25 from 7:00 am - 8:15 am"
     }
   },
   "Calliope": {
@@ -985,11 +985,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "10:00 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:00 am - 3:45 pm",
-          "display": "10:00 am - 3:45 pm",
-          "display_full": "Monday, Sep 28: 10:00 am - 3:45 pm"
+          "start_time": "10:15 am",
+          "end_time": "2:15 pm",
+          "time_range": "10:15 am - 2:15 pm",
+          "display": "10:15 am - 2:15 pm",
+          "display_full": "Monday, Sep 28: 10:15 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -1007,11 +1007,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "10:00 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:00 am - 3:45 pm",
-          "display": "10:00 am - 3:45 pm",
-          "display_full": "Monday, Sep 28: 10:00 am - 3:45 pm"
+          "start_time": "10:15 am",
+          "end_time": "2:15 pm",
+          "time_range": "10:15 am - 2:15 pm",
+          "display": "10:15 am - 2:15 pm",
+          "display_full": "Monday, Sep 28: 10:15 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1308,16 +1308,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
       "availability_patches": [
         {
-          "date": "2026-09-24",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Sep 24",
-          "start_time": "3:30 pm",
-          "end_time": "4:15 pm",
-          "time_range": "3:30 pm - 4:15 pm",
-          "display": "3:30 pm - 4:15 pm",
-          "display_full": "Thursday, Sep 24: 3:30 pm - 4:15 pm"
-        },
-        {
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
@@ -1340,16 +1330,6 @@
       ],
       "patches": [
         {
-          "date": "2026-09-24",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Sep 24",
-          "start_time": "3:30 pm",
-          "end_time": "4:15 pm",
-          "time_range": "3:30 pm - 4:15 pm",
-          "display": "3:30 pm - 4:15 pm",
-          "display_full": "Thursday, Sep 24: 3:30 pm - 4:15 pm"
-        },
-        {
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
@@ -1371,7 +1351,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 3:30 pm - 4:15 pm"
+      "availability": "Friday, Sep 25 from 11:45 am - 3:15 pm"
     }
   },
   "Toowoomba": {
@@ -1419,11 +1399,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "4:10 pm",
+          "start_time": "5:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "4:10 pm - 6:40 pm",
-          "display": "4:10 pm - 6:40 pm",
-          "display_full": "Thursday, Sep 24: 4:10 pm - 6:40 pm"
+          "time_range": "5:10 pm - 6:40 pm",
+          "display": "5:10 pm - 6:40 pm",
+          "display_full": "Thursday, Sep 24: 5:10 pm - 6:40 pm"
         },
         {
           "date": "2026-09-25",
@@ -1451,11 +1431,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "4:10 pm",
+          "start_time": "5:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "4:10 pm - 6:40 pm",
-          "display": "4:10 pm - 6:40 pm",
-          "display_full": "Thursday, Sep 24: 4:10 pm - 6:40 pm"
+          "time_range": "5:10 pm - 6:40 pm",
+          "display": "5:10 pm - 6:40 pm",
+          "display_full": "Thursday, Sep 24: 5:10 pm - 6:40 pm"
         },
         {
           "date": "2026-09-25",
@@ -1479,7 +1459,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 4:10 pm - 6:40 pm"
+      "availability": "Thursday, Sep 24 from 5:10 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1530,11 +1510,11 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "8:30 am",
+          "start_time": "9:40 am",
           "end_time": "3:10 pm",
-          "time_range": "8:30 am - 3:10 pm",
-          "display": "8:30 am - 3:10 pm",
-          "display_full": "Friday, Sep 25: 8:30 am - 3:10 pm"
+          "time_range": "9:40 am - 3:10 pm",
+          "display": "9:40 am - 3:10 pm",
+          "display_full": "Friday, Sep 25: 9:40 am - 3:10 pm"
         },
         {
           "date": "2026-09-28",
@@ -1552,11 +1532,11 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "8:30 am",
+          "start_time": "9:40 am",
           "end_time": "3:10 pm",
-          "time_range": "8:30 am - 3:10 pm",
-          "display": "8:30 am - 3:10 pm",
-          "display_full": "Friday, Sep 25: 8:30 am - 3:10 pm"
+          "time_range": "9:40 am - 3:10 pm",
+          "display": "9:40 am - 3:10 pm",
+          "display_full": "Friday, Sep 25: 9:40 am - 3:10 pm"
         },
         {
           "date": "2026-09-28",
@@ -1570,7 +1550,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Sep 25 from 8:30 am - 3:10 pm"
+      "availability": "Friday, Sep 25 from 9:40 am - 3:10 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
