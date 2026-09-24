@@ -124,10 +124,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MCPS (Family Medicine)",
-        "MBBS",
-        "MCPS"
+        "MCPS",
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -235,11 +235,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
         "MBBS",
         "DFM",
-        "MCPS",
-        "General Practitioner"
+        "General Practitioner",
+        "MRCGP",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -649,8 +649,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MCPS (Family Medicine)",
+        "MRCGP",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -727,11 +727,11 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "7:00 am",
+          "start_time": "7:15 am",
           "end_time": "7:45 am",
-          "time_range": "7:00 am - 7:45 am",
-          "display": "7:00 am - 7:45 am",
-          "display_full": "Friday, Sep 25: 7:00 am - 7:45 am"
+          "time_range": "7:15 am - 7:45 am",
+          "display": "7:15 am - 7:45 am",
+          "display_full": "Friday, Sep 25: 7:15 am - 7:45 am"
         },
         {
           "date": "2026-09-27",
@@ -759,11 +759,11 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "7:00 am",
+          "start_time": "7:15 am",
           "end_time": "7:45 am",
-          "time_range": "7:00 am - 7:45 am",
-          "display": "7:00 am - 7:45 am",
-          "display_full": "Friday, Sep 25: 7:00 am - 7:45 am"
+          "time_range": "7:15 am - 7:45 am",
+          "display": "7:15 am - 7:45 am",
+          "display_full": "Friday, Sep 25: 7:15 am - 7:45 am"
         },
         {
           "date": "2026-09-27",
@@ -787,7 +787,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Sep 25 from 7:00 am - 7:45 am"
+      "availability": "Friday, Sep 25 from 7:15 am - 7:45 am"
     }
   },
   "Calliope": {
@@ -928,20 +928,20 @@
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
           "start_time": "2:30 pm",
-          "end_time": "4:45 pm",
-          "time_range": "2:30 pm - 4:45 pm",
-          "display": "2:30 pm - 4:45 pm",
-          "display_full": "Friday, Sep 25: 2:30 pm - 4:45 pm"
+          "end_time": "2:30 pm",
+          "time_range": "2:30 pm",
+          "display": "2:30 pm",
+          "display_full": "Friday, Sep 25: 2:30 pm"
         },
         {
           "date": "2026-09-26",
           "day_name": "Saturday",
           "date_label": "Saturday, Sep 26",
           "start_time": "11:15 am",
-          "end_time": "3:45 pm",
-          "time_range": "11:15 am - 3:45 pm",
-          "display": "11:15 am - 3:45 pm",
-          "display_full": "Saturday, Sep 26: 11:15 am - 3:45 pm"
+          "end_time": "3:30 pm",
+          "time_range": "11:15 am - 3:30 pm",
+          "display": "11:15 am - 3:30 pm",
+          "display_full": "Saturday, Sep 26: 11:15 am - 3:30 pm"
         },
         {
           "date": "2026-09-28",
@@ -970,20 +970,20 @@
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
           "start_time": "2:30 pm",
-          "end_time": "4:45 pm",
-          "time_range": "2:30 pm - 4:45 pm",
-          "display": "2:30 pm - 4:45 pm",
-          "display_full": "Friday, Sep 25: 2:30 pm - 4:45 pm"
+          "end_time": "2:30 pm",
+          "time_range": "2:30 pm",
+          "display": "2:30 pm",
+          "display_full": "Friday, Sep 25: 2:30 pm"
         },
         {
           "date": "2026-09-26",
           "day_name": "Saturday",
           "date_label": "Saturday, Sep 26",
           "start_time": "11:15 am",
-          "end_time": "3:45 pm",
-          "time_range": "11:15 am - 3:45 pm",
-          "display": "11:15 am - 3:45 pm",
-          "display_full": "Saturday, Sep 26: 11:15 am - 3:45 pm"
+          "end_time": "3:30 pm",
+          "time_range": "11:15 am - 3:30 pm",
+          "display": "11:15 am - 3:30 pm",
+          "display_full": "Saturday, Sep 26: 11:15 am - 3:30 pm"
         },
         {
           "date": "2026-09-28",
@@ -1007,7 +1007,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Sep 25 from 2:30 pm - 4:45 pm"
+      "availability": "Friday, Sep 25 from 2:30 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1273,16 +1273,16 @@
       "clinic_slug": "gp-ultra-hub-burnett-heads",
       "doctor_slug": "dr-umair-siddiqui-2",
       "availability_type_ids": [
+        "1609065",
+        "1609063",
         "1609063",
         "1609063",
         "1609064",
         "1609063",
         "1609063",
-        "1609067",
+        "1609063",
         "1609066",
-        "1609065",
-        "1609063",
-        "1609063",
+        "1609067",
         "1609064",
         "1609065"
       ],
@@ -1367,19 +1367,19 @@
         "1510246",
         "1510247",
         "1510246",
-        "1510248",
-        "1591684",
-        "1510246",
-        "1510246",
-        "1510247",
-        "1510246",
-        "1510246",
         "1591680",
+        "1510246",
+        "1510246",
+        "1591684",
+        "1510248",
+        "1510246",
+        "1510246",
         "1591688",
         "1591690",
         "1591692",
-        "1591704",
-        "1591702"
+        "1510247",
+        "1591702",
+        "1591704"
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
@@ -1440,13 +1440,13 @@
         "1470118",
         "1579869",
         "1470118",
-        "1591685",
-        "1591683",
-        "1591694",
         "1591681",
+        "1591683",
+        "1591685",
         "1591687",
         "1591691",
         "1591693",
+        "1591694",
         "1591701",
         "1591703"
       ],
@@ -1634,8 +1634,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MRCPG",
+        "MRCGP",
         "MBBS"
       ],
       "areas_of_interest": [
