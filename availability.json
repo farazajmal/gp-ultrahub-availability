@@ -34,11 +34,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "11:30 am",
-          "end_time": "3:00 pm",
-          "time_range": "11:30 am - 3:00 pm",
-          "display": "11:30 am - 3:00 pm",
-          "display_full": "Thursday, Sep 24: 11:30 am - 3:00 pm"
+          "start_time": "12:15 pm",
+          "end_time": "2:45 pm",
+          "time_range": "12:15 pm - 2:45 pm",
+          "display": "12:15 pm - 2:45 pm",
+          "display_full": "Thursday, Sep 24: 12:15 pm - 2:45 pm"
         },
         {
           "date": "2026-09-25",
@@ -66,11 +66,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "11:30 am",
-          "end_time": "3:00 pm",
-          "time_range": "11:30 am - 3:00 pm",
-          "display": "11:30 am - 3:00 pm",
-          "display_full": "Thursday, Sep 24: 11:30 am - 3:00 pm"
+          "start_time": "12:15 pm",
+          "end_time": "2:45 pm",
+          "time_range": "12:15 pm - 2:45 pm",
+          "display": "12:15 pm - 2:45 pm",
+          "display_full": "Thursday, Sep 24: 12:15 pm - 2:45 pm"
         },
         {
           "date": "2026-09-25",
@@ -94,7 +94,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 11:30 am - 3:00 pm"
+      "availability": "Thursday, Sep 24 from 12:15 pm - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -196,11 +196,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:45 am - 6:45 pm",
-          "display": "11:45 am - 6:45 pm",
-          "display_full": "Monday, Sep 28: 11:45 am - 6:45 pm"
+          "time_range": "12:00 pm - 6:45 pm",
+          "display": "12:00 pm - 6:45 pm",
+          "display_full": "Monday, Sep 28: 12:00 pm - 6:45 pm"
         }
       ],
       "patches": [
@@ -238,11 +238,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:45 am - 6:45 pm",
-          "display": "11:45 am - 6:45 pm",
-          "display_full": "Monday, Sep 28: 11:45 am - 6:45 pm"
+          "time_range": "12:00 pm - 6:45 pm",
+          "display": "12:00 pm - 6:45 pm",
+          "display_full": "Monday, Sep 28: 12:00 pm - 6:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -297,11 +297,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "12:45 pm",
+          "start_time": "2:00 pm",
           "end_time": "6:30 pm",
-          "time_range": "12:45 pm - 6:30 pm",
-          "display": "12:45 pm - 6:30 pm",
-          "display_full": "Thursday, Sep 24: 12:45 pm - 6:30 pm"
+          "time_range": "2:00 pm - 6:30 pm",
+          "display": "2:00 pm - 6:30 pm",
+          "display_full": "Thursday, Sep 24: 2:00 pm - 6:30 pm"
         },
         {
           "date": "2026-09-25",
@@ -329,11 +329,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "12:45 pm",
+          "start_time": "2:00 pm",
           "end_time": "6:30 pm",
-          "time_range": "12:45 pm - 6:30 pm",
-          "display": "12:45 pm - 6:30 pm",
-          "display_full": "Thursday, Sep 24: 12:45 pm - 6:30 pm"
+          "time_range": "2:00 pm - 6:30 pm",
+          "display": "2:00 pm - 6:30 pm",
+          "display_full": "Thursday, Sep 24: 2:00 pm - 6:30 pm"
         },
         {
           "date": "2026-09-25",
@@ -357,7 +357,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 12:45 pm - 6:30 pm"
+      "availability": "Thursday, Sep 24 from 2:00 pm - 6:30 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -406,16 +406,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
       "availability_patches": [
         {
-          "date": "2026-09-24",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Sep 24",
-          "start_time": "11:30 am",
-          "end_time": "11:30 am",
-          "time_range": "11:30 am",
-          "display": "11:30 am",
-          "display_full": "Thursday, Sep 24: 11:30 am"
-        },
-        {
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
@@ -428,16 +418,6 @@
       ],
       "patches": [
         {
-          "date": "2026-09-24",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Sep 24",
-          "start_time": "11:30 am",
-          "end_time": "11:30 am",
-          "time_range": "11:30 am",
-          "display": "11:30 am",
-          "display_full": "Thursday, Sep 24: 11:30 am"
-        },
-        {
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
@@ -449,7 +429,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 11:30 am"
+      "availability": "Monday, Sep 28 from 7:15 am - 10:00 am"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -940,72 +920,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
-      "availability_patches": [
-        {
-          "date": "2026-09-25",
-          "day_name": "Friday",
-          "date_label": "Friday, Sep 25",
-          "start_time": "12:30 pm",
-          "end_time": "5:00 pm",
-          "time_range": "12:30 pm - 5:00 pm",
-          "display": "12:30 pm - 5:00 pm",
-          "display_full": "Friday, Sep 25: 12:30 pm - 5:00 pm"
-        },
-        {
-          "date": "2026-09-26",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Sep 26",
-          "start_time": "9:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "9:45 am - 3:45 pm",
-          "display": "9:45 am - 3:45 pm",
-          "display_full": "Saturday, Sep 26: 9:45 am - 3:45 pm"
-        },
-        {
-          "date": "2026-09-28",
-          "day_name": "Monday",
-          "date_label": "Monday, Sep 28",
-          "start_time": "11:30 am",
-          "end_time": "5:15 pm",
-          "time_range": "11:30 am - 5:15 pm",
-          "display": "11:30 am - 5:15 pm",
-          "display_full": "Monday, Sep 28: 11:30 am - 5:15 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-09-25",
-          "day_name": "Friday",
-          "date_label": "Friday, Sep 25",
-          "start_time": "12:30 pm",
-          "end_time": "5:00 pm",
-          "time_range": "12:30 pm - 5:00 pm",
-          "display": "12:30 pm - 5:00 pm",
-          "display_full": "Friday, Sep 25: 12:30 pm - 5:00 pm"
-        },
-        {
-          "date": "2026-09-26",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Sep 26",
-          "start_time": "9:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "9:45 am - 3:45 pm",
-          "display": "9:45 am - 3:45 pm",
-          "display_full": "Saturday, Sep 26: 9:45 am - 3:45 pm"
-        },
-        {
-          "date": "2026-09-28",
-          "day_name": "Monday",
-          "date_label": "Monday, Sep 28",
-          "start_time": "11:30 am",
-          "end_time": "5:15 pm",
-          "time_range": "11:30 am - 5:15 pm",
-          "display": "11:30 am - 5:15 pm",
-          "display_full": "Monday, Sep 28: 11:30 am - 5:15 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Friday, Sep 25 from 12:30 pm - 5:00 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "error",
+      "availability": "Call clinic to book"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1054,24 +972,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
       "availability_patches": [
         {
-          "date": "2026-09-24",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Sep 24",
-          "start_time": "2:15 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:15 pm - 2:45 pm",
-          "display": "2:15 pm - 2:45 pm",
-          "display_full": "Thursday, Sep 24: 2:15 pm - 2:45 pm"
-        },
-        {
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "1:15 pm",
+          "start_time": "9:30 am",
           "end_time": "1:45 pm",
-          "time_range": "1:15 pm - 1:45 pm",
-          "display": "1:15 pm - 1:45 pm",
-          "display_full": "Friday, Sep 25: 1:15 pm - 1:45 pm"
+          "time_range": "9:30 am - 1:45 pm",
+          "display": "9:30 am - 1:45 pm",
+          "display_full": "Friday, Sep 25: 9:30 am - 1:45 pm"
         },
         {
           "date": "2026-09-28",
@@ -1086,24 +994,14 @@
       ],
       "patches": [
         {
-          "date": "2026-09-24",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Sep 24",
-          "start_time": "2:15 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:15 pm - 2:45 pm",
-          "display": "2:15 pm - 2:45 pm",
-          "display_full": "Thursday, Sep 24: 2:15 pm - 2:45 pm"
-        },
-        {
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "1:15 pm",
+          "start_time": "9:30 am",
           "end_time": "1:45 pm",
-          "time_range": "1:15 pm - 1:45 pm",
-          "display": "1:15 pm - 1:45 pm",
-          "display_full": "Friday, Sep 25: 1:15 pm - 1:45 pm"
+          "time_range": "9:30 am - 1:45 pm",
+          "display": "9:30 am - 1:45 pm",
+          "display_full": "Friday, Sep 25: 9:30 am - 1:45 pm"
         },
         {
           "date": "2026-09-28",
@@ -1117,7 +1015,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 2:15 pm - 2:45 pm"
+      "availability": "Friday, Sep 25 from 9:30 am - 1:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1184,11 +1082,11 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "8:15 am",
+          "start_time": "8:30 am",
           "end_time": "1:15 pm",
-          "time_range": "8:15 am - 1:15 pm",
-          "display": "8:15 am - 1:15 pm",
-          "display_full": "Friday, Sep 25: 8:15 am - 1:15 pm"
+          "time_range": "8:30 am - 1:15 pm",
+          "display": "8:30 am - 1:15 pm",
+          "display_full": "Friday, Sep 25: 8:30 am - 1:15 pm"
         },
         {
           "date": "2026-09-28",
@@ -1206,11 +1104,11 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "8:15 am",
+          "start_time": "8:30 am",
           "end_time": "1:15 pm",
-          "time_range": "8:15 am - 1:15 pm",
-          "display": "8:15 am - 1:15 pm",
-          "display_full": "Friday, Sep 25: 8:15 am - 1:15 pm"
+          "time_range": "8:30 am - 1:15 pm",
+          "display": "8:30 am - 1:15 pm",
+          "display_full": "Friday, Sep 25: 8:30 am - 1:15 pm"
         },
         {
           "date": "2026-09-28",
@@ -1224,7 +1122,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Sep 25 from 8:15 am - 1:15 pm"
+      "availability": "Friday, Sep 25 from 8:30 am - 1:15 pm"
     }
   },
   "Burnett Heads": {
@@ -1413,31 +1311,31 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "11:15 am",
+          "start_time": "11:45 am",
           "end_time": "4:15 pm",
-          "time_range": "11:15 am - 4:15 pm",
-          "display": "11:15 am - 4:15 pm",
-          "display_full": "Thursday, Sep 24: 11:15 am - 4:15 pm"
+          "time_range": "11:45 am - 4:15 pm",
+          "display": "11:45 am - 4:15 pm",
+          "display_full": "Thursday, Sep 24: 11:45 am - 4:15 pm"
         },
         {
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
           "start_time": "11:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Friday, Sep 25: 11:45 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "11:45 am - 3:15 pm",
+          "display": "11:45 am - 3:15 pm",
+          "display_full": "Friday, Sep 25: 11:45 am - 3:15 pm"
         },
         {
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "9:15 am",
+          "start_time": "9:45 am",
           "end_time": "4:15 pm",
-          "time_range": "9:15 am - 4:15 pm",
-          "display": "9:15 am - 4:15 pm",
-          "display_full": "Monday, Sep 28: 9:15 am - 4:15 pm"
+          "time_range": "9:45 am - 4:15 pm",
+          "display": "9:45 am - 4:15 pm",
+          "display_full": "Monday, Sep 28: 9:45 am - 4:15 pm"
         }
       ],
       "patches": [
@@ -1445,35 +1343,35 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "11:15 am",
+          "start_time": "11:45 am",
           "end_time": "4:15 pm",
-          "time_range": "11:15 am - 4:15 pm",
-          "display": "11:15 am - 4:15 pm",
-          "display_full": "Thursday, Sep 24: 11:15 am - 4:15 pm"
+          "time_range": "11:45 am - 4:15 pm",
+          "display": "11:45 am - 4:15 pm",
+          "display_full": "Thursday, Sep 24: 11:45 am - 4:15 pm"
         },
         {
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
           "start_time": "11:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Friday, Sep 25: 11:45 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "11:45 am - 3:15 pm",
+          "display": "11:45 am - 3:15 pm",
+          "display_full": "Friday, Sep 25: 11:45 am - 3:15 pm"
         },
         {
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "9:15 am",
+          "start_time": "9:45 am",
           "end_time": "4:15 pm",
-          "time_range": "9:15 am - 4:15 pm",
-          "display": "9:15 am - 4:15 pm",
-          "display_full": "Monday, Sep 28: 9:15 am - 4:15 pm"
+          "time_range": "9:45 am - 4:15 pm",
+          "display": "9:45 am - 4:15 pm",
+          "display_full": "Monday, Sep 28: 9:45 am - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 11:15 am - 4:15 pm"
+      "availability": "Thursday, Sep 24 from 11:45 am - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1521,11 +1419,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "1:10 pm",
+          "start_time": "1:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "1:10 pm - 6:40 pm",
-          "display": "1:10 pm - 6:40 pm",
-          "display_full": "Thursday, Sep 24: 1:10 pm - 6:40 pm"
+          "time_range": "1:20 pm - 6:40 pm",
+          "display": "1:20 pm - 6:40 pm",
+          "display_full": "Thursday, Sep 24: 1:20 pm - 6:40 pm"
         },
         {
           "date": "2026-09-25",
@@ -1553,11 +1451,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "1:10 pm",
+          "start_time": "1:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "1:10 pm - 6:40 pm",
-          "display": "1:10 pm - 6:40 pm",
-          "display_full": "Thursday, Sep 24: 1:10 pm - 6:40 pm"
+          "time_range": "1:20 pm - 6:40 pm",
+          "display": "1:20 pm - 6:40 pm",
+          "display_full": "Thursday, Sep 24: 1:20 pm - 6:40 pm"
         },
         {
           "date": "2026-09-25",
@@ -1581,7 +1479,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 1:10 pm - 6:40 pm"
+      "availability": "Thursday, Sep 24 from 1:20 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1632,11 +1530,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "2:50 pm",
+          "start_time": "3:00 pm",
           "end_time": "3:00 pm",
-          "time_range": "2:50 pm - 3:00 pm",
-          "display": "2:50 pm - 3:00 pm",
-          "display_full": "Thursday, Sep 24: 2:50 pm - 3:00 pm"
+          "time_range": "3:00 pm",
+          "display": "3:00 pm",
+          "display_full": "Thursday, Sep 24: 3:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -1664,11 +1562,11 @@
           "date": "2026-09-24",
           "day_name": "Thursday",
           "date_label": "Thursday, Sep 24",
-          "start_time": "2:50 pm",
+          "start_time": "3:00 pm",
           "end_time": "3:00 pm",
-          "time_range": "2:50 pm - 3:00 pm",
-          "display": "2:50 pm - 3:00 pm",
-          "display_full": "Thursday, Sep 24: 2:50 pm - 3:00 pm"
+          "time_range": "3:00 pm",
+          "display": "3:00 pm",
+          "display_full": "Thursday, Sep 24: 3:00 pm"
         },
         {
           "date": "2026-09-25",
@@ -1692,7 +1590,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Sep 24 from 2:50 pm - 3:00 pm"
+      "availability": "Thursday, Sep 24 from 3:00 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
