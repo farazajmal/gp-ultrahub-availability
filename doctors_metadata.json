@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-23 07:17:31 PM",
+    "last_updated": "2026-09-24 07:00:50 AM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -10,8 +10,8 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
+                    "MBBS",
                     "Dip Occ Med (RCPI)"
                 ],
                 "areas_of_interest": [
@@ -57,10 +57,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
-                    "MBBS",
                     "MRCGP",
-                    "MCPS (Family Medicine)"
+                    "MCPS (Family Medicine)",
+                    "MBBS",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -103,10 +103,10 @@
                 "gender": "Male",
                 "qualifications": [
                     "MRCGP",
-                    "MCPS",
+                    "MBBS",
                     "DFM",
-                    "General Practitioner",
-                    "MBBS"
+                    "MCPS",
+                    "General Practitioner"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -326,9 +326,9 @@
                 "provider_type": "Physiotherapist",
                 "gender": "Female",
                 "qualifications": [
+                    "MRCGP",
                     "MCPS (Family Medicine)",
-                    "MBBS",
-                    "MRCGP"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -592,8 +592,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -798,20 +798,20 @@
                 "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
                 "doctor_slug": "dr-nauman-ahmed-1",
                 "availability_type_ids": [
-                    "1591708",
-                    "1541553",
-                    "1541554",
                     "1541553",
                     "1541553",
-                    "1541554",
-                    "1541555",
+                    "1541553",
                     "1541556",
-                    "1591715",
-                    "1541553",
+                    "1541555",
                     "1591709",
                     "1591722",
+                    "1591726",
                     "1591730",
-                    "1591726"
+                    "1591708",
+                    "1541554",
+                    "1541553",
+                    "1541554",
+                    "1591715"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1"
@@ -823,9 +823,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MRCGP",
                     "MRCPG",
-                    "MBBS",
-                    "MRCGP"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -843,20 +843,20 @@
                 "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
                 "doctor_slug": "dr-aasma-sheraz",
                 "availability_type_ids": [
-                    "1512897",
                     "1492984",
-                    "1512892",
-                    "1512892",
+                    "1492984",
                     "1512894",
                     "1512895",
-                    "1492984",
                     "1512897",
-                    "1591720",
                     "1492984",
                     "1591712",
+                    "1591720",
                     "1591721",
                     "1591728",
-                    "1591733"
+                    "1591733",
+                    "1512897",
+                    "1512892",
+                    "1512892"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
@@ -913,20 +913,20 @@
                 "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
                 "doctor_slug": "dr-umair-siddiqui-3",
                 "availability_type_ids": [
-                    "1591707",
-                    "1427344",
-                    "1427345",
                     "1427344",
                     "1427344",
-                    "1427345",
-                    "1434268",
                     "1434273",
-                    "1434277",
-                    "1427344",
+                    "1434268",
                     "1591711",
                     "1591724",
                     "1591729",
-                    "1591732"
+                    "1591732",
+                    "1427345",
+                    "1427344",
+                    "1591707",
+                    "1434277",
+                    "1427345",
+                    "1427344"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3"
