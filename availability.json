@@ -7,8 +7,8 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
         "MBBS",
+        "MRCGP",
         "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
@@ -124,10 +124,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MCPS (Family Medicine)",
         "MBBS",
-        "MCPS"
+        "MRCGP",
+        "MCPS",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -235,11 +235,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MCPS",
-        "DFM",
-        "MRCGP",
         "MBBS",
-        "General Practitioner"
+        "MRCGP",
+        "General Practitioner",
+        "MCPS",
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -669,9 +669,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MRCGP",
-        "MCPS (Family Medicine)",
-        "MBBS"
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1109,8 +1109,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1592,8 +1592,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MBBS",
+        "MRCGP",
         "MRCPG"
       ],
       "areas_of_interest": [
