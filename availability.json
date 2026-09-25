@@ -29,10 +29,72 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-25",
+          "day_name": "Friday",
+          "date_label": "Friday, Sep 25",
+          "start_time": "11:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "11:00 am - 4:00 pm",
+          "display": "11:00 am - 4:00 pm",
+          "display_full": "Friday, Sep 25: 11:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "8:45 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:45 am - 4:00 pm",
+          "display": "8:45 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 8:45 am - 4:00 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "8:45 am",
+          "end_time": "3:45 pm",
+          "time_range": "8:45 am - 3:45 pm",
+          "display": "8:45 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 8:45 am - 3:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-25",
+          "day_name": "Friday",
+          "date_label": "Friday, Sep 25",
+          "start_time": "11:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "11:00 am - 4:00 pm",
+          "display": "11:00 am - 4:00 pm",
+          "display_full": "Friday, Sep 25: 11:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "8:45 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:45 am - 4:00 pm",
+          "display": "8:45 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 8:45 am - 4:00 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "8:45 am",
+          "end_time": "3:45 pm",
+          "time_range": "8:45 am - 3:45 pm",
+          "display": "8:45 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 8:45 am - 3:45 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Friday, Sep 25 from 11:00 am - 4:00 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -150,7 +212,7 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
       "availability_patches": [],
       "patches": [],
-      "scrape_status": "no_availability",
+      "scrape_status": "error",
       "availability": "Call clinic to book"
     },
     "Dr Mohammad Umair Siddiqui": {
@@ -251,7 +313,7 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
       "availability_patches": [],
       "patches": [],
-      "scrape_status": "error",
+      "scrape_status": "no_availability",
       "availability": "Call clinic to book"
     },
     "Dr. Arooj Fatima": {
@@ -480,7 +542,7 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
       "availability_patches": [],
       "patches": [],
-      "scrape_status": "error",
+      "scrape_status": "no_availability",
       "availability": "Call clinic to book"
     },
     "Dr. Aisha Asghar": {
@@ -616,10 +678,52 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "error",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:45 am",
+          "end_time": "2:15 pm",
+          "time_range": "11:45 am - 2:15 pm",
+          "display": "11:45 am - 2:15 pm",
+          "display_full": "Monday, Sep 28: 11:45 am - 2:15 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "10:15 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:15 am - 3:45 pm",
+          "display": "10:15 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 10:15 am - 3:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "11:45 am",
+          "end_time": "2:15 pm",
+          "time_range": "11:45 am - 2:15 pm",
+          "display": "11:45 am - 2:15 pm",
+          "display_full": "Monday, Sep 28: 11:45 am - 2:15 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "10:15 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:15 am - 3:45 pm",
+          "display": "10:15 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 10:15 am - 3:45 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Monday, Sep 28 from 11:45 am - 2:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -681,52 +785,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
-      "availability_patches": [
-        {
-          "date": "2026-09-28",
-          "day_name": "Monday",
-          "date_label": "Monday, Sep 28",
-          "start_time": "9:00 am",
-          "end_time": "2:15 pm",
-          "time_range": "9:00 am - 2:15 pm",
-          "display": "9:00 am - 2:15 pm",
-          "display_full": "Monday, Sep 28: 9:00 am - 2:15 pm"
-        },
-        {
-          "date": "2026-09-29",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Sep 29",
-          "start_time": "7:15 am",
-          "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Tuesday, Sep 29: 7:15 am - 2:15 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-09-28",
-          "day_name": "Monday",
-          "date_label": "Monday, Sep 28",
-          "start_time": "9:00 am",
-          "end_time": "2:15 pm",
-          "time_range": "9:00 am - 2:15 pm",
-          "display": "9:00 am - 2:15 pm",
-          "display_full": "Monday, Sep 28: 9:00 am - 2:15 pm"
-        },
-        {
-          "date": "2026-09-29",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Sep 29",
-          "start_time": "7:15 am",
-          "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Tuesday, Sep 29: 7:15 am - 2:15 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 9:00 am - 2:15 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "error",
+      "availability": "Call clinic to book"
     }
   },
   "Burnett Heads": {
@@ -985,7 +1047,7 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "availability_patches": [],
       "patches": [],
-      "scrape_status": "no_availability",
+      "scrape_status": "error",
       "availability": "Call clinic to book"
     },
     "Dr. Jahangir Khan": {
