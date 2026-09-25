@@ -186,11 +186,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "12:00 pm",
+          "start_time": "11:15 am",
           "end_time": "6:45 pm",
-          "time_range": "12:00 pm - 6:45 pm",
-          "display": "12:00 pm - 6:45 pm",
-          "display_full": "Monday, Sep 28: 12:00 pm - 6:45 pm"
+          "time_range": "11:15 am - 6:45 pm",
+          "display": "11:15 am - 6:45 pm",
+          "display_full": "Monday, Sep 28: 11:15 am - 6:45 pm"
         }
       ],
       "patches": [
@@ -218,11 +218,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "12:00 pm",
+          "start_time": "11:15 am",
           "end_time": "6:45 pm",
-          "time_range": "12:00 pm - 6:45 pm",
-          "display": "12:00 pm - 6:45 pm",
-          "display_full": "Monday, Sep 28: 12:00 pm - 6:45 pm"
+          "time_range": "11:15 am - 6:45 pm",
+          "display": "11:15 am - 6:45 pm",
+          "display_full": "Monday, Sep 28: 11:15 am - 6:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -724,24 +724,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "availability_patches": [
         {
-          "date": "2026-09-25",
-          "day_name": "Friday",
-          "date_label": "Friday, Sep 25",
-          "start_time": "2:30 pm",
-          "end_time": "2:30 pm",
-          "time_range": "2:30 pm",
-          "display": "2:30 pm",
-          "display_full": "Friday, Sep 25: 2:30 pm"
-        },
-        {
           "date": "2026-09-27",
           "day_name": "Sunday",
           "date_label": "Sunday, Sep 27",
-          "start_time": "2:15 pm",
+          "start_time": "10:00 am",
           "end_time": "3:00 pm",
-          "time_range": "2:15 pm - 3:00 pm",
-          "display": "2:15 pm - 3:00 pm",
-          "display_full": "Sunday, Sep 27: 2:15 pm - 3:00 pm"
+          "time_range": "10:00 am - 3:00 pm",
+          "display": "10:00 am - 3:00 pm",
+          "display_full": "Sunday, Sep 27: 10:00 am - 3:00 pm"
         },
         {
           "date": "2026-09-28",
@@ -756,24 +746,14 @@
       ],
       "patches": [
         {
-          "date": "2026-09-25",
-          "day_name": "Friday",
-          "date_label": "Friday, Sep 25",
-          "start_time": "2:30 pm",
-          "end_time": "2:30 pm",
-          "time_range": "2:30 pm",
-          "display": "2:30 pm",
-          "display_full": "Friday, Sep 25: 2:30 pm"
-        },
-        {
           "date": "2026-09-27",
           "day_name": "Sunday",
           "date_label": "Sunday, Sep 27",
-          "start_time": "2:15 pm",
+          "start_time": "10:00 am",
           "end_time": "3:00 pm",
-          "time_range": "2:15 pm - 3:00 pm",
-          "display": "2:15 pm - 3:00 pm",
-          "display_full": "Sunday, Sep 27: 2:15 pm - 3:00 pm"
+          "time_range": "10:00 am - 3:00 pm",
+          "display": "10:00 am - 3:00 pm",
+          "display_full": "Sunday, Sep 27: 10:00 am - 3:00 pm"
         },
         {
           "date": "2026-09-28",
@@ -787,7 +767,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Sep 25 from 2:30 pm"
+      "availability": "Sunday, Sep 27 from 10:00 am - 3:00 pm"
     }
   },
   "Calliope": {
@@ -937,11 +917,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "12:00 pm",
+          "start_time": "12:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:00 pm - 5:15 pm",
-          "display": "12:00 pm - 5:15 pm",
-          "display_full": "Monday, Sep 28: 12:00 pm - 5:15 pm"
+          "time_range": "12:15 pm - 5:15 pm",
+          "display": "12:15 pm - 5:15 pm",
+          "display_full": "Monday, Sep 28: 12:15 pm - 5:15 pm"
         },
         {
           "date": "2026-09-29",
@@ -969,11 +949,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "12:00 pm",
+          "start_time": "12:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:00 pm - 5:15 pm",
-          "display": "12:00 pm - 5:15 pm",
-          "display_full": "Monday, Sep 28: 12:00 pm - 5:15 pm"
+          "time_range": "12:15 pm - 5:15 pm",
+          "display": "12:15 pm - 5:15 pm",
+          "display_full": "Monday, Sep 28: 12:15 pm - 5:15 pm"
         },
         {
           "date": "2026-09-29",
@@ -1228,32 +1208,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-umair-siddiqui-2",
-      "availability_patches": [
-        {
-          "date": "2026-09-25",
-          "day_name": "Friday",
-          "date_label": "Friday, Sep 25",
-          "start_time": "1:45 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:45 pm - 2:15 pm",
-          "display": "1:45 pm - 2:15 pm",
-          "display_full": "Friday, Sep 25: 1:45 pm - 2:15 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-09-25",
-          "day_name": "Friday",
-          "date_label": "Friday, Sep 25",
-          "start_time": "1:45 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:45 pm - 2:15 pm",
-          "display": "1:45 pm - 2:15 pm",
-          "display_full": "Friday, Sep 25: 1:45 pm - 2:15 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Friday, Sep 25 from 1:45 pm - 2:15 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Practice Nurse (including Flu Vaccines)": {
       "doctor_id": 211262,
@@ -1596,11 +1554,11 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "1:00 pm",
-          "end_time": "3:10 pm",
-          "time_range": "1:00 pm - 3:10 pm",
-          "display": "1:00 pm - 3:10 pm",
-          "display_full": "Friday, Sep 25: 1:00 pm - 3:10 pm"
+          "start_time": "1:50 pm",
+          "end_time": "2:50 pm",
+          "time_range": "1:50 pm - 2:50 pm",
+          "display": "1:50 pm - 2:50 pm",
+          "display_full": "Friday, Sep 25: 1:50 pm - 2:50 pm"
         },
         {
           "date": "2026-09-28",
@@ -1628,11 +1586,11 @@
           "date": "2026-09-25",
           "day_name": "Friday",
           "date_label": "Friday, Sep 25",
-          "start_time": "1:00 pm",
-          "end_time": "3:10 pm",
-          "time_range": "1:00 pm - 3:10 pm",
-          "display": "1:00 pm - 3:10 pm",
-          "display_full": "Friday, Sep 25: 1:00 pm - 3:10 pm"
+          "start_time": "1:50 pm",
+          "end_time": "2:50 pm",
+          "time_range": "1:50 pm - 2:50 pm",
+          "display": "1:50 pm - 2:50 pm",
+          "display_full": "Friday, Sep 25: 1:50 pm - 2:50 pm"
         },
         {
           "date": "2026-09-28",
@@ -1656,7 +1614,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Sep 25 from 1:00 pm - 3:10 pm"
+      "availability": "Friday, Sep 25 from 1:50 pm - 2:50 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
