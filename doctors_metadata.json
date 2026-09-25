@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-25 07:01:04 PM",
+    "last_updated": "2026-09-25 07:39:06 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -10,9 +10,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "Dip Occ Med (RCPI)",
+                    "MBBS",
                     "MRCGP",
-                    "MBBS"
+                    "Dip Occ Med (RCPI)"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -57,10 +57,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
-                    "MCPS (Family Medicine)",
+                    "MBBS",
                     "MRCGP",
-                    "MBBS"
+                    "MCPS",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -102,11 +102,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "DFM",
+                    "MBBS",
                     "MRCGP",
                     "General Practitioner",
-                    "MBBS",
-                    "MCPS"
+                    "MCPS",
+                    "DFM"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -592,8 +592,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -823,9 +823,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
+                    "MBBS",
                     "MRCGP",
-                    "MBBS"
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
