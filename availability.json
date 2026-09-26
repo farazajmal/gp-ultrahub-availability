@@ -384,10 +384,72 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "error",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "7:15 am",
+          "end_time": "10:00 am",
+          "time_range": "7:15 am - 10:00 am",
+          "display": "7:15 am - 10:00 am",
+          "display_full": "Monday, Sep 28: 7:15 am - 10:00 am"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "9:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "9:30 am - 3:45 pm",
+          "display": "9:30 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 9:30 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "10:15 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:15 am - 3:45 pm",
+          "display": "10:15 am - 3:45 pm",
+          "display_full": "Wednesday, Sep 30: 10:15 am - 3:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "7:15 am",
+          "end_time": "10:00 am",
+          "time_range": "7:15 am - 10:00 am",
+          "display": "7:15 am - 10:00 am",
+          "display_full": "Monday, Sep 28: 7:15 am - 10:00 am"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "9:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "9:30 am - 3:45 pm",
+          "display": "9:30 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 9:30 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "10:15 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:15 am - 3:45 pm",
+          "display": "10:15 am - 3:45 pm",
+          "display_full": "Wednesday, Sep 30: 10:15 am - 3:45 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Monday, Sep 28 from 7:15 am - 10:00 am"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -437,7 +499,7 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
       "availability_patches": [],
       "patches": [],
-      "scrape_status": "error",
+      "scrape_status": "no_availability",
       "availability": "Call clinic to book"
     },
     "Dr. Arooj Fatima": {
@@ -480,10 +542,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "error",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "9:00 am",
+          "end_time": "4:15 pm",
+          "time_range": "9:00 am - 4:15 pm",
+          "display": "9:00 am - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 9:00 am - 4:15 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "9:00 am",
+          "end_time": "4:15 pm",
+          "time_range": "9:00 am - 4:15 pm",
+          "display": "9:00 am - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 9:00 am - 4:15 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Tuesday, Sep 29 from 9:00 am - 4:15 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -529,10 +613,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "error",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "7:51 am",
+          "end_time": "1:48 pm",
+          "time_range": "7:51 am - 1:48 pm",
+          "display": "7:51 am - 1:48 pm",
+          "display_full": "Wednesday, Sep 30: 7:51 am - 1:48 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "7:51 am",
+          "end_time": "1:48 pm",
+          "time_range": "7:51 am - 1:48 pm",
+          "display": "7:51 am - 1:48 pm",
+          "display_full": "Wednesday, Sep 30: 7:51 am - 1:48 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Wednesday, Sep 30 from 7:51 am - 1:48 pm"
     },
     "Mehwish Saghir": {
       "doctor_id": 219466,
@@ -794,10 +900,52 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "error",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "4:45 pm",
+          "end_time": "5:00 pm",
+          "time_range": "4:45 pm - 5:00 pm",
+          "display": "4:45 pm - 5:00 pm",
+          "display_full": "Monday, Sep 28: 4:45 pm - 5:00 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "12:15 pm",
+          "end_time": "5:00 pm",
+          "time_range": "12:15 pm - 5:00 pm",
+          "display": "12:15 pm - 5:00 pm",
+          "display_full": "Tuesday, Sep 29: 12:15 pm - 5:00 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "4:45 pm",
+          "end_time": "5:00 pm",
+          "time_range": "4:45 pm - 5:00 pm",
+          "display": "4:45 pm - 5:00 pm",
+          "display_full": "Monday, Sep 28: 4:45 pm - 5:00 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "12:15 pm",
+          "end_time": "5:00 pm",
+          "time_range": "12:15 pm - 5:00 pm",
+          "display": "12:15 pm - 5:00 pm",
+          "display_full": "Tuesday, Sep 29: 12:15 pm - 5:00 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Monday, Sep 28 from 4:45 pm - 5:00 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -844,10 +992,72 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "error",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "12:30 pm",
+          "end_time": "2:45 pm",
+          "time_range": "12:30 pm - 2:45 pm",
+          "display": "12:30 pm - 2:45 pm",
+          "display_full": "Monday, Sep 28: 12:30 pm - 2:45 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "10:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:30 am - 3:45 pm",
+          "display": "10:30 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 10:30 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "12:15 pm",
+          "end_time": "3:45 pm",
+          "time_range": "12:15 pm - 3:45 pm",
+          "display": "12:15 pm - 3:45 pm",
+          "display_full": "Wednesday, Sep 30: 12:15 pm - 3:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "12:30 pm",
+          "end_time": "2:45 pm",
+          "time_range": "12:30 pm - 2:45 pm",
+          "display": "12:30 pm - 2:45 pm",
+          "display_full": "Monday, Sep 28: 12:30 pm - 2:45 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "10:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:30 am - 3:45 pm",
+          "display": "10:30 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 10:30 am - 3:45 pm"
+        },
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "12:15 pm",
+          "end_time": "3:45 pm",
+          "time_range": "12:15 pm - 3:45 pm",
+          "display": "12:15 pm - 3:45 pm",
+          "display_full": "Wednesday, Sep 30: 12:15 pm - 3:45 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Monday, Sep 28 from 12:30 pm - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1089,10 +1299,52 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "error",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "2:00 pm",
+          "end_time": "4:15 pm",
+          "time_range": "2:00 pm - 4:15 pm",
+          "display": "2:00 pm - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 2:00 pm - 4:15 pm"
+        },
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "8:30 am",
+          "end_time": "4:15 pm",
+          "time_range": "8:30 am - 4:15 pm",
+          "display": "8:30 am - 4:15 pm",
+          "display_full": "Wednesday, Sep 30: 8:30 am - 4:15 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "2:00 pm",
+          "end_time": "4:15 pm",
+          "time_range": "2:00 pm - 4:15 pm",
+          "display": "2:00 pm - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 2:00 pm - 4:15 pm"
+        },
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "8:30 am",
+          "end_time": "4:15 pm",
+          "time_range": "8:30 am - 4:15 pm",
+          "display": "8:30 am - 4:15 pm",
+          "display_full": "Wednesday, Sep 30: 8:30 am - 4:15 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Tuesday, Sep 29 from 2:00 pm - 4:15 pm"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
@@ -1136,10 +1388,72 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "error",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "10:45 am",
+          "end_time": "4:15 pm",
+          "time_range": "10:45 am - 4:15 pm",
+          "display": "10:45 am - 4:15 pm",
+          "display_full": "Monday, Sep 28: 10:45 am - 4:15 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "8:45 am",
+          "end_time": "4:15 pm",
+          "time_range": "8:45 am - 4:15 pm",
+          "display": "8:45 am - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 8:45 am - 4:15 pm"
+        },
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "9:00 am",
+          "end_time": "4:15 pm",
+          "time_range": "9:00 am - 4:15 pm",
+          "display": "9:00 am - 4:15 pm",
+          "display_full": "Wednesday, Sep 30: 9:00 am - 4:15 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "10:45 am",
+          "end_time": "4:15 pm",
+          "time_range": "10:45 am - 4:15 pm",
+          "display": "10:45 am - 4:15 pm",
+          "display_full": "Monday, Sep 28: 10:45 am - 4:15 pm"
+        },
+        {
+          "date": "2026-09-29",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Sep 29",
+          "start_time": "8:45 am",
+          "end_time": "4:15 pm",
+          "time_range": "8:45 am - 4:15 pm",
+          "display": "8:45 am - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 8:45 am - 4:15 pm"
+        },
+        {
+          "date": "2026-09-30",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Sep 30",
+          "start_time": "9:00 am",
+          "end_time": "4:15 pm",
+          "time_range": "9:00 am - 4:15 pm",
+          "display": "9:00 am - 4:15 pm",
+          "display_full": "Wednesday, Sep 30: 9:00 am - 4:15 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Monday, Sep 28 from 10:45 am - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1497,7 +1811,7 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
       "availability_patches": [],
       "patches": [],
-      "scrape_status": "error",
+      "scrape_status": "no_availability",
       "availability": "Call clinic to book"
     },
     "Practice Nurse": {
