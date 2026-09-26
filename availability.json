@@ -978,10 +978,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
           "start_time": "12:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "12:45 pm - 2:45 pm",
-          "display": "12:45 pm - 2:45 pm",
-          "display_full": "Monday, Sep 28: 12:45 pm - 2:45 pm"
+          "end_time": "12:45 pm",
+          "time_range": "12:45 pm",
+          "display": "12:45 pm",
+          "display_full": "Monday, Sep 28: 12:45 pm"
         },
         {
           "date": "2026-09-29",
@@ -1010,10 +1010,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
           "start_time": "12:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "12:45 pm - 2:45 pm",
-          "display": "12:45 pm - 2:45 pm",
-          "display_full": "Monday, Sep 28: 12:45 pm - 2:45 pm"
+          "end_time": "12:45 pm",
+          "time_range": "12:45 pm",
+          "display": "12:45 pm",
+          "display_full": "Monday, Sep 28: 12:45 pm"
         },
         {
           "date": "2026-09-29",
@@ -1037,7 +1037,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 12:45 pm - 2:45 pm"
+      "availability": "Monday, Sep 28 from 12:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1295,10 +1295,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
           "start_time": "8:30 am",
-          "end_time": "4:15 pm",
-          "time_range": "8:30 am - 4:15 pm",
-          "display": "8:30 am - 4:15 pm",
-          "display_full": "Wednesday, Sep 30: 8:30 am - 4:15 pm"
+          "end_time": "3:45 pm",
+          "time_range": "8:30 am - 3:45 pm",
+          "display": "8:30 am - 3:45 pm",
+          "display_full": "Wednesday, Sep 30: 8:30 am - 3:45 pm"
         }
       ],
       "patches": [
@@ -1317,10 +1317,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
           "start_time": "8:30 am",
-          "end_time": "4:15 pm",
-          "time_range": "8:30 am - 4:15 pm",
-          "display": "8:30 am - 4:15 pm",
-          "display_full": "Wednesday, Sep 30: 8:30 am - 4:15 pm"
+          "end_time": "3:45 pm",
+          "time_range": "8:30 am - 3:45 pm",
+          "display": "8:30 am - 3:45 pm",
+          "display_full": "Wednesday, Sep 30: 8:30 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
