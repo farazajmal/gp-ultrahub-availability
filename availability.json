@@ -882,16 +882,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
-          "date": "2026-09-28",
-          "day_name": "Monday",
-          "date_label": "Monday, Sep 28",
-          "start_time": "4:45 pm",
-          "end_time": "4:45 pm",
-          "time_range": "4:45 pm",
-          "display": "4:45 pm",
-          "display_full": "Monday, Sep 28: 4:45 pm"
-        },
-        {
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
@@ -904,16 +894,6 @@
       ],
       "patches": [
         {
-          "date": "2026-09-28",
-          "day_name": "Monday",
-          "date_label": "Monday, Sep 28",
-          "start_time": "4:45 pm",
-          "end_time": "4:45 pm",
-          "time_range": "4:45 pm",
-          "display": "4:45 pm",
-          "display_full": "Monday, Sep 28: 4:45 pm"
-        },
-        {
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
@@ -925,7 +905,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 4:45 pm"
+      "availability": "Tuesday, Sep 29 from 12:15 pm - 5:00 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -987,11 +967,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "10:30 am - 3:45 pm",
-          "display": "10:30 am - 3:45 pm",
-          "display_full": "Tuesday, Sep 29: 10:30 am - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 10:45 am - 3:45 pm"
         },
         {
           "date": "2026-09-30",
@@ -1019,11 +999,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "10:30 am - 3:45 pm",
-          "display": "10:30 am - 3:45 pm",
-          "display_full": "Tuesday, Sep 29: 10:30 am - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 10:45 am - 3:45 pm"
         },
         {
           "date": "2026-09-30",
