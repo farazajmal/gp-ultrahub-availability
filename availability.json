@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
+        "Dip Occ Med (RCPI)",
         "MRCGP",
-        "Dip Occ Med (RCPI)"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -144,9 +144,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP",
         "MCPS",
+        "MRCGP",
+        "MBBS",
         "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
@@ -255,11 +255,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "DFM",
+        "MCPS",
         "MRCGP",
         "MBBS",
-        "General Practitioner",
-        "DFM",
-        "MCPS"
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -297,11 +297,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Monday, Sep 28: 11:30 am - 6:45 pm"
+          "time_range": "11:45 am - 6:45 pm",
+          "display": "11:45 am - 6:45 pm",
+          "display_full": "Monday, Sep 28: 11:45 am - 6:45 pm"
         },
         {
           "date": "2026-09-29",
@@ -329,11 +329,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Monday, Sep 28: 11:30 am - 6:45 pm"
+          "time_range": "11:45 am - 6:45 pm",
+          "display": "11:45 am - 6:45 pm",
+          "display_full": "Monday, Sep 28: 11:45 am - 6:45 pm"
         },
         {
           "date": "2026-09-29",
@@ -357,7 +357,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 11:30 am - 6:45 pm"
+      "availability": "Monday, Sep 28 from 11:45 am - 6:45 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -659,10 +659,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
           "start_time": "12:45 pm",
-          "end_time": "1:48 pm",
-          "time_range": "12:45 pm - 1:48 pm",
-          "display": "12:45 pm - 1:48 pm",
-          "display_full": "Wednesday, Sep 30: 12:45 pm - 1:48 pm"
+          "end_time": "1:33 pm",
+          "time_range": "12:45 pm - 1:33 pm",
+          "display": "12:45 pm - 1:33 pm",
+          "display_full": "Wednesday, Sep 30: 12:45 pm - 1:33 pm"
         }
       ],
       "patches": [
@@ -671,14 +671,14 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
           "start_time": "12:45 pm",
-          "end_time": "1:48 pm",
-          "time_range": "12:45 pm - 1:48 pm",
-          "display": "12:45 pm - 1:48 pm",
-          "display_full": "Wednesday, Sep 30: 12:45 pm - 1:48 pm"
+          "end_time": "1:33 pm",
+          "time_range": "12:45 pm - 1:33 pm",
+          "display": "12:45 pm - 1:33 pm",
+          "display_full": "Wednesday, Sep 30: 12:45 pm - 1:33 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Sep 30 from 12:45 pm - 1:48 pm"
+      "availability": "Wednesday, Sep 30 from 12:45 pm - 1:33 pm"
     },
     "Mehwish Saghir": {
       "doctor_id": 219466,
@@ -687,8 +687,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
+        "MBBS",
         "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
@@ -1149,8 +1149,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1186,11 +1186,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "2:15 pm",
-          "time_range": "11:30 am - 2:15 pm",
-          "display": "11:30 am - 2:15 pm",
-          "display_full": "Monday, Sep 28: 11:30 am - 2:15 pm"
+          "time_range": "11:45 am - 2:15 pm",
+          "display": "11:45 am - 2:15 pm",
+          "display_full": "Monday, Sep 28: 11:45 am - 2:15 pm"
         },
         {
           "date": "2026-09-29",
@@ -1218,11 +1218,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "2:15 pm",
-          "time_range": "11:30 am - 2:15 pm",
-          "display": "11:30 am - 2:15 pm",
-          "display_full": "Monday, Sep 28: 11:30 am - 2:15 pm"
+          "time_range": "11:45 am - 2:15 pm",
+          "display": "11:45 am - 2:15 pm",
+          "display_full": "Monday, Sep 28: 11:45 am - 2:15 pm"
         },
         {
           "date": "2026-09-29",
@@ -1246,7 +1246,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 11:30 am - 2:15 pm"
+      "availability": "Monday, Sep 28 from 11:45 am - 2:15 pm"
     }
   },
   "Burnett Heads": {
@@ -1692,8 +1692,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
+        "MBBS",
         "MRCPG"
       ],
       "areas_of_interest": [
@@ -1734,11 +1734,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "1:20 pm",
+          "start_time": "1:00 pm",
           "end_time": "1:20 pm",
-          "time_range": "1:20 pm",
-          "display": "1:20 pm",
-          "display_full": "Monday, Sep 28: 1:20 pm"
+          "time_range": "1:00 pm - 1:20 pm",
+          "display": "1:00 pm - 1:20 pm",
+          "display_full": "Monday, Sep 28: 1:00 pm - 1:20 pm"
         },
         {
           "date": "2026-09-29",
@@ -1776,11 +1776,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "1:20 pm",
+          "start_time": "1:00 pm",
           "end_time": "1:20 pm",
-          "time_range": "1:20 pm",
-          "display": "1:20 pm",
-          "display_full": "Monday, Sep 28: 1:20 pm"
+          "time_range": "1:00 pm - 1:20 pm",
+          "display": "1:00 pm - 1:20 pm",
+          "display_full": "Monday, Sep 28: 1:00 pm - 1:20 pm"
         },
         {
           "date": "2026-09-29",
@@ -1814,7 +1814,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 1:20 pm"
+      "availability": "Monday, Sep 28 from 1:00 pm - 1:20 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
