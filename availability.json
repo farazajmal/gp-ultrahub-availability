@@ -183,6 +183,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
+          "date": "2026-09-27",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Sep 27",
+          "start_time": "3:45 pm",
+          "end_time": "3:45 pm",
+          "time_range": "3:45 pm",
+          "display": "3:45 pm",
+          "display_full": "Sunday, Sep 27: 3:45 pm"
+        },
+        {
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
@@ -215,6 +225,16 @@
       ],
       "patches": [
         {
+          "date": "2026-09-27",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Sep 27",
+          "start_time": "3:45 pm",
+          "end_time": "3:45 pm",
+          "time_range": "3:45 pm",
+          "display": "3:45 pm",
+          "display_full": "Sunday, Sep 27: 3:45 pm"
+        },
+        {
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
@@ -246,7 +266,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 1:15 pm - 6:45 pm"
+      "availability": "Sunday, Sep 27 from 3:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -785,21 +805,21 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:45 am",
+          "start_time": "12:45 pm",
           "end_time": "2:45 pm",
-          "time_range": "11:45 am - 2:45 pm",
-          "display": "11:45 am - 2:45 pm",
-          "display_full": "Monday, Sep 28: 11:45 am - 2:45 pm"
+          "time_range": "12:45 pm - 2:45 pm",
+          "display": "12:45 pm - 2:45 pm",
+          "display_full": "Monday, Sep 28: 12:45 pm - 2:45 pm"
         },
         {
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "7:15 am",
+          "start_time": "7:45 am",
           "end_time": "2:45 pm",
-          "time_range": "7:15 am - 2:45 pm",
-          "display": "7:15 am - 2:45 pm",
-          "display_full": "Thursday, Oct 01: 7:15 am - 2:45 pm"
+          "time_range": "7:45 am - 2:45 pm",
+          "display": "7:45 am - 2:45 pm",
+          "display_full": "Thursday, Oct 01: 7:45 am - 2:45 pm"
         }
       ],
       "patches": [
@@ -807,25 +827,25 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:45 am",
+          "start_time": "12:45 pm",
           "end_time": "2:45 pm",
-          "time_range": "11:45 am - 2:45 pm",
-          "display": "11:45 am - 2:45 pm",
-          "display_full": "Monday, Sep 28: 11:45 am - 2:45 pm"
+          "time_range": "12:45 pm - 2:45 pm",
+          "display": "12:45 pm - 2:45 pm",
+          "display_full": "Monday, Sep 28: 12:45 pm - 2:45 pm"
         },
         {
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "7:15 am",
+          "start_time": "7:45 am",
           "end_time": "2:45 pm",
-          "time_range": "7:15 am - 2:45 pm",
-          "display": "7:15 am - 2:45 pm",
-          "display_full": "Thursday, Oct 01: 7:15 am - 2:45 pm"
+          "time_range": "7:45 am - 2:45 pm",
+          "display": "7:45 am - 2:45 pm",
+          "display_full": "Thursday, Oct 01: 7:45 am - 2:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 11:45 am - 2:45 pm"
+      "availability": "Monday, Sep 28 from 12:45 pm - 2:45 pm"
     }
   },
   "Calliope": {
@@ -1774,11 +1794,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "8:50 am",
+          "start_time": "1:20 pm",
           "end_time": "3:10 pm",
-          "time_range": "8:50 am - 3:10 pm",
-          "display": "8:50 am - 3:10 pm",
-          "display_full": "Monday, Sep 28: 8:50 am - 3:10 pm"
+          "time_range": "1:20 pm - 3:10 pm",
+          "display": "1:20 pm - 3:10 pm",
+          "display_full": "Monday, Sep 28: 1:20 pm - 3:10 pm"
         },
         {
           "date": "2026-09-29",
@@ -1816,11 +1836,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "8:50 am",
+          "start_time": "1:20 pm",
           "end_time": "3:10 pm",
-          "time_range": "8:50 am - 3:10 pm",
-          "display": "8:50 am - 3:10 pm",
-          "display_full": "Monday, Sep 28: 8:50 am - 3:10 pm"
+          "time_range": "1:20 pm - 3:10 pm",
+          "display": "1:20 pm - 3:10 pm",
+          "display_full": "Monday, Sep 28: 1:20 pm - 3:10 pm"
         },
         {
           "date": "2026-09-29",
@@ -1854,7 +1874,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 8:50 am - 3:10 pm"
+      "availability": "Monday, Sep 28 from 1:20 pm - 3:10 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
