@@ -183,16 +183,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-09-27",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Sep 27",
-          "start_time": "3:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Sunday, Sep 27: 3:45 pm"
-        },
-        {
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
@@ -225,16 +215,6 @@
       ],
       "patches": [
         {
-          "date": "2026-09-27",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Sep 27",
-          "start_time": "3:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Sunday, Sep 27: 3:45 pm"
-        },
-        {
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
@@ -266,7 +246,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Sep 27 from 3:45 pm"
+      "availability": "Monday, Sep 28 from 1:15 pm - 6:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -678,11 +658,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "7:51 am",
+          "start_time": "12:45 pm",
           "end_time": "1:48 pm",
-          "time_range": "7:51 am - 1:48 pm",
-          "display": "7:51 am - 1:48 pm",
-          "display_full": "Wednesday, Sep 30: 7:51 am - 1:48 pm"
+          "time_range": "12:45 pm - 1:48 pm",
+          "display": "12:45 pm - 1:48 pm",
+          "display_full": "Wednesday, Sep 30: 12:45 pm - 1:48 pm"
         }
       ],
       "patches": [
@@ -690,15 +670,15 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "7:51 am",
+          "start_time": "12:45 pm",
           "end_time": "1:48 pm",
-          "time_range": "7:51 am - 1:48 pm",
-          "display": "7:51 am - 1:48 pm",
-          "display_full": "Wednesday, Sep 30: 7:51 am - 1:48 pm"
+          "time_range": "12:45 pm - 1:48 pm",
+          "display": "12:45 pm - 1:48 pm",
+          "display_full": "Wednesday, Sep 30: 12:45 pm - 1:48 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Sep 30 from 7:51 am - 1:48 pm"
+      "availability": "Wednesday, Sep 30 from 12:45 pm - 1:48 pm"
     },
     "Mehwish Saghir": {
       "doctor_id": 219466,
@@ -785,11 +765,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "12:45 pm",
+          "start_time": "1:00 pm",
           "end_time": "2:45 pm",
-          "time_range": "12:45 pm - 2:45 pm",
-          "display": "12:45 pm - 2:45 pm",
-          "display_full": "Monday, Sep 28: 12:45 pm - 2:45 pm"
+          "time_range": "1:00 pm - 2:45 pm",
+          "display": "1:00 pm - 2:45 pm",
+          "display_full": "Monday, Sep 28: 1:00 pm - 2:45 pm"
         },
         {
           "date": "2026-10-01",
@@ -807,11 +787,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "12:45 pm",
+          "start_time": "1:00 pm",
           "end_time": "2:45 pm",
-          "time_range": "12:45 pm - 2:45 pm",
-          "display": "12:45 pm - 2:45 pm",
-          "display_full": "Monday, Sep 28: 12:45 pm - 2:45 pm"
+          "time_range": "1:00 pm - 2:45 pm",
+          "display": "1:00 pm - 2:45 pm",
+          "display_full": "Monday, Sep 28: 1:00 pm - 2:45 pm"
         },
         {
           "date": "2026-10-01",
@@ -825,7 +805,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 12:45 pm - 2:45 pm"
+      "availability": "Monday, Sep 28 from 1:00 pm - 2:45 pm"
     }
   },
   "Calliope": {
@@ -987,11 +967,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "12:45 pm",
+          "start_time": "1:00 pm",
           "end_time": "5:00 pm",
-          "time_range": "12:45 pm - 5:00 pm",
-          "display": "12:45 pm - 5:00 pm",
-          "display_full": "Tuesday, Sep 29: 12:45 pm - 5:00 pm"
+          "time_range": "1:00 pm - 5:00 pm",
+          "display": "1:00 pm - 5:00 pm",
+          "display_full": "Tuesday, Sep 29: 1:00 pm - 5:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -1009,11 +989,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "12:45 pm",
+          "start_time": "1:00 pm",
           "end_time": "5:00 pm",
-          "time_range": "12:45 pm - 5:00 pm",
-          "display": "12:45 pm - 5:00 pm",
-          "display_full": "Tuesday, Sep 29: 12:45 pm - 5:00 pm"
+          "time_range": "1:00 pm - 5:00 pm",
+          "display": "1:00 pm - 5:00 pm",
+          "display_full": "Tuesday, Sep 29: 1:00 pm - 5:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -1027,7 +1007,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 12:45 pm - 5:00 pm"
+      "availability": "Tuesday, Sep 29 from 1:00 pm - 5:00 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1387,20 +1367,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
           "start_time": "11:30 am",
-          "end_time": "11:30 am",
-          "time_range": "11:30 am",
-          "display": "11:30 am",
-          "display_full": "Monday, Sep 28: 11:30 am"
-        },
-        {
-          "date": "2026-09-29",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Sep 29",
-          "start_time": "4:15 pm",
-          "end_time": "4:15 pm",
-          "time_range": "4:15 pm",
-          "display": "4:15 pm",
-          "display_full": "Tuesday, Sep 29: 4:15 pm"
+          "end_time": "2:30 pm",
+          "time_range": "11:30 am - 2:30 pm",
+          "display": "11:30 am - 2:30 pm",
+          "display_full": "Monday, Sep 28: 11:30 am - 2:30 pm"
         },
         {
           "date": "2026-09-30",
@@ -1429,20 +1399,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
           "start_time": "11:30 am",
-          "end_time": "11:30 am",
-          "time_range": "11:30 am",
-          "display": "11:30 am",
-          "display_full": "Monday, Sep 28: 11:30 am"
-        },
-        {
-          "date": "2026-09-29",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Sep 29",
-          "start_time": "4:15 pm",
-          "end_time": "4:15 pm",
-          "time_range": "4:15 pm",
-          "display": "4:15 pm",
-          "display_full": "Tuesday, Sep 29: 4:15 pm"
+          "end_time": "2:30 pm",
+          "time_range": "11:30 am - 2:30 pm",
+          "display": "11:30 am - 2:30 pm",
+          "display_full": "Monday, Sep 28: 11:30 am - 2:30 pm"
         },
         {
           "date": "2026-09-30",
@@ -1466,7 +1426,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 11:30 am"
+      "availability": "Monday, Sep 28 from 11:30 am - 2:30 pm"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
