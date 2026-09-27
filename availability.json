@@ -1643,21 +1643,21 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:50 am",
+          "start_time": "12:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "11:50 am - 6:40 pm",
-          "display": "11:50 am - 6:40 pm",
-          "display_full": "Monday, Sep 28: 11:50 am - 6:40 pm"
+          "time_range": "12:20 pm - 6:40 pm",
+          "display": "12:20 pm - 6:40 pm",
+          "display_full": "Monday, Sep 28: 12:20 pm - 6:40 pm"
         },
         {
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "11:20 am",
+          "start_time": "11:30 am",
           "end_time": "6:40 pm",
-          "time_range": "11:20 am - 6:40 pm",
-          "display": "11:20 am - 6:40 pm",
-          "display_full": "Tuesday, Sep 29: 11:20 am - 6:40 pm"
+          "time_range": "11:30 am - 6:40 pm",
+          "display": "11:30 am - 6:40 pm",
+          "display_full": "Tuesday, Sep 29: 11:30 am - 6:40 pm"
         },
         {
           "date": "2026-09-30",
@@ -1685,21 +1685,21 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "11:50 am",
+          "start_time": "12:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "11:50 am - 6:40 pm",
-          "display": "11:50 am - 6:40 pm",
-          "display_full": "Monday, Sep 28: 11:50 am - 6:40 pm"
+          "time_range": "12:20 pm - 6:40 pm",
+          "display": "12:20 pm - 6:40 pm",
+          "display_full": "Monday, Sep 28: 12:20 pm - 6:40 pm"
         },
         {
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "11:20 am",
+          "start_time": "11:30 am",
           "end_time": "6:40 pm",
-          "time_range": "11:20 am - 6:40 pm",
-          "display": "11:20 am - 6:40 pm",
-          "display_full": "Tuesday, Sep 29: 11:20 am - 6:40 pm"
+          "time_range": "11:30 am - 6:40 pm",
+          "display": "11:30 am - 6:40 pm",
+          "display_full": "Tuesday, Sep 29: 11:30 am - 6:40 pm"
         },
         {
           "date": "2026-09-30",
@@ -1723,7 +1723,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 11:50 am - 6:40 pm"
+      "availability": "Monday, Sep 28 from 12:20 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
