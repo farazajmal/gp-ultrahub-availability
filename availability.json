@@ -469,11 +469,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "7:30 am",
+          "start_time": "8:45 am",
           "end_time": "10:00 am",
-          "time_range": "7:30 am - 10:00 am",
-          "display": "7:30 am - 10:00 am",
-          "display_full": "Monday, Sep 28: 7:30 am - 10:00 am"
+          "time_range": "8:45 am - 10:00 am",
+          "display": "8:45 am - 10:00 am",
+          "display_full": "Monday, Sep 28: 8:45 am - 10:00 am"
         },
         {
           "date": "2026-09-29",
@@ -511,11 +511,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "7:30 am",
+          "start_time": "8:45 am",
           "end_time": "10:00 am",
-          "time_range": "7:30 am - 10:00 am",
-          "display": "7:30 am - 10:00 am",
-          "display_full": "Monday, Sep 28: 7:30 am - 10:00 am"
+          "time_range": "8:45 am - 10:00 am",
+          "display": "8:45 am - 10:00 am",
+          "display_full": "Monday, Sep 28: 8:45 am - 10:00 am"
         },
         {
           "date": "2026-09-29",
@@ -549,7 +549,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 7:30 am - 10:00 am"
+      "availability": "Monday, Sep 28 from 8:45 am - 10:00 am"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -825,11 +825,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "7:30 am",
-          "end_time": "2:45 pm",
-          "time_range": "7:30 am - 2:45 pm",
-          "display": "7:30 am - 2:45 pm",
-          "display_full": "Monday, Sep 28: 7:30 am - 2:45 pm"
+          "start_time": "1:45 pm",
+          "end_time": "2:00 pm",
+          "time_range": "1:45 pm - 2:00 pm",
+          "display": "1:45 pm - 2:00 pm",
+          "display_full": "Monday, Sep 28: 1:45 pm - 2:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -857,11 +857,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "7:30 am",
-          "end_time": "2:45 pm",
-          "time_range": "7:30 am - 2:45 pm",
-          "display": "7:30 am - 2:45 pm",
-          "display_full": "Monday, Sep 28: 7:30 am - 2:45 pm"
+          "start_time": "1:45 pm",
+          "end_time": "2:00 pm",
+          "time_range": "1:45 pm - 2:00 pm",
+          "display": "1:45 pm - 2:00 pm",
+          "display_full": "Monday, Sep 28: 1:45 pm - 2:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -885,7 +885,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 7:30 am - 2:45 pm"
+      "availability": "Monday, Sep 28 from 1:45 pm - 2:00 pm"
     }
   },
   "Calliope": {
@@ -1087,11 +1087,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "5:15 pm",
-          "end_time": "5:15 pm",
-          "time_range": "5:15 pm",
-          "display": "5:15 pm",
-          "display_full": "Monday, Sep 28: 5:15 pm"
+          "start_time": "2:00 pm",
+          "end_time": "2:15 pm",
+          "time_range": "2:00 pm - 2:15 pm",
+          "display": "2:00 pm - 2:15 pm",
+          "display_full": "Monday, Sep 28: 2:00 pm - 2:15 pm"
         },
         {
           "date": "2026-09-29",
@@ -1129,11 +1129,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "5:15 pm",
-          "end_time": "5:15 pm",
-          "time_range": "5:15 pm",
-          "display": "5:15 pm",
-          "display_full": "Monday, Sep 28: 5:15 pm"
+          "start_time": "2:00 pm",
+          "end_time": "2:15 pm",
+          "time_range": "2:00 pm - 2:15 pm",
+          "display": "2:00 pm - 2:15 pm",
+          "display_full": "Monday, Sep 28: 2:00 pm - 2:15 pm"
         },
         {
           "date": "2026-09-29",
@@ -1167,7 +1167,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 5:15 pm"
+      "availability": "Monday, Sep 28 from 2:00 pm - 2:15 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1805,11 +1805,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "1:40 pm",
+          "start_time": "3:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "1:40 pm - 6:40 pm",
-          "display": "1:40 pm - 6:40 pm",
-          "display_full": "Monday, Sep 28: 1:40 pm - 6:40 pm"
+          "time_range": "3:40 pm - 6:40 pm",
+          "display": "3:40 pm - 6:40 pm",
+          "display_full": "Monday, Sep 28: 3:40 pm - 6:40 pm"
         },
         {
           "date": "2026-09-29",
@@ -1857,11 +1857,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "1:40 pm",
+          "start_time": "3:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "1:40 pm - 6:40 pm",
-          "display": "1:40 pm - 6:40 pm",
-          "display_full": "Monday, Sep 28: 1:40 pm - 6:40 pm"
+          "time_range": "3:40 pm - 6:40 pm",
+          "display": "3:40 pm - 6:40 pm",
+          "display_full": "Monday, Sep 28: 3:40 pm - 6:40 pm"
         },
         {
           "date": "2026-09-29",
@@ -1905,7 +1905,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 1:40 pm - 6:40 pm"
+      "availability": "Monday, Sep 28 from 3:40 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
