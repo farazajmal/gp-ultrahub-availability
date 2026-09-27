@@ -34,11 +34,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "9:15 am",
+          "start_time": "10:00 am",
           "end_time": "4:00 pm",
-          "time_range": "9:15 am - 4:00 pm",
-          "display": "9:15 am - 4:00 pm",
-          "display_full": "Monday, Sep 28: 9:15 am - 4:00 pm"
+          "time_range": "10:00 am - 4:00 pm",
+          "display": "10:00 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 10:00 am - 4:00 pm"
         },
         {
           "date": "2026-09-29",
@@ -76,11 +76,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "9:15 am",
+          "start_time": "10:00 am",
           "end_time": "4:00 pm",
-          "time_range": "9:15 am - 4:00 pm",
-          "display": "9:15 am - 4:00 pm",
-          "display_full": "Monday, Sep 28: 9:15 am - 4:00 pm"
+          "time_range": "10:00 am - 4:00 pm",
+          "display": "10:00 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 10:00 am - 4:00 pm"
         },
         {
           "date": "2026-09-29",
@@ -114,7 +114,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 9:15 am - 4:00 pm"
+      "availability": "Monday, Sep 28 from 10:00 am - 4:00 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -964,6 +964,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "5:15 pm",
+          "end_time": "5:15 pm",
+          "time_range": "5:15 pm",
+          "display": "5:15 pm",
+          "display_full": "Monday, Sep 28: 5:15 pm"
+        },
+        {
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
@@ -986,6 +996,16 @@
       ],
       "patches": [
         {
+          "date": "2026-09-28",
+          "day_name": "Monday",
+          "date_label": "Monday, Sep 28",
+          "start_time": "5:15 pm",
+          "end_time": "5:15 pm",
+          "time_range": "5:15 pm",
+          "display": "5:15 pm",
+          "display_full": "Monday, Sep 28: 5:15 pm"
+        },
+        {
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
@@ -1007,7 +1027,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 1:00 pm - 5:00 pm"
+      "availability": "Monday, Sep 28 from 5:15 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1849,11 +1869,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Monday, Sep 28: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-09-29",
@@ -1891,11 +1911,11 @@
           "date": "2026-09-28",
           "day_name": "Monday",
           "date_label": "Monday, Sep 28",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Monday, Sep 28: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Monday, Sep 28: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-09-29",
@@ -1929,7 +1949,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Sep 28 from 8:00 am - 4:00 pm"
+      "availability": "Monday, Sep 28 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
