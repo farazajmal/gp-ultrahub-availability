@@ -297,11 +297,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "12:45 pm",
+          "start_time": "1:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:45 pm - 6:45 pm",
-          "display": "12:45 pm - 6:45 pm",
-          "display_full": "Tuesday, Sep 29: 12:45 pm - 6:45 pm"
+          "time_range": "1:15 pm - 6:45 pm",
+          "display": "1:15 pm - 6:45 pm",
+          "display_full": "Tuesday, Sep 29: 1:15 pm - 6:45 pm"
         },
         {
           "date": "2026-09-30",
@@ -329,11 +329,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "12:45 pm",
+          "start_time": "1:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:45 pm - 6:45 pm",
-          "display": "12:45 pm - 6:45 pm",
-          "display_full": "Tuesday, Sep 29: 12:45 pm - 6:45 pm"
+          "time_range": "1:15 pm - 6:45 pm",
+          "display": "1:15 pm - 6:45 pm",
+          "display_full": "Tuesday, Sep 29: 1:15 pm - 6:45 pm"
         },
         {
           "date": "2026-09-30",
@@ -357,7 +357,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 12:45 pm - 6:45 pm"
+      "availability": "Tuesday, Sep 29 from 1:15 pm - 6:45 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -567,11 +567,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "10:15 am",
+          "start_time": "10:45 am",
           "end_time": "4:15 pm",
-          "time_range": "10:15 am - 4:15 pm",
-          "display": "10:15 am - 4:15 pm",
-          "display_full": "Tuesday, Sep 29: 10:15 am - 4:15 pm"
+          "time_range": "10:45 am - 4:15 pm",
+          "display": "10:45 am - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 10:45 am - 4:15 pm"
         }
       ],
       "patches": [
@@ -579,15 +579,15 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "10:15 am",
+          "start_time": "10:45 am",
           "end_time": "4:15 pm",
-          "time_range": "10:15 am - 4:15 pm",
-          "display": "10:15 am - 4:15 pm",
-          "display_full": "Tuesday, Sep 29: 10:15 am - 4:15 pm"
+          "time_range": "10:45 am - 4:15 pm",
+          "display": "10:45 am - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 10:45 am - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 10:15 am - 4:15 pm"
+      "availability": "Tuesday, Sep 29 from 10:45 am - 4:15 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
