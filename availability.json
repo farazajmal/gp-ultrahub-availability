@@ -567,11 +567,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:00 am",
+          "start_time": "10:00 am",
           "end_time": "4:15 pm",
-          "time_range": "9:00 am - 4:15 pm",
-          "display": "9:00 am - 4:15 pm",
-          "display_full": "Tuesday, Sep 29: 9:00 am - 4:15 pm"
+          "time_range": "10:00 am - 4:15 pm",
+          "display": "10:00 am - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 10:00 am - 4:15 pm"
         }
       ],
       "patches": [
@@ -579,15 +579,15 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:00 am",
+          "start_time": "10:00 am",
           "end_time": "4:15 pm",
-          "time_range": "9:00 am - 4:15 pm",
-          "display": "9:00 am - 4:15 pm",
-          "display_full": "Tuesday, Sep 29: 9:00 am - 4:15 pm"
+          "time_range": "10:00 am - 4:15 pm",
+          "display": "10:00 am - 4:15 pm",
+          "display_full": "Tuesday, Sep 29: 10:00 am - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 9:00 am - 4:15 pm"
+      "availability": "Tuesday, Sep 29 from 10:00 am - 4:15 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -720,16 +720,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "availability_patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:15 pm",
-          "end_time": "1:15 pm",
-          "time_range": "1:15 pm",
-          "display": "1:15 pm",
-          "display_full": "Thursday, Oct 01: 1:15 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
@@ -742,16 +732,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:15 pm",
-          "end_time": "1:15 pm",
-          "time_range": "1:15 pm",
-          "display": "1:15 pm",
-          "display_full": "Thursday, Oct 01: 1:15 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
@@ -763,7 +743,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 1:15 pm"
+      "availability": "Friday, Oct 02 from 8:30 am - 12:45 pm"
     }
   },
   "Calliope": {
@@ -825,11 +805,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "7:45 am",
+          "start_time": "8:00 am",
           "end_time": "2:15 pm",
-          "time_range": "7:45 am - 2:15 pm",
-          "display": "7:45 am - 2:15 pm",
-          "display_full": "Friday, Oct 02: 7:45 am - 2:15 pm"
+          "time_range": "8:00 am - 2:15 pm",
+          "display": "8:00 am - 2:15 pm",
+          "display_full": "Friday, Oct 02: 8:00 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -847,11 +827,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "7:45 am",
+          "start_time": "8:00 am",
           "end_time": "2:15 pm",
-          "time_range": "7:45 am - 2:15 pm",
-          "display": "7:45 am - 2:15 pm",
-          "display_full": "Friday, Oct 02: 7:45 am - 2:15 pm"
+          "time_range": "8:00 am - 2:15 pm",
+          "display": "8:00 am - 2:15 pm",
+          "display_full": "Friday, Oct 02: 8:00 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1326,11 +1306,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:15 am",
-          "end_time": "9:15 am",
-          "time_range": "9:15 am",
-          "display": "9:15 am",
-          "display_full": "Tuesday, Sep 29: 9:15 am"
+          "start_time": "10:30 am",
+          "end_time": "10:30 am",
+          "time_range": "10:30 am",
+          "display": "10:30 am",
+          "display_full": "Tuesday, Sep 29: 10:30 am"
         },
         {
           "date": "2026-09-30",
@@ -1358,11 +1338,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:15 am",
-          "end_time": "9:15 am",
-          "time_range": "9:15 am",
-          "display": "9:15 am",
-          "display_full": "Tuesday, Sep 29: 9:15 am"
+          "start_time": "10:30 am",
+          "end_time": "10:30 am",
+          "time_range": "10:30 am",
+          "display": "10:30 am",
+          "display_full": "Tuesday, Sep 29: 10:30 am"
         },
         {
           "date": "2026-09-30",
@@ -1386,7 +1366,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 9:15 am"
+      "availability": "Tuesday, Sep 29 from 10:30 am"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
@@ -1809,11 +1789,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Tuesday, Sep 29: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Tuesday, Sep 29: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-09-30",
@@ -1851,11 +1831,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Tuesday, Sep 29: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Tuesday, Sep 29: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-09-30",
@@ -1889,7 +1869,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 9:10 am - 4:00 pm"
+      "availability": "Tuesday, Sep 29 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
