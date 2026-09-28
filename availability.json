@@ -297,11 +297,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "12:15 pm",
+          "start_time": "12:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:15 pm - 6:45 pm",
-          "display": "12:15 pm - 6:45 pm",
-          "display_full": "Tuesday, Sep 29: 12:15 pm - 6:45 pm"
+          "time_range": "12:45 pm - 6:45 pm",
+          "display": "12:45 pm - 6:45 pm",
+          "display_full": "Tuesday, Sep 29: 12:45 pm - 6:45 pm"
         },
         {
           "date": "2026-09-30",
@@ -329,11 +329,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "12:15 pm",
+          "start_time": "12:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:15 pm - 6:45 pm",
-          "display": "12:15 pm - 6:45 pm",
-          "display_full": "Tuesday, Sep 29: 12:15 pm - 6:45 pm"
+          "time_range": "12:45 pm - 6:45 pm",
+          "display": "12:45 pm - 6:45 pm",
+          "display_full": "Tuesday, Sep 29: 12:45 pm - 6:45 pm"
         },
         {
           "date": "2026-09-30",
@@ -357,7 +357,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 12:15 pm - 6:45 pm"
+      "availability": "Tuesday, Sep 29 from 12:45 pm - 6:45 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -409,11 +409,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:15 am",
+          "start_time": "11:45 am",
           "end_time": "3:45 pm",
-          "time_range": "9:15 am - 3:45 pm",
-          "display": "9:15 am - 3:45 pm",
-          "display_full": "Tuesday, Sep 29: 9:15 am - 3:45 pm"
+          "time_range": "11:45 am - 3:45 pm",
+          "display": "11:45 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 11:45 am - 3:45 pm"
         },
         {
           "date": "2026-09-30",
@@ -441,11 +441,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:15 am",
+          "start_time": "11:45 am",
           "end_time": "3:45 pm",
-          "time_range": "9:15 am - 3:45 pm",
-          "display": "9:15 am - 3:45 pm",
-          "display_full": "Tuesday, Sep 29: 9:15 am - 3:45 pm"
+          "time_range": "11:45 am - 3:45 pm",
+          "display": "11:45 am - 3:45 pm",
+          "display_full": "Tuesday, Sep 29: 11:45 am - 3:45 pm"
         },
         {
           "date": "2026-09-30",
@@ -469,7 +469,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 9:15 am - 3:45 pm"
+      "availability": "Tuesday, Sep 29 from 11:45 am - 3:45 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -1062,11 +1062,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "12:15 pm",
+          "start_time": "12:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:15 pm - 3:45 pm",
-          "display": "12:15 pm - 3:45 pm",
-          "display_full": "Wednesday, Sep 30: 12:15 pm - 3:45 pm"
+          "time_range": "12:45 pm - 3:45 pm",
+          "display": "12:45 pm - 3:45 pm",
+          "display_full": "Wednesday, Sep 30: 12:45 pm - 3:45 pm"
         },
         {
           "date": "2026-10-01",
@@ -1094,11 +1094,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "12:15 pm",
+          "start_time": "12:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:15 pm - 3:45 pm",
-          "display": "12:15 pm - 3:45 pm",
-          "display_full": "Wednesday, Sep 30: 12:15 pm - 3:45 pm"
+          "time_range": "12:45 pm - 3:45 pm",
+          "display": "12:45 pm - 3:45 pm",
+          "display_full": "Wednesday, Sep 30: 12:45 pm - 3:45 pm"
         },
         {
           "date": "2026-10-01",
@@ -1122,7 +1122,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Sep 30 from 12:15 pm - 3:45 pm"
+      "availability": "Wednesday, Sep 30 from 12:45 pm - 3:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
