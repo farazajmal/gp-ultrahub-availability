@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
         "Dip Occ Med (RCPI)",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -144,10 +144,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
-        "MRCGP",
         "MCPS",
-        "MBBS"
+        "MCPS (Family Medicine)",
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -255,11 +255,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "General Practitioner",
+        "DFM",
         "MBBS",
         "MRCGP",
         "MCPS",
-        "DFM"
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -646,8 +646,8 @@
       "gender": "Female",
       "qualifications": [
         "MCPS (Family Medicine)",
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1007,273 +1007,6 @@
       "scrape_status": "ok",
       "availability": "Thursday, Oct 01 from 1:15 pm - 5:00 pm"
     },
-    "Dr. Umair Siddiqui": {
-      "doctor_id": 137374,
-      "doctor": "Dr. Umair Siddiqui",
-      "role": "General Practitioner",
-      "provider_type": "GP",
-      "gender": "Male",
-      "qualifications": [
-        "MBBS",
-        "FRACGP"
-      ],
-      "areas_of_interest": [
-        "General Practice",
-        "Occupational Medicine",
-        "Skin cancer checks & procedures",
-        "Preventative Health",
-        "Chronic Disease Management"
-      ],
-      "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui\u2019s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
-      "clinic": "Calliope",
-      "clinic_id": "8407",
-      "clinic_slug": "outback-gp",
-      "doctor_slug": "dr-umair-siddiqui",
-      "availability_type_ids": [
-        "621051",
-        "621051",
-        "621051",
-        "621051",
-        "1161408",
-        "1606808",
-        "1606809",
-        "1606810",
-        "621051",
-        "1606811",
-        "1606812",
-        "1606813",
-        "1403944",
-        "1403944"
-      ],
-      "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-umair-siddiqui",
-      "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-umair-siddiqui",
-      "availability_patches": [
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "12:00 pm",
-          "end_time": "2:00 pm",
-          "time_range": "12:00 pm - 2:00 pm",
-          "display": "12:00 pm - 2:00 pm",
-          "display_full": "Thursday, Oct 01: 12:00 pm - 2:00 pm"
-        },
-        {
-          "date": "2026-10-02",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 02",
-          "start_time": "8:00 am",
-          "end_time": "2:15 pm",
-          "time_range": "8:00 am - 2:15 pm",
-          "display": "8:00 am - 2:15 pm",
-          "display_full": "Friday, Oct 02: 8:00 am - 2:15 pm"
-        },
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:15 pm",
-          "end_time": "5:00 pm",
-          "time_range": "1:15 pm - 5:00 pm",
-          "display": "1:15 pm - 5:00 pm",
-          "display_full": "Thursday, Oct 01: 1:15 pm - 5:00 pm"
-        },
-        {
-          "date": "2026-10-02",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 02",
-          "start_time": "11:15 am",
-          "end_time": "5:15 pm",
-          "time_range": "11:15 am - 5:15 pm",
-          "display": "11:15 am - 5:15 pm",
-          "display_full": "Friday, Oct 02: 11:15 am - 5:15 pm"
-        },
-        {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "8:30 am",
-          "end_time": "3:45 pm",
-          "time_range": "8:30 am - 3:45 pm",
-          "display": "8:30 am - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 8:30 am - 3:45 pm"
-        },
-        {
-          "date": "2026-09-29",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Sep 29",
-          "start_time": "12:15 pm",
-          "end_time": "1:15 pm",
-          "time_range": "12:15 pm - 1:15 pm",
-          "display": "12:15 pm - 1:15 pm",
-          "display_full": "Tuesday, Sep 29: 12:15 pm - 1:15 pm"
-        },
-        {
-          "date": "2026-09-30",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Sep 30",
-          "start_time": "11:00 am",
-          "end_time": "5:15 pm",
-          "time_range": "11:00 am - 5:15 pm",
-          "display": "11:00 am - 5:15 pm",
-          "display_full": "Wednesday, Sep 30: 11:00 am - 5:15 pm"
-        },
-        {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "8:30 am",
-          "end_time": "3:45 pm",
-          "time_range": "8:30 am - 3:45 pm",
-          "display": "8:30 am - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 8:30 am - 3:45 pm"
-        },
-        {
-          "date": "2026-09-30",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Sep 30",
-          "start_time": "12:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Wednesday, Sep 30: 12:45 pm - 3:45 pm"
-        },
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "9:30 am",
-          "end_time": "11:45 am",
-          "time_range": "9:30 am - 11:45 am",
-          "display": "9:30 am - 11:45 am",
-          "display_full": "Thursday, Oct 01: 9:30 am - 11:45 am"
-        },
-        {
-          "date": "2026-10-02",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 02",
-          "start_time": "10:45 am",
-          "end_time": "2:45 pm",
-          "time_range": "10:45 am - 2:45 pm",
-          "display": "10:45 am - 2:45 pm",
-          "display_full": "Friday, Oct 02: 10:45 am - 2:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "12:00 pm",
-          "end_time": "2:00 pm",
-          "time_range": "12:00 pm - 2:00 pm",
-          "display": "12:00 pm - 2:00 pm",
-          "display_full": "Thursday, Oct 01: 12:00 pm - 2:00 pm"
-        },
-        {
-          "date": "2026-10-02",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 02",
-          "start_time": "8:00 am",
-          "end_time": "2:15 pm",
-          "time_range": "8:00 am - 2:15 pm",
-          "display": "8:00 am - 2:15 pm",
-          "display_full": "Friday, Oct 02: 8:00 am - 2:15 pm"
-        },
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:15 pm",
-          "end_time": "5:00 pm",
-          "time_range": "1:15 pm - 5:00 pm",
-          "display": "1:15 pm - 5:00 pm",
-          "display_full": "Thursday, Oct 01: 1:15 pm - 5:00 pm"
-        },
-        {
-          "date": "2026-10-02",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 02",
-          "start_time": "11:15 am",
-          "end_time": "5:15 pm",
-          "time_range": "11:15 am - 5:15 pm",
-          "display": "11:15 am - 5:15 pm",
-          "display_full": "Friday, Oct 02: 11:15 am - 5:15 pm"
-        },
-        {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "8:30 am",
-          "end_time": "3:45 pm",
-          "time_range": "8:30 am - 3:45 pm",
-          "display": "8:30 am - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 8:30 am - 3:45 pm"
-        },
-        {
-          "date": "2026-09-29",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Sep 29",
-          "start_time": "12:15 pm",
-          "end_time": "1:15 pm",
-          "time_range": "12:15 pm - 1:15 pm",
-          "display": "12:15 pm - 1:15 pm",
-          "display_full": "Tuesday, Sep 29: 12:15 pm - 1:15 pm"
-        },
-        {
-          "date": "2026-09-30",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Sep 30",
-          "start_time": "11:00 am",
-          "end_time": "5:15 pm",
-          "time_range": "11:00 am - 5:15 pm",
-          "display": "11:00 am - 5:15 pm",
-          "display_full": "Wednesday, Sep 30: 11:00 am - 5:15 pm"
-        },
-        {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "8:30 am",
-          "end_time": "3:45 pm",
-          "time_range": "8:30 am - 3:45 pm",
-          "display": "8:30 am - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 8:30 am - 3:45 pm"
-        },
-        {
-          "date": "2026-09-30",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Sep 30",
-          "start_time": "12:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Wednesday, Sep 30: 12:45 pm - 3:45 pm"
-        },
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "9:30 am",
-          "end_time": "11:45 am",
-          "time_range": "9:30 am - 11:45 am",
-          "display": "9:30 am - 11:45 am",
-          "display_full": "Thursday, Oct 01: 9:30 am - 11:45 am"
-        },
-        {
-          "date": "2026-10-02",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 02",
-          "start_time": "10:45 am",
-          "end_time": "2:45 pm",
-          "time_range": "10:45 am - 2:45 pm",
-          "display": "10:45 am - 2:45 pm",
-          "display_full": "Friday, Oct 02: 10:45 am - 2:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 12:00 pm - 2:00 pm and 1:15 pm - 5:00 pm and 9:30 am - 11:45 am"
-    },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
       "doctor": "Dr. Saiqa Syeda",
@@ -1414,8 +1147,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1914,9 +1647,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
+        "MBBS",
         "MRCGP",
-        "MBBS"
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
