@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MRCGP",
         "Dip Occ Med (RCPI)",
-        "MBBS",
-        "MRCGP"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -144,10 +144,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS",
+        "MRCGP",
         "MCPS (Family Medicine)",
         "MBBS",
-        "MRCGP"
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -255,11 +255,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "DFM",
+        "General Practitioner",
         "MBBS",
-        "MRCGP",
         "MCPS",
-        "General Practitioner"
+        "DFM",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -645,9 +645,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MRCGP",
         "MCPS (Family Medicine)",
-        "MBBS",
-        "MRCGP"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -815,11 +815,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "12:00 pm",
+          "start_time": "12:15 pm",
           "end_time": "2:00 pm",
-          "time_range": "12:00 pm - 2:00 pm",
-          "display": "12:00 pm - 2:00 pm",
-          "display_full": "Thursday, Oct 01: 12:00 pm - 2:00 pm"
+          "time_range": "12:15 pm - 2:00 pm",
+          "display": "12:15 pm - 2:00 pm",
+          "display_full": "Thursday, Oct 01: 12:15 pm - 2:00 pm"
         },
         {
           "date": "2026-10-02",
@@ -837,11 +837,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "12:00 pm",
+          "start_time": "12:15 pm",
           "end_time": "2:00 pm",
-          "time_range": "12:00 pm - 2:00 pm",
-          "display": "12:00 pm - 2:00 pm",
-          "display_full": "Thursday, Oct 01: 12:00 pm - 2:00 pm"
+          "time_range": "12:15 pm - 2:00 pm",
+          "display": "12:15 pm - 2:00 pm",
+          "display_full": "Thursday, Oct 01: 12:15 pm - 2:00 pm"
         },
         {
           "date": "2026-10-02",
@@ -855,7 +855,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 12:00 pm - 2:00 pm"
+      "availability": "Thursday, Oct 01 from 12:15 pm - 2:00 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -1147,8 +1147,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1181,16 +1181,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
-          "date": "2026-09-29",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Sep 29",
-          "start_time": "12:15 pm",
-          "end_time": "1:15 pm",
-          "time_range": "12:15 pm - 1:15 pm",
-          "display": "12:15 pm - 1:15 pm",
-          "display_full": "Tuesday, Sep 29: 12:15 pm - 1:15 pm"
-        },
-        {
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
@@ -1204,25 +1194,15 @@
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
-          "start_time": "8:30 am",
+          "start_time": "8:45 am",
           "end_time": "3:45 pm",
-          "time_range": "8:30 am - 3:45 pm",
-          "display": "8:30 am - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 8:30 am - 3:45 pm"
+          "time_range": "8:45 am - 3:45 pm",
+          "display": "8:45 am - 3:45 pm",
+          "display_full": "Saturday, Oct 03: 8:45 am - 3:45 pm"
         }
       ],
       "patches": [
         {
-          "date": "2026-09-29",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Sep 29",
-          "start_time": "12:15 pm",
-          "end_time": "1:15 pm",
-          "time_range": "12:15 pm - 1:15 pm",
-          "display": "12:15 pm - 1:15 pm",
-          "display_full": "Tuesday, Sep 29: 12:15 pm - 1:15 pm"
-        },
-        {
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
@@ -1236,15 +1216,15 @@
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
-          "start_time": "8:30 am",
+          "start_time": "8:45 am",
           "end_time": "3:45 pm",
-          "time_range": "8:30 am - 3:45 pm",
-          "display": "8:30 am - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 8:30 am - 3:45 pm"
+          "time_range": "8:45 am - 3:45 pm",
+          "display": "8:45 am - 3:45 pm",
+          "display_full": "Saturday, Oct 03: 8:45 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 12:15 pm - 1:15 pm"
+      "availability": "Wednesday, Sep 30 from 11:00 am - 5:15 pm"
     }
   },
   "Burnett Heads": {
@@ -1536,20 +1516,20 @@
       "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
       "doctor_slug": "dr-nauman-ahmed-1",
       "availability_type_ids": [
-        "1591708",
-        "1541553",
-        "1541554",
         "1541553",
         "1541553",
-        "1541554",
-        "1541555",
+        "1541553",
         "1541556",
-        "1591715",
-        "1541553",
+        "1541555",
         "1591709",
         "1591722",
+        "1591726",
         "1591730",
-        "1591726"
+        "1591708",
+        "1541554",
+        "1541553",
+        "1541554",
+        "1591715"
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
@@ -1589,10 +1569,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
           "start_time": "8:10 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:10 am - 3:40 pm",
-          "display": "8:10 am - 3:40 pm",
-          "display_full": "Friday, Oct 02: 8:10 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:10 am - 3:30 pm",
+          "display": "8:10 am - 3:30 pm",
+          "display_full": "Friday, Oct 02: 8:10 am - 3:30 pm"
         }
       ],
       "patches": [
@@ -1631,10 +1611,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
           "start_time": "8:10 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:10 am - 3:40 pm",
-          "display": "8:10 am - 3:40 pm",
-          "display_full": "Friday, Oct 02: 8:10 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:10 am - 3:30 pm",
+          "display": "8:10 am - 3:30 pm",
+          "display_full": "Friday, Oct 02: 8:10 am - 3:30 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1647,9 +1627,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
-        "MRCPG"
+        "MRCPG",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1667,20 +1647,20 @@
       "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
       "doctor_slug": "dr-aasma-sheraz",
       "availability_type_ids": [
-        "1512897",
         "1492984",
-        "1512892",
-        "1512892",
+        "1492984",
         "1512894",
         "1512895",
-        "1492984",
         "1512897",
-        "1591720",
         "1492984",
         "1591712",
+        "1591720",
         "1591721",
         "1591728",
-        "1591733"
+        "1591733",
+        "1512897",
+        "1512892",
+        "1512892"
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
@@ -1689,11 +1669,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:40 am",
+          "start_time": "10:50 am",
           "end_time": "3:00 pm",
-          "time_range": "9:40 am - 3:00 pm",
-          "display": "9:40 am - 3:00 pm",
-          "display_full": "Tuesday, Sep 29: 9:40 am - 3:00 pm"
+          "time_range": "10:50 am - 3:00 pm",
+          "display": "10:50 am - 3:00 pm",
+          "display_full": "Tuesday, Sep 29: 10:50 am - 3:00 pm"
         },
         {
           "date": "2026-09-30",
@@ -1731,11 +1711,11 @@
           "date": "2026-09-29",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Sep 29",
-          "start_time": "9:40 am",
+          "start_time": "10:50 am",
           "end_time": "3:00 pm",
-          "time_range": "9:40 am - 3:00 pm",
-          "display": "9:40 am - 3:00 pm",
-          "display_full": "Tuesday, Sep 29: 9:40 am - 3:00 pm"
+          "time_range": "10:50 am - 3:00 pm",
+          "display": "10:50 am - 3:00 pm",
+          "display_full": "Tuesday, Sep 29: 10:50 am - 3:00 pm"
         },
         {
           "date": "2026-09-30",
@@ -1769,7 +1749,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Sep 29 from 9:40 am - 3:00 pm"
+      "availability": "Tuesday, Sep 29 from 10:50 am - 3:00 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
@@ -1889,20 +1869,20 @@
       "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
       "doctor_slug": "dr-umair-siddiqui-3",
       "availability_type_ids": [
-        "1591707",
-        "1427344",
-        "1427345",
         "1427344",
         "1427344",
-        "1427345",
-        "1434268",
         "1434273",
-        "1434277",
-        "1427344",
+        "1434268",
         "1591711",
         "1591724",
         "1591729",
-        "1591732"
+        "1591732",
+        "1427345",
+        "1427344",
+        "1591707",
+        "1434277",
+        "1427345",
+        "1427344"
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
