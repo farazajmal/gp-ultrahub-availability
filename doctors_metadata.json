@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-28 07:00:49 AM",
+    "last_updated": "2026-09-28 07:01:06 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -10,9 +10,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MRCGP",
                     "Dip Occ Med (RCPI)",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -57,10 +57,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
-                    "MRCGP",
                     "MCPS",
-                    "MBBS"
+                    "MCPS (Family Medicine)",
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -102,11 +102,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "General Practitioner",
+                    "DFM",
                     "MBBS",
                     "MRCGP",
                     "MCPS",
-                    "DFM"
+                    "General Practitioner"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -327,8 +327,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MCPS (Family Medicine)",
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -523,47 +523,6 @@
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
             {
-                "doctor_id": 137374,
-                "doctor": "Dr. Umair Siddiqui",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Male",
-                "qualifications": [
-                    "MBBS",
-                    "FRACGP"
-                ],
-                "areas_of_interest": [
-                    "General Practice",
-                    "Occupational Medicine",
-                    "Skin cancer checks & procedures",
-                    "Preventative Health",
-                    "Chronic Disease Management"
-                ],
-                "bio": "Dr. Mohammad Umair Siddiquiis a highly experienced General Practitioner with nearly two decades of experience in the medical field. He has served the Gladstone region since 2018 He has received advanced training in both Occupational Medicine and Skin Cancer Management, making him uniquely equipped to handle a wide range of health concerns. Dr. Siddiqui’s comprehensive qualifications include an MBBS, MPH, GDipOccEnvMed, and he is a Fellow of the Royal Australian College of General Practitioners (FRACGP). Throughout his career, Dr. Siddiqui has been dedicated to providing exceptional patient care, driven by his philosophy of excellence with empathy. His commitment to holistic and patient-centred care ensures that each patient receives personalized attention and the highest standard of medical service. Gladstone",
-                "clinic": "Calliope",
-                "clinic_id": "8407",
-                "clinic_slug": "outback-gp",
-                "doctor_slug": "dr-umair-siddiqui",
-                "availability_type_ids": [
-                    "621051",
-                    "621051",
-                    "621051",
-                    "621051",
-                    "1161408",
-                    "1606808",
-                    "1606809",
-                    "1606810",
-                    "621051",
-                    "1606811",
-                    "1606812",
-                    "1606813",
-                    "1403944",
-                    "1403944"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-umair-siddiqui",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-umair-siddiqui"
-            },
-            {
                 "doctor_id": 129248,
                 "doctor": "Dr. Saiqa Syeda",
                 "role": "General Practitioner",
@@ -633,8 +592,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -825,9 +784,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
+                    "MBBS",
                     "MRCGP",
-                    "MBBS"
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
