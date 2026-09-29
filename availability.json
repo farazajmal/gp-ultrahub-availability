@@ -167,10 +167,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
           "start_time": "3:00 pm",
-          "end_time": "6:15 pm",
-          "time_range": "3:00 pm - 6:15 pm",
-          "display": "3:00 pm - 6:15 pm",
-          "display_full": "Wednesday, Sep 30: 3:00 pm - 6:15 pm"
+          "end_time": "3:00 pm",
+          "time_range": "3:00 pm",
+          "display": "3:00 pm",
+          "display_full": "Wednesday, Sep 30: 3:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -199,10 +199,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
           "start_time": "3:00 pm",
-          "end_time": "6:15 pm",
-          "time_range": "3:00 pm - 6:15 pm",
-          "display": "3:00 pm - 6:15 pm",
-          "display_full": "Wednesday, Sep 30: 3:00 pm - 6:15 pm"
+          "end_time": "3:00 pm",
+          "time_range": "3:00 pm",
+          "display": "3:00 pm",
+          "display_full": "Wednesday, Sep 30: 3:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -226,7 +226,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Sep 30 from 3:00 pm - 6:15 pm"
+      "availability": "Wednesday, Sep 30 from 3:00 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1236,32 +1236,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-      "availability_patches": [
-        {
-          "date": "2026-09-30",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Sep 30",
-          "start_time": "11:30 am",
-          "end_time": "11:30 am",
-          "time_range": "11:30 am",
-          "display": "11:30 am",
-          "display_full": "Wednesday, Sep 30: 11:30 am"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-09-30",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Sep 30",
-          "start_time": "11:30 am",
-          "end_time": "11:30 am",
-          "time_range": "11:30 am",
-          "display": "11:30 am",
-          "display_full": "Wednesday, Sep 30: 11:30 am"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Wednesday, Sep 30 from 11:30 am"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
@@ -1624,11 +1602,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Sep 30: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Wednesday, Sep 30: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -1656,11 +1634,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Sep 30: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Wednesday, Sep 30: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -1684,7 +1662,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Sep 30 from 8:00 am - 4:00 pm"
+      "availability": "Wednesday, Sep 30 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
