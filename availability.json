@@ -551,32 +551,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-      "availability_patches": [
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "7:15 am",
-          "end_time": "7:15 am",
-          "time_range": "7:15 am",
-          "display": "7:15 am",
-          "display_full": "Thursday, Oct 01: 7:15 am"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "7:15 am",
-          "end_time": "7:15 am",
-          "time_range": "7:15 am",
-          "display": "7:15 am",
-          "display_full": "Thursday, Oct 01: 7:15 am"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 7:15 am"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Mehwish Saghir": {
       "doctor_id": 219466,
@@ -1602,11 +1580,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Wednesday, Sep 30: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Wednesday, Sep 30: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -1634,11 +1612,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Wednesday, Sep 30: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Wednesday, Sep 30: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-01",
@@ -1662,7 +1640,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Sep 30 from 9:10 am - 4:00 pm"
+      "availability": "Wednesday, Sep 30 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
