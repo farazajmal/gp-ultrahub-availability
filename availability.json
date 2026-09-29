@@ -277,11 +277,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "11:45 am",
+          "start_time": "1:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:45 am - 6:45 pm",
-          "display": "11:45 am - 6:45 pm",
-          "display_full": "Wednesday, Sep 30: 11:45 am - 6:45 pm"
+          "time_range": "1:45 pm - 6:45 pm",
+          "display": "1:45 pm - 6:45 pm",
+          "display_full": "Wednesday, Sep 30: 1:45 pm - 6:45 pm"
         },
         {
           "date": "2026-10-02",
@@ -309,11 +309,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "11:45 am",
+          "start_time": "1:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:45 am - 6:45 pm",
-          "display": "11:45 am - 6:45 pm",
-          "display_full": "Wednesday, Sep 30: 11:45 am - 6:45 pm"
+          "time_range": "1:45 pm - 6:45 pm",
+          "display": "1:45 pm - 6:45 pm",
+          "display_full": "Wednesday, Sep 30: 1:45 pm - 6:45 pm"
         },
         {
           "date": "2026-10-02",
@@ -337,7 +337,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Sep 30 from 11:45 am - 6:45 pm"
+      "availability": "Wednesday, Sep 30 from 1:45 pm - 6:45 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -399,11 +399,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "9:30 am",
+          "start_time": "10:15 am",
           "end_time": "2:15 pm",
-          "time_range": "9:30 am - 2:15 pm",
-          "display": "9:30 am - 2:15 pm",
-          "display_full": "Thursday, Oct 01: 9:30 am - 2:15 pm"
+          "time_range": "10:15 am - 2:15 pm",
+          "display": "10:15 am - 2:15 pm",
+          "display_full": "Thursday, Oct 01: 10:15 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -421,11 +421,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "9:30 am",
+          "start_time": "10:15 am",
           "end_time": "2:15 pm",
-          "time_range": "9:30 am - 2:15 pm",
-          "display": "9:30 am - 2:15 pm",
-          "display_full": "Thursday, Oct 01: 9:30 am - 2:15 pm"
+          "time_range": "10:15 am - 2:15 pm",
+          "display": "10:15 am - 2:15 pm",
+          "display_full": "Thursday, Oct 01: 10:15 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -728,21 +728,21 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "12:15 pm",
+          "start_time": "8:00 am",
           "end_time": "2:00 pm",
-          "time_range": "12:15 pm - 2:00 pm",
-          "display": "12:15 pm - 2:00 pm",
-          "display_full": "Thursday, Oct 01: 12:15 pm - 2:00 pm"
+          "time_range": "8:00 am - 2:00 pm",
+          "display": "8:00 am - 2:00 pm",
+          "display_full": "Thursday, Oct 01: 8:00 am - 2:00 pm"
         },
         {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
           "start_time": "9:15 am",
-          "end_time": "2:15 pm",
-          "time_range": "9:15 am - 2:15 pm",
-          "display": "9:15 am - 2:15 pm",
-          "display_full": "Friday, Oct 02: 9:15 am - 2:15 pm"
+          "end_time": "2:00 pm",
+          "time_range": "9:15 am - 2:00 pm",
+          "display": "9:15 am - 2:00 pm",
+          "display_full": "Friday, Oct 02: 9:15 am - 2:00 pm"
         }
       ],
       "patches": [
@@ -750,25 +750,25 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "12:15 pm",
+          "start_time": "8:00 am",
           "end_time": "2:00 pm",
-          "time_range": "12:15 pm - 2:00 pm",
-          "display": "12:15 pm - 2:00 pm",
-          "display_full": "Thursday, Oct 01: 12:15 pm - 2:00 pm"
+          "time_range": "8:00 am - 2:00 pm",
+          "display": "8:00 am - 2:00 pm",
+          "display_full": "Thursday, Oct 01: 8:00 am - 2:00 pm"
         },
         {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
           "start_time": "9:15 am",
-          "end_time": "2:15 pm",
-          "time_range": "9:15 am - 2:15 pm",
-          "display": "9:15 am - 2:15 pm",
-          "display_full": "Friday, Oct 02: 9:15 am - 2:15 pm"
+          "end_time": "2:00 pm",
+          "time_range": "9:15 am - 2:00 pm",
+          "display": "9:15 am - 2:00 pm",
+          "display_full": "Friday, Oct 02: 9:15 am - 2:00 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 12:15 pm - 2:00 pm"
+      "availability": "Thursday, Oct 01 from 8:00 am - 2:00 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -1349,11 +1349,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "8:20 am",
+          "start_time": "8:40 am",
           "end_time": "3:20 pm",
-          "time_range": "8:20 am - 3:20 pm",
-          "display": "8:20 am - 3:20 pm",
-          "display_full": "Wednesday, Sep 30: 8:20 am - 3:20 pm"
+          "time_range": "8:40 am - 3:20 pm",
+          "display": "8:40 am - 3:20 pm",
+          "display_full": "Wednesday, Sep 30: 8:40 am - 3:20 pm"
         },
         {
           "date": "2026-10-01",
@@ -1381,11 +1381,11 @@
           "date": "2026-09-30",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Sep 30",
-          "start_time": "8:20 am",
+          "start_time": "8:40 am",
           "end_time": "3:20 pm",
-          "time_range": "8:20 am - 3:20 pm",
-          "display": "8:20 am - 3:20 pm",
-          "display_full": "Wednesday, Sep 30: 8:20 am - 3:20 pm"
+          "time_range": "8:40 am - 3:20 pm",
+          "display": "8:40 am - 3:20 pm",
+          "display_full": "Wednesday, Sep 30: 8:40 am - 3:20 pm"
         },
         {
           "date": "2026-10-01",
@@ -1409,7 +1409,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Sep 30 from 8:20 am - 3:20 pm"
+      "availability": "Wednesday, Sep 30 from 8:40 am - 3:20 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
