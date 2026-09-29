@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-29 07:01:03 AM",
+    "last_updated": "2026-09-29 07:01:01 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -11,8 +11,8 @@
                 "gender": "Male",
                 "qualifications": [
                     "MBBS",
-                    "Dip Occ Med (RCPI)",
-                    "MRCGP"
+                    "MRCGP",
+                    "Dip Occ Med (RCPI)"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -57,10 +57,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
                     "MBBS",
                     "MRCGP",
-                    "MCPS (Family Medicine)"
+                    "MCPS (Family Medicine)",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -102,11 +102,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MRCGP",
-                    "MCPS",
                     "MBBS",
+                    "General Practitioner",
+                    "MRCGP",
                     "DFM",
-                    "General Practitioner"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -234,47 +234,6 @@
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1"
             },
             {
-                "doctor_id": 209447,
-                "doctor": "Dr. Arooj Fatima",
-                "role": "General Practitioner",
-                "provider_type": "GP",
-                "gender": "Female",
-                "qualifications": [
-                    "MBBS"
-                ],
-                "areas_of_interest": [
-                    "Women’s health",
-                    "Chronic disease management",
-                    "General medicine",
-                    "Family medicine",
-                    "Children’s health",
-                    "Child Immunization"
-                ],
-                "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in women’s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a Young Investigator Award and a Gold Medal for Outstanding Healthcare Achievements. In 2025, she joined GP Ultra Hub, where her patient-centered approach and expertise in preventive care empower individuals and families to achieve better health outcomes. Dr. Fatima remains committed to personalized, evidence-based care, fostering trust and well-being for her patients and community. Gladstone",
-                "clinic": "Gladstone",
-                "clinic_id": "15111",
-                "clinic_slug": "gp-ultra-hub-gladstone",
-                "doctor_slug": "dr-arooj-fatima",
-                "availability_type_ids": [
-                    "1153461",
-                    "1121873",
-                    "1153469",
-                    "1153461",
-                    "1121873",
-                    "1121873",
-                    "1128707",
-                    "1153461",
-                    "1121873",
-                    "1153470",
-                    "1591607",
-                    "1591612",
-                    "1153479",
-                    "1153480"
-                ],
-                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima"
-            },
-            {
                 "doctor_id": 195622,
                 "doctor": "Dr. Bushra Khan",
                 "role": "General Practitioner",
@@ -327,8 +286,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MRCGP",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -785,8 +744,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MRCPG",
-                    "MRCGP"
+                    "MRCGP",
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
