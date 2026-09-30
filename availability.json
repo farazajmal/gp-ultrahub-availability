@@ -146,11 +146,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "1:30 pm",
+          "start_time": "5:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "1:30 pm - 6:45 pm",
-          "display": "1:30 pm - 6:45 pm",
-          "display_full": "Thursday, Oct 01: 1:30 pm - 6:45 pm"
+          "time_range": "5:15 pm - 6:45 pm",
+          "display": "5:15 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 01: 5:15 pm - 6:45 pm"
         },
         {
           "date": "2026-10-02",
@@ -168,11 +168,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "1:30 pm",
+          "start_time": "5:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "1:30 pm - 6:45 pm",
-          "display": "1:30 pm - 6:45 pm",
-          "display_full": "Thursday, Oct 01: 1:30 pm - 6:45 pm"
+          "time_range": "5:15 pm - 6:45 pm",
+          "display": "5:15 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 01: 5:15 pm - 6:45 pm"
         },
         {
           "date": "2026-10-02",
@@ -186,7 +186,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 1:30 pm - 6:45 pm"
+      "availability": "Thursday, Oct 01 from 5:15 pm - 6:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -885,32 +885,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
-      "availability_patches": [
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "2:15 pm",
-          "end_time": "2:15 pm",
-          "time_range": "2:15 pm",
-          "display": "2:15 pm",
-          "display_full": "Thursday, Oct 01: 2:15 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "2:15 pm",
-          "end_time": "2:15 pm",
-          "time_range": "2:15 pm",
-          "display": "2:15 pm",
-          "display_full": "Thursday, Oct 01: 2:15 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 2:15 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1069,32 +1047,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-      "availability_patches": [
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:30 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:30 pm - 1:45 pm",
-          "display": "1:30 pm - 1:45 pm",
-          "display_full": "Thursday, Oct 01: 1:30 pm - 1:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:30 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:30 pm - 1:45 pm",
-          "display": "1:30 pm - 1:45 pm",
-          "display_full": "Thursday, Oct 01: 1:30 pm - 1:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 1:30 pm - 1:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
@@ -1322,11 +1278,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "3:10 pm",
+          "start_time": "3:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "3:10 pm - 6:40 pm",
-          "display": "3:10 pm - 6:40 pm",
-          "display_full": "Thursday, Oct 01: 3:10 pm - 6:40 pm"
+          "time_range": "3:20 pm - 6:40 pm",
+          "display": "3:20 pm - 6:40 pm",
+          "display_full": "Thursday, Oct 01: 3:20 pm - 6:40 pm"
         },
         {
           "date": "2026-10-02",
@@ -1344,11 +1300,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "3:10 pm",
+          "start_time": "3:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "3:10 pm - 6:40 pm",
-          "display": "3:10 pm - 6:40 pm",
-          "display_full": "Thursday, Oct 01: 3:10 pm - 6:40 pm"
+          "time_range": "3:20 pm - 6:40 pm",
+          "display": "3:20 pm - 6:40 pm",
+          "display_full": "Thursday, Oct 01: 3:20 pm - 6:40 pm"
         },
         {
           "date": "2026-10-02",
@@ -1362,7 +1318,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 3:10 pm - 6:40 pm"
+      "availability": "Thursday, Oct 01 from 3:20 pm - 6:40 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
@@ -1397,11 +1353,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Thursday, Oct 01: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Thursday, Oct 01: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-02",
@@ -1419,11 +1375,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Thursday, Oct 01: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Thursday, Oct 01: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-02",
@@ -1437,7 +1393,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 8:10 am - 4:00 pm"
+      "availability": "Thursday, Oct 01 from 9:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
