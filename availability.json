@@ -645,16 +645,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
       "availability_patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Thursday, Oct 01: 1:45 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
@@ -667,16 +657,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Thursday, Oct 01: 1:45 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
@@ -688,7 +668,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 1:45 pm"
+      "availability": "Friday, Oct 02 from 9:15 am - 2:00 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -1353,11 +1333,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Thursday, Oct 01: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Thursday, Oct 01: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-02",
@@ -1375,11 +1355,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Thursday, Oct 01: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Thursday, Oct 01: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-02",
@@ -1393,7 +1373,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 9:10 am - 4:00 pm"
+      "availability": "Thursday, Oct 01 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
