@@ -146,11 +146,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "11:15 am",
+          "start_time": "1:30 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:15 am - 6:45 pm",
-          "display": "11:15 am - 6:45 pm",
-          "display_full": "Thursday, Oct 01: 11:15 am - 6:45 pm"
+          "time_range": "1:30 pm - 6:45 pm",
+          "display": "1:30 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 01: 1:30 pm - 6:45 pm"
         },
         {
           "date": "2026-10-02",
@@ -168,11 +168,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "11:15 am",
+          "start_time": "1:30 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:15 am - 6:45 pm",
-          "display": "11:15 am - 6:45 pm",
-          "display_full": "Thursday, Oct 01: 11:15 am - 6:45 pm"
+          "time_range": "1:30 pm - 6:45 pm",
+          "display": "1:30 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 01: 1:30 pm - 6:45 pm"
         },
         {
           "date": "2026-10-02",
@@ -186,7 +186,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 11:15 am - 6:45 pm"
+      "availability": "Thursday, Oct 01 from 1:30 pm - 6:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -789,10 +789,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
           "start_time": "11:45 am",
-          "end_time": "4:15 pm",
-          "time_range": "11:45 am - 4:15 pm",
-          "display": "11:45 am - 4:15 pm",
-          "display_full": "Friday, Oct 02: 11:45 am - 4:15 pm"
+          "end_time": "3:30 pm",
+          "time_range": "11:45 am - 3:30 pm",
+          "display": "11:45 am - 3:30 pm",
+          "display_full": "Friday, Oct 02: 11:45 am - 3:30 pm"
         },
         {
           "date": "2026-10-03",
@@ -821,10 +821,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
           "start_time": "11:45 am",
-          "end_time": "4:15 pm",
-          "time_range": "11:45 am - 4:15 pm",
-          "display": "11:45 am - 4:15 pm",
-          "display_full": "Friday, Oct 02: 11:45 am - 4:15 pm"
+          "end_time": "3:30 pm",
+          "time_range": "11:45 am - 3:30 pm",
+          "display": "11:45 am - 3:30 pm",
+          "display_full": "Friday, Oct 02: 11:45 am - 3:30 pm"
         },
         {
           "date": "2026-10-03",
@@ -1069,10 +1069,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-10-01",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 01",
+          "start_time": "1:30 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:30 pm - 1:45 pm",
+          "display": "1:30 pm - 1:45 pm",
+          "display_full": "Thursday, Oct 01: 1:30 pm - 1:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-10-01",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 01",
+          "start_time": "1:30 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:30 pm - 1:45 pm",
+          "display": "1:30 pm - 1:45 pm",
+          "display_full": "Thursday, Oct 01: 1:30 pm - 1:45 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Thursday, Oct 01 from 1:30 pm - 1:45 pm"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
@@ -1219,11 +1241,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "9:10 am",
+          "start_time": "8:30 am",
           "end_time": "3:30 pm",
-          "time_range": "9:10 am - 3:30 pm",
-          "display": "9:10 am - 3:30 pm",
-          "display_full": "Friday, Oct 02: 9:10 am - 3:30 pm"
+          "time_range": "8:30 am - 3:30 pm",
+          "display": "8:30 am - 3:30 pm",
+          "display_full": "Friday, Oct 02: 8:30 am - 3:30 pm"
         }
       ],
       "patches": [
@@ -1241,11 +1263,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "9:10 am",
+          "start_time": "8:30 am",
           "end_time": "3:30 pm",
-          "time_range": "9:10 am - 3:30 pm",
-          "display": "9:10 am - 3:30 pm",
-          "display_full": "Friday, Oct 02: 9:10 am - 3:30 pm"
+          "time_range": "8:30 am - 3:30 pm",
+          "display": "8:30 am - 3:30 pm",
+          "display_full": "Friday, Oct 02: 8:30 am - 3:30 pm"
         }
       ],
       "scrape_status": "ok",
