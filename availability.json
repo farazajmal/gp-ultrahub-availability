@@ -7,8 +7,8 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
         "MBBS",
+        "Dip Occ Med (RCPI)",
         "MRCGP"
       ],
       "areas_of_interest": [
@@ -105,9 +105,9 @@
       "gender": "Female",
       "qualifications": [
         "MBBS",
-        "MCPS",
+        "MRCGP",
         "MCPS (Family Medicine)",
-        "MRCGP"
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -195,11 +195,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "DFM",
         "General Practitioner",
-        "MCPS",
+        "DFM",
         "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -329,11 +329,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "9:15 am",
+          "start_time": "10:30 am",
           "end_time": "3:30 pm",
-          "time_range": "9:15 am - 3:30 pm",
-          "display": "9:15 am - 3:30 pm",
-          "display_full": "Thursday, Oct 01: 9:15 am - 3:30 pm"
+          "time_range": "10:30 am - 3:30 pm",
+          "display": "10:30 am - 3:30 pm",
+          "display_full": "Thursday, Oct 01: 10:30 am - 3:30 pm"
         }
       ],
       "patches": [
@@ -341,15 +341,15 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "9:15 am",
+          "start_time": "10:30 am",
           "end_time": "3:30 pm",
-          "time_range": "9:15 am - 3:30 pm",
-          "display": "9:15 am - 3:30 pm",
-          "display_full": "Thursday, Oct 01: 9:15 am - 3:30 pm"
+          "time_range": "10:30 am - 3:30 pm",
+          "display": "10:30 am - 3:30 pm",
+          "display_full": "Thursday, Oct 01: 10:30 am - 3:30 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 9:15 am - 3:30 pm"
+      "availability": "Thursday, Oct 01 from 10:30 am - 3:30 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -459,8 +459,8 @@
       "gender": "Female",
       "qualifications": [
         "MBBS",
-        "MCPS (Family Medicine)",
-        "MRCGP"
+        "MRCGP",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -665,16 +665,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
       "availability_patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Thursday, Oct 01: 1:45 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
@@ -687,16 +677,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Thursday, Oct 01: 1:45 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
@@ -708,7 +688,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 1:45 pm"
+      "availability": "Friday, Oct 02 from 9:15 am - 2:00 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
