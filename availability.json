@@ -536,11 +536,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "2:30 pm",
-          "time_range": "12:30 pm - 2:30 pm",
-          "display": "12:30 pm - 2:30 pm",
-          "display_full": "Friday, Oct 02: 12:30 pm - 2:30 pm"
+          "time_range": "12:45 pm - 2:30 pm",
+          "display": "12:45 pm - 2:30 pm",
+          "display_full": "Friday, Oct 02: 12:45 pm - 2:30 pm"
         },
         {
           "date": "2026-10-03",
@@ -568,11 +568,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "2:30 pm",
-          "time_range": "12:30 pm - 2:30 pm",
-          "display": "12:30 pm - 2:30 pm",
-          "display_full": "Friday, Oct 02: 12:30 pm - 2:30 pm"
+          "time_range": "12:45 pm - 2:30 pm",
+          "display": "12:45 pm - 2:30 pm",
+          "display_full": "Friday, Oct 02: 12:45 pm - 2:30 pm"
         },
         {
           "date": "2026-10-03",
@@ -596,7 +596,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 02 from 12:30 pm - 2:30 pm"
+      "availability": "Friday, Oct 02 from 12:45 pm - 2:30 pm"
     }
   },
   "Calliope": {
@@ -1333,11 +1333,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Thursday, Oct 01: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Thursday, Oct 01: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-02",
@@ -1355,11 +1355,11 @@
           "date": "2026-10-01",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 01",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Thursday, Oct 01: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Thursday, Oct 01: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-02",
@@ -1373,7 +1373,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 10:10 am - 4:00 pm"
+      "availability": "Thursday, Oct 01 from 11:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
