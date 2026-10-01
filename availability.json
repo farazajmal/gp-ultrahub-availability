@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
+        "MRCGP",
         "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -31,50 +31,30 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "6:00 pm",
-          "end_time": "6:30 pm",
-          "time_range": "6:00 pm - 6:30 pm",
-          "display": "6:00 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 01: 6:00 pm - 6:30 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "10:45 am",
-          "end_time": "3:15 pm",
-          "time_range": "10:45 am - 3:15 pm",
-          "display": "10:45 am - 3:15 pm",
-          "display_full": "Friday, Oct 02: 10:45 am - 3:15 pm"
+          "start_time": "9:45 am",
+          "end_time": "11:15 am",
+          "time_range": "9:45 am - 11:15 am",
+          "display": "9:45 am - 11:15 am",
+          "display_full": "Friday, Oct 02: 9:45 am - 11:15 am"
         }
       ],
       "patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "6:00 pm",
-          "end_time": "6:30 pm",
-          "time_range": "6:00 pm - 6:30 pm",
-          "display": "6:00 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 01: 6:00 pm - 6:30 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "10:45 am",
-          "end_time": "3:15 pm",
-          "time_range": "10:45 am - 3:15 pm",
-          "display": "10:45 am - 3:15 pm",
-          "display_full": "Friday, Oct 02: 10:45 am - 3:15 pm"
+          "start_time": "9:45 am",
+          "end_time": "11:15 am",
+          "time_range": "9:45 am - 11:15 am",
+          "display": "9:45 am - 11:15 am",
+          "display_full": "Friday, Oct 02: 9:45 am - 11:15 am"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 6:00 pm - 6:30 pm"
+      "availability": "Friday, Oct 02 from 9:45 am - 11:15 am"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -104,9 +84,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
         "MCPS (Family Medicine)",
+        "MBBS",
         "MCPS"
       ],
       "areas_of_interest": [
@@ -143,50 +123,30 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "6:15 pm",
-          "end_time": "6:30 pm",
-          "time_range": "6:15 pm - 6:30 pm",
-          "display": "6:15 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 01: 6:15 pm - 6:30 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
           "start_time": "8:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "8:45 am - 3:45 pm",
-          "display": "8:45 am - 3:45 pm",
-          "display_full": "Friday, Oct 02: 8:45 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "8:45 am - 3:15 pm",
+          "display": "8:45 am - 3:15 pm",
+          "display_full": "Friday, Oct 02: 8:45 am - 3:15 pm"
         }
       ],
       "patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "6:15 pm",
-          "end_time": "6:30 pm",
-          "time_range": "6:15 pm - 6:30 pm",
-          "display": "6:15 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 01: 6:15 pm - 6:30 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
           "start_time": "8:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "8:45 am - 3:45 pm",
-          "display": "8:45 am - 3:45 pm",
-          "display_full": "Friday, Oct 02: 8:45 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "8:45 am - 3:15 pm",
+          "display": "8:45 am - 3:15 pm",
+          "display_full": "Friday, Oct 02: 8:45 am - 3:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 6:15 pm - 6:30 pm"
+      "availability": "Friday, Oct 02 from 8:45 am - 3:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -195,11 +155,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "General Practitioner",
         "DFM",
-        "MBBS",
+        "MCPS",
         "MRCGP",
-        "MCPS"
+        "General Practitioner",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -436,9 +396,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
-        "MCPS (Family Medicine)"
+        "MCPS (Family Medicine)",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -514,11 +474,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "9:15 am",
+          "start_time": "2:30 pm",
           "end_time": "2:30 pm",
-          "time_range": "9:15 am - 2:30 pm",
-          "display": "9:15 am - 2:30 pm",
-          "display_full": "Friday, Oct 02: 9:15 am - 2:30 pm"
+          "time_range": "2:30 pm",
+          "display": "2:30 pm",
+          "display_full": "Friday, Oct 02: 2:30 pm"
         },
         {
           "date": "2026-10-03",
@@ -556,11 +516,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "9:15 am",
+          "start_time": "2:30 pm",
           "end_time": "2:30 pm",
-          "time_range": "9:15 am - 2:30 pm",
-          "display": "9:15 am - 2:30 pm",
-          "display_full": "Friday, Oct 02: 9:15 am - 2:30 pm"
+          "time_range": "2:30 pm",
+          "display": "2:30 pm",
+          "display_full": "Friday, Oct 02: 2:30 pm"
         },
         {
           "date": "2026-10-03",
@@ -594,7 +554,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 02 from 9:15 am - 2:30 pm"
+      "availability": "Friday, Oct 02 from 2:30 pm"
     }
   },
   "Calliope": {
@@ -731,16 +691,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
-          "date": "2026-10-02",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 02",
-          "start_time": "2:30 pm",
-          "end_time": "2:30 pm",
-          "time_range": "2:30 pm",
-          "display": "2:30 pm",
-          "display_full": "Friday, Oct 02: 2:30 pm"
-        },
-        {
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
@@ -763,16 +713,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-02",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 02",
-          "start_time": "2:30 pm",
-          "end_time": "2:30 pm",
-          "time_range": "2:30 pm",
-          "display": "2:30 pm",
-          "display_full": "Friday, Oct 02: 2:30 pm"
-        },
-        {
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
@@ -794,7 +734,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 02 from 2:30 pm"
+      "availability": "Saturday, Oct 03 from 8:30 am - 3:15 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -874,8 +814,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1055,11 +995,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "12:00 pm",
+          "start_time": "1:45 pm",
           "end_time": "4:15 pm",
-          "time_range": "12:00 pm - 4:15 pm",
-          "display": "12:00 pm - 4:15 pm",
-          "display_full": "Friday, Oct 02: 12:00 pm - 4:15 pm"
+          "time_range": "1:45 pm - 4:15 pm",
+          "display": "1:45 pm - 4:15 pm",
+          "display_full": "Friday, Oct 02: 1:45 pm - 4:15 pm"
         },
         {
           "date": "2026-10-05",
@@ -1077,11 +1017,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "12:00 pm",
+          "start_time": "1:45 pm",
           "end_time": "4:15 pm",
-          "time_range": "12:00 pm - 4:15 pm",
-          "display": "12:00 pm - 4:15 pm",
-          "display_full": "Friday, Oct 02: 12:00 pm - 4:15 pm"
+          "time_range": "1:45 pm - 4:15 pm",
+          "display": "1:45 pm - 4:15 pm",
+          "display_full": "Friday, Oct 02: 1:45 pm - 4:15 pm"
         },
         {
           "date": "2026-10-05",
@@ -1095,7 +1035,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 02 from 12:00 pm - 4:15 pm"
+      "availability": "Friday, Oct 02 from 1:45 pm - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1143,11 +1083,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "10:40 am",
+          "start_time": "8:40 am",
           "end_time": "3:30 pm",
-          "time_range": "10:40 am - 3:30 pm",
-          "display": "10:40 am - 3:30 pm",
-          "display_full": "Friday, Oct 02: 10:40 am - 3:30 pm"
+          "time_range": "8:40 am - 3:30 pm",
+          "display": "8:40 am - 3:30 pm",
+          "display_full": "Friday, Oct 02: 8:40 am - 3:30 pm"
         },
         {
           "date": "2026-10-05",
@@ -1165,11 +1105,11 @@
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "10:40 am",
+          "start_time": "8:40 am",
           "end_time": "3:30 pm",
-          "time_range": "10:40 am - 3:30 pm",
-          "display": "10:40 am - 3:30 pm",
-          "display_full": "Friday, Oct 02: 10:40 am - 3:30 pm"
+          "time_range": "8:40 am - 3:30 pm",
+          "display": "8:40 am - 3:30 pm",
+          "display_full": "Friday, Oct 02: 8:40 am - 3:30 pm"
         },
         {
           "date": "2026-10-05",
@@ -1183,7 +1123,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 02 from 10:40 am - 3:30 pm"
+      "availability": "Friday, Oct 02 from 8:40 am - 3:30 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1192,9 +1132,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1231,24 +1171,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "availability_patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "4:30 pm",
-          "end_time": "6:20 pm",
-          "time_range": "4:30 pm - 6:20 pm",
-          "display": "4:30 pm - 6:20 pm",
-          "display_full": "Thursday, Oct 01: 4:30 pm - 6:20 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "1:20 pm",
+          "start_time": "5:10 pm",
           "end_time": "6:20 pm",
-          "time_range": "1:20 pm - 6:20 pm",
-          "display": "1:20 pm - 6:20 pm",
-          "display_full": "Friday, Oct 02: 1:20 pm - 6:20 pm"
+          "time_range": "5:10 pm - 6:20 pm",
+          "display": "5:10 pm - 6:20 pm",
+          "display_full": "Friday, Oct 02: 5:10 pm - 6:20 pm"
         },
         {
           "date": "2026-10-05",
@@ -1263,24 +1193,14 @@
       ],
       "patches": [
         {
-          "date": "2026-10-01",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 01",
-          "start_time": "4:30 pm",
-          "end_time": "6:20 pm",
-          "time_range": "4:30 pm - 6:20 pm",
-          "display": "4:30 pm - 6:20 pm",
-          "display_full": "Thursday, Oct 01: 4:30 pm - 6:20 pm"
-        },
-        {
           "date": "2026-10-02",
           "day_name": "Friday",
           "date_label": "Friday, Oct 02",
-          "start_time": "1:20 pm",
+          "start_time": "5:10 pm",
           "end_time": "6:20 pm",
-          "time_range": "1:20 pm - 6:20 pm",
-          "display": "1:20 pm - 6:20 pm",
-          "display_full": "Friday, Oct 02: 1:20 pm - 6:20 pm"
+          "time_range": "5:10 pm - 6:20 pm",
+          "display": "5:10 pm - 6:20 pm",
+          "display_full": "Friday, Oct 02: 5:10 pm - 6:20 pm"
         },
         {
           "date": "2026-10-05",
@@ -1294,7 +1214,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 01 from 4:30 pm - 6:20 pm"
+      "availability": "Friday, Oct 02 from 5:10 pm - 6:20 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
