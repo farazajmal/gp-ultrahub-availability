@@ -471,16 +471,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "availability_patches": [
         {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "3:30 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:30 pm - 3:45 pm",
-          "display": "3:30 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 3:30 pm - 3:45 pm"
-        },
-        {
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
@@ -503,16 +493,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "3:30 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:30 pm - 3:45 pm",
-          "display": "3:30 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 3:30 pm - 3:45 pm"
-        },
-        {
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
@@ -534,7 +514,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 03 from 3:30 pm - 3:45 pm"
+      "availability": "Sunday, Oct 04 from 12:45 pm - 3:45 pm"
     }
   },
   "Calliope": {
@@ -581,32 +561,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
-      "availability_patches": [
-        {
-          "date": "2026-10-06",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 06",
-          "start_time": "1:15 pm",
-          "end_time": "2:00 pm",
-          "time_range": "1:15 pm - 2:00 pm",
-          "display": "1:15 pm - 2:00 pm",
-          "display_full": "Tuesday, Oct 06: 1:15 pm - 2:00 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-06",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 06",
-          "start_time": "1:15 pm",
-          "end_time": "2:00 pm",
-          "time_range": "1:15 pm - 2:00 pm",
-          "display": "1:15 pm - 2:00 pm",
-          "display_full": "Tuesday, Oct 06: 1:15 pm - 2:00 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 1:15 pm - 2:00 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -1216,11 +1174,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "8:10 am",
+          "start_time": "11:40 am",
           "end_time": "3:30 pm",
-          "time_range": "8:10 am - 3:30 pm",
-          "display": "8:10 am - 3:30 pm",
-          "display_full": "Monday, Oct 05: 8:10 am - 3:30 pm"
+          "time_range": "11:40 am - 3:30 pm",
+          "display": "11:40 am - 3:30 pm",
+          "display_full": "Monday, Oct 05: 11:40 am - 3:30 pm"
         },
         {
           "date": "2026-10-06",
@@ -1238,11 +1196,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "8:10 am",
+          "start_time": "11:40 am",
           "end_time": "3:30 pm",
-          "time_range": "8:10 am - 3:30 pm",
-          "display": "8:10 am - 3:30 pm",
-          "display_full": "Monday, Oct 05: 8:10 am - 3:30 pm"
+          "time_range": "11:40 am - 3:30 pm",
+          "display": "11:40 am - 3:30 pm",
+          "display_full": "Monday, Oct 05: 11:40 am - 3:30 pm"
         },
         {
           "date": "2026-10-06",
@@ -1256,7 +1214,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 05 from 8:10 am - 3:30 pm"
+      "availability": "Monday, Oct 05 from 11:40 am - 3:30 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
