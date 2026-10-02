@@ -736,11 +736,11 @@
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
-          "start_time": "2:30 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:15 pm",
-          "time_range": "2:30 pm - 3:15 pm",
-          "display": "2:30 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 03: 2:30 pm - 3:15 pm"
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Saturday, Oct 03: 3:15 pm"
         },
         {
           "date": "2026-10-05",
@@ -768,11 +768,11 @@
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
-          "start_time": "2:30 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:15 pm",
-          "time_range": "2:30 pm - 3:15 pm",
-          "display": "2:30 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 03: 2:30 pm - 3:15 pm"
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Saturday, Oct 03: 3:15 pm"
         },
         {
           "date": "2026-10-05",
@@ -796,7 +796,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 03 from 2:30 pm - 3:15 pm"
+      "availability": "Saturday, Oct 03 from 3:15 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
