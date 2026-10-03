@@ -534,11 +534,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "1:30 pm",
-          "end_time": "3:45 pm",
-          "time_range": "1:30 pm - 3:45 pm",
-          "display": "1:30 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 1:30 pm - 3:45 pm"
+          "start_time": "1:45 pm",
+          "end_time": "3:30 pm",
+          "time_range": "1:45 pm - 3:30 pm",
+          "display": "1:45 pm - 3:30 pm",
+          "display_full": "Sunday, Oct 04: 1:45 pm - 3:30 pm"
         },
         {
           "date": "2026-10-05",
@@ -556,11 +556,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "1:30 pm",
-          "end_time": "3:45 pm",
-          "time_range": "1:30 pm - 3:45 pm",
-          "display": "1:30 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 1:30 pm - 3:45 pm"
+          "start_time": "1:45 pm",
+          "end_time": "3:30 pm",
+          "time_range": "1:45 pm - 3:30 pm",
+          "display": "1:45 pm - 3:30 pm",
+          "display_full": "Sunday, Oct 04: 1:45 pm - 3:30 pm"
         },
         {
           "date": "2026-10-05",
@@ -574,7 +574,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 04 from 1:30 pm - 3:45 pm"
+      "availability": "Sunday, Oct 04 from 1:45 pm - 3:30 pm"
     }
   },
   "Calliope": {
@@ -912,16 +912,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "3:15 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:15 pm - 3:45 pm",
-          "display": "3:15 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 3:15 pm - 3:45 pm"
-        },
-        {
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
@@ -944,16 +934,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "3:15 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:15 pm - 3:45 pm",
-          "display": "3:15 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 3:15 pm - 3:45 pm"
-        },
-        {
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
@@ -975,7 +955,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 03 from 3:15 pm - 3:45 pm"
+      "availability": "Tuesday, Oct 06 from 8:00 am - 2:00 pm"
     }
   },
   "Burnett Heads": {
