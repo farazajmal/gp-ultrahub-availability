@@ -237,11 +237,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 12:30 pm - 3:45 pm"
+          "time_range": "12:45 pm - 3:45 pm",
+          "display": "12:45 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 04: 12:45 pm - 3:45 pm"
         },
         {
           "date": "2026-10-06",
@@ -269,11 +269,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 12:30 pm - 3:45 pm"
+          "time_range": "12:45 pm - 3:45 pm",
+          "display": "12:45 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 04: 12:45 pm - 3:45 pm"
         },
         {
           "date": "2026-10-06",
@@ -297,7 +297,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 04 from 12:30 pm - 3:45 pm"
+      "availability": "Sunday, Oct 04 from 12:45 pm - 3:45 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -535,10 +535,10 @@
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
           "start_time": "1:45 pm",
-          "end_time": "3:30 pm",
-          "time_range": "1:45 pm - 3:30 pm",
-          "display": "1:45 pm - 3:30 pm",
-          "display_full": "Sunday, Oct 04: 1:45 pm - 3:30 pm"
+          "end_time": "2:45 pm",
+          "time_range": "1:45 pm - 2:45 pm",
+          "display": "1:45 pm - 2:45 pm",
+          "display_full": "Sunday, Oct 04: 1:45 pm - 2:45 pm"
         },
         {
           "date": "2026-10-05",
@@ -557,10 +557,10 @@
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
           "start_time": "1:45 pm",
-          "end_time": "3:30 pm",
-          "time_range": "1:45 pm - 3:30 pm",
-          "display": "1:45 pm - 3:30 pm",
-          "display_full": "Sunday, Oct 04: 1:45 pm - 3:30 pm"
+          "end_time": "2:45 pm",
+          "time_range": "1:45 pm - 2:45 pm",
+          "display": "1:45 pm - 2:45 pm",
+          "display_full": "Sunday, Oct 04: 1:45 pm - 2:45 pm"
         },
         {
           "date": "2026-10-05",
@@ -574,7 +574,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 04 from 1:45 pm - 3:30 pm"
+      "availability": "Sunday, Oct 04 from 1:45 pm - 2:45 pm"
     }
   },
   "Calliope": {
@@ -700,10 +700,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
           "start_time": "8:45 am",
-          "end_time": "3:15 pm",
-          "time_range": "8:45 am - 3:15 pm",
-          "display": "8:45 am - 3:15 pm",
-          "display_full": "Tuesday, Oct 06: 8:45 am - 3:15 pm"
+          "end_time": "8:45 am",
+          "time_range": "8:45 am",
+          "display": "8:45 am",
+          "display_full": "Tuesday, Oct 06: 8:45 am"
         }
       ],
       "patches": [
@@ -712,14 +712,14 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
           "start_time": "8:45 am",
-          "end_time": "3:15 pm",
-          "time_range": "8:45 am - 3:15 pm",
-          "display": "8:45 am - 3:15 pm",
-          "display_full": "Tuesday, Oct 06: 8:45 am - 3:15 pm"
+          "end_time": "8:45 am",
+          "time_range": "8:45 am",
+          "display": "8:45 am",
+          "display_full": "Tuesday, Oct 06: 8:45 am"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 8:45 am - 3:15 pm"
+      "availability": "Tuesday, Oct 06 from 8:45 am"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -758,11 +758,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "10:15 am",
+          "start_time": "11:15 am",
           "end_time": "3:30 pm",
-          "time_range": "10:15 am - 3:30 pm",
-          "display": "10:15 am - 3:30 pm",
-          "display_full": "Monday, Oct 05: 10:15 am - 3:30 pm"
+          "time_range": "11:15 am - 3:30 pm",
+          "display": "11:15 am - 3:30 pm",
+          "display_full": "Monday, Oct 05: 11:15 am - 3:30 pm"
         },
         {
           "date": "2026-10-06",
@@ -780,11 +780,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "10:15 am",
+          "start_time": "11:15 am",
           "end_time": "3:30 pm",
-          "time_range": "10:15 am - 3:30 pm",
-          "display": "10:15 am - 3:30 pm",
-          "display_full": "Monday, Oct 05: 10:15 am - 3:30 pm"
+          "time_range": "11:15 am - 3:30 pm",
+          "display": "11:15 am - 3:30 pm",
+          "display_full": "Monday, Oct 05: 11:15 am - 3:30 pm"
         },
         {
           "date": "2026-10-06",
@@ -798,7 +798,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 05 from 10:15 am - 3:30 pm"
+      "availability": "Monday, Oct 05 from 11:15 am - 3:30 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
