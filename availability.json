@@ -34,11 +34,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "4:00 pm",
-          "time_range": "10:30 am - 4:00 pm",
-          "display": "10:30 am - 4:00 pm",
-          "display_full": "Tuesday, Oct 06: 10:30 am - 4:00 pm"
+          "time_range": "10:45 am - 4:00 pm",
+          "display": "10:45 am - 4:00 pm",
+          "display_full": "Tuesday, Oct 06: 10:45 am - 4:00 pm"
         },
         {
           "date": "2026-10-07",
@@ -56,11 +56,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "4:00 pm",
-          "time_range": "10:30 am - 4:00 pm",
-          "display": "10:30 am - 4:00 pm",
-          "display_full": "Tuesday, Oct 06: 10:30 am - 4:00 pm"
+          "time_range": "10:45 am - 4:00 pm",
+          "display": "10:45 am - 4:00 pm",
+          "display_full": "Tuesday, Oct 06: 10:45 am - 4:00 pm"
         },
         {
           "date": "2026-10-07",
@@ -74,7 +74,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 10:30 am - 4:00 pm"
+      "availability": "Tuesday, Oct 06 from 10:45 am - 4:00 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -755,16 +755,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "1:15 pm",
-          "end_time": "1:15 pm",
-          "time_range": "1:15 pm",
-          "display": "1:15 pm",
-          "display_full": "Saturday, Oct 03: 1:15 pm"
-        },
-        {
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
@@ -787,16 +777,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-03",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 03",
-          "start_time": "1:15 pm",
-          "end_time": "1:15 pm",
-          "time_range": "1:15 pm",
-          "display": "1:15 pm",
-          "display_full": "Saturday, Oct 03: 1:15 pm"
-        },
-        {
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
@@ -818,7 +798,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 03 from 1:15 pm"
+      "availability": "Monday, Oct 05 from 10:15 am - 3:30 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -935,11 +915,11 @@
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
-          "start_time": "12:45 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 12:45 pm - 3:45 pm"
+          "time_range": "3:15 pm - 3:45 pm",
+          "display": "3:15 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 03: 3:15 pm - 3:45 pm"
         },
         {
           "date": "2026-10-06",
@@ -967,11 +947,11 @@
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
-          "start_time": "12:45 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 12:45 pm - 3:45 pm"
+          "time_range": "3:15 pm - 3:45 pm",
+          "display": "3:15 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 03: 3:15 pm - 3:45 pm"
         },
         {
           "date": "2026-10-06",
@@ -995,7 +975,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 03 from 12:45 pm - 3:45 pm"
+      "availability": "Saturday, Oct 03 from 3:15 pm - 3:45 pm"
     }
   },
   "Burnett Heads": {
