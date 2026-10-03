@@ -8,8 +8,8 @@
       "gender": "Male",
       "qualifications": [
         "MRCGP",
-        "MBBS",
-        "Dip Occ Med (RCPI)"
+        "Dip Occ Med (RCPI)",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -105,9 +105,9 @@
       "gender": "Female",
       "qualifications": [
         "MRCGP",
+        "MCPS",
         "MCPS (Family Medicine)",
-        "MBBS",
-        "MCPS"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -195,11 +195,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "General Practitioner",
         "DFM",
-        "MBBS",
         "MCPS",
-        "MRCGP",
-        "General Practitioner"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -237,11 +237,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "11:45 am",
+          "start_time": "12:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 11:45 am - 3:45 pm"
+          "time_range": "12:30 pm - 3:45 pm",
+          "display": "12:30 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 04: 12:30 pm - 3:45 pm"
         },
         {
           "date": "2026-10-06",
@@ -269,11 +269,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "11:45 am",
+          "start_time": "12:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 11:45 am - 3:45 pm"
+          "time_range": "12:30 pm - 3:45 pm",
+          "display": "12:30 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 04: 12:30 pm - 3:45 pm"
         },
         {
           "date": "2026-10-06",
@@ -297,7 +297,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 04 from 11:45 am - 3:45 pm"
+      "availability": "Sunday, Oct 04 from 12:30 pm - 3:45 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -1256,8 +1256,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MRCPG",
+        "MRCGP",
         "MBBS"
       ],
       "areas_of_interest": [
