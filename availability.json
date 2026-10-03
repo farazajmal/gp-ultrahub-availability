@@ -237,11 +237,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "10:15 am",
+          "start_time": "10:00 am",
           "end_time": "3:45 pm",
-          "time_range": "10:15 am - 3:45 pm",
-          "display": "10:15 am - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 10:15 am - 3:45 pm"
+          "time_range": "10:00 am - 3:45 pm",
+          "display": "10:00 am - 3:45 pm",
+          "display_full": "Sunday, Oct 04: 10:00 am - 3:45 pm"
         },
         {
           "date": "2026-10-06",
@@ -269,11 +269,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "10:15 am",
+          "start_time": "10:00 am",
           "end_time": "3:45 pm",
-          "time_range": "10:15 am - 3:45 pm",
-          "display": "10:15 am - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 10:15 am - 3:45 pm"
+          "time_range": "10:00 am - 3:45 pm",
+          "display": "10:00 am - 3:45 pm",
+          "display_full": "Sunday, Oct 04: 10:00 am - 3:45 pm"
         },
         {
           "date": "2026-10-06",
@@ -297,7 +297,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 04 from 10:15 am - 3:45 pm"
+      "availability": "Sunday, Oct 04 from 10:00 am - 3:45 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -913,21 +913,21 @@
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
-          "start_time": "12:45 pm",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 12:45 pm - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Saturday, Oct 03: 10:45 am - 3:45 pm"
         },
         {
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "7:45 am",
+          "start_time": "8:00 am",
           "end_time": "2:15 pm",
-          "time_range": "7:45 am - 2:15 pm",
-          "display": "7:45 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 06: 7:45 am - 2:15 pm"
+          "time_range": "8:00 am - 2:15 pm",
+          "display": "8:00 am - 2:15 pm",
+          "display_full": "Tuesday, Oct 06: 8:00 am - 2:15 pm"
         },
         {
           "date": "2026-10-07",
@@ -945,21 +945,21 @@
           "date": "2026-10-03",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 03",
-          "start_time": "12:45 pm",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 03: 12:45 pm - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Saturday, Oct 03: 10:45 am - 3:45 pm"
         },
         {
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "7:45 am",
+          "start_time": "8:00 am",
           "end_time": "2:15 pm",
-          "time_range": "7:45 am - 2:15 pm",
-          "display": "7:45 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 06: 7:45 am - 2:15 pm"
+          "time_range": "8:00 am - 2:15 pm",
+          "display": "8:00 am - 2:15 pm",
+          "display_full": "Tuesday, Oct 06: 8:00 am - 2:15 pm"
         },
         {
           "date": "2026-10-07",
@@ -973,7 +973,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 03 from 12:45 pm - 3:45 pm"
+      "availability": "Saturday, Oct 03 from 10:45 am - 3:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1045,32 +1045,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-      "availability_patches": [
-        {
-          "date": "2026-10-07",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 07",
-          "start_time": "1:45 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:45 pm - 2:15 pm",
-          "display": "1:45 pm - 2:15 pm",
-          "display_full": "Wednesday, Oct 07: 1:45 pm - 2:15 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-07",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 07",
-          "start_time": "1:45 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:45 pm - 2:15 pm",
-          "display": "1:45 pm - 2:15 pm",
-          "display_full": "Wednesday, Oct 07: 1:45 pm - 2:15 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Wednesday, Oct 07 from 1:45 pm - 2:15 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
