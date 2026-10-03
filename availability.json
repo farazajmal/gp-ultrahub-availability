@@ -8,8 +8,8 @@
       "gender": "Male",
       "qualifications": [
         "MRCGP",
-        "Dip Occ Med (RCPI)",
-        "MBBS"
+        "MBBS",
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -124,9 +124,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MCPS (Family Medicine)",
         "MRCGP",
         "MCPS",
-        "MCPS (Family Medicine)",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -236,10 +236,10 @@
       "gender": "Male",
       "qualifications": [
         "General Practitioner",
-        "DFM",
+        "MRCGP",
         "MCPS",
         "MBBS",
-        "MRCGP"
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -496,8 +496,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MCPS (Family Medicine)",
+        "MRCGP",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -574,11 +574,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "2:00 pm",
+          "start_time": "2:15 pm",
           "end_time": "2:30 pm",
-          "time_range": "2:00 pm - 2:30 pm",
-          "display": "2:00 pm - 2:30 pm",
-          "display_full": "Sunday, Oct 04: 2:00 pm - 2:30 pm"
+          "time_range": "2:15 pm - 2:30 pm",
+          "display": "2:15 pm - 2:30 pm",
+          "display_full": "Sunday, Oct 04: 2:15 pm - 2:30 pm"
         },
         {
           "date": "2026-10-05",
@@ -606,11 +606,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "2:00 pm",
+          "start_time": "2:15 pm",
           "end_time": "2:30 pm",
-          "time_range": "2:00 pm - 2:30 pm",
-          "display": "2:00 pm - 2:30 pm",
-          "display_full": "Sunday, Oct 04: 2:00 pm - 2:30 pm"
+          "time_range": "2:15 pm - 2:30 pm",
+          "display": "2:15 pm - 2:30 pm",
+          "display_full": "Sunday, Oct 04: 2:15 pm - 2:30 pm"
         },
         {
           "date": "2026-10-05",
@@ -634,7 +634,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 04 from 2:00 pm - 2:30 pm"
+      "availability": "Sunday, Oct 04 from 2:15 pm - 2:30 pm"
     }
   },
   "Calliope": {
@@ -1418,9 +1418,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
         "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
