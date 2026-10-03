@@ -534,11 +534,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "1:00 pm",
+          "start_time": "1:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:00 pm - 3:45 pm",
-          "display": "1:00 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 1:00 pm - 3:45 pm"
+          "time_range": "1:30 pm - 3:45 pm",
+          "display": "1:30 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 04: 1:30 pm - 3:45 pm"
         },
         {
           "date": "2026-10-05",
@@ -556,11 +556,11 @@
           "date": "2026-10-04",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 04",
-          "start_time": "1:00 pm",
+          "start_time": "1:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:00 pm - 3:45 pm",
-          "display": "1:00 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 04: 1:00 pm - 3:45 pm"
+          "time_range": "1:30 pm - 3:45 pm",
+          "display": "1:30 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 04: 1:30 pm - 3:45 pm"
         },
         {
           "date": "2026-10-05",
@@ -574,7 +574,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 04 from 1:00 pm - 3:45 pm"
+      "availability": "Sunday, Oct 04 from 1:30 pm - 3:45 pm"
     }
   },
   "Calliope": {
@@ -926,10 +926,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
           "start_time": "8:00 am",
-          "end_time": "2:15 pm",
-          "time_range": "8:00 am - 2:15 pm",
-          "display": "8:00 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 06: 8:00 am - 2:15 pm"
+          "end_time": "2:00 pm",
+          "time_range": "8:00 am - 2:00 pm",
+          "display": "8:00 am - 2:00 pm",
+          "display_full": "Tuesday, Oct 06: 8:00 am - 2:00 pm"
         },
         {
           "date": "2026-10-07",
@@ -958,10 +958,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
           "start_time": "8:00 am",
-          "end_time": "2:15 pm",
-          "time_range": "8:00 am - 2:15 pm",
-          "display": "8:00 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 06: 8:00 am - 2:15 pm"
+          "end_time": "2:00 pm",
+          "time_range": "8:00 am - 2:00 pm",
+          "display": "8:00 am - 2:00 pm",
+          "display_full": "Tuesday, Oct 06: 8:00 am - 2:00 pm"
         },
         {
           "date": "2026-10-07",
