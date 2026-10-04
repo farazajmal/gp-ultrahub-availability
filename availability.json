@@ -626,11 +626,11 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "8:00 am",
+          "start_time": "11:15 am",
           "end_time": "1:45 pm",
-          "time_range": "8:00 am - 1:45 pm",
-          "display": "8:00 am - 1:45 pm",
-          "display_full": "Wednesday, Oct 07: 8:00 am - 1:45 pm"
+          "time_range": "11:15 am - 1:45 pm",
+          "display": "11:15 am - 1:45 pm",
+          "display_full": "Wednesday, Oct 07: 11:15 am - 1:45 pm"
         },
         {
           "date": "2026-10-08",
@@ -648,11 +648,11 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "8:00 am",
+          "start_time": "11:15 am",
           "end_time": "1:45 pm",
-          "time_range": "8:00 am - 1:45 pm",
-          "display": "8:00 am - 1:45 pm",
-          "display_full": "Wednesday, Oct 07: 8:00 am - 1:45 pm"
+          "time_range": "11:15 am - 1:45 pm",
+          "display": "11:15 am - 1:45 pm",
+          "display_full": "Wednesday, Oct 07: 11:15 am - 1:45 pm"
         },
         {
           "date": "2026-10-08",
@@ -666,7 +666,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 07 from 8:00 am - 1:45 pm"
+      "availability": "Wednesday, Oct 07 from 11:15 am - 1:45 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -756,11 +756,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "10:00 am",
+          "start_time": "3:15 pm",
           "end_time": "3:30 pm",
-          "time_range": "10:00 am - 3:30 pm",
-          "display": "10:00 am - 3:30 pm",
-          "display_full": "Monday, Oct 05: 10:00 am - 3:30 pm"
+          "time_range": "3:15 pm - 3:30 pm",
+          "display": "3:15 pm - 3:30 pm",
+          "display_full": "Monday, Oct 05: 3:15 pm - 3:30 pm"
         },
         {
           "date": "2026-10-06",
@@ -788,11 +788,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "10:00 am",
+          "start_time": "3:15 pm",
           "end_time": "3:30 pm",
-          "time_range": "10:00 am - 3:30 pm",
-          "display": "10:00 am - 3:30 pm",
-          "display_full": "Monday, Oct 05: 10:00 am - 3:30 pm"
+          "time_range": "3:15 pm - 3:30 pm",
+          "display": "3:15 pm - 3:30 pm",
+          "display_full": "Monday, Oct 05: 3:15 pm - 3:30 pm"
         },
         {
           "date": "2026-10-06",
@@ -816,7 +816,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 05 from 10:00 am - 3:30 pm"
+      "availability": "Monday, Oct 05 from 3:15 pm - 3:30 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1244,16 +1244,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
       "availability_patches": [
         {
-          "date": "2026-10-05",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 05",
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm",
-          "time_range": "12:00 pm",
-          "display": "12:00 pm",
-          "display_full": "Monday, Oct 05: 12:00 pm"
-        },
-        {
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
@@ -1286,16 +1276,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-05",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 05",
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm",
-          "time_range": "12:00 pm",
-          "display": "12:00 pm",
-          "display_full": "Monday, Oct 05: 12:00 pm"
-        },
-        {
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
@@ -1327,7 +1307,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 05 from 12:00 pm"
+      "availability": "Tuesday, Oct 06 from 8:40 am - 3:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1493,11 +1473,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Monday, Oct 05: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Monday, Oct 05: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-06",
@@ -1535,11 +1515,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Monday, Oct 05: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Monday, Oct 05: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-06",
@@ -1573,7 +1553,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 05 from 8:10 am - 4:00 pm"
+      "availability": "Monday, Oct 05 from 9:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
