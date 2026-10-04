@@ -766,11 +766,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "11:30 am",
+          "start_time": "12:15 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:30 am - 5:00 pm",
-          "display": "11:30 am - 5:00 pm",
-          "display_full": "Tuesday, Oct 06: 11:30 am - 5:00 pm"
+          "time_range": "12:15 pm - 5:00 pm",
+          "display": "12:15 pm - 5:00 pm",
+          "display_full": "Tuesday, Oct 06: 12:15 pm - 5:00 pm"
         },
         {
           "date": "2026-10-08",
@@ -798,11 +798,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "11:30 am",
+          "start_time": "12:15 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:30 am - 5:00 pm",
-          "display": "11:30 am - 5:00 pm",
-          "display_full": "Tuesday, Oct 06: 11:30 am - 5:00 pm"
+          "time_range": "12:15 pm - 5:00 pm",
+          "display": "12:15 pm - 5:00 pm",
+          "display_full": "Tuesday, Oct 06: 12:15 pm - 5:00 pm"
         },
         {
           "date": "2026-10-08",
@@ -1473,11 +1473,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Monday, Oct 05: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Monday, Oct 05: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-06",
@@ -1515,11 +1515,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Monday, Oct 05: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Monday, Oct 05: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-06",
@@ -1553,7 +1553,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 05 from 9:10 am - 4:00 pm"
+      "availability": "Monday, Oct 05 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
