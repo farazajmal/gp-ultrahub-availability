@@ -166,11 +166,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "7:15 am",
+          "start_time": "1:15 pm",
           "end_time": "2:30 pm",
-          "time_range": "7:15 am - 2:30 pm",
-          "display": "7:15 am - 2:30 pm",
-          "display_full": "Tuesday, Oct 06: 7:15 am - 2:30 pm"
+          "time_range": "1:15 pm - 2:30 pm",
+          "display": "1:15 pm - 2:30 pm",
+          "display_full": "Tuesday, Oct 06: 1:15 pm - 2:30 pm"
         },
         {
           "date": "2026-10-07",
@@ -198,11 +198,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "7:15 am",
+          "start_time": "1:15 pm",
           "end_time": "2:30 pm",
-          "time_range": "7:15 am - 2:30 pm",
-          "display": "7:15 am - 2:30 pm",
-          "display_full": "Tuesday, Oct 06: 7:15 am - 2:30 pm"
+          "time_range": "1:15 pm - 2:30 pm",
+          "display": "1:15 pm - 2:30 pm",
+          "display_full": "Tuesday, Oct 06: 1:15 pm - 2:30 pm"
         },
         {
           "date": "2026-10-07",
@@ -226,7 +226,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 7:15 am - 2:30 pm"
+      "availability": "Tuesday, Oct 06 from 1:15 pm - 2:30 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -554,11 +554,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "10:45 am",
+          "start_time": "1:45 pm",
           "end_time": "3:15 pm",
-          "time_range": "10:45 am - 3:15 pm",
-          "display": "10:45 am - 3:15 pm",
-          "display_full": "Monday, Oct 05: 10:45 am - 3:15 pm"
+          "time_range": "1:45 pm - 3:15 pm",
+          "display": "1:45 pm - 3:15 pm",
+          "display_full": "Monday, Oct 05: 1:45 pm - 3:15 pm"
         },
         {
           "date": "2026-10-08",
@@ -576,11 +576,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "10:45 am",
+          "start_time": "1:45 pm",
           "end_time": "3:15 pm",
-          "time_range": "10:45 am - 3:15 pm",
-          "display": "10:45 am - 3:15 pm",
-          "display_full": "Monday, Oct 05: 10:45 am - 3:15 pm"
+          "time_range": "1:45 pm - 3:15 pm",
+          "display": "1:45 pm - 3:15 pm",
+          "display_full": "Monday, Oct 05: 1:45 pm - 3:15 pm"
         },
         {
           "date": "2026-10-08",
@@ -594,7 +594,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 05 from 10:45 am - 3:15 pm"
+      "availability": "Monday, Oct 05 from 1:45 pm - 3:15 pm"
     }
   },
   "Calliope": {
@@ -1267,11 +1267,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "11:00 am",
+          "start_time": "12:00 pm",
           "end_time": "12:00 pm",
-          "time_range": "11:00 am - 12:00 pm",
-          "display": "11:00 am - 12:00 pm",
-          "display_full": "Monday, Oct 05: 11:00 am - 12:00 pm"
+          "time_range": "12:00 pm",
+          "display": "12:00 pm",
+          "display_full": "Monday, Oct 05: 12:00 pm"
         },
         {
           "date": "2026-10-06",
@@ -1309,11 +1309,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "11:00 am",
+          "start_time": "12:00 pm",
           "end_time": "12:00 pm",
-          "time_range": "11:00 am - 12:00 pm",
-          "display": "11:00 am - 12:00 pm",
-          "display_full": "Monday, Oct 05: 11:00 am - 12:00 pm"
+          "time_range": "12:00 pm",
+          "display": "12:00 pm",
+          "display_full": "Monday, Oct 05: 12:00 pm"
         },
         {
           "date": "2026-10-06",
@@ -1347,7 +1347,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 05 from 11:00 am - 12:00 pm"
+      "availability": "Monday, Oct 05 from 12:00 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
