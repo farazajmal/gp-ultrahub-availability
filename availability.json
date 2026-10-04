@@ -564,11 +564,11 @@
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
-          "start_time": "8:00 am",
+          "start_time": "12:00 pm",
           "end_time": "2:00 pm",
-          "time_range": "8:00 am - 2:00 pm",
-          "display": "8:00 am - 2:00 pm",
-          "display_full": "Thursday, Oct 08: 8:00 am - 2:00 pm"
+          "time_range": "12:00 pm - 2:00 pm",
+          "display": "12:00 pm - 2:00 pm",
+          "display_full": "Thursday, Oct 08: 12:00 pm - 2:00 pm"
         }
       ],
       "patches": [
@@ -586,11 +586,11 @@
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
-          "start_time": "8:00 am",
+          "start_time": "12:00 pm",
           "end_time": "2:00 pm",
-          "time_range": "8:00 am - 2:00 pm",
-          "display": "8:00 am - 2:00 pm",
-          "display_full": "Thursday, Oct 08: 8:00 am - 2:00 pm"
+          "time_range": "12:00 pm - 2:00 pm",
+          "display": "12:00 pm - 2:00 pm",
+          "display_full": "Thursday, Oct 08: 12:00 pm - 2:00 pm"
         }
       ],
       "scrape_status": "ok",
@@ -776,11 +776,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "10:30 am",
+          "start_time": "10:00 am",
           "end_time": "3:30 pm",
-          "time_range": "10:30 am - 3:30 pm",
-          "display": "10:30 am - 3:30 pm",
-          "display_full": "Monday, Oct 05: 10:30 am - 3:30 pm"
+          "time_range": "10:00 am - 3:30 pm",
+          "display": "10:00 am - 3:30 pm",
+          "display_full": "Monday, Oct 05: 10:00 am - 3:30 pm"
         },
         {
           "date": "2026-10-06",
@@ -808,11 +808,11 @@
           "date": "2026-10-05",
           "day_name": "Monday",
           "date_label": "Monday, Oct 05",
-          "start_time": "10:30 am",
+          "start_time": "10:00 am",
           "end_time": "3:30 pm",
-          "time_range": "10:30 am - 3:30 pm",
-          "display": "10:30 am - 3:30 pm",
-          "display_full": "Monday, Oct 05: 10:30 am - 3:30 pm"
+          "time_range": "10:00 am - 3:30 pm",
+          "display": "10:00 am - 3:30 pm",
+          "display_full": "Monday, Oct 05: 10:00 am - 3:30 pm"
         },
         {
           "date": "2026-10-06",
@@ -836,7 +836,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 05 from 10:30 am - 3:30 pm"
+      "availability": "Monday, Oct 05 from 10:00 am - 3:30 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
