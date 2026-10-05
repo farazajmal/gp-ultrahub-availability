@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -125,8 +125,8 @@
       "gender": "Female",
       "qualifications": [
         "MCPS (Family Medicine)",
-        "MBBS",
         "MRCGP",
+        "MBBS",
         "MCPS"
       ],
       "areas_of_interest": [
@@ -235,11 +235,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "DFM",
+        "MBBS",
+        "MCPS",
         "MRCGP",
-        "General Practitioner",
-        "MCPS"
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -499,8 +499,8 @@
       "gender": "Female",
       "qualifications": [
         "MCPS (Family Medicine)",
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -818,11 +818,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "12:45 pm",
+          "start_time": "11:30 am",
           "end_time": "4:45 pm",
-          "time_range": "12:45 pm - 4:45 pm",
-          "display": "12:45 pm - 4:45 pm",
-          "display_full": "Tuesday, Oct 06: 12:45 pm - 4:45 pm"
+          "time_range": "11:30 am - 4:45 pm",
+          "display": "11:30 am - 4:45 pm",
+          "display_full": "Tuesday, Oct 06: 11:30 am - 4:45 pm"
         },
         {
           "date": "2026-10-08",
@@ -840,11 +840,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "12:45 pm",
+          "start_time": "11:30 am",
           "end_time": "4:45 pm",
-          "time_range": "12:45 pm - 4:45 pm",
-          "display": "12:45 pm - 4:45 pm",
-          "display_full": "Tuesday, Oct 06: 12:45 pm - 4:45 pm"
+          "time_range": "11:30 am - 4:45 pm",
+          "display": "11:30 am - 4:45 pm",
+          "display_full": "Tuesday, Oct 06: 11:30 am - 4:45 pm"
         },
         {
           "date": "2026-10-08",
@@ -858,7 +858,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 12:45 pm - 4:45 pm"
+      "availability": "Tuesday, Oct 06 from 11:30 am - 4:45 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -938,8 +938,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1269,11 +1269,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "8:50 am",
+          "start_time": "8:30 am",
           "end_time": "3:40 pm",
-          "time_range": "8:50 am - 3:40 pm",
-          "display": "8:50 am - 3:40 pm",
-          "display_full": "Tuesday, Oct 06: 8:50 am - 3:40 pm"
+          "time_range": "8:30 am - 3:40 pm",
+          "display": "8:30 am - 3:40 pm",
+          "display_full": "Tuesday, Oct 06: 8:30 am - 3:40 pm"
         },
         {
           "date": "2026-10-07",
@@ -1301,11 +1301,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "8:50 am",
+          "start_time": "8:30 am",
           "end_time": "3:40 pm",
-          "time_range": "8:50 am - 3:40 pm",
-          "display": "8:50 am - 3:40 pm",
-          "display_full": "Tuesday, Oct 06: 8:50 am - 3:40 pm"
+          "time_range": "8:30 am - 3:40 pm",
+          "display": "8:30 am - 3:40 pm",
+          "display_full": "Tuesday, Oct 06: 8:30 am - 3:40 pm"
         },
         {
           "date": "2026-10-07",
@@ -1329,7 +1329,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 8:50 am - 3:40 pm"
+      "availability": "Tuesday, Oct 06 from 8:30 am - 3:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1338,9 +1338,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
+        "MRCGP",
         "MRCPG",
-        "MRCGP"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
