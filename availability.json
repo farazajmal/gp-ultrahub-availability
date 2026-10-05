@@ -166,11 +166,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "8:30 am",
+          "start_time": "1:15 pm",
           "end_time": "2:15 pm",
-          "time_range": "8:30 am - 2:15 pm",
-          "display": "8:30 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 06: 8:30 am - 2:15 pm"
+          "time_range": "1:15 pm - 2:15 pm",
+          "display": "1:15 pm - 2:15 pm",
+          "display_full": "Tuesday, Oct 06: 1:15 pm - 2:15 pm"
         },
         {
           "date": "2026-10-07",
@@ -198,11 +198,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "8:30 am",
+          "start_time": "1:15 pm",
           "end_time": "2:15 pm",
-          "time_range": "8:30 am - 2:15 pm",
-          "display": "8:30 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 06: 8:30 am - 2:15 pm"
+          "time_range": "1:15 pm - 2:15 pm",
+          "display": "1:15 pm - 2:15 pm",
+          "display_full": "Tuesday, Oct 06: 1:15 pm - 2:15 pm"
         },
         {
           "date": "2026-10-07",
@@ -226,7 +226,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 8:30 am - 2:15 pm"
+      "availability": "Tuesday, Oct 06 from 1:15 pm - 2:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -646,11 +646,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "12:45 pm",
+          "start_time": "2:15 pm",
           "end_time": "2:15 pm",
-          "time_range": "12:45 pm - 2:15 pm",
-          "display": "12:45 pm - 2:15 pm",
-          "display_full": "Tuesday, Oct 06: 12:45 pm - 2:15 pm"
+          "time_range": "2:15 pm",
+          "display": "2:15 pm",
+          "display_full": "Tuesday, Oct 06: 2:15 pm"
         },
         {
           "date": "2026-10-07",
@@ -678,11 +678,11 @@
           "date": "2026-10-06",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 06",
-          "start_time": "12:45 pm",
+          "start_time": "2:15 pm",
           "end_time": "2:15 pm",
-          "time_range": "12:45 pm - 2:15 pm",
-          "display": "12:45 pm - 2:15 pm",
-          "display_full": "Tuesday, Oct 06: 12:45 pm - 2:15 pm"
+          "time_range": "2:15 pm",
+          "display": "2:15 pm",
+          "display_full": "Tuesday, Oct 06: 2:15 pm"
         },
         {
           "date": "2026-10-07",
@@ -706,7 +706,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 12:45 pm - 2:15 pm"
+      "availability": "Tuesday, Oct 06 from 2:15 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -1494,16 +1494,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
       "availability_patches": [
         {
-          "date": "2026-10-06",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 06",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Tuesday, Oct 06: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
@@ -1526,16 +1516,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-06",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 06",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Tuesday, Oct 06: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
@@ -1557,7 +1537,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 3:10 pm - 4:00 pm"
+      "availability": "Wednesday, Oct 07 from 8:00 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
