@@ -643,16 +643,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
       "availability_patches": [
         {
-          "date": "2026-10-06",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 06",
-          "start_time": "2:15 pm",
-          "end_time": "2:15 pm",
-          "time_range": "2:15 pm",
-          "display": "2:15 pm",
-          "display_full": "Tuesday, Oct 06: 2:15 pm"
-        },
-        {
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
@@ -675,16 +665,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-06",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 06",
-          "start_time": "2:15 pm",
-          "end_time": "2:15 pm",
-          "time_range": "2:15 pm",
-          "display": "2:15 pm",
-          "display_full": "Tuesday, Oct 06: 2:15 pm"
-        },
-        {
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
@@ -706,7 +686,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 06 from 2:15 pm"
+      "availability": "Wednesday, Oct 07 from 10:00 am - 1:45 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
