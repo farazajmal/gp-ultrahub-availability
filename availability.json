@@ -324,6 +324,16 @@
           "time_range": "11:30 am - 3:45 pm",
           "display": "11:30 am - 3:45 pm",
           "display_full": "Saturday, Oct 10: 11:30 am - 3:45 pm"
+        },
+        {
+          "date": "2026-10-11",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Oct 11",
+          "start_time": "10:00 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:00 am - 3:45 pm",
+          "display": "10:00 am - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 10:00 am - 3:45 pm"
         }
       ],
       "patches": [
@@ -346,6 +356,16 @@
           "time_range": "11:30 am - 3:45 pm",
           "display": "11:30 am - 3:45 pm",
           "display_full": "Saturday, Oct 10: 11:30 am - 3:45 pm"
+        },
+        {
+          "date": "2026-10-11",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Oct 11",
+          "start_time": "10:00 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:00 am - 3:45 pm",
+          "display": "10:00 am - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 10:00 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -397,10 +417,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-10-11",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Oct 11",
+          "start_time": "10:45 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 10:45 am - 3:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-10-11",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Oct 11",
+          "start_time": "10:45 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 10:45 am - 3:45 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Sunday, Oct 11 from 10:45 am - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -1231,11 +1273,11 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "11:10 am",
+          "start_time": "12:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "11:10 am - 4:00 pm",
-          "display": "11:10 am - 4:00 pm",
-          "display_full": "Wednesday, Oct 07: 11:10 am - 4:00 pm"
+          "time_range": "12:10 pm - 4:00 pm",
+          "display": "12:10 pm - 4:00 pm",
+          "display_full": "Wednesday, Oct 07: 12:10 pm - 4:00 pm"
         },
         {
           "date": "2026-10-08",
@@ -1253,11 +1295,11 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "11:10 am",
+          "start_time": "12:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "11:10 am - 4:00 pm",
-          "display": "11:10 am - 4:00 pm",
-          "display_full": "Wednesday, Oct 07: 11:10 am - 4:00 pm"
+          "time_range": "12:10 pm - 4:00 pm",
+          "display": "12:10 pm - 4:00 pm",
+          "display_full": "Wednesday, Oct 07: 12:10 pm - 4:00 pm"
         },
         {
           "date": "2026-10-08",
@@ -1271,7 +1313,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 07 from 11:10 am - 4:00 pm"
+      "availability": "Wednesday, Oct 07 from 12:10 pm - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
