@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MRCGP",
         "MBBS",
-        "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -104,10 +104,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MCPS (Family Medicine)",
-        "MCPS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -195,11 +195,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
-        "DFM",
+        "MRCGP",
         "MCPS",
-        "General Practitioner",
-        "MRCGP"
+        "DFM",
+        "MBBS",
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -500,9 +500,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MCPS (Family Medicine)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -838,8 +838,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -875,11 +875,11 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "11:00 am",
+          "start_time": "11:30 am",
           "end_time": "4:45 pm",
-          "time_range": "11:00 am - 4:45 pm",
-          "display": "11:00 am - 4:45 pm",
-          "display_full": "Wednesday, Oct 07: 11:00 am - 4:45 pm"
+          "time_range": "11:30 am - 4:45 pm",
+          "display": "11:30 am - 4:45 pm",
+          "display_full": "Wednesday, Oct 07: 11:30 am - 4:45 pm"
         }
       ],
       "patches": [
@@ -887,15 +887,15 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "11:00 am",
+          "start_time": "11:30 am",
           "end_time": "4:45 pm",
-          "time_range": "11:00 am - 4:45 pm",
-          "display": "11:00 am - 4:45 pm",
-          "display_full": "Wednesday, Oct 07: 11:00 am - 4:45 pm"
+          "time_range": "11:30 am - 4:45 pm",
+          "display": "11:30 am - 4:45 pm",
+          "display_full": "Wednesday, Oct 07: 11:30 am - 4:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 07 from 11:00 am - 4:45 pm"
+      "availability": "Wednesday, Oct 07 from 11:30 am - 4:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1156,9 +1156,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCPG",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
