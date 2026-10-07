@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
+        "Dip Occ Med (RCPI)",
         "MRCGP",
-        "Dip Occ Med (RCPI)"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -34,11 +34,11 @@
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
-          "start_time": "8:30 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:30 am - 4:00 pm",
-          "display": "8:30 am - 4:00 pm",
-          "display_full": "Thursday, Oct 08: 8:30 am - 4:00 pm"
+          "start_time": "3:45 pm",
+          "end_time": "3:45 pm",
+          "time_range": "3:45 pm",
+          "display": "3:45 pm",
+          "display_full": "Thursday, Oct 08: 3:45 pm"
         }
       ],
       "patches": [
@@ -46,15 +46,15 @@
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
-          "start_time": "8:30 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:30 am - 4:00 pm",
-          "display": "8:30 am - 4:00 pm",
-          "display_full": "Thursday, Oct 08: 8:30 am - 4:00 pm"
+          "start_time": "3:45 pm",
+          "end_time": "3:45 pm",
+          "time_range": "3:45 pm",
+          "display": "3:45 pm",
+          "display_full": "Thursday, Oct 08: 3:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 08 from 8:30 am - 4:00 pm"
+      "availability": "Thursday, Oct 08 from 3:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -84,10 +84,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP",
         "MCPS (Family Medicine)",
-        "MCPS"
+        "MCPS",
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -155,11 +155,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "DFM",
         "MCPS",
-        "MRCGP",
-        "General Practitioner"
+        "MBBS",
+        "General Practitioner",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -257,11 +257,11 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "11:30 am",
+          "start_time": "12:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "11:30 am - 3:45 pm",
-          "display": "11:30 am - 3:45 pm",
-          "display_full": "Saturday, Oct 10: 11:30 am - 3:45 pm"
+          "time_range": "12:00 pm - 3:45 pm",
+          "display": "12:00 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 10: 12:00 pm - 3:45 pm"
         },
         {
           "date": "2026-10-11",
@@ -289,11 +289,11 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "11:30 am",
+          "start_time": "12:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "11:30 am - 3:45 pm",
-          "display": "11:30 am - 3:45 pm",
-          "display_full": "Saturday, Oct 10: 11:30 am - 3:45 pm"
+          "time_range": "12:00 pm - 3:45 pm",
+          "display": "12:00 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 10: 12:00 pm - 3:45 pm"
         },
         {
           "date": "2026-10-11",
@@ -438,9 +438,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
+        "MCPS (Family Medicine)",
         "MRCGP",
-        "MCPS (Family Medicine)"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -705,10 +705,10 @@
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
           "start_time": "10:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:45 am - 3:45 pm",
-          "display": "10:45 am - 3:45 pm",
-          "display_full": "Saturday, Oct 10: 10:45 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "10:45 am - 3:15 pm",
+          "display": "10:45 am - 3:15 pm",
+          "display_full": "Saturday, Oct 10: 10:45 am - 3:15 pm"
         }
       ],
       "patches": [
@@ -717,14 +717,14 @@
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
           "start_time": "10:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:45 am - 3:45 pm",
-          "display": "10:45 am - 3:45 pm",
-          "display_full": "Saturday, Oct 10: 10:45 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "10:45 am - 3:15 pm",
+          "display": "10:45 am - 3:15 pm",
+          "display_full": "Saturday, Oct 10: 10:45 am - 3:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 10 from 10:45 am - 3:45 pm"
+      "availability": "Saturday, Oct 10 from 10:45 am - 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -754,8 +754,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -908,32 +908,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
-      "availability_patches": [
-        {
-          "date": "2026-10-08",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 08",
-          "start_time": "2:15 pm",
-          "end_time": "3:45 pm",
-          "time_range": "2:15 pm - 3:45 pm",
-          "display": "2:15 pm - 3:45 pm",
-          "display_full": "Thursday, Oct 08: 2:15 pm - 3:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-08",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 08",
-          "start_time": "2:15 pm",
-          "end_time": "3:45 pm",
-          "time_range": "2:15 pm - 3:45 pm",
-          "display": "2:15 pm - 3:45 pm",
-          "display_full": "Thursday, Oct 08: 2:15 pm - 3:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Thursday, Oct 08 from 2:15 pm - 3:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     }
   },
   "Toowoomba": {
@@ -981,21 +959,21 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "5:50 pm",
+          "start_time": "6:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "5:50 pm - 6:40 pm",
-          "display": "5:50 pm - 6:40 pm",
-          "display_full": "Wednesday, Oct 07: 5:50 pm - 6:40 pm"
+          "time_range": "6:40 pm",
+          "display": "6:40 pm",
+          "display_full": "Wednesday, Oct 07: 6:40 pm"
         },
         {
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
-          "start_time": "8:20 am",
+          "start_time": "8:30 am",
           "end_time": "12:20 pm",
-          "time_range": "8:20 am - 12:20 pm",
-          "display": "8:20 am - 12:20 pm",
-          "display_full": "Thursday, Oct 08: 8:20 am - 12:20 pm"
+          "time_range": "8:30 am - 12:20 pm",
+          "display": "8:30 am - 12:20 pm",
+          "display_full": "Thursday, Oct 08: 8:30 am - 12:20 pm"
         }
       ],
       "patches": [
@@ -1003,25 +981,25 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "5:50 pm",
+          "start_time": "6:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "5:50 pm - 6:40 pm",
-          "display": "5:50 pm - 6:40 pm",
-          "display_full": "Wednesday, Oct 07: 5:50 pm - 6:40 pm"
+          "time_range": "6:40 pm",
+          "display": "6:40 pm",
+          "display_full": "Wednesday, Oct 07: 6:40 pm"
         },
         {
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
-          "start_time": "8:20 am",
+          "start_time": "8:30 am",
           "end_time": "12:20 pm",
-          "time_range": "8:20 am - 12:20 pm",
-          "display": "8:20 am - 12:20 pm",
-          "display_full": "Thursday, Oct 08: 8:20 am - 12:20 pm"
+          "time_range": "8:30 am - 12:20 pm",
+          "display": "8:30 am - 12:20 pm",
+          "display_full": "Thursday, Oct 08: 8:30 am - 12:20 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 07 from 5:50 pm - 6:40 pm"
+      "availability": "Wednesday, Oct 07 from 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1030,9 +1008,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
+        "MRCPG",
         "MRCGP",
-        "MRCPG"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
