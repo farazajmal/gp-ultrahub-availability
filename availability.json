@@ -31,6 +31,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
+          "date": "2026-10-07",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 07",
+          "start_time": "1:45 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Wednesday, Oct 07: 1:45 pm"
+        },
+        {
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
@@ -43,6 +53,16 @@
       ],
       "patches": [
         {
+          "date": "2026-10-07",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 07",
+          "start_time": "1:45 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Wednesday, Oct 07: 1:45 pm"
+        },
+        {
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
@@ -54,7 +74,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 08 from 8:30 am - 4:00 pm"
+      "availability": "Wednesday, Oct 07 from 1:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -448,32 +468,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-      "availability_patches": [
-        {
-          "date": "2026-10-09",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 09",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Friday, Oct 09: 1:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-09",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 09",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Friday, Oct 09: 1:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Friday, Oct 09 from 1:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Mehwish Saghir": {
       "doctor_id": 219466,
@@ -555,32 +553,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-      "availability_patches": [
-        {
-          "date": "2026-10-08",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 08",
-          "start_time": "7:45 am",
-          "end_time": "7:45 am",
-          "time_range": "7:45 am",
-          "display": "7:45 am",
-          "display_full": "Thursday, Oct 08: 7:45 am"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-08",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 08",
-          "start_time": "7:45 am",
-          "end_time": "7:45 am",
-          "time_range": "7:45 am",
-          "display": "7:45 am",
-          "display_full": "Thursday, Oct 08: 7:45 am"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Thursday, Oct 08 from 7:45 am"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     }
   },
   "Calliope": {
@@ -632,11 +608,11 @@
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
-          "start_time": "12:00 pm",
-          "end_time": "2:00 pm",
-          "time_range": "12:00 pm - 2:00 pm",
-          "display": "12:00 pm - 2:00 pm",
-          "display_full": "Thursday, Oct 08: 12:00 pm - 2:00 pm"
+          "start_time": "12:15 pm",
+          "end_time": "12:15 pm",
+          "time_range": "12:15 pm",
+          "display": "12:15 pm",
+          "display_full": "Thursday, Oct 08: 12:15 pm"
         }
       ],
       "patches": [
@@ -644,15 +620,15 @@
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
-          "start_time": "12:00 pm",
-          "end_time": "2:00 pm",
-          "time_range": "12:00 pm - 2:00 pm",
-          "display": "12:00 pm - 2:00 pm",
-          "display_full": "Thursday, Oct 08: 12:00 pm - 2:00 pm"
+          "start_time": "12:15 pm",
+          "end_time": "12:15 pm",
+          "time_range": "12:15 pm",
+          "display": "12:15 pm",
+          "display_full": "Thursday, Oct 08: 12:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 08 from 12:00 pm - 2:00 pm"
+      "availability": "Thursday, Oct 08 from 12:15 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -759,32 +735,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
-      "availability_patches": [
-        {
-          "date": "2026-10-08",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 08",
-          "start_time": "2:00 pm",
-          "end_time": "2:00 pm",
-          "time_range": "2:00 pm",
-          "display": "2:00 pm",
-          "display_full": "Thursday, Oct 08: 2:00 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-08",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 08",
-          "start_time": "2:00 pm",
-          "end_time": "2:00 pm",
-          "time_range": "2:00 pm",
-          "display": "2:00 pm",
-          "display_full": "Thursday, Oct 08: 2:00 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Thursday, Oct 08 from 2:00 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -923,11 +877,11 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "1:15 pm",
+          "start_time": "4:15 pm",
           "end_time": "4:45 pm",
-          "time_range": "1:15 pm - 4:45 pm",
-          "display": "1:15 pm - 4:45 pm",
-          "display_full": "Wednesday, Oct 07: 1:15 pm - 4:45 pm"
+          "time_range": "4:15 pm - 4:45 pm",
+          "display": "4:15 pm - 4:45 pm",
+          "display_full": "Wednesday, Oct 07: 4:15 pm - 4:45 pm"
         }
       ],
       "patches": [
@@ -935,15 +889,15 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "1:15 pm",
+          "start_time": "4:15 pm",
           "end_time": "4:45 pm",
-          "time_range": "1:15 pm - 4:45 pm",
-          "display": "1:15 pm - 4:45 pm",
-          "display_full": "Wednesday, Oct 07: 1:15 pm - 4:45 pm"
+          "time_range": "4:15 pm - 4:45 pm",
+          "display": "4:15 pm - 4:45 pm",
+          "display_full": "Wednesday, Oct 07: 4:15 pm - 4:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 07 from 1:15 pm - 4:45 pm"
+      "availability": "Wednesday, Oct 07 from 4:15 pm - 4:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1246,11 +1200,11 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "1:30 pm",
+          "start_time": "2:40 pm",
           "end_time": "2:50 pm",
-          "time_range": "1:30 pm - 2:50 pm",
-          "display": "1:30 pm - 2:50 pm",
-          "display_full": "Wednesday, Oct 07: 1:30 pm - 2:50 pm"
+          "time_range": "2:40 pm - 2:50 pm",
+          "display": "2:40 pm - 2:50 pm",
+          "display_full": "Wednesday, Oct 07: 2:40 pm - 2:50 pm"
         },
         {
           "date": "2026-10-08",
@@ -1268,11 +1222,11 @@
           "date": "2026-10-07",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 07",
-          "start_time": "1:30 pm",
+          "start_time": "2:40 pm",
           "end_time": "2:50 pm",
-          "time_range": "1:30 pm - 2:50 pm",
-          "display": "1:30 pm - 2:50 pm",
-          "display_full": "Wednesday, Oct 07: 1:30 pm - 2:50 pm"
+          "time_range": "2:40 pm - 2:50 pm",
+          "display": "2:40 pm - 2:50 pm",
+          "display_full": "Wednesday, Oct 07: 2:40 pm - 2:50 pm"
         },
         {
           "date": "2026-10-08",
@@ -1286,7 +1240,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 07 from 1:30 pm - 2:50 pm"
+      "availability": "Wednesday, Oct 07 from 2:40 pm - 2:50 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
