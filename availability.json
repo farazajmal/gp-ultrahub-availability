@@ -121,32 +121,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
-      "availability_patches": [
-        {
-          "date": "2026-10-08",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 08",
-          "start_time": "5:15 pm",
-          "end_time": "6:45 pm",
-          "time_range": "5:15 pm - 6:45 pm",
-          "display": "5:15 pm - 6:45 pm",
-          "display_full": "Thursday, Oct 08: 5:15 pm - 6:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-08",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 08",
-          "start_time": "5:15 pm",
-          "end_time": "6:45 pm",
-          "time_range": "5:15 pm - 6:45 pm",
-          "display": "5:15 pm - 6:45 pm",
-          "display_full": "Thursday, Oct 08: 5:15 pm - 6:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Thursday, Oct 08 from 5:15 pm - 6:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -360,11 +338,11 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "3:45 pm",
-          "time_range": "11:15 am - 3:45 pm",
-          "display": "11:15 am - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 11:15 am - 3:45 pm"
+          "time_range": "11:30 am - 3:45 pm",
+          "display": "11:30 am - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 11:30 am - 3:45 pm"
         }
       ],
       "patches": [
@@ -372,15 +350,15 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "3:45 pm",
-          "time_range": "11:15 am - 3:45 pm",
-          "display": "11:15 am - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 11:15 am - 3:45 pm"
+          "time_range": "11:30 am - 3:45 pm",
+          "display": "11:30 am - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 11:30 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 11 from 11:15 am - 3:45 pm"
+      "availability": "Sunday, Oct 11 from 11:30 am - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -956,16 +934,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
       "availability_patches": [
         {
-          "date": "2026-10-07",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 07",
-          "start_time": "6:40 pm",
-          "end_time": "6:40 pm",
-          "time_range": "6:40 pm",
-          "display": "6:40 pm",
-          "display_full": "Wednesday, Oct 07: 6:40 pm"
-        },
-        {
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
@@ -978,16 +946,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-07",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 07",
-          "start_time": "6:40 pm",
-          "end_time": "6:40 pm",
-          "time_range": "6:40 pm",
-          "display": "6:40 pm",
-          "display_full": "Wednesday, Oct 07: 6:40 pm"
-        },
-        {
           "date": "2026-10-08",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 08",
@@ -999,7 +957,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 07 from 6:40 pm"
+      "availability": "Thursday, Oct 08 from 8:30 am - 12:20 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1045,10 +1003,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-10-08",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 08",
+          "start_time": "11:10 am",
+          "end_time": "11:10 am",
+          "time_range": "11:10 am",
+          "display": "11:10 am",
+          "display_full": "Thursday, Oct 08: 11:10 am"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-10-08",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 08",
+          "start_time": "11:10 am",
+          "end_time": "11:10 am",
+          "time_range": "11:10 am",
+          "display": "11:10 am",
+          "display_full": "Thursday, Oct 08: 11:10 am"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Thursday, Oct 08 from 11:10 am"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
