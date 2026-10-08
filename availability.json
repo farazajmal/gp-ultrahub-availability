@@ -127,10 +127,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "10:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:45 am - 3:45 pm",
-          "display": "10:45 am - 3:45 pm",
-          "display_full": "Monday, Oct 12: 10:45 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "10:45 am - 3:15 pm",
+          "display": "10:45 am - 3:15 pm",
+          "display_full": "Monday, Oct 12: 10:45 am - 3:15 pm"
         }
       ],
       "patches": [
@@ -139,14 +139,14 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "10:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:45 am - 3:45 pm",
-          "display": "10:45 am - 3:45 pm",
-          "display_full": "Monday, Oct 12: 10:45 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "10:45 am - 3:15 pm",
+          "display": "10:45 am - 3:15 pm",
+          "display_full": "Monday, Oct 12: 10:45 am - 3:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 10:45 am - 3:45 pm"
+      "availability": "Monday, Oct 12 from 10:45 am - 3:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -266,24 +266,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
       "availability_patches": [
         {
-          "date": "2026-10-09",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 09",
-          "start_time": "10:45 am",
-          "end_time": "10:45 am",
-          "time_range": "10:45 am",
-          "display": "10:45 am",
-          "display_full": "Friday, Oct 09: 10:45 am"
-        },
-        {
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "12:30 pm",
+          "start_time": "1:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 10: 12:30 pm - 3:45 pm"
+          "time_range": "1:15 pm - 3:45 pm",
+          "display": "1:15 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 10: 1:15 pm - 3:45 pm"
         },
         {
           "date": "2026-10-11",
@@ -298,24 +288,14 @@
       ],
       "patches": [
         {
-          "date": "2026-10-09",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 09",
-          "start_time": "10:45 am",
-          "end_time": "10:45 am",
-          "time_range": "10:45 am",
-          "display": "10:45 am",
-          "display_full": "Friday, Oct 09: 10:45 am"
-        },
-        {
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "12:30 pm",
+          "start_time": "1:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 10: 12:30 pm - 3:45 pm"
+          "time_range": "1:15 pm - 3:45 pm",
+          "display": "1:15 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 10: 1:15 pm - 3:45 pm"
         },
         {
           "date": "2026-10-11",
@@ -329,7 +309,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 09 from 10:45 am"
+      "availability": "Saturday, Oct 10 from 1:15 pm - 3:45 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -533,32 +513,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-      "availability_patches": [
-        {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Monday, Oct 12: 2:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Monday, Oct 12: 2:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 2:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     }
   },
   "Calliope": {
@@ -610,11 +568,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:30 pm",
-          "end_time": "12:30 pm",
-          "time_range": "12:30 pm",
-          "display": "12:30 pm",
-          "display_full": "Monday, Oct 12: 12:30 pm"
+          "start_time": "12:45 pm",
+          "end_time": "12:45 pm",
+          "time_range": "12:45 pm",
+          "display": "12:45 pm",
+          "display_full": "Monday, Oct 12: 12:45 pm"
         }
       ],
       "patches": [
@@ -622,15 +580,15 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:30 pm",
-          "end_time": "12:30 pm",
-          "time_range": "12:30 pm",
-          "display": "12:30 pm",
-          "display_full": "Monday, Oct 12: 12:30 pm"
+          "start_time": "12:45 pm",
+          "end_time": "12:45 pm",
+          "time_range": "12:45 pm",
+          "display": "12:45 pm",
+          "display_full": "Monday, Oct 12: 12:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 12:30 pm"
+      "availability": "Monday, Oct 12 from 12:45 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -678,32 +636,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
-      "availability_patches": [
-        {
-          "date": "2026-10-09",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 09",
-          "start_time": "9:15 am",
-          "end_time": "9:15 am",
-          "time_range": "9:15 am",
-          "display": "9:15 am",
-          "display_full": "Friday, Oct 09: 9:15 am"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-09",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 09",
-          "start_time": "9:15 am",
-          "end_time": "9:15 am",
-          "time_range": "9:15 am",
-          "display": "9:15 am",
-          "display_full": "Friday, Oct 09: 9:15 am"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Friday, Oct 09 from 9:15 am"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -742,11 +678,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "3:00 pm",
-          "end_time": "5:15 pm",
-          "time_range": "3:00 pm - 5:15 pm",
-          "display": "3:00 pm - 5:15 pm",
-          "display_full": "Monday, Oct 12: 3:00 pm - 5:15 pm"
+          "start_time": "3:15 pm",
+          "end_time": "4:45 pm",
+          "time_range": "3:15 pm - 4:45 pm",
+          "display": "3:15 pm - 4:45 pm",
+          "display_full": "Monday, Oct 12: 3:15 pm - 4:45 pm"
         }
       ],
       "patches": [
@@ -754,15 +690,15 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "3:00 pm",
-          "end_time": "5:15 pm",
-          "time_range": "3:00 pm - 5:15 pm",
-          "display": "3:00 pm - 5:15 pm",
-          "display_full": "Monday, Oct 12: 3:00 pm - 5:15 pm"
+          "start_time": "3:15 pm",
+          "end_time": "4:45 pm",
+          "time_range": "3:15 pm - 4:45 pm",
+          "display": "3:15 pm - 4:45 pm",
+          "display_full": "Monday, Oct 12: 3:15 pm - 4:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 3:00 pm - 5:15 pm"
+      "availability": "Monday, Oct 12 from 3:15 pm - 4:45 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1045,11 +981,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "1:45 pm",
+          "start_time": "3:30 pm",
           "end_time": "4:15 pm",
-          "time_range": "1:45 pm - 4:15 pm",
-          "display": "1:45 pm - 4:15 pm",
-          "display_full": "Monday, Oct 12: 1:45 pm - 4:15 pm"
+          "time_range": "3:30 pm - 4:15 pm",
+          "display": "3:30 pm - 4:15 pm",
+          "display_full": "Monday, Oct 12: 3:30 pm - 4:15 pm"
         }
       ],
       "patches": [
@@ -1057,15 +993,15 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "1:45 pm",
+          "start_time": "3:30 pm",
           "end_time": "4:15 pm",
-          "time_range": "1:45 pm - 4:15 pm",
-          "display": "1:45 pm - 4:15 pm",
-          "display_full": "Monday, Oct 12: 1:45 pm - 4:15 pm"
+          "time_range": "3:30 pm - 4:15 pm",
+          "display": "3:30 pm - 4:15 pm",
+          "display_full": "Monday, Oct 12: 3:30 pm - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 1:45 pm - 4:15 pm"
+      "availability": "Monday, Oct 12 from 3:30 pm - 4:15 pm"
     }
   },
   "Toowoomba": {
