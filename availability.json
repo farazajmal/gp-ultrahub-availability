@@ -772,11 +772,11 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "3:15 pm",
-          "time_range": "12:30 pm - 3:15 pm",
-          "display": "12:30 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 10: 12:30 pm - 3:15 pm"
+          "time_range": "12:45 pm - 3:15 pm",
+          "display": "12:45 pm - 3:15 pm",
+          "display_full": "Saturday, Oct 10: 12:45 pm - 3:15 pm"
         }
       ],
       "patches": [
@@ -784,15 +784,15 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "3:15 pm",
-          "time_range": "12:30 pm - 3:15 pm",
-          "display": "12:30 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 10: 12:30 pm - 3:15 pm"
+          "time_range": "12:45 pm - 3:15 pm",
+          "display": "12:45 pm - 3:15 pm",
+          "display_full": "Saturday, Oct 10: 12:45 pm - 3:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 10 from 12:30 pm - 3:15 pm"
+      "availability": "Saturday, Oct 10 from 12:45 pm - 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1003,11 +1003,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "8:30 am",
+          "start_time": "12:15 pm",
           "end_time": "4:15 pm",
-          "time_range": "8:30 am - 4:15 pm",
-          "display": "8:30 am - 4:15 pm",
-          "display_full": "Monday, Oct 12: 8:30 am - 4:15 pm"
+          "time_range": "12:15 pm - 4:15 pm",
+          "display": "12:15 pm - 4:15 pm",
+          "display_full": "Monday, Oct 12: 12:15 pm - 4:15 pm"
         }
       ],
       "patches": [
@@ -1015,15 +1015,15 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "8:30 am",
+          "start_time": "12:15 pm",
           "end_time": "4:15 pm",
-          "time_range": "8:30 am - 4:15 pm",
-          "display": "8:30 am - 4:15 pm",
-          "display_full": "Monday, Oct 12: 8:30 am - 4:15 pm"
+          "time_range": "12:15 pm - 4:15 pm",
+          "display": "12:15 pm - 4:15 pm",
+          "display_full": "Monday, Oct 12: 12:15 pm - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:30 am - 4:15 pm"
+      "availability": "Monday, Oct 12 from 12:15 pm - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1137,32 +1137,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
-      "availability_patches": [
-        {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "8:40 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:40 am - 3:40 pm",
-          "display": "8:40 am - 3:40 pm",
-          "display_full": "Monday, Oct 12: 8:40 am - 3:40 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "8:40 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:40 am - 3:40 pm",
-          "display": "8:40 am - 3:40 pm",
-          "display_full": "Monday, Oct 12: 8:40 am - 3:40 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:40 am - 3:40 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "error",
+      "availability": "Call clinic to book"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
@@ -1259,32 +1237,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-umair-siddiqui-3",
-      "availability_patches": [
-        {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "1:10 pm",
-          "end_time": "3:40 pm",
-          "time_range": "1:10 pm - 3:40 pm",
-          "display": "1:10 pm - 3:40 pm",
-          "display_full": "Monday, Oct 12: 1:10 pm - 3:40 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "1:10 pm",
-          "end_time": "3:40 pm",
-          "time_range": "1:10 pm - 3:40 pm",
-          "display": "1:10 pm - 3:40 pm",
-          "display_full": "Monday, Oct 12: 1:10 pm - 3:40 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 1:10 pm - 3:40 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "error",
+      "availability": "Call clinic to book"
     },
     "Practice Nurse": {
       "doctor_id": 239587,
