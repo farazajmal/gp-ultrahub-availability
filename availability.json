@@ -329,11 +329,11 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "1:45 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:45 pm - 3:45 pm",
-          "display": "1:45 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 10: 1:45 pm - 3:45 pm"
+          "time_range": "3:15 pm - 3:45 pm",
+          "display": "3:15 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 10: 3:15 pm - 3:45 pm"
         },
         {
           "date": "2026-10-11",
@@ -351,11 +351,11 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "1:45 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:45 pm - 3:45 pm",
-          "display": "1:45 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 10: 1:45 pm - 3:45 pm"
+          "time_range": "3:15 pm - 3:45 pm",
+          "display": "3:15 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 10: 3:15 pm - 3:45 pm"
         },
         {
           "date": "2026-10-11",
@@ -369,7 +369,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 10 from 1:45 pm - 3:45 pm"
+      "availability": "Saturday, Oct 10 from 3:15 pm - 3:45 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -872,11 +872,11 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "2:30 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:15 pm",
-          "time_range": "2:30 pm - 3:15 pm",
-          "display": "2:30 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 10: 2:30 pm - 3:15 pm"
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Saturday, Oct 10: 3:15 pm"
         }
       ],
       "patches": [
@@ -884,15 +884,15 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "2:30 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:15 pm",
-          "time_range": "2:30 pm - 3:15 pm",
-          "display": "2:30 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 10: 2:30 pm - 3:15 pm"
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Saturday, Oct 10: 3:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 10 from 2:30 pm - 3:15 pm"
+      "availability": "Saturday, Oct 10 from 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1283,10 +1283,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:40 am - 3:40 pm",
-          "display": "8:40 am - 3:40 pm",
-          "display_full": "Monday, Oct 12: 8:40 am - 3:40 pm"
+          "end_time": "3:00 pm",
+          "time_range": "8:40 am - 3:00 pm",
+          "display": "8:40 am - 3:00 pm",
+          "display_full": "Monday, Oct 12: 8:40 am - 3:00 pm"
         },
         {
           "date": "2026-10-13",
@@ -1305,10 +1305,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:40 am - 3:40 pm",
-          "display": "8:40 am - 3:40 pm",
-          "display_full": "Monday, Oct 12: 8:40 am - 3:40 pm"
+          "end_time": "3:00 pm",
+          "time_range": "8:40 am - 3:00 pm",
+          "display": "8:40 am - 3:00 pm",
+          "display_full": "Monday, Oct 12: 8:40 am - 3:00 pm"
         },
         {
           "date": "2026-10-13",
@@ -1322,7 +1322,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:40 am - 3:40 pm"
+      "availability": "Monday, Oct 12 from 8:40 am - 3:00 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
