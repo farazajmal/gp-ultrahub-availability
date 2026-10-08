@@ -126,11 +126,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "10:45 am",
+          "start_time": "11:00 am",
           "end_time": "3:15 pm",
-          "time_range": "10:45 am - 3:15 pm",
-          "display": "10:45 am - 3:15 pm",
-          "display_full": "Monday, Oct 12: 10:45 am - 3:15 pm"
+          "time_range": "11:00 am - 3:15 pm",
+          "display": "11:00 am - 3:15 pm",
+          "display_full": "Monday, Oct 12: 11:00 am - 3:15 pm"
         }
       ],
       "patches": [
@@ -138,15 +138,15 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "10:45 am",
+          "start_time": "11:00 am",
           "end_time": "3:15 pm",
-          "time_range": "10:45 am - 3:15 pm",
-          "display": "10:45 am - 3:15 pm",
-          "display_full": "Monday, Oct 12: 10:45 am - 3:15 pm"
+          "time_range": "11:00 am - 3:15 pm",
+          "display": "11:00 am - 3:15 pm",
+          "display_full": "Monday, Oct 12: 11:00 am - 3:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 10:45 am - 3:15 pm"
+      "availability": "Monday, Oct 12 from 11:00 am - 3:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -289,11 +289,11 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "10:20 am",
+          "start_time": "10:00 am",
           "end_time": "3:35 pm",
-          "time_range": "10:20 am - 3:35 pm",
-          "display": "10:20 am - 3:35 pm",
-          "display_full": "Sunday, Oct 11: 10:20 am - 3:35 pm"
+          "time_range": "10:00 am - 3:35 pm",
+          "display": "10:00 am - 3:35 pm",
+          "display_full": "Sunday, Oct 11: 10:00 am - 3:35 pm"
         }
       ],
       "patches": [
@@ -321,11 +321,11 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "10:20 am",
+          "start_time": "10:00 am",
           "end_time": "3:35 pm",
-          "time_range": "10:20 am - 3:35 pm",
-          "display": "10:20 am - 3:35 pm",
-          "display_full": "Sunday, Oct 11: 10:20 am - 3:35 pm"
+          "time_range": "10:00 am - 3:35 pm",
+          "display": "10:00 am - 3:35 pm",
+          "display_full": "Sunday, Oct 11: 10:00 am - 3:35 pm"
         }
       ],
       "scrape_status": "ok",
@@ -792,11 +792,11 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "1:30 pm",
+          "start_time": "1:45 pm",
           "end_time": "3:15 pm",
-          "time_range": "1:30 pm - 3:15 pm",
-          "display": "1:30 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 10: 1:30 pm - 3:15 pm"
+          "time_range": "1:45 pm - 3:15 pm",
+          "display": "1:45 pm - 3:15 pm",
+          "display_full": "Saturday, Oct 10: 1:45 pm - 3:15 pm"
         }
       ],
       "patches": [
@@ -804,15 +804,15 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "1:30 pm",
+          "start_time": "1:45 pm",
           "end_time": "3:15 pm",
-          "time_range": "1:30 pm - 3:15 pm",
-          "display": "1:30 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 10: 1:30 pm - 3:15 pm"
+          "time_range": "1:45 pm - 3:15 pm",
+          "display": "1:45 pm - 3:15 pm",
+          "display_full": "Saturday, Oct 10: 1:45 pm - 3:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 10 from 1:30 pm - 3:15 pm"
+      "availability": "Saturday, Oct 10 from 1:45 pm - 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
