@@ -488,32 +488,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-      "availability_patches": [
-        {
-          "date": "2026-10-13",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 13",
-          "start_time": "12:45 pm",
-          "end_time": "12:45 pm",
-          "time_range": "12:45 pm",
-          "display": "12:45 pm",
-          "display_full": "Tuesday, Oct 13: 12:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-13",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 13",
-          "start_time": "12:45 pm",
-          "end_time": "12:45 pm",
-          "time_range": "12:45 pm",
-          "display": "12:45 pm",
-          "display_full": "Tuesday, Oct 13: 12:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 12:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Mehwish Saghir": {
       "doctor_id": 219466,
