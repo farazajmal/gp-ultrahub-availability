@@ -266,16 +266,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
       "availability_patches": [
         {
-          "date": "2026-10-09",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 09",
-          "start_time": "4:15 pm",
-          "end_time": "4:15 pm",
-          "time_range": "4:15 pm",
-          "display": "4:15 pm",
-          "display_full": "Friday, Oct 09: 4:15 pm"
-        },
-        {
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
@@ -298,16 +288,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-09",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 09",
-          "start_time": "4:15 pm",
-          "end_time": "4:15 pm",
-          "time_range": "4:15 pm",
-          "display": "4:15 pm",
-          "display_full": "Friday, Oct 09: 4:15 pm"
-        },
-        {
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
@@ -329,7 +309,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 09 from 4:15 pm"
+      "availability": "Saturday, Oct 10 from 1:45 pm - 3:45 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -792,11 +772,11 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "2:00 pm",
+          "start_time": "2:15 pm",
           "end_time": "3:15 pm",
-          "time_range": "2:00 pm - 3:15 pm",
-          "display": "2:00 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 10: 2:00 pm - 3:15 pm"
+          "time_range": "2:15 pm - 3:15 pm",
+          "display": "2:15 pm - 3:15 pm",
+          "display_full": "Saturday, Oct 10: 2:15 pm - 3:15 pm"
         }
       ],
       "patches": [
@@ -804,15 +784,15 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "2:00 pm",
+          "start_time": "2:15 pm",
           "end_time": "3:15 pm",
-          "time_range": "2:00 pm - 3:15 pm",
-          "display": "2:00 pm - 3:15 pm",
-          "display_full": "Saturday, Oct 10: 2:00 pm - 3:15 pm"
+          "time_range": "2:15 pm - 3:15 pm",
+          "display": "2:15 pm - 3:15 pm",
+          "display_full": "Saturday, Oct 10: 2:15 pm - 3:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 10 from 2:00 pm - 3:15 pm"
+      "availability": "Saturday, Oct 10 from 2:15 pm - 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
