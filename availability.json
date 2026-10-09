@@ -146,11 +146,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "1:30 pm",
-          "time_range": "11:00 am - 1:30 pm",
-          "display": "11:00 am - 1:30 pm",
-          "display_full": "Monday, Oct 12: 11:00 am - 1:30 pm"
+          "time_range": "11:15 am - 1:30 pm",
+          "display": "11:15 am - 1:30 pm",
+          "display_full": "Monday, Oct 12: 11:15 am - 1:30 pm"
         },
         {
           "date": "2026-10-13",
@@ -168,11 +168,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "1:30 pm",
-          "time_range": "11:00 am - 1:30 pm",
-          "display": "11:00 am - 1:30 pm",
-          "display_full": "Monday, Oct 12: 11:00 am - 1:30 pm"
+          "time_range": "11:15 am - 1:30 pm",
+          "display": "11:15 am - 1:30 pm",
+          "display_full": "Monday, Oct 12: 11:15 am - 1:30 pm"
         },
         {
           "date": "2026-10-13",
@@ -186,7 +186,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 11:00 am - 1:30 pm"
+      "availability": "Monday, Oct 12 from 11:15 am - 1:30 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -248,10 +248,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
           "start_time": "11:30 am",
-          "end_time": "6:30 pm",
-          "time_range": "11:30 am - 6:30 pm",
-          "display": "11:30 am - 6:30 pm",
-          "display_full": "Tuesday, Oct 13: 11:30 am - 6:30 pm"
+          "end_time": "6:15 pm",
+          "time_range": "11:30 am - 6:15 pm",
+          "display": "11:30 am - 6:15 pm",
+          "display_full": "Tuesday, Oct 13: 11:30 am - 6:15 pm"
         }
       ],
       "patches": [
@@ -270,10 +270,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
           "start_time": "11:30 am",
-          "end_time": "6:30 pm",
-          "time_range": "11:30 am - 6:30 pm",
-          "display": "11:30 am - 6:30 pm",
-          "display_full": "Tuesday, Oct 13: 11:30 am - 6:30 pm"
+          "end_time": "6:15 pm",
+          "time_range": "11:30 am - 6:15 pm",
+          "display": "11:30 am - 6:15 pm",
+          "display_full": "Tuesday, Oct 13: 11:30 am - 6:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -329,11 +329,11 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "10:00 am",
+          "start_time": "10:15 am",
           "end_time": "3:35 pm",
-          "time_range": "10:00 am - 3:35 pm",
-          "display": "10:00 am - 3:35 pm",
-          "display_full": "Sunday, Oct 11: 10:00 am - 3:35 pm"
+          "time_range": "10:15 am - 3:35 pm",
+          "display": "10:15 am - 3:35 pm",
+          "display_full": "Sunday, Oct 11: 10:15 am - 3:35 pm"
         }
       ],
       "patches": [
@@ -341,15 +341,15 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "10:00 am",
+          "start_time": "10:15 am",
           "end_time": "3:35 pm",
-          "time_range": "10:00 am - 3:35 pm",
-          "display": "10:00 am - 3:35 pm",
-          "display_full": "Sunday, Oct 11: 10:00 am - 3:35 pm"
+          "time_range": "10:15 am - 3:35 pm",
+          "display": "10:15 am - 3:35 pm",
+          "display_full": "Sunday, Oct 11: 10:15 am - 3:35 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 11 from 10:00 am - 3:35 pm"
+      "availability": "Sunday, Oct 11 from 10:15 am - 3:35 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -402,11 +402,11 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "3:45 pm",
-          "time_range": "11:30 am - 3:45 pm",
-          "display": "11:30 am - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 11:30 am - 3:45 pm"
+          "time_range": "11:45 am - 3:45 pm",
+          "display": "11:45 am - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 11:45 am - 3:45 pm"
         }
       ],
       "patches": [
@@ -414,15 +414,15 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "3:45 pm",
-          "time_range": "11:30 am - 3:45 pm",
-          "display": "11:30 am - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 11:30 am - 3:45 pm"
+          "time_range": "11:45 am - 3:45 pm",
+          "display": "11:45 am - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 11:45 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 11 from 11:30 am - 3:45 pm"
+      "availability": "Sunday, Oct 11 from 11:45 am - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -740,11 +740,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "3:15 pm",
+          "start_time": "4:45 pm",
           "end_time": "4:45 pm",
-          "time_range": "3:15 pm - 4:45 pm",
-          "display": "3:15 pm - 4:45 pm",
-          "display_full": "Monday, Oct 12: 3:15 pm - 4:45 pm"
+          "time_range": "4:45 pm",
+          "display": "4:45 pm",
+          "display_full": "Monday, Oct 12: 4:45 pm"
         },
         {
           "date": "2026-10-13",
@@ -762,11 +762,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "3:15 pm",
+          "start_time": "4:45 pm",
           "end_time": "4:45 pm",
-          "time_range": "3:15 pm - 4:45 pm",
-          "display": "3:15 pm - 4:45 pm",
-          "display_full": "Monday, Oct 12: 3:15 pm - 4:45 pm"
+          "time_range": "4:45 pm",
+          "display": "4:45 pm",
+          "display_full": "Monday, Oct 12: 4:45 pm"
         },
         {
           "date": "2026-10-13",
@@ -780,7 +780,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 3:15 pm - 4:45 pm"
+      "availability": "Monday, Oct 12 from 4:45 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -994,11 +994,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "8:45 am",
+          "start_time": "8:30 am",
           "end_time": "8:45 am",
-          "time_range": "8:45 am",
-          "display": "8:45 am",
-          "display_full": "Monday, Oct 12: 8:45 am"
+          "time_range": "8:30 am - 8:45 am",
+          "display": "8:30 am - 8:45 am",
+          "display_full": "Monday, Oct 12: 8:30 am - 8:45 am"
         }
       ],
       "patches": [
@@ -1006,15 +1006,15 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "8:45 am",
+          "start_time": "8:30 am",
           "end_time": "8:45 am",
-          "time_range": "8:45 am",
-          "display": "8:45 am",
-          "display_full": "Monday, Oct 12: 8:45 am"
+          "time_range": "8:30 am - 8:45 am",
+          "display": "8:30 am - 8:45 am",
+          "display_full": "Monday, Oct 12: 8:30 am - 8:45 am"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:45 am"
+      "availability": "Monday, Oct 12 from 8:30 am - 8:45 am"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
