@@ -174,10 +174,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
-        "MCPS",
         "MRCGP",
-        "MBBS"
+        "MCPS (Family Medicine)",
+        "MBBS",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -285,10 +285,10 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "General Practitioner",
+        "MBBS",
         "MRCGP",
         "MCPS",
-        "MBBS",
+        "General Practitioner",
         "DFM"
       ],
       "areas_of_interest": [
@@ -1410,9 +1410,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
         "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
