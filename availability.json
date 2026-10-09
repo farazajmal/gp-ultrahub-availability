@@ -376,6 +376,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
       "availability_patches": [
         {
+          "date": "2026-10-10",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Oct 10",
+          "start_time": "2:15 pm",
+          "end_time": "2:15 pm",
+          "time_range": "2:15 pm",
+          "display": "2:15 pm",
+          "display_full": "Saturday, Oct 10: 2:15 pm"
+        },
+        {
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
@@ -388,6 +398,16 @@
       ],
       "patches": [
         {
+          "date": "2026-10-10",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Oct 10",
+          "start_time": "2:15 pm",
+          "end_time": "2:15 pm",
+          "time_range": "2:15 pm",
+          "display": "2:15 pm",
+          "display_full": "Saturday, Oct 10: 2:15 pm"
+        },
+        {
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
@@ -399,7 +419,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 11 from 12:20 pm - 3:45 pm"
+      "availability": "Saturday, Oct 10 from 2:15 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
