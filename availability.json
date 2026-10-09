@@ -329,11 +329,11 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "3:35 pm",
-          "time_range": "11:15 am - 3:35 pm",
-          "display": "11:15 am - 3:35 pm",
-          "display_full": "Sunday, Oct 11: 11:15 am - 3:35 pm"
+          "time_range": "11:30 am - 3:35 pm",
+          "display": "11:30 am - 3:35 pm",
+          "display_full": "Sunday, Oct 11: 11:30 am - 3:35 pm"
         }
       ],
       "patches": [
@@ -341,15 +341,15 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "3:35 pm",
-          "time_range": "11:15 am - 3:35 pm",
-          "display": "11:15 am - 3:35 pm",
-          "display_full": "Sunday, Oct 11: 11:15 am - 3:35 pm"
+          "time_range": "11:30 am - 3:35 pm",
+          "display": "11:30 am - 3:35 pm",
+          "display_full": "Sunday, Oct 11: 11:30 am - 3:35 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 11 from 11:15 am - 3:35 pm"
+      "availability": "Sunday, Oct 11 from 11:30 am - 3:35 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -402,11 +402,11 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 11:45 am - 3:45 pm"
+          "time_range": "12:00 pm - 3:45 pm",
+          "display": "12:00 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 12:00 pm - 3:45 pm"
         }
       ],
       "patches": [
@@ -414,15 +414,15 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 11:45 am - 3:45 pm"
+          "time_range": "12:00 pm - 3:45 pm",
+          "display": "12:00 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 12:00 pm - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 11 from 11:45 am - 3:45 pm"
+      "availability": "Sunday, Oct 11 from 12:00 pm - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -740,11 +740,11 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "5:15 pm",
-          "time_range": "10:45 am - 5:15 pm",
-          "display": "10:45 am - 5:15 pm",
-          "display_full": "Tuesday, Oct 13: 10:45 am - 5:15 pm"
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Tuesday, Oct 13: 11:15 am - 5:15 pm"
         }
       ],
       "patches": [
@@ -752,15 +752,15 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "5:15 pm",
-          "time_range": "10:45 am - 5:15 pm",
-          "display": "10:45 am - 5:15 pm",
-          "display_full": "Tuesday, Oct 13: 10:45 am - 5:15 pm"
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Tuesday, Oct 13: 11:15 am - 5:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 10:45 am - 5:15 pm"
+      "availability": "Tuesday, Oct 13 from 11:15 am - 5:15 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
