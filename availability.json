@@ -57,9 +57,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MRCGP",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -174,10 +174,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MCPS (Family Medicine)",
+        "MCPS",
         "MBBS",
-        "MCPS"
+        "MRCGP",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -286,10 +286,10 @@
       "gender": "Male",
       "qualifications": [
         "MBBS",
-        "MRCGP",
-        "MCPS",
         "General Practitioner",
-        "DFM"
+        "MCPS",
+        "DFM",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -610,9 +610,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MRCGP",
-        "MCPS (Family Medicine)",
-        "MBBS"
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1010,8 +1010,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1233,11 +1233,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "3:30 pm",
+          "start_time": "4:00 pm",
           "end_time": "4:15 pm",
-          "time_range": "3:30 pm - 4:15 pm",
-          "display": "3:30 pm - 4:15 pm",
-          "display_full": "Monday, Oct 12: 3:30 pm - 4:15 pm"
+          "time_range": "4:00 pm - 4:15 pm",
+          "display": "4:00 pm - 4:15 pm",
+          "display_full": "Monday, Oct 12: 4:00 pm - 4:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -1265,11 +1265,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "3:30 pm",
+          "start_time": "4:00 pm",
           "end_time": "4:15 pm",
-          "time_range": "3:30 pm - 4:15 pm",
-          "display": "3:30 pm - 4:15 pm",
-          "display_full": "Monday, Oct 12: 3:30 pm - 4:15 pm"
+          "time_range": "4:00 pm - 4:15 pm",
+          "display": "4:00 pm - 4:15 pm",
+          "display_full": "Monday, Oct 12: 4:00 pm - 4:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -1293,7 +1293,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 3:30 pm - 4:15 pm"
+      "availability": "Monday, Oct 12 from 4:00 pm - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1410,9 +1410,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
+        "MRCPG",
         "MBBS",
-        "MRCPG"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
