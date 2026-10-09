@@ -1,8 +1,54 @@
 {
-    "last_updated": "2026-10-08 08:54:02 PM",
+    "last_updated": "2026-10-09 07:00:47 AM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
+            {
+                "doctor_id": 216798,
+                "doctor": "Dr. Aisha Asghar",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Female",
+                "qualifications": [
+                    "MBBS",
+                    "FRACGP"
+                ],
+                "areas_of_interest": [
+                    "Skin cancer checks & procedures.",
+                    "Chronic disease management.",
+                    "Veteran patients (DVA)",
+                    "Geriatric",
+                    "Women & Child health.",
+                    "Child Immunization"
+                ],
+                "bio": "Dr. Aisha Asgharis a committed General Practitioner with 19 years of experience providing exemplary healthcare. She joined GP Ultra Hub in 2024 where she continues to excel in delivering comprehensive care tailored to each patient’s unique needs. Dr Aisha specializes in general practice, Skin cancer, women’s and child health, geriatric patients. Area of experties: Gladstone",
+                "clinic": "Gladstone",
+                "clinic_id": "15111",
+                "clinic_slug": "gp-ultra-hub-gladstone",
+                "doctor_slug": "dr-aisha-asghar-3",
+                "availability_type_ids": [
+                    "1199460",
+                    "1199461",
+                    "1527452",
+                    "1199463",
+                    "1591610",
+                    "1199461",
+                    "1199460",
+                    "1199461",
+                    "1199460",
+                    "1199460",
+                    "1634280",
+                    "1634280",
+                    "1527450",
+                    "1527453",
+                    "1527455",
+                    "1199461",
+                    "1591605",
+                    "1527451"
+                ],
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-aisha-asghar-3",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-aisha-asghar-3"
+            },
             {
                 "doctor_id": 254365,
                 "doctor": "Dr. Elsadig Hassan",
@@ -10,9 +56,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "Dip Occ Med (RCPI)",
                     "MRCGP",
-                    "MBBS",
-                    "Dip Occ Med (RCPI)"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -57,10 +103,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
-                    "MBBS",
+                    "MCPS (Family Medicine)",
                     "MCPS",
-                    "MCPS (Family Medicine)"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -102,11 +148,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MRCGP",
                     "General Practitioner",
-                    "DFM",
+                    "MRCGP",
+                    "MCPS",
                     "MBBS",
-                    "MCPS"
+                    "DFM"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -286,8 +332,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MRCGP",
-                    "MBBS",
-                    "MCPS (Family Medicine)"
+                    "MCPS (Family Medicine)",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -743,8 +789,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MRCPG",
+                    "MRCGP",
                     "MBBS"
                 ],
                 "areas_of_interest": [
