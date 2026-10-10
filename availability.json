@@ -887,6 +887,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "4:00 pm",
+          "end_time": "4:00 pm",
+          "time_range": "4:00 pm",
+          "display": "4:00 pm",
+          "display_full": "Monday, Oct 12: 4:00 pm"
+        },
+        {
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
@@ -899,6 +909,16 @@
       ],
       "patches": [
         {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "4:00 pm",
+          "end_time": "4:00 pm",
+          "time_range": "4:00 pm",
+          "display": "4:00 pm",
+          "display_full": "Monday, Oct 12: 4:00 pm"
+        },
+        {
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
@@ -910,7 +930,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 11:15 am - 5:15 pm"
+      "availability": "Monday, Oct 12 from 4:00 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
