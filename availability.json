@@ -436,16 +436,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
       "availability_patches": [
         {
-          "date": "2026-10-10",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 10",
-          "start_time": "3:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Saturday, Oct 10: 3:45 pm"
-        },
-        {
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
@@ -458,16 +448,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-10",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 10",
-          "start_time": "3:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Saturday, Oct 10: 3:45 pm"
-        },
-        {
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
@@ -479,7 +459,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 10 from 3:45 pm"
+      "availability": "Sunday, Oct 11 from 2:05 pm - 3:45 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -760,11 +740,11 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "7:15 am",
+          "start_time": "7:30 am",
           "end_time": "1:45 pm",
-          "time_range": "7:15 am - 1:45 pm",
-          "display": "7:15 am - 1:45 pm",
-          "display_full": "Tuesday, Oct 13: 7:15 am - 1:45 pm"
+          "time_range": "7:30 am - 1:45 pm",
+          "display": "7:30 am - 1:45 pm",
+          "display_full": "Tuesday, Oct 13: 7:30 am - 1:45 pm"
         },
         {
           "date": "2026-10-14",
@@ -782,11 +762,11 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "7:15 am",
+          "start_time": "7:30 am",
           "end_time": "1:45 pm",
-          "time_range": "7:15 am - 1:45 pm",
-          "display": "7:15 am - 1:45 pm",
-          "display_full": "Tuesday, Oct 13: 7:15 am - 1:45 pm"
+          "time_range": "7:30 am - 1:45 pm",
+          "display": "7:30 am - 1:45 pm",
+          "display_full": "Tuesday, Oct 13: 7:30 am - 1:45 pm"
         },
         {
           "date": "2026-10-14",
@@ -800,7 +780,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 7:15 am - 1:45 pm"
+      "availability": "Tuesday, Oct 13 from 7:30 am - 1:45 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -890,11 +870,11 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "5:15 pm",
-          "time_range": "11:30 am - 5:15 pm",
-          "display": "11:30 am - 5:15 pm",
-          "display_full": "Tuesday, Oct 13: 11:30 am - 5:15 pm"
+          "time_range": "11:45 am - 5:15 pm",
+          "display": "11:45 am - 5:15 pm",
+          "display_full": "Tuesday, Oct 13: 11:45 am - 5:15 pm"
         }
       ],
       "patches": [
@@ -902,15 +882,15 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "5:15 pm",
-          "time_range": "11:30 am - 5:15 pm",
-          "display": "11:30 am - 5:15 pm",
-          "display_full": "Tuesday, Oct 13: 11:30 am - 5:15 pm"
+          "time_range": "11:45 am - 5:15 pm",
+          "display": "11:45 am - 5:15 pm",
+          "display_full": "Tuesday, Oct 13: 11:45 am - 5:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 11:30 am - 5:15 pm"
+      "availability": "Tuesday, Oct 13 from 11:45 am - 5:15 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -957,10 +937,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-10-10",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Oct 10",
+          "start_time": "3:15 pm",
+          "end_time": "3:15 pm",
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Saturday, Oct 10: 3:15 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-10-10",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Oct 10",
+          "start_time": "3:15 pm",
+          "end_time": "3:15 pm",
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Saturday, Oct 10: 3:15 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Saturday, Oct 10 from 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
