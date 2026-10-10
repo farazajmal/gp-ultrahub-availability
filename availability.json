@@ -439,21 +439,21 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Saturday, Oct 10: 1:45 pm"
+          "start_time": "3:45 pm",
+          "end_time": "3:45 pm",
+          "time_range": "3:45 pm",
+          "display": "3:45 pm",
+          "display_full": "Saturday, Oct 10: 3:45 pm"
         },
         {
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "12:30 pm",
+          "start_time": "2:05 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 12:30 pm - 3:45 pm"
+          "time_range": "2:05 pm - 3:45 pm",
+          "display": "2:05 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 2:05 pm - 3:45 pm"
         }
       ],
       "patches": [
@@ -461,25 +461,25 @@
           "date": "2026-10-10",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 10",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Saturday, Oct 10: 1:45 pm"
+          "start_time": "3:45 pm",
+          "end_time": "3:45 pm",
+          "time_range": "3:45 pm",
+          "display": "3:45 pm",
+          "display_full": "Saturday, Oct 10: 3:45 pm"
         },
         {
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "12:30 pm",
+          "start_time": "2:05 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 12:30 pm - 3:45 pm"
+          "time_range": "2:05 pm - 3:45 pm",
+          "display": "2:05 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 2:05 pm - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 10 from 1:45 pm"
+      "availability": "Saturday, Oct 10 from 3:45 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -532,11 +532,11 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 12:30 pm - 3:45 pm"
+          "time_range": "12:45 pm - 3:45 pm",
+          "display": "12:45 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 12:45 pm - 3:45 pm"
         }
       ],
       "patches": [
@@ -544,15 +544,15 @@
           "date": "2026-10-11",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 11",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 11: 12:30 pm - 3:45 pm"
+          "time_range": "12:45 pm - 3:45 pm",
+          "display": "12:45 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 11: 12:45 pm - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 11 from 12:30 pm - 3:45 pm"
+      "availability": "Sunday, Oct 11 from 12:45 pm - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -771,10 +771,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
           "start_time": "7:15 am",
-          "end_time": "1:45 pm",
-          "time_range": "7:15 am - 1:45 pm",
-          "display": "7:15 am - 1:45 pm",
-          "display_full": "Wednesday, Oct 14: 7:15 am - 1:45 pm"
+          "end_time": "2:15 pm",
+          "time_range": "7:15 am - 2:15 pm",
+          "display": "7:15 am - 2:15 pm",
+          "display_full": "Wednesday, Oct 14: 7:15 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -793,10 +793,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
           "start_time": "7:15 am",
-          "end_time": "1:45 pm",
-          "time_range": "7:15 am - 1:45 pm",
-          "display": "7:15 am - 1:45 pm",
-          "display_full": "Wednesday, Oct 14: 7:15 am - 1:45 pm"
+          "end_time": "2:15 pm",
+          "time_range": "7:15 am - 2:15 pm",
+          "display": "7:15 am - 2:15 pm",
+          "display_full": "Wednesday, Oct 14: 7:15 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -890,11 +890,11 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "5:15 pm",
-          "time_range": "11:15 am - 5:15 pm",
-          "display": "11:15 am - 5:15 pm",
-          "display_full": "Tuesday, Oct 13: 11:15 am - 5:15 pm"
+          "time_range": "11:30 am - 5:15 pm",
+          "display": "11:30 am - 5:15 pm",
+          "display_full": "Tuesday, Oct 13: 11:30 am - 5:15 pm"
         }
       ],
       "patches": [
@@ -902,15 +902,15 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "5:15 pm",
-          "time_range": "11:15 am - 5:15 pm",
-          "display": "11:15 am - 5:15 pm",
-          "display_full": "Tuesday, Oct 13: 11:15 am - 5:15 pm"
+          "time_range": "11:30 am - 5:15 pm",
+          "display": "11:30 am - 5:15 pm",
+          "display_full": "Tuesday, Oct 13: 11:30 am - 5:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 11:15 am - 5:15 pm"
+      "availability": "Tuesday, Oct 13 from 11:30 am - 5:15 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1433,10 +1433,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:40 am - 3:40 pm",
-          "display": "8:40 am - 3:40 pm",
-          "display_full": "Monday, Oct 12: 8:40 am - 3:40 pm"
+          "end_time": "3:00 pm",
+          "time_range": "8:40 am - 3:00 pm",
+          "display": "8:40 am - 3:00 pm",
+          "display_full": "Monday, Oct 12: 8:40 am - 3:00 pm"
         },
         {
           "date": "2026-10-13",
@@ -1465,10 +1465,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:40 am - 3:40 pm",
-          "display": "8:40 am - 3:40 pm",
-          "display_full": "Monday, Oct 12: 8:40 am - 3:40 pm"
+          "end_time": "3:00 pm",
+          "time_range": "8:40 am - 3:00 pm",
+          "display": "8:40 am - 3:00 pm",
+          "display_full": "Monday, Oct 12: 8:40 am - 3:00 pm"
         },
         {
           "date": "2026-10-13",
@@ -1492,7 +1492,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:40 am - 3:40 pm"
+      "availability": "Monday, Oct 12 from 8:40 am - 3:00 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
