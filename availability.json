@@ -347,11 +347,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "6:30 pm",
-          "time_range": "12:30 pm - 6:30 pm",
-          "display": "12:30 pm - 6:30 pm",
-          "display_full": "Monday, Oct 12: 12:30 pm - 6:30 pm"
+          "time_range": "12:45 pm - 6:30 pm",
+          "display": "12:45 pm - 6:30 pm",
+          "display_full": "Monday, Oct 12: 12:45 pm - 6:30 pm"
         },
         {
           "date": "2026-10-13",
@@ -379,11 +379,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "6:30 pm",
-          "time_range": "12:30 pm - 6:30 pm",
-          "display": "12:30 pm - 6:30 pm",
-          "display_full": "Monday, Oct 12: 12:30 pm - 6:30 pm"
+          "time_range": "12:45 pm - 6:30 pm",
+          "display": "12:45 pm - 6:30 pm",
+          "display_full": "Monday, Oct 12: 12:45 pm - 6:30 pm"
         },
         {
           "date": "2026-10-13",
@@ -407,7 +407,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 12:30 pm - 6:30 pm"
+      "availability": "Monday, Oct 12 from 12:45 pm - 6:30 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -970,6 +970,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "12:15 pm",
+          "end_time": "12:15 pm",
+          "time_range": "12:15 pm",
+          "display": "12:15 pm",
+          "display_full": "Monday, Oct 12: 12:15 pm"
+        },
+        {
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
@@ -992,6 +1002,16 @@
       ],
       "patches": [
         {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "12:15 pm",
+          "end_time": "12:15 pm",
+          "time_range": "12:15 pm",
+          "display": "12:15 pm",
+          "display_full": "Monday, Oct 12: 12:15 pm"
+        },
+        {
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
@@ -1013,7 +1033,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 14 from 10:45 am - 5:15 pm"
+      "availability": "Monday, Oct 12 from 12:15 pm"
     }
   },
   "Burnett Heads": {
@@ -1553,11 +1573,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Monday, Oct 12: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Monday, Oct 12: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-13",
@@ -1595,11 +1615,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Monday, Oct 12: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Monday, Oct 12: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-13",
@@ -1633,7 +1653,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:00 am - 4:00 pm"
+      "availability": "Monday, Oct 12 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
