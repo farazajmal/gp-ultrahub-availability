@@ -367,11 +367,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:45 pm",
+          "start_time": "12:30 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:45 pm - 5:15 pm",
-          "display": "12:45 pm - 5:15 pm",
-          "display_full": "Monday, Oct 12: 12:45 pm - 5:15 pm"
+          "time_range": "12:30 pm - 5:15 pm",
+          "display": "12:30 pm - 5:15 pm",
+          "display_full": "Monday, Oct 12: 12:30 pm - 5:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -409,11 +409,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:45 pm",
+          "start_time": "12:30 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:45 pm - 5:15 pm",
-          "display": "12:45 pm - 5:15 pm",
-          "display_full": "Monday, Oct 12: 12:45 pm - 5:15 pm"
+          "time_range": "12:30 pm - 5:15 pm",
+          "display": "12:30 pm - 5:15 pm",
+          "display_full": "Monday, Oct 12: 12:30 pm - 5:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -447,7 +447,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 12:45 pm - 5:15 pm"
+      "availability": "Monday, Oct 12 from 12:30 pm - 5:15 pm"
     },
     "Dr Mohammad Umair Siddiqui": {
       "doctor_id": 194201,
@@ -569,11 +569,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:45 pm",
+          "start_time": "12:30 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:45 pm - 5:15 pm",
-          "display": "12:45 pm - 5:15 pm",
-          "display_full": "Monday, Oct 12: 12:45 pm - 5:15 pm"
+          "time_range": "12:30 pm - 5:15 pm",
+          "display": "12:30 pm - 5:15 pm",
+          "display_full": "Monday, Oct 12: 12:30 pm - 5:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -721,11 +721,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:45 pm",
+          "start_time": "12:30 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:45 pm - 5:15 pm",
-          "display": "12:45 pm - 5:15 pm",
-          "display_full": "Monday, Oct 12: 12:45 pm - 5:15 pm"
+          "time_range": "12:30 pm - 5:15 pm",
+          "display": "12:30 pm - 5:15 pm",
+          "display_full": "Monday, Oct 12: 12:30 pm - 5:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -922,11 +922,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:45 pm",
+          "start_time": "12:30 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:45 pm - 5:15 pm",
-          "display": "12:45 pm - 5:15 pm",
-          "display_full": "Monday, Oct 12: 12:45 pm - 5:15 pm"
+          "time_range": "12:30 pm - 5:15 pm",
+          "display": "12:30 pm - 5:15 pm",
+          "display_full": "Monday, Oct 12: 12:30 pm - 5:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -1074,11 +1074,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:45 pm",
+          "start_time": "12:30 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:45 pm - 5:15 pm",
-          "display": "12:45 pm - 5:15 pm",
-          "display_full": "Monday, Oct 12: 12:45 pm - 5:15 pm"
+          "time_range": "12:30 pm - 5:15 pm",
+          "display": "12:30 pm - 5:15 pm",
+          "display_full": "Monday, Oct 12: 12:30 pm - 5:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -1696,16 +1696,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "12:15 pm",
-          "end_time": "12:15 pm",
-          "time_range": "12:15 pm",
-          "display": "12:15 pm",
-          "display_full": "Monday, Oct 12: 12:15 pm"
-        },
-        {
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
@@ -1738,16 +1728,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "12:15 pm",
-          "end_time": "12:15 pm",
-          "time_range": "12:15 pm",
-          "display": "12:15 pm",
-          "display_full": "Monday, Oct 12: 12:15 pm"
-        },
-        {
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
@@ -1779,7 +1759,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 12:15 pm"
+      "availability": "Wednesday, Oct 14 from 10:45 am - 5:15 pm"
     }
   },
   "Burnett Heads": {
@@ -2376,16 +2356,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
       "availability_patches": [
         {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Monday, Oct 12: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
@@ -2428,16 +2398,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Monday, Oct 12: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
@@ -2479,7 +2439,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 3:10 pm - 4:00 pm"
+      "availability": "Tuesday, Oct 13 from 8:00 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
