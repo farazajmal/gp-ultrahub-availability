@@ -514,10 +514,332 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mohammad-umair-siddiqui-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "12:45 pm",
+          "end_time": "12:45 pm",
+          "time_range": "12:45 pm",
+          "display": "12:45 pm",
+          "display_full": "Friday, Oct 16: 12:45 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "7:00 am",
+          "end_time": "2:15 pm",
+          "time_range": "7:00 am - 2:15 pm",
+          "display": "7:00 am - 2:15 pm",
+          "display_full": "Wednesday, Oct 14: 7:00 am - 2:15 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "7:30 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:30 am - 2:45 pm",
+          "display": "7:30 am - 2:45 pm",
+          "display_full": "Friday, Oct 16: 7:30 am - 2:45 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "1:45 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Monday, Oct 12: 1:45 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "8:45 am",
+          "end_time": "2:15 pm",
+          "time_range": "8:45 am - 2:15 pm",
+          "display": "8:45 am - 2:15 pm",
+          "display_full": "Tuesday, Oct 13: 8:45 am - 2:15 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "10:45 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Wednesday, Oct 14: 10:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-10-15",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 15",
+          "start_time": "12:15 pm",
+          "end_time": "6:45 pm",
+          "time_range": "12:15 pm - 6:45 pm",
+          "display": "12:15 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 15: 12:15 pm - 6:45 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "8:45 am",
+          "end_time": "4:15 pm",
+          "time_range": "8:45 am - 4:15 pm",
+          "display": "8:45 am - 4:15 pm",
+          "display_full": "Friday, Oct 16: 8:45 am - 4:15 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "12:45 pm",
+          "end_time": "5:30 pm",
+          "time_range": "12:45 pm - 5:30 pm",
+          "display": "12:45 pm - 5:30 pm",
+          "display_full": "Monday, Oct 12: 12:45 pm - 5:30 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "11:30 am",
+          "end_time": "6:30 pm",
+          "time_range": "11:30 am - 6:30 pm",
+          "display": "11:30 am - 6:30 pm",
+          "display_full": "Tuesday, Oct 13: 11:30 am - 6:30 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "11:30 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:30 am - 6:45 pm",
+          "display": "11:30 am - 6:45 pm",
+          "display_full": "Wednesday, Oct 14: 11:30 am - 6:45 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "11:00 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:00 am - 6:45 pm",
+          "display": "11:00 am - 6:45 pm",
+          "display_full": "Friday, Oct 16: 11:00 am - 6:45 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "5:45 pm",
+          "end_time": "6:15 pm",
+          "time_range": "5:45 pm - 6:15 pm",
+          "display": "5:45 pm - 6:15 pm",
+          "display_full": "Monday, Oct 12: 5:45 pm - 6:15 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "7:00 am",
+          "end_time": "2:00 pm",
+          "time_range": "7:00 am - 2:00 pm",
+          "display": "7:00 am - 2:00 pm",
+          "display_full": "Tuesday, Oct 13: 7:00 am - 2:00 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "7:00 am",
+          "end_time": "2:30 pm",
+          "time_range": "7:00 am - 2:30 pm",
+          "display": "7:00 am - 2:30 pm",
+          "display_full": "Wednesday, Oct 14: 7:00 am - 2:30 pm"
+        },
+        {
+          "date": "2026-10-15",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 15",
+          "start_time": "8:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "8:30 am - 3:45 pm",
+          "display": "8:30 am - 3:45 pm",
+          "display_full": "Thursday, Oct 15: 8:30 am - 3:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "12:45 pm",
+          "end_time": "12:45 pm",
+          "time_range": "12:45 pm",
+          "display": "12:45 pm",
+          "display_full": "Friday, Oct 16: 12:45 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "7:00 am",
+          "end_time": "2:15 pm",
+          "time_range": "7:00 am - 2:15 pm",
+          "display": "7:00 am - 2:15 pm",
+          "display_full": "Wednesday, Oct 14: 7:00 am - 2:15 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "7:30 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:30 am - 2:45 pm",
+          "display": "7:30 am - 2:45 pm",
+          "display_full": "Friday, Oct 16: 7:30 am - 2:45 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "1:45 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Monday, Oct 12: 1:45 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "8:45 am",
+          "end_time": "2:15 pm",
+          "time_range": "8:45 am - 2:15 pm",
+          "display": "8:45 am - 2:15 pm",
+          "display_full": "Tuesday, Oct 13: 8:45 am - 2:15 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "10:45 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Wednesday, Oct 14: 10:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-10-15",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 15",
+          "start_time": "12:15 pm",
+          "end_time": "6:45 pm",
+          "time_range": "12:15 pm - 6:45 pm",
+          "display": "12:15 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 15: 12:15 pm - 6:45 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "8:45 am",
+          "end_time": "4:15 pm",
+          "time_range": "8:45 am - 4:15 pm",
+          "display": "8:45 am - 4:15 pm",
+          "display_full": "Friday, Oct 16: 8:45 am - 4:15 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "12:45 pm",
+          "end_time": "5:30 pm",
+          "time_range": "12:45 pm - 5:30 pm",
+          "display": "12:45 pm - 5:30 pm",
+          "display_full": "Monday, Oct 12: 12:45 pm - 5:30 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "11:30 am",
+          "end_time": "6:30 pm",
+          "time_range": "11:30 am - 6:30 pm",
+          "display": "11:30 am - 6:30 pm",
+          "display_full": "Tuesday, Oct 13: 11:30 am - 6:30 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "11:30 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:30 am - 6:45 pm",
+          "display": "11:30 am - 6:45 pm",
+          "display_full": "Wednesday, Oct 14: 11:30 am - 6:45 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "11:00 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:00 am - 6:45 pm",
+          "display": "11:00 am - 6:45 pm",
+          "display_full": "Friday, Oct 16: 11:00 am - 6:45 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "5:45 pm",
+          "end_time": "6:15 pm",
+          "time_range": "5:45 pm - 6:15 pm",
+          "display": "5:45 pm - 6:15 pm",
+          "display_full": "Monday, Oct 12: 5:45 pm - 6:15 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "7:00 am",
+          "end_time": "2:00 pm",
+          "time_range": "7:00 am - 2:00 pm",
+          "display": "7:00 am - 2:00 pm",
+          "display_full": "Tuesday, Oct 13: 7:00 am - 2:00 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "7:00 am",
+          "end_time": "2:30 pm",
+          "time_range": "7:00 am - 2:30 pm",
+          "display": "7:00 am - 2:30 pm",
+          "display_full": "Wednesday, Oct 14: 7:00 am - 2:30 pm"
+        },
+        {
+          "date": "2026-10-15",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 15",
+          "start_time": "8:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "8:30 am - 3:45 pm",
+          "display": "8:30 am - 3:45 pm",
+          "display_full": "Thursday, Oct 15: 8:30 am - 3:45 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Friday, Oct 16 from 12:45 pm and 7:30 am - 2:45 pm and 8:45 am - 4:15 pm and 11:00 am - 6:45 pm"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -565,10 +887,332 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "12:45 pm",
+          "end_time": "12:45 pm",
+          "time_range": "12:45 pm",
+          "display": "12:45 pm",
+          "display_full": "Friday, Oct 16: 12:45 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "7:00 am",
+          "end_time": "2:15 pm",
+          "time_range": "7:00 am - 2:15 pm",
+          "display": "7:00 am - 2:15 pm",
+          "display_full": "Wednesday, Oct 14: 7:00 am - 2:15 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "7:30 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:30 am - 2:45 pm",
+          "display": "7:30 am - 2:45 pm",
+          "display_full": "Friday, Oct 16: 7:30 am - 2:45 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "1:45 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Monday, Oct 12: 1:45 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "8:45 am",
+          "end_time": "2:15 pm",
+          "time_range": "8:45 am - 2:15 pm",
+          "display": "8:45 am - 2:15 pm",
+          "display_full": "Tuesday, Oct 13: 8:45 am - 2:15 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "10:45 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Wednesday, Oct 14: 10:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-10-15",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 15",
+          "start_time": "12:15 pm",
+          "end_time": "6:45 pm",
+          "time_range": "12:15 pm - 6:45 pm",
+          "display": "12:15 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 15: 12:15 pm - 6:45 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "8:45 am",
+          "end_time": "4:15 pm",
+          "time_range": "8:45 am - 4:15 pm",
+          "display": "8:45 am - 4:15 pm",
+          "display_full": "Friday, Oct 16: 8:45 am - 4:15 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "12:45 pm",
+          "end_time": "5:30 pm",
+          "time_range": "12:45 pm - 5:30 pm",
+          "display": "12:45 pm - 5:30 pm",
+          "display_full": "Monday, Oct 12: 12:45 pm - 5:30 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "11:30 am",
+          "end_time": "6:30 pm",
+          "time_range": "11:30 am - 6:30 pm",
+          "display": "11:30 am - 6:30 pm",
+          "display_full": "Tuesday, Oct 13: 11:30 am - 6:30 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "11:30 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:30 am - 6:45 pm",
+          "display": "11:30 am - 6:45 pm",
+          "display_full": "Wednesday, Oct 14: 11:30 am - 6:45 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "11:00 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:00 am - 6:45 pm",
+          "display": "11:00 am - 6:45 pm",
+          "display_full": "Friday, Oct 16: 11:00 am - 6:45 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "5:45 pm",
+          "end_time": "6:15 pm",
+          "time_range": "5:45 pm - 6:15 pm",
+          "display": "5:45 pm - 6:15 pm",
+          "display_full": "Monday, Oct 12: 5:45 pm - 6:15 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "7:00 am",
+          "end_time": "2:00 pm",
+          "time_range": "7:00 am - 2:00 pm",
+          "display": "7:00 am - 2:00 pm",
+          "display_full": "Tuesday, Oct 13: 7:00 am - 2:00 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "7:00 am",
+          "end_time": "2:30 pm",
+          "time_range": "7:00 am - 2:30 pm",
+          "display": "7:00 am - 2:30 pm",
+          "display_full": "Wednesday, Oct 14: 7:00 am - 2:30 pm"
+        },
+        {
+          "date": "2026-10-15",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 15",
+          "start_time": "8:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "8:30 am - 3:45 pm",
+          "display": "8:30 am - 3:45 pm",
+          "display_full": "Thursday, Oct 15: 8:30 am - 3:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "12:45 pm",
+          "end_time": "12:45 pm",
+          "time_range": "12:45 pm",
+          "display": "12:45 pm",
+          "display_full": "Friday, Oct 16: 12:45 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "7:00 am",
+          "end_time": "2:15 pm",
+          "time_range": "7:00 am - 2:15 pm",
+          "display": "7:00 am - 2:15 pm",
+          "display_full": "Wednesday, Oct 14: 7:00 am - 2:15 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "7:30 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:30 am - 2:45 pm",
+          "display": "7:30 am - 2:45 pm",
+          "display_full": "Friday, Oct 16: 7:30 am - 2:45 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "1:45 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Monday, Oct 12: 1:45 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "8:45 am",
+          "end_time": "2:15 pm",
+          "time_range": "8:45 am - 2:15 pm",
+          "display": "8:45 am - 2:15 pm",
+          "display_full": "Tuesday, Oct 13: 8:45 am - 2:15 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "10:45 am",
+          "end_time": "3:45 pm",
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Wednesday, Oct 14: 10:45 am - 3:45 pm"
+        },
+        {
+          "date": "2026-10-15",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 15",
+          "start_time": "12:15 pm",
+          "end_time": "6:45 pm",
+          "time_range": "12:15 pm - 6:45 pm",
+          "display": "12:15 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 15: 12:15 pm - 6:45 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "8:45 am",
+          "end_time": "4:15 pm",
+          "time_range": "8:45 am - 4:15 pm",
+          "display": "8:45 am - 4:15 pm",
+          "display_full": "Friday, Oct 16: 8:45 am - 4:15 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "12:45 pm",
+          "end_time": "5:30 pm",
+          "time_range": "12:45 pm - 5:30 pm",
+          "display": "12:45 pm - 5:30 pm",
+          "display_full": "Monday, Oct 12: 12:45 pm - 5:30 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "11:30 am",
+          "end_time": "6:30 pm",
+          "time_range": "11:30 am - 6:30 pm",
+          "display": "11:30 am - 6:30 pm",
+          "display_full": "Tuesday, Oct 13: 11:30 am - 6:30 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "11:30 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:30 am - 6:45 pm",
+          "display": "11:30 am - 6:45 pm",
+          "display_full": "Wednesday, Oct 14: 11:30 am - 6:45 pm"
+        },
+        {
+          "date": "2026-10-16",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 16",
+          "start_time": "11:00 am",
+          "end_time": "6:45 pm",
+          "time_range": "11:00 am - 6:45 pm",
+          "display": "11:00 am - 6:45 pm",
+          "display_full": "Friday, Oct 16: 11:00 am - 6:45 pm"
+        },
+        {
+          "date": "2026-10-12",
+          "day_name": "Monday",
+          "date_label": "Monday, Oct 12",
+          "start_time": "5:45 pm",
+          "end_time": "6:15 pm",
+          "time_range": "5:45 pm - 6:15 pm",
+          "display": "5:45 pm - 6:15 pm",
+          "display_full": "Monday, Oct 12: 5:45 pm - 6:15 pm"
+        },
+        {
+          "date": "2026-10-13",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Oct 13",
+          "start_time": "7:00 am",
+          "end_time": "2:00 pm",
+          "time_range": "7:00 am - 2:00 pm",
+          "display": "7:00 am - 2:00 pm",
+          "display_full": "Tuesday, Oct 13: 7:00 am - 2:00 pm"
+        },
+        {
+          "date": "2026-10-14",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 14",
+          "start_time": "7:00 am",
+          "end_time": "2:30 pm",
+          "time_range": "7:00 am - 2:30 pm",
+          "display": "7:00 am - 2:30 pm",
+          "display_full": "Wednesday, Oct 14: 7:00 am - 2:30 pm"
+        },
+        {
+          "date": "2026-10-15",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 15",
+          "start_time": "8:30 am",
+          "end_time": "3:45 pm",
+          "time_range": "8:30 am - 3:45 pm",
+          "display": "8:30 am - 3:45 pm",
+          "display_full": "Thursday, Oct 15: 8:30 am - 3:45 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Friday, Oct 16 from 12:45 pm and 7:30 am - 2:45 pm and 8:45 am - 4:15 pm and 11:00 am - 6:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -1795,11 +2439,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:10 pm",
+          "start_time": "1:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "12:10 pm - 4:00 pm",
-          "display": "12:10 pm - 4:00 pm",
-          "display_full": "Monday, Oct 12: 12:10 pm - 4:00 pm"
+          "time_range": "1:10 pm - 4:00 pm",
+          "display": "1:10 pm - 4:00 pm",
+          "display_full": "Monday, Oct 12: 1:10 pm - 4:00 pm"
         },
         {
           "date": "2026-10-13",
@@ -1847,11 +2491,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:10 pm",
+          "start_time": "1:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "12:10 pm - 4:00 pm",
-          "display": "12:10 pm - 4:00 pm",
-          "display_full": "Monday, Oct 12: 12:10 pm - 4:00 pm"
+          "time_range": "1:10 pm - 4:00 pm",
+          "display": "1:10 pm - 4:00 pm",
+          "display_full": "Monday, Oct 12: 1:10 pm - 4:00 pm"
         },
         {
           "date": "2026-10-13",
@@ -1895,7 +2539,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 12:10 pm - 4:00 pm"
+      "availability": "Monday, Oct 12 from 1:10 pm - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
