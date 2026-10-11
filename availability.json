@@ -57,9 +57,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
+        "MRCGP",
         "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -194,10 +194,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
-        "MBBS",
         "MRCGP",
-        "MCPS"
+        "MCPS (Family Medicine)",
+        "MCPS",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -325,11 +325,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "MRCGP",
+        "MBBS",
+        "DFM",
         "General Practitioner",
-        "MCPS",
-        "DFM"
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -586,9 +586,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -956,8 +956,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1417,8 +1417,8 @@
       "gender": "Female",
       "qualifications": [
         "MRCPG",
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1459,20 +1459,20 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "8:50 am",
-          "time_range": "8:40 am - 8:50 am",
-          "display": "8:40 am - 8:50 am",
-          "display_full": "Monday, Oct 12: 8:40 am - 8:50 am"
+          "end_time": "8:40 am",
+          "time_range": "8:40 am",
+          "display": "8:40 am",
+          "display_full": "Monday, Oct 12: 8:40 am"
         },
         {
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
           "start_time": "8:40 am",
-          "end_time": "3:30 pm",
-          "time_range": "8:40 am - 3:30 pm",
-          "display": "8:40 am - 3:30 pm",
-          "display_full": "Tuesday, Oct 13: 8:40 am - 3:30 pm"
+          "end_time": "3:20 pm",
+          "time_range": "8:40 am - 3:20 pm",
+          "display": "8:40 am - 3:20 pm",
+          "display_full": "Tuesday, Oct 13: 8:40 am - 3:20 pm"
         },
         {
           "date": "2026-10-14",
@@ -1501,20 +1501,20 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "8:50 am",
-          "time_range": "8:40 am - 8:50 am",
-          "display": "8:40 am - 8:50 am",
-          "display_full": "Monday, Oct 12: 8:40 am - 8:50 am"
+          "end_time": "8:40 am",
+          "time_range": "8:40 am",
+          "display": "8:40 am",
+          "display_full": "Monday, Oct 12: 8:40 am"
         },
         {
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
           "start_time": "8:40 am",
-          "end_time": "3:30 pm",
-          "time_range": "8:40 am - 3:30 pm",
-          "display": "8:40 am - 3:30 pm",
-          "display_full": "Tuesday, Oct 13: 8:40 am - 3:30 pm"
+          "end_time": "3:20 pm",
+          "time_range": "8:40 am - 3:20 pm",
+          "display": "8:40 am - 3:20 pm",
+          "display_full": "Tuesday, Oct 13: 8:40 am - 3:20 pm"
         },
         {
           "date": "2026-10-14",
@@ -1538,7 +1538,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:40 am - 8:50 am"
+      "availability": "Monday, Oct 12 from 8:40 am"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
