@@ -993,11 +993,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "1:30 pm",
-          "time_range": "1:00 pm - 1:30 pm",
-          "display": "1:00 pm - 1:30 pm",
-          "display_full": "Monday, Oct 12: 1:00 pm - 1:30 pm"
+          "time_range": "1:15 pm - 1:30 pm",
+          "display": "1:15 pm - 1:30 pm",
+          "display_full": "Monday, Oct 12: 1:15 pm - 1:30 pm"
         },
         {
           "date": "2026-10-14",
@@ -1025,11 +1025,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "1:30 pm",
-          "time_range": "1:00 pm - 1:30 pm",
-          "display": "1:00 pm - 1:30 pm",
-          "display_full": "Monday, Oct 12: 1:00 pm - 1:30 pm"
+          "time_range": "1:15 pm - 1:30 pm",
+          "display": "1:15 pm - 1:30 pm",
+          "display_full": "Monday, Oct 12: 1:15 pm - 1:30 pm"
         },
         {
           "date": "2026-10-14",
@@ -1053,7 +1053,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 1:00 pm - 1:30 pm"
+      "availability": "Monday, Oct 12 from 1:15 pm - 1:30 pm"
     }
   },
   "Burnett Heads": {
@@ -1479,10 +1479,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "3:00 pm",
-          "time_range": "8:40 am - 3:00 pm",
-          "display": "8:40 am - 3:00 pm",
-          "display_full": "Monday, Oct 12: 8:40 am - 3:00 pm"
+          "end_time": "8:50 am",
+          "time_range": "8:40 am - 8:50 am",
+          "display": "8:40 am - 8:50 am",
+          "display_full": "Monday, Oct 12: 8:40 am - 8:50 am"
         },
         {
           "date": "2026-10-13",
@@ -1521,10 +1521,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "3:00 pm",
-          "time_range": "8:40 am - 3:00 pm",
-          "display": "8:40 am - 3:00 pm",
-          "display_full": "Monday, Oct 12: 8:40 am - 3:00 pm"
+          "end_time": "8:50 am",
+          "time_range": "8:40 am - 8:50 am",
+          "display": "8:40 am - 8:50 am",
+          "display_full": "Monday, Oct 12: 8:40 am - 8:50 am"
         },
         {
           "date": "2026-10-13",
@@ -1558,7 +1558,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:40 am - 3:00 pm"
+      "availability": "Monday, Oct 12 from 8:40 am - 8:50 am"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
