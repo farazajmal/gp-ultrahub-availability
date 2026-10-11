@@ -84,11 +84,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:00 pm",
+          "start_time": "5:15 pm",
           "end_time": "6:15 pm",
-          "time_range": "12:00 pm - 6:15 pm",
-          "display": "12:00 pm - 6:15 pm",
-          "display_full": "Monday, Oct 12: 12:00 pm - 6:15 pm"
+          "time_range": "5:15 pm - 6:15 pm",
+          "display": "5:15 pm - 6:15 pm",
+          "display_full": "Monday, Oct 12: 5:15 pm - 6:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -126,11 +126,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:00 pm",
+          "start_time": "5:15 pm",
           "end_time": "6:15 pm",
-          "time_range": "12:00 pm - 6:15 pm",
-          "display": "12:00 pm - 6:15 pm",
-          "display_full": "Monday, Oct 12: 12:00 pm - 6:15 pm"
+          "time_range": "5:15 pm - 6:15 pm",
+          "display": "5:15 pm - 6:15 pm",
+          "display_full": "Monday, Oct 12: 5:15 pm - 6:15 pm"
         },
         {
           "date": "2026-10-13",
@@ -164,7 +164,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 12:00 pm - 6:15 pm"
+      "availability": "Monday, Oct 12 from 5:15 pm - 6:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -233,16 +233,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "8:45 am",
-          "end_time": "8:45 am",
-          "time_range": "8:45 am",
-          "display": "8:45 am",
-          "display_full": "Monday, Oct 12: 8:45 am"
-        },
-        {
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
@@ -275,16 +265,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-12",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 12",
-          "start_time": "8:45 am",
-          "end_time": "8:45 am",
-          "time_range": "8:45 am",
-          "display": "8:45 am",
-          "display_full": "Monday, Oct 12: 8:45 am"
-        },
-        {
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
@@ -316,7 +296,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:45 am"
+      "availability": "Tuesday, Oct 13 from 8:45 am - 2:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1327,11 +1307,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:10 pm",
+          "start_time": "12:20 pm",
           "end_time": "6:30 pm",
-          "time_range": "12:10 pm - 6:30 pm",
-          "display": "12:10 pm - 6:30 pm",
-          "display_full": "Monday, Oct 12: 12:10 pm - 6:30 pm"
+          "time_range": "12:20 pm - 6:30 pm",
+          "display": "12:20 pm - 6:30 pm",
+          "display_full": "Monday, Oct 12: 12:20 pm - 6:30 pm"
         },
         {
           "date": "2026-10-13",
@@ -1369,11 +1349,11 @@
           "date": "2026-10-12",
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
-          "start_time": "12:10 pm",
+          "start_time": "12:20 pm",
           "end_time": "6:30 pm",
-          "time_range": "12:10 pm - 6:30 pm",
-          "display": "12:10 pm - 6:30 pm",
-          "display_full": "Monday, Oct 12: 12:10 pm - 6:30 pm"
+          "time_range": "12:20 pm - 6:30 pm",
+          "display": "12:20 pm - 6:30 pm",
+          "display_full": "Monday, Oct 12: 12:20 pm - 6:30 pm"
         },
         {
           "date": "2026-10-13",
@@ -1407,7 +1387,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 12:10 pm - 6:30 pm"
+      "availability": "Monday, Oct 12 from 12:20 pm - 6:30 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1459,10 +1439,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "8:40 am",
-          "time_range": "8:40 am",
-          "display": "8:40 am",
-          "display_full": "Monday, Oct 12: 8:40 am"
+          "end_time": "11:40 am",
+          "time_range": "8:40 am - 11:40 am",
+          "display": "8:40 am - 11:40 am",
+          "display_full": "Monday, Oct 12: 8:40 am - 11:40 am"
         },
         {
           "date": "2026-10-13",
@@ -1501,10 +1481,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 12",
           "start_time": "8:40 am",
-          "end_time": "8:40 am",
-          "time_range": "8:40 am",
-          "display": "8:40 am",
-          "display_full": "Monday, Oct 12: 8:40 am"
+          "end_time": "11:40 am",
+          "time_range": "8:40 am - 11:40 am",
+          "display": "8:40 am - 11:40 am",
+          "display_full": "Monday, Oct 12: 8:40 am - 11:40 am"
         },
         {
           "date": "2026-10-13",
@@ -1538,7 +1518,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 12 from 8:40 am"
+      "availability": "Monday, Oct 12 from 8:40 am - 11:40 am"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
