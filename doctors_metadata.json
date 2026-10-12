@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-11 07:46:48 PM",
+    "last_updated": "2026-10-12 07:00:43 AM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -56,9 +56,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "Dip Occ Med (RCPI)",
                     "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "Dip Occ Med (RCPI)"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -72,9 +72,14 @@
                 "clinic_slug": "gp-ultra-hub-gladstone",
                 "doctor_slug": "dr-elsadig-hassan",
                 "availability_type_ids": [
-                    "1614363",
                     "1614361",
-                    "1614363"
+                    "1636243",
+                    "1614361",
+                    "1614361",
+                    "1614361",
+                    "1636244",
+                    "1636245",
+                    "1636243"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan"
@@ -103,10 +108,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS",
-                    "MRCGP",
                     "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MRCGP",
+                    "MBBS",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -136,7 +141,9 @@
                     "1591608",
                     "1591613",
                     "1591629",
-                    "1591634"
+                    "1591634",
+                    "1567704",
+                    "1567704"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
@@ -148,11 +155,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
-                    "MRCGP",
-                    "MBBS",
+                    "General Practitioner",
                     "DFM",
-                    "General Practitioner"
+                    "MBBS",
+                    "MRCGP",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -181,7 +188,9 @@
                     "1591602",
                     "1591616",
                     "1591632",
-                    "1591636"
+                    "1591636",
+                    "1523606",
+                    "1523606"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah"
@@ -239,8 +248,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MCPS (Family Medicine)",
-                    "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -303,7 +312,9 @@
                     "1358356",
                     "1591604",
                     "1591630",
-                    "1591633"
+                    "1591633",
+                    "1358356",
+                    "1358356"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
@@ -349,6 +360,8 @@
                     "1432798",
                     "1432799",
                     "1593728",
+                    "1432800",
+                    "1432800",
                     "1432800"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arooj-fatima-1",
@@ -429,6 +442,8 @@
                     "1591671",
                     "1373484",
                     "1591449",
+                    "1362850",
+                    "1362850",
                     "1362850"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
@@ -486,7 +501,9 @@
                     "1609674",
                     "1609671",
                     "1609671",
-                    "1609675"
+                    "1609675",
+                    "1593711",
+                    "1593711"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar"
@@ -591,6 +608,8 @@
                     "1591685",
                     "1591683",
                     "1591694",
+                    "1470118",
+                    "1470118",
                     "1591681",
                     "1591687",
                     "1591691",
@@ -651,8 +670,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MRCGP",
-                    "MRCPG",
-                    "MBBS"
+                    "MBBS",
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -683,7 +702,9 @@
                     "1591733",
                     "1512897",
                     "1512892",
-                    "1512892"
+                    "1512892",
+                    "1492984",
+                    "1492984"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz"
