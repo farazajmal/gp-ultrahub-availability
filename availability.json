@@ -57,8 +57,8 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
         "MBBS",
+        "MRCGP",
         "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
@@ -179,9 +179,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
-        "MRCGP",
         "MBBS",
+        "MRCGP",
+        "MCPS (Family Medicine)",
         "MCPS"
       ],
       "areas_of_interest": [
@@ -292,11 +292,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "General Practitioner",
-        "DFM",
-        "MBBS",
         "MRCGP",
-        "MCPS"
+        "General Practitioner",
+        "MCPS",
+        "DFM",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -454,9 +454,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -554,11 +554,11 @@
           "date": "2026-10-17",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 17",
-          "start_time": "11:00 am",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "11:00 am - 3:45 pm",
-          "display": "11:00 am - 3:45 pm",
-          "display_full": "Saturday, Oct 17: 11:00 am - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Saturday, Oct 17: 10:45 am - 3:45 pm"
         }
       ],
       "patches": [
@@ -586,11 +586,11 @@
           "date": "2026-10-17",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 17",
-          "start_time": "11:00 am",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "11:00 am - 3:45 pm",
-          "display": "11:00 am - 3:45 pm",
-          "display_full": "Saturday, Oct 17: 11:00 am - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Saturday, Oct 17: 10:45 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -910,8 +910,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1394,8 +1394,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MBBS",
+        "MRCGP",
         "MRCPG"
       ],
       "areas_of_interest": [
