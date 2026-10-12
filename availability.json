@@ -89,11 +89,11 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "2:15 pm",
-          "time_range": "10:30 am - 2:15 pm",
-          "display": "10:30 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 13: 10:30 am - 2:15 pm"
+          "time_range": "10:45 am - 2:15 pm",
+          "display": "10:45 am - 2:15 pm",
+          "display_full": "Tuesday, Oct 13: 10:45 am - 2:15 pm"
         },
         {
           "date": "2026-10-14",
@@ -121,11 +121,11 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "2:15 pm",
-          "time_range": "10:30 am - 2:15 pm",
-          "display": "10:30 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 13: 10:30 am - 2:15 pm"
+          "time_range": "10:45 am - 2:15 pm",
+          "display": "10:45 am - 2:15 pm",
+          "display_full": "Tuesday, Oct 13: 10:45 am - 2:15 pm"
         },
         {
           "date": "2026-10-14",
@@ -149,7 +149,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 10:30 am - 2:15 pm"
+      "availability": "Tuesday, Oct 13 from 10:45 am - 2:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -336,11 +336,11 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "1:00 pm",
+          "start_time": "12:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "1:00 pm - 6:30 pm",
-          "display": "1:00 pm - 6:30 pm",
-          "display_full": "Tuesday, Oct 13: 1:00 pm - 6:30 pm"
+          "time_range": "12:30 pm - 6:30 pm",
+          "display": "12:30 pm - 6:30 pm",
+          "display_full": "Tuesday, Oct 13: 12:30 pm - 6:30 pm"
         },
         {
           "date": "2026-10-14",
@@ -368,11 +368,11 @@
           "date": "2026-10-13",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 13",
-          "start_time": "1:00 pm",
+          "start_time": "12:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "1:00 pm - 6:30 pm",
-          "display": "1:00 pm - 6:30 pm",
-          "display_full": "Tuesday, Oct 13: 1:00 pm - 6:30 pm"
+          "time_range": "12:30 pm - 6:30 pm",
+          "display": "12:30 pm - 6:30 pm",
+          "display_full": "Tuesday, Oct 13: 12:30 pm - 6:30 pm"
         },
         {
           "date": "2026-10-14",
@@ -396,7 +396,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 1:00 pm - 6:30 pm"
+      "availability": "Tuesday, Oct 13 from 12:30 pm - 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -1398,11 +1398,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "12:10 pm",
+          "start_time": "12:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:10 pm - 6:40 pm",
-          "display": "12:10 pm - 6:40 pm",
-          "display_full": "Thursday, Oct 15: 12:10 pm - 6:40 pm"
+          "time_range": "12:20 pm - 6:40 pm",
+          "display": "12:20 pm - 6:40 pm",
+          "display_full": "Thursday, Oct 15: 12:20 pm - 6:40 pm"
         },
         {
           "date": "2026-10-16",
@@ -1440,11 +1440,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "12:10 pm",
+          "start_time": "12:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:10 pm - 6:40 pm",
-          "display": "12:10 pm - 6:40 pm",
-          "display_full": "Thursday, Oct 15: 12:10 pm - 6:40 pm"
+          "time_range": "12:20 pm - 6:40 pm",
+          "display": "12:20 pm - 6:40 pm",
+          "display_full": "Thursday, Oct 15: 12:20 pm - 6:40 pm"
         },
         {
           "date": "2026-10-16",
