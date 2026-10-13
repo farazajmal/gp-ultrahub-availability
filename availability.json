@@ -203,11 +203,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "11:45 am",
-          "end_time": "2:30 pm",
-          "time_range": "11:45 am - 2:30 pm",
-          "display": "11:45 am - 2:30 pm",
-          "display_full": "Wednesday, Oct 14: 11:45 am - 2:30 pm"
+          "start_time": "12:00 pm",
+          "end_time": "1:30 pm",
+          "time_range": "12:00 pm - 1:30 pm",
+          "display": "12:00 pm - 1:30 pm",
+          "display_full": "Wednesday, Oct 14: 12:00 pm - 1:30 pm"
         },
         {
           "date": "2026-10-15",
@@ -235,11 +235,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "11:45 am",
-          "end_time": "2:30 pm",
-          "time_range": "11:45 am - 2:30 pm",
-          "display": "11:45 am - 2:30 pm",
-          "display_full": "Wednesday, Oct 14: 11:45 am - 2:30 pm"
+          "start_time": "12:00 pm",
+          "end_time": "1:30 pm",
+          "time_range": "12:00 pm - 1:30 pm",
+          "display": "12:00 pm - 1:30 pm",
+          "display_full": "Wednesday, Oct 14: 12:00 pm - 1:30 pm"
         },
         {
           "date": "2026-10-15",
@@ -263,7 +263,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 14 from 11:45 am - 2:30 pm"
+      "availability": "Wednesday, Oct 14 from 12:00 pm - 1:30 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1183,11 +1183,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "8:50 am",
+          "start_time": "9:10 am",
           "end_time": "3:20 pm",
-          "time_range": "8:50 am - 3:20 pm",
-          "display": "8:50 am - 3:20 pm",
-          "display_full": "Wednesday, Oct 14: 8:50 am - 3:20 pm"
+          "time_range": "9:10 am - 3:20 pm",
+          "display": "9:10 am - 3:20 pm",
+          "display_full": "Wednesday, Oct 14: 9:10 am - 3:20 pm"
         },
         {
           "date": "2026-10-15",
@@ -1215,11 +1215,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "8:50 am",
+          "start_time": "9:10 am",
           "end_time": "3:20 pm",
-          "time_range": "8:50 am - 3:20 pm",
-          "display": "8:50 am - 3:20 pm",
-          "display_full": "Wednesday, Oct 14: 8:50 am - 3:20 pm"
+          "time_range": "9:10 am - 3:20 pm",
+          "display": "9:10 am - 3:20 pm",
+          "display_full": "Wednesday, Oct 14: 9:10 am - 3:20 pm"
         },
         {
           "date": "2026-10-15",
@@ -1243,7 +1243,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 14 from 8:50 am - 3:20 pm"
+      "availability": "Wednesday, Oct 14 from 9:10 am - 3:20 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
