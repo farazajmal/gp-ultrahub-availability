@@ -57,9 +57,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
+        "MBBS",
         "MRCGP",
-        "MBBS"
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -159,10 +159,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
+        "MBBS",
         "MCPS",
-        "MRCGP",
-        "MBBS"
+        "MCPS (Family Medicine)",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -272,10 +272,10 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "DFM",
-        "General Practitioner",
-        "MCPS",
         "MRCGP",
+        "DFM",
+        "MCPS",
+        "General Practitioner",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -313,24 +313,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
       "availability_patches": [
         {
-          "date": "2026-10-13",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 13",
-          "start_time": "6:15 pm",
-          "end_time": "6:30 pm",
-          "time_range": "6:15 pm - 6:30 pm",
-          "display": "6:15 pm - 6:30 pm",
-          "display_full": "Tuesday, Oct 13: 6:15 pm - 6:30 pm"
-        },
-        {
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "11:30 am",
+          "start_time": "12:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Wednesday, Oct 14: 11:30 am - 6:45 pm"
+          "time_range": "12:15 pm - 6:45 pm",
+          "display": "12:15 pm - 6:45 pm",
+          "display_full": "Wednesday, Oct 14: 12:15 pm - 6:45 pm"
         },
         {
           "date": "2026-10-16",
@@ -345,24 +335,14 @@
       ],
       "patches": [
         {
-          "date": "2026-10-13",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 13",
-          "start_time": "6:15 pm",
-          "end_time": "6:30 pm",
-          "time_range": "6:15 pm - 6:30 pm",
-          "display": "6:15 pm - 6:30 pm",
-          "display_full": "Tuesday, Oct 13: 6:15 pm - 6:30 pm"
-        },
-        {
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "11:30 am",
+          "start_time": "12:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Wednesday, Oct 14: 11:30 am - 6:45 pm"
+          "time_range": "12:15 pm - 6:45 pm",
+          "display": "12:15 pm - 6:45 pm",
+          "display_full": "Wednesday, Oct 14: 12:15 pm - 6:45 pm"
         },
         {
           "date": "2026-10-16",
@@ -376,7 +356,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 6:15 pm - 6:30 pm"
+      "availability": "Wednesday, Oct 14 from 12:15 pm - 6:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -434,9 +414,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MCPS (Family Medicine)",
-        "MRCGP",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -514,11 +494,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "1:45 pm",
-          "end_time": "2:00 pm",
-          "time_range": "1:45 pm - 2:00 pm",
-          "display": "1:45 pm - 2:00 pm",
-          "display_full": "Wednesday, Oct 14: 1:45 pm - 2:00 pm"
+          "start_time": "2:00 pm",
+          "end_time": "2:30 pm",
+          "time_range": "2:00 pm - 2:30 pm",
+          "display": "2:00 pm - 2:30 pm",
+          "display_full": "Wednesday, Oct 14: 2:00 pm - 2:30 pm"
         },
         {
           "date": "2026-10-16",
@@ -546,11 +526,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "1:45 pm",
-          "end_time": "2:00 pm",
-          "time_range": "1:45 pm - 2:00 pm",
-          "display": "1:45 pm - 2:00 pm",
-          "display_full": "Wednesday, Oct 14: 1:45 pm - 2:00 pm"
+          "start_time": "2:00 pm",
+          "end_time": "2:30 pm",
+          "time_range": "2:00 pm - 2:30 pm",
+          "display": "2:00 pm - 2:30 pm",
+          "display_full": "Wednesday, Oct 14: 2:00 pm - 2:30 pm"
         },
         {
           "date": "2026-10-16",
@@ -574,7 +554,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 14 from 1:45 pm - 2:00 pm"
+      "availability": "Wednesday, Oct 14 from 2:00 pm - 2:30 pm"
     }
   },
   "Calliope": {
@@ -760,11 +740,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "1:30 pm",
+          "start_time": "2:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "1:30 pm - 5:15 pm",
-          "display": "1:30 pm - 5:15 pm",
-          "display_full": "Thursday, Oct 15: 1:30 pm - 5:15 pm"
+          "time_range": "2:15 pm - 5:15 pm",
+          "display": "2:15 pm - 5:15 pm",
+          "display_full": "Thursday, Oct 15: 2:15 pm - 5:15 pm"
         },
         {
           "date": "2026-10-16",
@@ -792,11 +772,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "1:30 pm",
+          "start_time": "2:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "1:30 pm - 5:15 pm",
-          "display": "1:30 pm - 5:15 pm",
-          "display_full": "Thursday, Oct 15: 1:30 pm - 5:15 pm"
+          "time_range": "2:15 pm - 5:15 pm",
+          "display": "2:15 pm - 5:15 pm",
+          "display_full": "Thursday, Oct 15: 2:15 pm - 5:15 pm"
         },
         {
           "date": "2026-10-16",
@@ -820,7 +800,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 15 from 1:30 pm - 5:15 pm"
+      "availability": "Thursday, Oct 15 from 2:15 pm - 5:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -850,8 +830,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -889,11 +869,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "3:45 pm",
+          "start_time": "5:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "3:45 pm - 5:15 pm",
-          "display": "3:45 pm - 5:15 pm",
-          "display_full": "Wednesday, Oct 14: 3:45 pm - 5:15 pm"
+          "time_range": "5:15 pm",
+          "display": "5:15 pm",
+          "display_full": "Wednesday, Oct 14: 5:15 pm"
         },
         {
           "date": "2026-10-15",
@@ -931,11 +911,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "3:45 pm",
+          "start_time": "5:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "3:45 pm - 5:15 pm",
-          "display": "3:45 pm - 5:15 pm",
-          "display_full": "Wednesday, Oct 14: 3:45 pm - 5:15 pm"
+          "time_range": "5:15 pm",
+          "display": "5:15 pm",
+          "display_full": "Wednesday, Oct 14: 5:15 pm"
         },
         {
           "date": "2026-10-15",
@@ -969,7 +949,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 14 from 3:45 pm - 5:15 pm"
+      "availability": "Wednesday, Oct 14 from 5:15 pm"
     }
   },
   "Burnett Heads": {
@@ -1095,11 +1075,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "1:15 pm",
+          "start_time": "1:45 pm",
           "end_time": "3:30 pm",
-          "time_range": "1:15 pm - 3:30 pm",
-          "display": "1:15 pm - 3:30 pm",
-          "display_full": "Wednesday, Oct 14: 1:15 pm - 3:30 pm"
+          "time_range": "1:45 pm - 3:30 pm",
+          "display": "1:45 pm - 3:30 pm",
+          "display_full": "Wednesday, Oct 14: 1:45 pm - 3:30 pm"
         },
         {
           "date": "2026-10-15",
@@ -1127,11 +1107,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "1:15 pm",
+          "start_time": "1:45 pm",
           "end_time": "3:30 pm",
-          "time_range": "1:15 pm - 3:30 pm",
-          "display": "1:15 pm - 3:30 pm",
-          "display_full": "Wednesday, Oct 14: 1:15 pm - 3:30 pm"
+          "time_range": "1:45 pm - 3:30 pm",
+          "display": "1:45 pm - 3:30 pm",
+          "display_full": "Wednesday, Oct 14: 1:45 pm - 3:30 pm"
         },
         {
           "date": "2026-10-15",
@@ -1155,7 +1135,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 14 from 1:15 pm - 3:30 pm"
+      "availability": "Wednesday, Oct 14 from 1:45 pm - 3:30 pm"
     }
   },
   "Toowoomba": {
@@ -1200,24 +1180,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
       "availability_patches": [
         {
-          "date": "2026-10-13",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 13",
-          "start_time": "6:00 pm",
-          "end_time": "6:40 pm",
-          "time_range": "6:00 pm - 6:40 pm",
-          "display": "6:00 pm - 6:40 pm",
-          "display_full": "Tuesday, Oct 13: 6:00 pm - 6:40 pm"
-        },
-        {
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "8:40 am",
+          "start_time": "8:50 am",
           "end_time": "3:20 pm",
-          "time_range": "8:40 am - 3:20 pm",
-          "display": "8:40 am - 3:20 pm",
-          "display_full": "Wednesday, Oct 14: 8:40 am - 3:20 pm"
+          "time_range": "8:50 am - 3:20 pm",
+          "display": "8:50 am - 3:20 pm",
+          "display_full": "Wednesday, Oct 14: 8:50 am - 3:20 pm"
         },
         {
           "date": "2026-10-15",
@@ -1242,24 +1212,14 @@
       ],
       "patches": [
         {
-          "date": "2026-10-13",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 13",
-          "start_time": "6:00 pm",
-          "end_time": "6:40 pm",
-          "time_range": "6:00 pm - 6:40 pm",
-          "display": "6:00 pm - 6:40 pm",
-          "display_full": "Tuesday, Oct 13: 6:00 pm - 6:40 pm"
-        },
-        {
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "8:40 am",
+          "start_time": "8:50 am",
           "end_time": "3:20 pm",
-          "time_range": "8:40 am - 3:20 pm",
-          "display": "8:40 am - 3:20 pm",
-          "display_full": "Wednesday, Oct 14: 8:40 am - 3:20 pm"
+          "time_range": "8:50 am - 3:20 pm",
+          "display": "8:50 am - 3:20 pm",
+          "display_full": "Wednesday, Oct 14: 8:50 am - 3:20 pm"
         },
         {
           "date": "2026-10-15",
@@ -1283,7 +1243,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 13 from 6:00 pm - 6:40 pm"
+      "availability": "Wednesday, Oct 14 from 8:50 am - 3:20 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1292,9 +1252,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
+        "MBBS",
         "MRCGP",
-        "MBBS"
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1336,11 +1296,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "12:50 pm",
+          "start_time": "1:50 pm",
           "end_time": "6:20 pm",
-          "time_range": "12:50 pm - 6:20 pm",
-          "display": "12:50 pm - 6:20 pm",
-          "display_full": "Wednesday, Oct 14: 12:50 pm - 6:20 pm"
+          "time_range": "1:50 pm - 6:20 pm",
+          "display": "1:50 pm - 6:20 pm",
+          "display_full": "Wednesday, Oct 14: 1:50 pm - 6:20 pm"
         },
         {
           "date": "2026-10-15",
@@ -1368,11 +1328,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "12:50 pm",
+          "start_time": "1:50 pm",
           "end_time": "6:20 pm",
-          "time_range": "12:50 pm - 6:20 pm",
-          "display": "12:50 pm - 6:20 pm",
-          "display_full": "Wednesday, Oct 14: 12:50 pm - 6:20 pm"
+          "time_range": "1:50 pm - 6:20 pm",
+          "display": "1:50 pm - 6:20 pm",
+          "display_full": "Wednesday, Oct 14: 1:50 pm - 6:20 pm"
         },
         {
           "date": "2026-10-15",
@@ -1396,7 +1356,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 14 from 12:50 pm - 6:20 pm"
+      "availability": "Wednesday, Oct 14 from 1:50 pm - 6:20 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
