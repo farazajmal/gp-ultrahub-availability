@@ -296,11 +296,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "5:15 pm",
+          "start_time": "6:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:15 pm - 6:30 pm",
-          "display": "5:15 pm - 6:30 pm",
-          "display_full": "Wednesday, Oct 14: 5:15 pm - 6:30 pm"
+          "time_range": "6:30 pm",
+          "display": "6:30 pm",
+          "display_full": "Wednesday, Oct 14: 6:30 pm"
         },
         {
           "date": "2026-10-16",
@@ -328,11 +328,11 @@
           "date": "2026-10-14",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 14",
-          "start_time": "5:15 pm",
+          "start_time": "6:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:15 pm - 6:30 pm",
-          "display": "5:15 pm - 6:30 pm",
-          "display_full": "Wednesday, Oct 14: 5:15 pm - 6:30 pm"
+          "time_range": "6:30 pm",
+          "display": "6:30 pm",
+          "display_full": "Wednesday, Oct 14: 6:30 pm"
         },
         {
           "date": "2026-10-16",
@@ -356,7 +356,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 14 from 5:15 pm - 6:30 pm"
+      "availability": "Wednesday, Oct 14 from 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -491,16 +491,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "availability_patches": [
         {
-          "date": "2026-10-16",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 16",
-          "start_time": "11:45 am",
-          "end_time": "11:45 am",
-          "time_range": "11:45 am",
-          "display": "11:45 am",
-          "display_full": "Friday, Oct 16: 11:45 am"
-        },
-        {
           "date": "2026-10-17",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 17",
@@ -513,16 +503,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-16",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 16",
-          "start_time": "11:45 am",
-          "end_time": "11:45 am",
-          "time_range": "11:45 am",
-          "display": "11:45 am",
-          "display_full": "Friday, Oct 16: 11:45 am"
-        },
-        {
           "date": "2026-10-17",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 17",
@@ -534,7 +514,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 16 from 11:45 am"
+      "availability": "Saturday, Oct 17 from 10:45 am - 3:45 pm"
     }
   },
   "Calliope": {
@@ -599,10 +579,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
           "start_time": "10:45 am",
-          "end_time": "11:45 am",
-          "time_range": "10:45 am - 11:45 am",
-          "display": "10:45 am - 11:45 am",
-          "display_full": "Friday, Oct 16: 10:45 am - 11:45 am"
+          "end_time": "10:45 am",
+          "time_range": "10:45 am",
+          "display": "10:45 am",
+          "display_full": "Friday, Oct 16: 10:45 am"
         }
       ],
       "patches": [
@@ -621,10 +601,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
           "start_time": "10:45 am",
-          "end_time": "11:45 am",
-          "time_range": "10:45 am - 11:45 am",
-          "display": "10:45 am - 11:45 am",
-          "display_full": "Friday, Oct 16: 10:45 am - 11:45 am"
+          "end_time": "10:45 am",
+          "time_range": "10:45 am",
+          "display": "10:45 am",
+          "display_full": "Friday, Oct 16: 10:45 am"
         }
       ],
       "scrape_status": "ok",
@@ -721,10 +701,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
           "start_time": "10:15 am",
-          "end_time": "4:15 pm",
-          "time_range": "10:15 am - 4:15 pm",
-          "display": "10:15 am - 4:15 pm",
-          "display_full": "Thursday, Oct 15: 10:15 am - 4:15 pm"
+          "end_time": "10:15 am",
+          "time_range": "10:15 am",
+          "display": "10:15 am",
+          "display_full": "Thursday, Oct 15: 10:15 am"
         },
         {
           "date": "2026-10-16",
@@ -753,10 +733,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
           "start_time": "10:15 am",
-          "end_time": "4:15 pm",
-          "time_range": "10:15 am - 4:15 pm",
-          "display": "10:15 am - 4:15 pm",
-          "display_full": "Thursday, Oct 15: 10:15 am - 4:15 pm"
+          "end_time": "10:15 am",
+          "time_range": "10:15 am",
+          "display": "10:15 am",
+          "display_full": "Thursday, Oct 15: 10:15 am"
         },
         {
           "date": "2026-10-16",
@@ -780,7 +760,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 15 from 10:15 am - 4:15 pm"
+      "availability": "Thursday, Oct 15 from 10:15 am"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1134,10 +1114,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
           "start_time": "8:20 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:20 am - 3:40 pm",
-          "display": "8:20 am - 3:40 pm",
-          "display_full": "Friday, Oct 16: 8:20 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:20 am - 3:30 pm",
+          "display": "8:20 am - 3:30 pm",
+          "display_full": "Friday, Oct 16: 8:20 am - 3:30 pm"
         }
       ],
       "patches": [
@@ -1156,10 +1136,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
           "start_time": "8:20 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:20 am - 3:40 pm",
-          "display": "8:20 am - 3:40 pm",
-          "display_full": "Friday, Oct 16: 8:20 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:20 am - 3:30 pm",
+          "display": "8:20 am - 3:30 pm",
+          "display_full": "Friday, Oct 16: 8:20 am - 3:30 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1213,24 +1193,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "availability_patches": [
         {
-          "date": "2026-10-14",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 14",
-          "start_time": "6:20 pm",
-          "end_time": "6:20 pm",
-          "time_range": "6:20 pm",
-          "display": "6:20 pm",
-          "display_full": "Wednesday, Oct 14: 6:20 pm"
-        },
-        {
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "12:20 pm",
+          "start_time": "12:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:20 pm - 6:40 pm",
-          "display": "12:20 pm - 6:40 pm",
-          "display_full": "Thursday, Oct 15: 12:20 pm - 6:40 pm"
+          "time_range": "12:40 pm - 6:40 pm",
+          "display": "12:40 pm - 6:40 pm",
+          "display_full": "Thursday, Oct 15: 12:40 pm - 6:40 pm"
         },
         {
           "date": "2026-10-16",
@@ -1245,24 +1215,14 @@
       ],
       "patches": [
         {
-          "date": "2026-10-14",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 14",
-          "start_time": "6:20 pm",
-          "end_time": "6:20 pm",
-          "time_range": "6:20 pm",
-          "display": "6:20 pm",
-          "display_full": "Wednesday, Oct 14: 6:20 pm"
-        },
-        {
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "12:20 pm",
+          "start_time": "12:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:20 pm - 6:40 pm",
-          "display": "12:20 pm - 6:40 pm",
-          "display_full": "Thursday, Oct 15: 12:20 pm - 6:40 pm"
+          "time_range": "12:40 pm - 6:40 pm",
+          "display": "12:40 pm - 6:40 pm",
+          "display_full": "Thursday, Oct 15: 12:40 pm - 6:40 pm"
         },
         {
           "date": "2026-10-16",
@@ -1276,7 +1236,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 14 from 6:20 pm"
+      "availability": "Thursday, Oct 15 from 12:40 pm - 6:40 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
