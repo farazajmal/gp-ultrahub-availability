@@ -210,16 +210,6 @@
           "display_full": "Thursday, Oct 15: 6:00 pm - 6:45 pm"
         },
         {
-          "date": "2026-10-16",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 16",
-          "start_time": "4:15 pm",
-          "end_time": "4:15 pm",
-          "time_range": "4:15 pm",
-          "display": "4:15 pm",
-          "display_full": "Friday, Oct 16: 4:15 pm"
-        },
-        {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
@@ -240,16 +230,6 @@
           "time_range": "6:00 pm - 6:45 pm",
           "display": "6:00 pm - 6:45 pm",
           "display_full": "Thursday, Oct 15: 6:00 pm - 6:45 pm"
-        },
-        {
-          "date": "2026-10-16",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 16",
-          "start_time": "4:15 pm",
-          "end_time": "4:15 pm",
-          "time_range": "4:15 pm",
-          "display": "4:15 pm",
-          "display_full": "Friday, Oct 16: 4:15 pm"
         },
         {
           "date": "2026-10-19",
@@ -638,11 +618,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "8:00 am",
+          "start_time": "8:15 am",
           "end_time": "2:15 pm",
-          "time_range": "8:00 am - 2:15 pm",
-          "display": "8:00 am - 2:15 pm",
-          "display_full": "Monday, Oct 19: 8:00 am - 2:15 pm"
+          "time_range": "8:15 am - 2:15 pm",
+          "display": "8:15 am - 2:15 pm",
+          "display_full": "Monday, Oct 19: 8:15 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -660,11 +640,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "8:00 am",
+          "start_time": "8:15 am",
           "end_time": "2:15 pm",
-          "time_range": "8:00 am - 2:15 pm",
-          "display": "8:00 am - 2:15 pm",
-          "display_full": "Monday, Oct 19: 8:00 am - 2:15 pm"
+          "time_range": "8:15 am - 2:15 pm",
+          "display": "8:15 am - 2:15 pm",
+          "display_full": "Monday, Oct 19: 8:15 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -757,16 +737,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
-          "date": "2026-10-15",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 15",
-          "start_time": "10:15 am",
-          "end_time": "10:15 am",
-          "time_range": "10:15 am",
-          "display": "10:15 am",
-          "display_full": "Thursday, Oct 15: 10:15 am"
-        },
-        {
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
@@ -799,16 +769,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-15",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 15",
-          "start_time": "10:15 am",
-          "end_time": "10:15 am",
-          "time_range": "10:15 am",
-          "display": "10:15 am",
-          "display_full": "Thursday, Oct 15: 10:15 am"
-        },
-        {
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
@@ -840,7 +800,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 15 from 10:15 am"
+      "availability": "Friday, Oct 16 from 11:45 am - 5:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -909,21 +869,21 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "11:00 am",
+          "start_time": "11:45 am",
           "end_time": "3:15 pm",
-          "time_range": "11:00 am - 3:15 pm",
-          "display": "11:00 am - 3:15 pm",
-          "display_full": "Thursday, Oct 15: 11:00 am - 3:15 pm"
+          "time_range": "11:45 am - 3:15 pm",
+          "display": "11:45 am - 3:15 pm",
+          "display_full": "Thursday, Oct 15: 11:45 am - 3:15 pm"
         },
         {
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
           "start_time": "7:15 am",
-          "end_time": "1:30 pm",
-          "time_range": "7:15 am - 1:30 pm",
-          "display": "7:15 am - 1:30 pm",
-          "display_full": "Friday, Oct 16: 7:15 am - 1:30 pm"
+          "end_time": "1:15 pm",
+          "time_range": "7:15 am - 1:15 pm",
+          "display": "7:15 am - 1:15 pm",
+          "display_full": "Friday, Oct 16: 7:15 am - 1:15 pm"
         },
         {
           "date": "2026-10-17",
@@ -951,21 +911,21 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "11:00 am",
+          "start_time": "11:45 am",
           "end_time": "3:15 pm",
-          "time_range": "11:00 am - 3:15 pm",
-          "display": "11:00 am - 3:15 pm",
-          "display_full": "Thursday, Oct 15: 11:00 am - 3:15 pm"
+          "time_range": "11:45 am - 3:15 pm",
+          "display": "11:45 am - 3:15 pm",
+          "display_full": "Thursday, Oct 15: 11:45 am - 3:15 pm"
         },
         {
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
           "start_time": "7:15 am",
-          "end_time": "1:30 pm",
-          "time_range": "7:15 am - 1:30 pm",
-          "display": "7:15 am - 1:30 pm",
-          "display_full": "Friday, Oct 16: 7:15 am - 1:30 pm"
+          "end_time": "1:15 pm",
+          "time_range": "7:15 am - 1:15 pm",
+          "display": "7:15 am - 1:15 pm",
+          "display_full": "Friday, Oct 16: 7:15 am - 1:15 pm"
         },
         {
           "date": "2026-10-17",
@@ -989,7 +949,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 15 from 11:00 am - 3:15 pm"
+      "availability": "Thursday, Oct 15 from 11:45 am - 3:15 pm"
     }
   },
   "Burnett Heads": {
@@ -1157,11 +1117,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "4:15 pm",
-          "time_range": "10:45 am - 4:15 pm",
-          "display": "10:45 am - 4:15 pm",
-          "display_full": "Thursday, Oct 15: 10:45 am - 4:15 pm"
+          "time_range": "11:15 am - 4:15 pm",
+          "display": "11:15 am - 4:15 pm",
+          "display_full": "Thursday, Oct 15: 11:15 am - 4:15 pm"
         },
         {
           "date": "2026-10-16",
@@ -1189,11 +1149,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "4:15 pm",
-          "time_range": "10:45 am - 4:15 pm",
-          "display": "10:45 am - 4:15 pm",
-          "display_full": "Thursday, Oct 15: 10:45 am - 4:15 pm"
+          "time_range": "11:15 am - 4:15 pm",
+          "display": "11:15 am - 4:15 pm",
+          "display_full": "Thursday, Oct 15: 11:15 am - 4:15 pm"
         },
         {
           "date": "2026-10-16",
@@ -1217,7 +1177,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 15 from 10:45 am - 4:15 pm"
+      "availability": "Thursday, Oct 15 from 11:15 am - 4:15 pm"
     }
   },
   "Toowoomba": {
