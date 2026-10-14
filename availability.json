@@ -89,11 +89,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "10:15 am",
+          "start_time": "10:30 am",
           "end_time": "3:15 pm",
-          "time_range": "10:15 am - 3:15 pm",
-          "display": "10:15 am - 3:15 pm",
-          "display_full": "Thursday, Oct 15: 10:15 am - 3:15 pm"
+          "time_range": "10:30 am - 3:15 pm",
+          "display": "10:30 am - 3:15 pm",
+          "display_full": "Thursday, Oct 15: 10:30 am - 3:15 pm"
         },
         {
           "date": "2026-10-18",
@@ -111,11 +111,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "10:15 am",
+          "start_time": "10:30 am",
           "end_time": "3:15 pm",
-          "time_range": "10:15 am - 3:15 pm",
-          "display": "10:15 am - 3:15 pm",
-          "display_full": "Thursday, Oct 15: 10:15 am - 3:15 pm"
+          "time_range": "10:30 am - 3:15 pm",
+          "display": "10:30 am - 3:15 pm",
+          "display_full": "Thursday, Oct 15: 10:30 am - 3:15 pm"
         },
         {
           "date": "2026-10-18",
@@ -129,7 +129,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 15 from 10:15 am - 3:15 pm"
+      "availability": "Thursday, Oct 15 from 10:30 am - 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -203,11 +203,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "1:15 pm",
+          "start_time": "5:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "1:15 pm - 6:45 pm",
-          "display": "1:15 pm - 6:45 pm",
-          "display_full": "Thursday, Oct 15: 1:15 pm - 6:45 pm"
+          "time_range": "5:45 pm - 6:45 pm",
+          "display": "5:45 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 15: 5:45 pm - 6:45 pm"
         },
         {
           "date": "2026-10-16",
@@ -225,11 +225,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "1:15 pm",
+          "start_time": "5:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "1:15 pm - 6:45 pm",
-          "display": "1:15 pm - 6:45 pm",
-          "display_full": "Thursday, Oct 15: 1:15 pm - 6:45 pm"
+          "time_range": "5:45 pm - 6:45 pm",
+          "display": "5:45 pm - 6:45 pm",
+          "display_full": "Thursday, Oct 15: 5:45 pm - 6:45 pm"
         },
         {
           "date": "2026-10-16",
@@ -243,7 +243,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 15 from 1:15 pm - 6:45 pm"
+      "availability": "Thursday, Oct 15 from 5:45 pm - 6:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1253,11 +1253,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Thursday, Oct 15: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Thursday, Oct 15: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-16",
@@ -1275,11 +1275,11 @@
           "date": "2026-10-15",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 15",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Thursday, Oct 15: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Thursday, Oct 15: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-16",
@@ -1293,7 +1293,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 15 from 8:10 am - 4:00 pm"
+      "availability": "Thursday, Oct 15 from 9:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
