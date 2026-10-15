@@ -57,9 +57,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -139,10 +139,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MCPS",
         "MCPS (Family Medicine)",
-        "MRCGP"
+        "MCPS",
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -212,11 +212,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "DFM",
         "MBBS",
         "MCPS",
-        "DFM",
-        "General Practitioner",
-        "MRCGP"
+        "MRCGP",
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -375,8 +375,8 @@
       "gender": "Female",
       "qualifications": [
         "MBBS",
-        "MCPS (Family Medicine)",
-        "MRCGP"
+        "MRCGP",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -454,11 +454,11 @@
           "date": "2026-10-17",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 17",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:00 pm - 3:45 pm",
-          "display": "1:00 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 17: 1:00 pm - 3:45 pm"
+          "time_range": "1:15 pm - 3:45 pm",
+          "display": "1:15 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 17: 1:15 pm - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -476,11 +476,11 @@
           "date": "2026-10-17",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 17",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:00 pm - 3:45 pm",
-          "display": "1:00 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 17: 1:00 pm - 3:45 pm"
+          "time_range": "1:15 pm - 3:45 pm",
+          "display": "1:15 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 17: 1:15 pm - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -494,7 +494,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 17 from 1:00 pm - 3:45 pm"
+      "availability": "Saturday, Oct 17 from 1:15 pm - 3:45 pm"
     }
   },
   "Calliope": {
@@ -616,32 +616,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
-      "availability_patches": [
-        {
-          "date": "2026-10-16",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 16",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Friday, Oct 16: 2:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-16",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 16",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Friday, Oct 16: 2:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Friday, Oct 16 from 2:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -772,8 +750,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1085,11 +1063,11 @@
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "8:30 am",
+          "start_time": "8:50 am",
           "end_time": "3:30 pm",
-          "time_range": "8:30 am - 3:30 pm",
-          "display": "8:30 am - 3:30 pm",
-          "display_full": "Friday, Oct 16: 8:30 am - 3:30 pm"
+          "time_range": "8:50 am - 3:30 pm",
+          "display": "8:50 am - 3:30 pm",
+          "display_full": "Friday, Oct 16: 8:50 am - 3:30 pm"
         },
         {
           "date": "2026-10-19",
@@ -1107,11 +1085,11 @@
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "8:30 am",
+          "start_time": "8:50 am",
           "end_time": "3:30 pm",
-          "time_range": "8:30 am - 3:30 pm",
-          "display": "8:30 am - 3:30 pm",
-          "display_full": "Friday, Oct 16: 8:30 am - 3:30 pm"
+          "time_range": "8:50 am - 3:30 pm",
+          "display": "8:50 am - 3:30 pm",
+          "display_full": "Friday, Oct 16: 8:50 am - 3:30 pm"
         },
         {
           "date": "2026-10-19",
@@ -1125,7 +1103,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 16 from 8:30 am - 3:30 pm"
+      "availability": "Friday, Oct 16 from 8:50 am - 3:30 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1134,9 +1112,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCPG",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1175,24 +1153,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "availability_patches": [
         {
-          "date": "2026-10-15",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 15",
-          "start_time": "5:00 pm",
-          "end_time": "5:00 pm",
-          "time_range": "5:00 pm",
-          "display": "5:00 pm",
-          "display_full": "Thursday, Oct 15: 5:00 pm"
-        },
-        {
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "12:20 pm",
+          "start_time": "11:10 am",
           "end_time": "6:30 pm",
-          "time_range": "12:20 pm - 6:30 pm",
-          "display": "12:20 pm - 6:30 pm",
-          "display_full": "Friday, Oct 16: 12:20 pm - 6:30 pm"
+          "time_range": "11:10 am - 6:30 pm",
+          "display": "11:10 am - 6:30 pm",
+          "display_full": "Friday, Oct 16: 11:10 am - 6:30 pm"
         },
         {
           "date": "2026-10-19",
@@ -1207,24 +1175,14 @@
       ],
       "patches": [
         {
-          "date": "2026-10-15",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 15",
-          "start_time": "5:00 pm",
-          "end_time": "5:00 pm",
-          "time_range": "5:00 pm",
-          "display": "5:00 pm",
-          "display_full": "Thursday, Oct 15: 5:00 pm"
-        },
-        {
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "12:20 pm",
+          "start_time": "11:10 am",
           "end_time": "6:30 pm",
-          "time_range": "12:20 pm - 6:30 pm",
-          "display": "12:20 pm - 6:30 pm",
-          "display_full": "Friday, Oct 16: 12:20 pm - 6:30 pm"
+          "time_range": "11:10 am - 6:30 pm",
+          "display": "11:10 am - 6:30 pm",
+          "display_full": "Friday, Oct 16: 11:10 am - 6:30 pm"
         },
         {
           "date": "2026-10-19",
@@ -1238,7 +1196,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 15 from 5:00 pm"
+      "availability": "Friday, Oct 16 from 11:10 am - 6:30 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
