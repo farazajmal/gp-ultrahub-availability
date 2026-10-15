@@ -750,11 +750,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "5:15 pm",
-          "time_range": "10:45 am - 5:15 pm",
-          "display": "10:45 am - 5:15 pm",
-          "display_full": "Monday, Oct 19: 10:45 am - 5:15 pm"
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Monday, Oct 19: 11:15 am - 5:15 pm"
         },
         {
           "date": "2026-10-20",
@@ -782,11 +782,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "5:15 pm",
-          "time_range": "10:45 am - 5:15 pm",
-          "display": "10:45 am - 5:15 pm",
-          "display_full": "Monday, Oct 19: 10:45 am - 5:15 pm"
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Monday, Oct 19: 11:15 am - 5:15 pm"
         },
         {
           "date": "2026-10-20",
@@ -889,11 +889,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "7:15 am",
+          "start_time": "7:30 am",
           "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Monday, Oct 19: 7:15 am - 2:15 pm"
+          "time_range": "7:30 am - 2:15 pm",
+          "display": "7:30 am - 2:15 pm",
+          "display_full": "Monday, Oct 19: 7:30 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -921,11 +921,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "7:15 am",
+          "start_time": "7:30 am",
           "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Monday, Oct 19: 7:15 am - 2:15 pm"
+          "time_range": "7:30 am - 2:15 pm",
+          "display": "7:30 am - 2:15 pm",
+          "display_full": "Monday, Oct 19: 7:30 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1056,10 +1056,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
           "start_time": "9:15 am",
-          "end_time": "4:15 pm",
-          "time_range": "9:15 am - 4:15 pm",
-          "display": "9:15 am - 4:15 pm",
-          "display_full": "Friday, Oct 16: 9:15 am - 4:15 pm"
+          "end_time": "3:45 pm",
+          "time_range": "9:15 am - 3:45 pm",
+          "display": "9:15 am - 3:45 pm",
+          "display_full": "Friday, Oct 16: 9:15 am - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -1088,10 +1088,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
           "start_time": "9:15 am",
-          "end_time": "4:15 pm",
-          "time_range": "9:15 am - 4:15 pm",
-          "display": "9:15 am - 4:15 pm",
-          "display_full": "Friday, Oct 16: 9:15 am - 4:15 pm"
+          "end_time": "3:45 pm",
+          "time_range": "9:15 am - 3:45 pm",
+          "display": "9:15 am - 3:45 pm",
+          "display_full": "Friday, Oct 16: 9:15 am - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -1115,7 +1115,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 16 from 9:15 am - 4:15 pm"
+      "availability": "Friday, Oct 16 from 9:15 am - 3:45 pm"
     }
   },
   "Toowoomba": {
@@ -1163,11 +1163,11 @@
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "8:50 am",
+          "start_time": "8:30 am",
           "end_time": "3:30 pm",
-          "time_range": "8:50 am - 3:30 pm",
-          "display": "8:50 am - 3:30 pm",
-          "display_full": "Friday, Oct 16: 8:50 am - 3:30 pm"
+          "time_range": "8:30 am - 3:30 pm",
+          "display": "8:30 am - 3:30 pm",
+          "display_full": "Friday, Oct 16: 8:30 am - 3:30 pm"
         },
         {
           "date": "2026-10-19",
@@ -1195,11 +1195,11 @@
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "8:50 am",
+          "start_time": "8:30 am",
           "end_time": "3:30 pm",
-          "time_range": "8:50 am - 3:30 pm",
-          "display": "8:50 am - 3:30 pm",
-          "display_full": "Friday, Oct 16: 8:50 am - 3:30 pm"
+          "time_range": "8:30 am - 3:30 pm",
+          "display": "8:30 am - 3:30 pm",
+          "display_full": "Friday, Oct 16: 8:30 am - 3:30 pm"
         },
         {
           "date": "2026-10-19",
@@ -1223,7 +1223,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 16 from 8:50 am - 3:30 pm"
+      "availability": "Friday, Oct 16 from 8:30 am - 3:30 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
