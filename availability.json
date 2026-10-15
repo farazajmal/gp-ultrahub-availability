@@ -811,11 +811,11 @@
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "8:45 am",
+          "start_time": "9:45 am",
           "end_time": "2:00 pm",
-          "time_range": "8:45 am - 2:00 pm",
-          "display": "8:45 am - 2:00 pm",
-          "display_full": "Friday, Oct 16: 8:45 am - 2:00 pm"
+          "time_range": "9:45 am - 2:00 pm",
+          "display": "9:45 am - 2:00 pm",
+          "display_full": "Friday, Oct 16: 9:45 am - 2:00 pm"
         },
         {
           "date": "2026-10-17",
@@ -843,11 +843,11 @@
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "8:45 am",
+          "start_time": "9:45 am",
           "end_time": "2:00 pm",
-          "time_range": "8:45 am - 2:00 pm",
-          "display": "8:45 am - 2:00 pm",
-          "display_full": "Friday, Oct 16: 8:45 am - 2:00 pm"
+          "time_range": "9:45 am - 2:00 pm",
+          "display": "9:45 am - 2:00 pm",
+          "display_full": "Friday, Oct 16: 9:45 am - 2:00 pm"
         },
         {
           "date": "2026-10-17",
@@ -871,7 +871,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 16 from 8:45 am - 2:00 pm"
+      "availability": "Friday, Oct 16 from 9:45 am - 2:00 pm"
     }
   },
   "Burnett Heads": {
@@ -1253,11 +1253,11 @@
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Friday, Oct 16: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Friday, Oct 16: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-19",
@@ -1275,11 +1275,11 @@
           "date": "2026-10-16",
           "day_name": "Friday",
           "date_label": "Friday, Oct 16",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Friday, Oct 16: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Friday, Oct 16: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-19",
@@ -1293,7 +1293,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 16 from 8:10 am - 4:00 pm"
+      "availability": "Friday, Oct 16 from 9:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
