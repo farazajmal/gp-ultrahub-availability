@@ -553,10 +553,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
           "start_time": "7:30 am",
-          "end_time": "12:45 pm",
-          "time_range": "7:30 am - 12:45 pm",
-          "display": "7:30 am - 12:45 pm",
-          "display_full": "Monday, Oct 19: 7:30 am - 12:45 pm"
+          "end_time": "7:45 am",
+          "time_range": "7:30 am - 7:45 am",
+          "display": "7:30 am - 7:45 am",
+          "display_full": "Monday, Oct 19: 7:30 am - 7:45 am"
         },
         {
           "date": "2026-10-21",
@@ -575,10 +575,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
           "start_time": "7:30 am",
-          "end_time": "12:45 pm",
-          "time_range": "7:30 am - 12:45 pm",
-          "display": "7:30 am - 12:45 pm",
-          "display_full": "Monday, Oct 19: 7:30 am - 12:45 pm"
+          "end_time": "7:45 am",
+          "time_range": "7:30 am - 7:45 am",
+          "display": "7:30 am - 7:45 am",
+          "display_full": "Monday, Oct 19: 7:30 am - 7:45 am"
         },
         {
           "date": "2026-10-21",
@@ -592,7 +592,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 19 from 7:30 am - 12:45 pm"
+      "availability": "Monday, Oct 19 from 7:30 am - 7:45 am"
     }
   },
   "Calliope": {
