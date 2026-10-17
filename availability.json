@@ -240,16 +240,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-10-19",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 19",
-          "start_time": "3:15 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:15 pm",
-          "display": "3:15 pm",
-          "display_full": "Monday, Oct 19: 3:15 pm"
-        },
-        {
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
@@ -262,16 +252,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-19",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 19",
-          "start_time": "3:15 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:15 pm",
-          "display": "3:15 pm",
-          "display_full": "Monday, Oct 19: 3:15 pm"
-        },
-        {
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
@@ -283,7 +263,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 19 from 3:15 pm"
+      "availability": "Wednesday, Oct 21 from 1:15 pm - 2:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -777,16 +757,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
-          "date": "2026-10-17",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 17",
-          "start_time": "3:15 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:15 pm",
-          "display": "3:15 pm",
-          "display_full": "Saturday, Oct 17: 3:15 pm"
-        },
-        {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
@@ -800,25 +770,15 @@
           "date": "2026-10-20",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 20",
-          "start_time": "10:15 am",
-          "end_time": "5:00 pm",
-          "time_range": "10:15 am - 5:00 pm",
-          "display": "10:15 am - 5:00 pm",
-          "display_full": "Tuesday, Oct 20: 10:15 am - 5:00 pm"
+          "start_time": "10:30 am",
+          "end_time": "4:45 pm",
+          "time_range": "10:30 am - 4:45 pm",
+          "display": "10:30 am - 4:45 pm",
+          "display_full": "Tuesday, Oct 20: 10:30 am - 4:45 pm"
         }
       ],
       "patches": [
         {
-          "date": "2026-10-17",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 17",
-          "start_time": "3:15 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:15 pm",
-          "display": "3:15 pm",
-          "display_full": "Saturday, Oct 17: 3:15 pm"
-        },
-        {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
@@ -832,15 +792,15 @@
           "date": "2026-10-20",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 20",
-          "start_time": "10:15 am",
-          "end_time": "5:00 pm",
-          "time_range": "10:15 am - 5:00 pm",
-          "display": "10:15 am - 5:00 pm",
-          "display_full": "Tuesday, Oct 20: 10:15 am - 5:00 pm"
+          "start_time": "10:30 am",
+          "end_time": "4:45 pm",
+          "time_range": "10:30 am - 4:45 pm",
+          "display": "10:30 am - 4:45 pm",
+          "display_full": "Tuesday, Oct 20: 10:30 am - 4:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 17 from 3:15 pm"
+      "availability": "Monday, Oct 19 from 12:45 pm - 5:00 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -906,16 +866,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
-          "date": "2026-10-17",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 17",
-          "start_time": "3:30 pm",
-          "end_time": "3:30 pm",
-          "time_range": "3:30 pm",
-          "display": "3:30 pm",
-          "display_full": "Saturday, Oct 17: 3:30 pm"
-        },
-        {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
@@ -938,16 +888,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-17",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 17",
-          "start_time": "3:30 pm",
-          "end_time": "3:30 pm",
-          "time_range": "3:30 pm",
-          "display": "3:30 pm",
-          "display_full": "Saturday, Oct 17: 3:30 pm"
-        },
-        {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
@@ -969,7 +909,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 17 from 3:30 pm"
+      "availability": "Monday, Oct 19 from 8:45 am - 2:15 pm"
     }
   },
   "Burnett Heads": {
