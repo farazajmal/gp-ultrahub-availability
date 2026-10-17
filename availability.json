@@ -334,11 +334,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "12:15 pm",
+          "start_time": "12:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:15 pm - 3:45 pm",
-          "display": "12:15 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 18: 12:15 pm - 3:45 pm"
+          "time_range": "12:30 pm - 3:45 pm",
+          "display": "12:30 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 18: 12:30 pm - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -376,11 +376,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "12:15 pm",
+          "start_time": "12:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:15 pm - 3:45 pm",
-          "display": "12:15 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 18: 12:15 pm - 3:45 pm"
+          "time_range": "12:30 pm - 3:45 pm",
+          "display": "12:30 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 18: 12:30 pm - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -414,7 +414,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 18 from 12:15 pm - 3:45 pm"
+      "availability": "Sunday, Oct 18 from 12:30 pm - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -889,21 +889,21 @@
           "date": "2026-10-17",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 17",
-          "start_time": "3:15 pm",
+          "start_time": "3:30 pm",
           "end_time": "3:30 pm",
-          "time_range": "3:15 pm - 3:30 pm",
-          "display": "3:15 pm - 3:30 pm",
-          "display_full": "Saturday, Oct 17: 3:15 pm - 3:30 pm"
+          "time_range": "3:30 pm",
+          "display": "3:30 pm",
+          "display_full": "Saturday, Oct 17: 3:30 pm"
         },
         {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "8:00 am",
+          "start_time": "8:45 am",
           "end_time": "2:15 pm",
-          "time_range": "8:00 am - 2:15 pm",
-          "display": "8:00 am - 2:15 pm",
-          "display_full": "Monday, Oct 19: 8:00 am - 2:15 pm"
+          "time_range": "8:45 am - 2:15 pm",
+          "display": "8:45 am - 2:15 pm",
+          "display_full": "Monday, Oct 19: 8:45 am - 2:15 pm"
         },
         {
           "date": "2026-10-21",
@@ -921,21 +921,21 @@
           "date": "2026-10-17",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 17",
-          "start_time": "3:15 pm",
+          "start_time": "3:30 pm",
           "end_time": "3:30 pm",
-          "time_range": "3:15 pm - 3:30 pm",
-          "display": "3:15 pm - 3:30 pm",
-          "display_full": "Saturday, Oct 17: 3:15 pm - 3:30 pm"
+          "time_range": "3:30 pm",
+          "display": "3:30 pm",
+          "display_full": "Saturday, Oct 17: 3:30 pm"
         },
         {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "8:00 am",
+          "start_time": "8:45 am",
           "end_time": "2:15 pm",
-          "time_range": "8:00 am - 2:15 pm",
-          "display": "8:00 am - 2:15 pm",
-          "display_full": "Monday, Oct 19: 8:00 am - 2:15 pm"
+          "time_range": "8:45 am - 2:15 pm",
+          "display": "8:45 am - 2:15 pm",
+          "display_full": "Monday, Oct 19: 8:45 am - 2:15 pm"
         },
         {
           "date": "2026-10-21",
@@ -949,7 +949,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 17 from 3:15 pm - 3:30 pm"
+      "availability": "Saturday, Oct 17 from 3:30 pm"
     }
   },
   "Burnett Heads": {
