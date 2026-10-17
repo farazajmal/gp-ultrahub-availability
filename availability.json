@@ -90,10 +90,10 @@
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
           "start_time": "12:00 pm",
-          "end_time": "2:30 pm",
-          "time_range": "12:00 pm - 2:30 pm",
-          "display": "12:00 pm - 2:30 pm",
-          "display_full": "Sunday, Oct 18: 12:00 pm - 2:30 pm"
+          "end_time": "3:00 pm",
+          "time_range": "12:00 pm - 3:00 pm",
+          "display": "12:00 pm - 3:00 pm",
+          "display_full": "Sunday, Oct 18: 12:00 pm - 3:00 pm"
         },
         {
           "date": "2026-10-19",
@@ -132,10 +132,10 @@
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
           "start_time": "12:00 pm",
-          "end_time": "2:30 pm",
-          "time_range": "12:00 pm - 2:30 pm",
-          "display": "12:00 pm - 2:30 pm",
-          "display_full": "Sunday, Oct 18: 12:00 pm - 2:30 pm"
+          "end_time": "3:00 pm",
+          "time_range": "12:00 pm - 3:00 pm",
+          "display": "12:00 pm - 3:00 pm",
+          "display_full": "Sunday, Oct 18: 12:00 pm - 3:00 pm"
         },
         {
           "date": "2026-10-19",
@@ -169,7 +169,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 18 from 12:00 pm - 2:30 pm"
+      "availability": "Sunday, Oct 18 from 12:00 pm - 3:00 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -243,11 +243,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "1:15 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:15 pm",
-          "time_range": "1:15 pm - 3:15 pm",
-          "display": "1:15 pm - 3:15 pm",
-          "display_full": "Monday, Oct 19: 1:15 pm - 3:15 pm"
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Monday, Oct 19: 3:15 pm"
         },
         {
           "date": "2026-10-21",
@@ -265,11 +265,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "1:15 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:15 pm",
-          "time_range": "1:15 pm - 3:15 pm",
-          "display": "1:15 pm - 3:15 pm",
-          "display_full": "Monday, Oct 19: 1:15 pm - 3:15 pm"
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Monday, Oct 19: 3:15 pm"
         },
         {
           "date": "2026-10-21",
@@ -283,7 +283,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 19 from 1:15 pm - 3:15 pm"
+      "availability": "Monday, Oct 19 from 3:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -626,11 +626,11 @@
           "date": "2026-10-20",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 20",
-          "start_time": "8:45 am",
+          "start_time": "12:15 pm",
           "end_time": "2:15 pm",
-          "time_range": "8:45 am - 2:15 pm",
-          "display": "8:45 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 20: 8:45 am - 2:15 pm"
+          "time_range": "12:15 pm - 2:15 pm",
+          "display": "12:15 pm - 2:15 pm",
+          "display_full": "Tuesday, Oct 20: 12:15 pm - 2:15 pm"
         },
         {
           "date": "2026-10-21",
@@ -648,11 +648,11 @@
           "date": "2026-10-20",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 20",
-          "start_time": "8:45 am",
+          "start_time": "12:15 pm",
           "end_time": "2:15 pm",
-          "time_range": "8:45 am - 2:15 pm",
-          "display": "8:45 am - 2:15 pm",
-          "display_full": "Tuesday, Oct 20: 8:45 am - 2:15 pm"
+          "time_range": "12:15 pm - 2:15 pm",
+          "display": "12:15 pm - 2:15 pm",
+          "display_full": "Tuesday, Oct 20: 12:15 pm - 2:15 pm"
         },
         {
           "date": "2026-10-21",
@@ -666,7 +666,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 20 from 8:45 am - 2:15 pm"
+      "availability": "Tuesday, Oct 20 from 12:15 pm - 2:15 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -777,14 +777,24 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
+          "date": "2026-10-17",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Oct 17",
+          "start_time": "3:15 pm",
+          "end_time": "3:15 pm",
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Saturday, Oct 17: 3:15 pm"
+        },
+        {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "11:15 am",
+          "start_time": "12:45 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:15 am - 5:00 pm",
-          "display": "11:15 am - 5:00 pm",
-          "display_full": "Monday, Oct 19: 11:15 am - 5:00 pm"
+          "time_range": "12:45 pm - 5:00 pm",
+          "display": "12:45 pm - 5:00 pm",
+          "display_full": "Monday, Oct 19: 12:45 pm - 5:00 pm"
         },
         {
           "date": "2026-10-20",
@@ -799,14 +809,24 @@
       ],
       "patches": [
         {
+          "date": "2026-10-17",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Oct 17",
+          "start_time": "3:15 pm",
+          "end_time": "3:15 pm",
+          "time_range": "3:15 pm",
+          "display": "3:15 pm",
+          "display_full": "Saturday, Oct 17: 3:15 pm"
+        },
+        {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "11:15 am",
+          "start_time": "12:45 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:15 am - 5:00 pm",
-          "display": "11:15 am - 5:00 pm",
-          "display_full": "Monday, Oct 19: 11:15 am - 5:00 pm"
+          "time_range": "12:45 pm - 5:00 pm",
+          "display": "12:45 pm - 5:00 pm",
+          "display_full": "Monday, Oct 19: 12:45 pm - 5:00 pm"
         },
         {
           "date": "2026-10-20",
@@ -820,7 +840,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 19 from 11:15 am - 5:00 pm"
+      "availability": "Saturday, Oct 17 from 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1206,10 +1226,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
           "start_time": "9:10 am",
-          "end_time": "3:40 pm",
-          "time_range": "9:10 am - 3:40 pm",
-          "display": "9:10 am - 3:40 pm",
-          "display_full": "Monday, Oct 19: 9:10 am - 3:40 pm"
+          "end_time": "3:10 pm",
+          "time_range": "9:10 am - 3:10 pm",
+          "display": "9:10 am - 3:10 pm",
+          "display_full": "Monday, Oct 19: 9:10 am - 3:10 pm"
         },
         {
           "date": "2026-10-20",
@@ -1238,10 +1258,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
           "start_time": "9:10 am",
-          "end_time": "3:40 pm",
-          "time_range": "9:10 am - 3:40 pm",
-          "display": "9:10 am - 3:40 pm",
-          "display_full": "Monday, Oct 19: 9:10 am - 3:40 pm"
+          "end_time": "3:10 pm",
+          "time_range": "9:10 am - 3:10 pm",
+          "display": "9:10 am - 3:10 pm",
+          "display_full": "Monday, Oct 19: 9:10 am - 3:10 pm"
         },
         {
           "date": "2026-10-20",
@@ -1265,7 +1285,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 19 from 9:10 am - 3:40 pm"
+      "availability": "Monday, Oct 19 from 9:10 am - 3:10 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
