@@ -58,8 +58,8 @@
       "gender": "Male",
       "qualifications": [
         "Dip Occ Med (RCPI)",
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -119,11 +119,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "7:00 am",
+          "start_time": "7:30 am",
           "end_time": "2:45 pm",
-          "time_range": "7:00 am - 2:45 pm",
-          "display": "7:00 am - 2:45 pm",
-          "display_full": "Wednesday, Oct 21: 7:00 am - 2:45 pm"
+          "time_range": "7:30 am - 2:45 pm",
+          "display": "7:30 am - 2:45 pm",
+          "display_full": "Wednesday, Oct 21: 7:30 am - 2:45 pm"
         }
       ],
       "patches": [
@@ -161,11 +161,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "7:00 am",
+          "start_time": "7:30 am",
           "end_time": "2:45 pm",
-          "time_range": "7:00 am - 2:45 pm",
-          "display": "7:00 am - 2:45 pm",
-          "display_full": "Wednesday, Oct 21: 7:00 am - 2:45 pm"
+          "time_range": "7:30 am - 2:45 pm",
+          "display": "7:30 am - 2:45 pm",
+          "display_full": "Wednesday, Oct 21: 7:30 am - 2:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -199,10 +199,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MCPS",
-        "MRCGP",
-        "MBBS"
+        "MCPS (Family Medicine)",
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -272,11 +272,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "DFM",
-        "MCPS",
-        "MRCGP",
         "MBBS",
-        "General Practitioner"
+        "MRCGP",
+        "General Practitioner",
+        "MCPS",
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -453,8 +453,8 @@
       "gender": "Female",
       "qualifications": [
         "MCPS (Family Medicine)",
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -830,8 +830,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1235,8 +1235,8 @@
       "gender": "Female",
       "qualifications": [
         "MRCPG",
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
