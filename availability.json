@@ -90,10 +90,10 @@
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
           "start_time": "12:30 pm",
-          "end_time": "3:00 pm",
-          "time_range": "12:30 pm - 3:00 pm",
-          "display": "12:30 pm - 3:00 pm",
-          "display_full": "Sunday, Oct 18: 12:30 pm - 3:00 pm"
+          "end_time": "2:45 pm",
+          "time_range": "12:30 pm - 2:45 pm",
+          "display": "12:30 pm - 2:45 pm",
+          "display_full": "Sunday, Oct 18: 12:30 pm - 2:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -132,10 +132,10 @@
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
           "start_time": "12:30 pm",
-          "end_time": "3:00 pm",
-          "time_range": "12:30 pm - 3:00 pm",
-          "display": "12:30 pm - 3:00 pm",
-          "display_full": "Sunday, Oct 18: 12:30 pm - 3:00 pm"
+          "end_time": "2:45 pm",
+          "time_range": "12:30 pm - 2:45 pm",
+          "display": "12:30 pm - 2:45 pm",
+          "display_full": "Sunday, Oct 18: 12:30 pm - 2:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -169,7 +169,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 18 from 12:30 pm - 3:00 pm"
+      "availability": "Sunday, Oct 18 from 12:30 pm - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -334,11 +334,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "10:15 am",
+          "start_time": "1:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "10:15 am - 3:45 pm",
-          "display": "10:15 am - 3:45 pm",
-          "display_full": "Sunday, Oct 18: 10:15 am - 3:45 pm"
+          "time_range": "1:00 pm - 3:45 pm",
+          "display": "1:00 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 18: 1:00 pm - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -386,11 +386,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "10:15 am",
+          "start_time": "1:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "10:15 am - 3:45 pm",
-          "display": "10:15 am - 3:45 pm",
-          "display_full": "Sunday, Oct 18: 10:15 am - 3:45 pm"
+          "time_range": "1:00 pm - 3:45 pm",
+          "display": "1:00 pm - 3:45 pm",
+          "display_full": "Sunday, Oct 18: 1:00 pm - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -434,7 +434,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 18 from 10:15 am - 3:45 pm"
+      "availability": "Sunday, Oct 18 from 1:00 pm - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
