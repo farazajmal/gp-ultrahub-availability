@@ -89,11 +89,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "12:30 pm",
-          "end_time": "2:45 pm",
-          "time_range": "12:30 pm - 2:45 pm",
-          "display": "12:30 pm - 2:45 pm",
-          "display_full": "Sunday, Oct 18: 12:30 pm - 2:45 pm"
+          "start_time": "12:45 pm",
+          "end_time": "2:30 pm",
+          "time_range": "12:45 pm - 2:30 pm",
+          "display": "12:45 pm - 2:30 pm",
+          "display_full": "Sunday, Oct 18: 12:45 pm - 2:30 pm"
         },
         {
           "date": "2026-10-19",
@@ -131,11 +131,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "12:30 pm",
-          "end_time": "2:45 pm",
-          "time_range": "12:30 pm - 2:45 pm",
-          "display": "12:30 pm - 2:45 pm",
-          "display_full": "Sunday, Oct 18: 12:30 pm - 2:45 pm"
+          "start_time": "12:45 pm",
+          "end_time": "2:30 pm",
+          "time_range": "12:45 pm - 2:30 pm",
+          "display": "12:45 pm - 2:30 pm",
+          "display_full": "Sunday, Oct 18: 12:45 pm - 2:30 pm"
         },
         {
           "date": "2026-10-19",
@@ -169,7 +169,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 18 from 12:30 pm - 2:45 pm"
+      "availability": "Sunday, Oct 18 from 12:45 pm - 2:30 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -947,11 +947,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "8:45 am",
+          "start_time": "11:15 am",
           "end_time": "2:15 pm",
-          "time_range": "8:45 am - 2:15 pm",
-          "display": "8:45 am - 2:15 pm",
-          "display_full": "Monday, Oct 19: 8:45 am - 2:15 pm"
+          "time_range": "11:15 am - 2:15 pm",
+          "display": "11:15 am - 2:15 pm",
+          "display_full": "Monday, Oct 19: 11:15 am - 2:15 pm"
         },
         {
           "date": "2026-10-21",
@@ -979,11 +979,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "8:45 am",
+          "start_time": "11:15 am",
           "end_time": "2:15 pm",
-          "time_range": "8:45 am - 2:15 pm",
-          "display": "8:45 am - 2:15 pm",
-          "display_full": "Monday, Oct 19: 8:45 am - 2:15 pm"
+          "time_range": "11:15 am - 2:15 pm",
+          "display": "11:15 am - 2:15 pm",
+          "display_full": "Monday, Oct 19: 11:15 am - 2:15 pm"
         },
         {
           "date": "2026-10-21",
@@ -1007,7 +1007,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 19 from 8:45 am - 2:15 pm"
+      "availability": "Monday, Oct 19 from 11:15 am - 2:15 pm"
     }
   },
   "Burnett Heads": {
