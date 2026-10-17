@@ -57,8 +57,8 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
         "MBBS",
+        "Dip Occ Med (RCPI)",
         "MRCGP"
       ],
       "areas_of_interest": [
@@ -89,11 +89,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "12:00 pm",
+          "start_time": "12:30 pm",
           "end_time": "3:00 pm",
-          "time_range": "12:00 pm - 3:00 pm",
-          "display": "12:00 pm - 3:00 pm",
-          "display_full": "Sunday, Oct 18: 12:00 pm - 3:00 pm"
+          "time_range": "12:30 pm - 3:00 pm",
+          "display": "12:30 pm - 3:00 pm",
+          "display_full": "Sunday, Oct 18: 12:30 pm - 3:00 pm"
         },
         {
           "date": "2026-10-19",
@@ -131,11 +131,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "12:00 pm",
+          "start_time": "12:30 pm",
           "end_time": "3:00 pm",
-          "time_range": "12:00 pm - 3:00 pm",
-          "display": "12:00 pm - 3:00 pm",
-          "display_full": "Sunday, Oct 18: 12:00 pm - 3:00 pm"
+          "time_range": "12:30 pm - 3:00 pm",
+          "display": "12:30 pm - 3:00 pm",
+          "display_full": "Sunday, Oct 18: 12:30 pm - 3:00 pm"
         },
         {
           "date": "2026-10-19",
@@ -169,7 +169,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 18 from 12:00 pm - 3:00 pm"
+      "availability": "Sunday, Oct 18 from 12:30 pm - 3:00 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -199,10 +199,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS",
-        "MCPS (Family Medicine)",
         "MBBS",
-        "MRCGP"
+        "MCPS (Family Medicine)",
+        "MRCGP",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -292,11 +292,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "DFM",
         "MBBS",
-        "MRCGP",
         "General Practitioner",
-        "MCPS",
-        "DFM"
+        "MRCGP",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -334,11 +334,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "12:45 pm",
+          "start_time": "10:15 am",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 18: 12:45 pm - 3:45 pm"
+          "time_range": "10:15 am - 3:45 pm",
+          "display": "10:15 am - 3:45 pm",
+          "display_full": "Sunday, Oct 18: 10:15 am - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -386,11 +386,11 @@
           "date": "2026-10-18",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 18",
-          "start_time": "12:45 pm",
+          "start_time": "10:15 am",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Sunday, Oct 18: 12:45 pm - 3:45 pm"
+          "time_range": "10:15 am - 3:45 pm",
+          "display": "10:15 am - 3:45 pm",
+          "display_full": "Sunday, Oct 18: 10:15 am - 3:45 pm"
         },
         {
           "date": "2026-10-19",
@@ -434,7 +434,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 18 from 12:45 pm - 3:45 pm"
+      "availability": "Sunday, Oct 18 from 10:15 am - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -492,8 +492,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MBBS",
+        "MCPS (Family Medicine)",
         "MRCGP"
       ],
       "areas_of_interest": [
@@ -1392,8 +1392,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
         "MBBS",
+        "MRCPG",
         "MRCGP"
       ],
       "areas_of_interest": [
