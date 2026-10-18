@@ -220,16 +220,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-10-19",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 19",
-          "start_time": "3:15 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:15 pm",
-          "display": "3:15 pm",
-          "display_full": "Monday, Oct 19: 3:15 pm"
-        },
-        {
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
@@ -252,16 +242,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-19",
-          "day_name": "Monday",
-          "date_label": "Monday, Oct 19",
-          "start_time": "3:15 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:15 pm",
-          "display": "3:15 pm",
-          "display_full": "Monday, Oct 19: 3:15 pm"
-        },
-        {
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
@@ -283,7 +263,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 19 from 3:15 pm"
+      "availability": "Wednesday, Oct 21 from 1:15 pm - 2:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1416,11 +1396,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "5:30 pm",
+          "start_time": "6:00 pm",
           "end_time": "6:40 pm",
-          "time_range": "5:30 pm - 6:40 pm",
-          "display": "5:30 pm - 6:40 pm",
-          "display_full": "Monday, Oct 19: 5:30 pm - 6:40 pm"
+          "time_range": "6:00 pm - 6:40 pm",
+          "display": "6:00 pm - 6:40 pm",
+          "display_full": "Monday, Oct 19: 6:00 pm - 6:40 pm"
         },
         {
           "date": "2026-10-20",
@@ -1458,11 +1438,11 @@
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
-          "start_time": "5:30 pm",
+          "start_time": "6:00 pm",
           "end_time": "6:40 pm",
-          "time_range": "5:30 pm - 6:40 pm",
-          "display": "5:30 pm - 6:40 pm",
-          "display_full": "Monday, Oct 19: 5:30 pm - 6:40 pm"
+          "time_range": "6:00 pm - 6:40 pm",
+          "display": "6:00 pm - 6:40 pm",
+          "display_full": "Monday, Oct 19: 6:00 pm - 6:40 pm"
         },
         {
           "date": "2026-10-20",
@@ -1496,7 +1476,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 19 from 5:30 pm - 6:40 pm"
+      "availability": "Monday, Oct 19 from 6:00 pm - 6:40 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
