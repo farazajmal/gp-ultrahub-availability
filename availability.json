@@ -86,16 +86,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
-          "date": "2026-10-18",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Oct 18",
-          "start_time": "12:45 pm",
-          "end_time": "2:30 pm",
-          "time_range": "12:45 pm - 2:30 pm",
-          "display": "12:45 pm - 2:30 pm",
-          "display_full": "Sunday, Oct 18: 12:45 pm - 2:30 pm"
-        },
-        {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
@@ -128,16 +118,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-18",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Oct 18",
-          "start_time": "12:45 pm",
-          "end_time": "2:30 pm",
-          "time_range": "12:45 pm - 2:30 pm",
-          "display": "12:45 pm - 2:30 pm",
-          "display_full": "Sunday, Oct 18: 12:45 pm - 2:30 pm"
-        },
-        {
           "date": "2026-10-19",
           "day_name": "Monday",
           "date_label": "Monday, Oct 19",
@@ -169,7 +149,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 18 from 12:45 pm - 2:30 pm"
+      "availability": "Monday, Oct 19 from 11:00 am - 6:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
