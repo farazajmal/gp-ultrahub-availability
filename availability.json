@@ -778,11 +778,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "10:00 am",
+          "start_time": "10:30 am",
           "end_time": "5:15 pm",
-          "time_range": "10:00 am - 5:15 pm",
-          "display": "10:00 am - 5:15 pm",
-          "display_full": "Thursday, Oct 22: 10:00 am - 5:15 pm"
+          "time_range": "10:30 am - 5:15 pm",
+          "display": "10:30 am - 5:15 pm",
+          "display_full": "Thursday, Oct 22: 10:30 am - 5:15 pm"
         },
         {
           "date": "2026-10-23",
@@ -800,11 +800,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "10:00 am",
+          "start_time": "10:30 am",
           "end_time": "5:15 pm",
-          "time_range": "10:00 am - 5:15 pm",
-          "display": "10:00 am - 5:15 pm",
-          "display_full": "Thursday, Oct 22: 10:00 am - 5:15 pm"
+          "time_range": "10:30 am - 5:15 pm",
+          "display": "10:30 am - 5:15 pm",
+          "display_full": "Thursday, Oct 22: 10:30 am - 5:15 pm"
         },
         {
           "date": "2026-10-23",
@@ -818,7 +818,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 22 from 10:00 am - 5:15 pm"
+      "availability": "Thursday, Oct 22 from 10:30 am - 5:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -888,20 +888,20 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
           "start_time": "11:15 am",
-          "end_time": "3:15 pm",
-          "time_range": "11:15 am - 3:15 pm",
-          "display": "11:15 am - 3:15 pm",
-          "display_full": "Wednesday, Oct 21: 11:15 am - 3:15 pm"
+          "end_time": "3:00 pm",
+          "time_range": "11:15 am - 3:00 pm",
+          "display": "11:15 am - 3:00 pm",
+          "display_full": "Wednesday, Oct 21: 11:15 am - 3:00 pm"
         },
         {
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
           "start_time": "8:15 am",
-          "end_time": "3:45 pm",
-          "time_range": "8:15 am - 3:45 pm",
-          "display": "8:15 am - 3:45 pm",
-          "display_full": "Thursday, Oct 22: 8:15 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "8:15 am - 3:15 pm",
+          "display": "8:15 am - 3:15 pm",
+          "display_full": "Thursday, Oct 22: 8:15 am - 3:15 pm"
         },
         {
           "date": "2026-10-23",
@@ -920,20 +920,20 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
           "start_time": "11:15 am",
-          "end_time": "3:15 pm",
-          "time_range": "11:15 am - 3:15 pm",
-          "display": "11:15 am - 3:15 pm",
-          "display_full": "Wednesday, Oct 21: 11:15 am - 3:15 pm"
+          "end_time": "3:00 pm",
+          "time_range": "11:15 am - 3:00 pm",
+          "display": "11:15 am - 3:00 pm",
+          "display_full": "Wednesday, Oct 21: 11:15 am - 3:00 pm"
         },
         {
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
           "start_time": "8:15 am",
-          "end_time": "3:45 pm",
-          "time_range": "8:15 am - 3:45 pm",
-          "display": "8:15 am - 3:45 pm",
-          "display_full": "Thursday, Oct 22: 8:15 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "8:15 am - 3:15 pm",
+          "display": "8:15 am - 3:15 pm",
+          "display_full": "Thursday, Oct 22: 8:15 am - 3:15 pm"
         },
         {
           "date": "2026-10-23",
@@ -947,7 +947,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 21 from 11:15 am - 3:15 pm"
+      "availability": "Wednesday, Oct 21 from 11:15 am - 3:00 pm"
     }
   },
   "Burnett Heads": {
@@ -1491,11 +1491,11 @@
           "date": "2026-10-20",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 20",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Tuesday, Oct 20: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Tuesday, Oct 20: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-21",
@@ -1533,11 +1533,11 @@
           "date": "2026-10-20",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Oct 20",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Tuesday, Oct 20: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Tuesday, Oct 20: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-21",
@@ -1571,7 +1571,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 20 from 8:00 am - 4:00 pm"
+      "availability": "Tuesday, Oct 20 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
