@@ -57,9 +57,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
         "Dip Occ Med (RCPI)",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -179,10 +179,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS",
-        "MRCGP",
         "MCPS (Family Medicine)",
-        "MBBS"
+        "MCPS",
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -292,11 +292,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MCPS",
-        "General Practitioner",
+        "MBBS",
         "DFM",
         "MRCGP",
-        "MBBS"
+        "General Practitioner",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -472,8 +472,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MRCGP",
+        "MCPS (Family Medicine)",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -552,11 +552,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "7:00 am",
+          "start_time": "8:30 am",
           "end_time": "1:15 pm",
-          "time_range": "7:00 am - 1:15 pm",
-          "display": "7:00 am - 1:15 pm",
-          "display_full": "Thursday, Oct 22: 7:00 am - 1:15 pm"
+          "time_range": "8:30 am - 1:15 pm",
+          "display": "8:30 am - 1:15 pm",
+          "display_full": "Thursday, Oct 22: 8:30 am - 1:15 pm"
         },
         {
           "date": "2026-10-23",
@@ -574,11 +574,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "7:00 am",
+          "start_time": "8:30 am",
           "end_time": "1:15 pm",
-          "time_range": "7:00 am - 1:15 pm",
-          "display": "7:00 am - 1:15 pm",
-          "display_full": "Thursday, Oct 22: 7:00 am - 1:15 pm"
+          "time_range": "8:30 am - 1:15 pm",
+          "display": "8:30 am - 1:15 pm",
+          "display_full": "Thursday, Oct 22: 8:30 am - 1:15 pm"
         },
         {
           "date": "2026-10-23",
@@ -592,7 +592,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 22 from 7:00 am - 1:15 pm"
+      "availability": "Thursday, Oct 22 from 8:30 am - 1:15 pm"
     }
   },
   "Calliope": {
@@ -888,8 +888,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1372,9 +1372,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MRCPG",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
