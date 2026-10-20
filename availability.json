@@ -1077,11 +1077,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "1:00 pm",
+          "start_time": "3:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "1:00 pm - 6:40 pm",
-          "display": "1:00 pm - 6:40 pm",
-          "display_full": "Wednesday, Oct 21: 1:00 pm - 6:40 pm"
+          "time_range": "3:10 pm - 6:40 pm",
+          "display": "3:10 pm - 6:40 pm",
+          "display_full": "Wednesday, Oct 21: 3:10 pm - 6:40 pm"
         },
         {
           "date": "2026-10-22",
@@ -1109,11 +1109,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "1:00 pm",
+          "start_time": "3:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "1:00 pm - 6:40 pm",
-          "display": "1:00 pm - 6:40 pm",
-          "display_full": "Wednesday, Oct 21: 1:00 pm - 6:40 pm"
+          "time_range": "3:10 pm - 6:40 pm",
+          "display": "3:10 pm - 6:40 pm",
+          "display_full": "Wednesday, Oct 21: 3:10 pm - 6:40 pm"
         },
         {
           "date": "2026-10-22",
@@ -1137,7 +1137,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 21 from 1:00 pm - 6:40 pm"
+      "availability": "Wednesday, Oct 21 from 3:10 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1268,11 +1268,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Wednesday, Oct 21: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Wednesday, Oct 21: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-22",
@@ -1300,11 +1300,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Wednesday, Oct 21: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Wednesday, Oct 21: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-22",
@@ -1328,7 +1328,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 21 from 10:10 am - 4:00 pm"
+      "availability": "Wednesday, Oct 21 from 11:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
