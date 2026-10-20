@@ -786,16 +786,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
-          "date": "2026-10-21",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 21",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Wednesday, Oct 21: 2:45 pm"
-        },
-        {
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
@@ -828,16 +818,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-21",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 21",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Wednesday, Oct 21: 2:45 pm"
-        },
-        {
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
@@ -869,7 +849,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 21 from 2:45 pm"
+      "availability": "Thursday, Oct 22 from 8:45 am - 2:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1180,11 +1160,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "11:20 am",
+          "start_time": "12:10 pm",
           "end_time": "2:50 pm",
-          "time_range": "11:20 am - 2:50 pm",
-          "display": "11:20 am - 2:50 pm",
-          "display_full": "Wednesday, Oct 21: 11:20 am - 2:50 pm"
+          "time_range": "12:10 pm - 2:50 pm",
+          "display": "12:10 pm - 2:50 pm",
+          "display_full": "Wednesday, Oct 21: 12:10 pm - 2:50 pm"
         },
         {
           "date": "2026-10-22",
@@ -1212,11 +1192,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "11:20 am",
+          "start_time": "12:10 pm",
           "end_time": "2:50 pm",
-          "time_range": "11:20 am - 2:50 pm",
-          "display": "11:20 am - 2:50 pm",
-          "display_full": "Wednesday, Oct 21: 11:20 am - 2:50 pm"
+          "time_range": "12:10 pm - 2:50 pm",
+          "display": "12:10 pm - 2:50 pm",
+          "display_full": "Wednesday, Oct 21: 12:10 pm - 2:50 pm"
         },
         {
           "date": "2026-10-22",
@@ -1240,7 +1220,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 21 from 11:20 am - 2:50 pm"
+      "availability": "Wednesday, Oct 21 from 12:10 pm - 2:50 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
@@ -1268,11 +1248,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Oct 21: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Wednesday, Oct 21: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-22",
@@ -1300,11 +1280,11 @@
           "date": "2026-10-21",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 21",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Oct 21: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Wednesday, Oct 21: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-22",
@@ -1328,7 +1308,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 21 from 8:00 am - 4:00 pm"
+      "availability": "Wednesday, Oct 21 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
