@@ -1135,11 +1135,11 @@
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
-          "start_time": "8:45 am",
+          "start_time": "9:00 am",
           "end_time": "4:15 pm",
-          "time_range": "8:45 am - 4:15 pm",
-          "display": "8:45 am - 4:15 pm",
-          "display_full": "Friday, Oct 23: 8:45 am - 4:15 pm"
+          "time_range": "9:00 am - 4:15 pm",
+          "display": "9:00 am - 4:15 pm",
+          "display_full": "Friday, Oct 23: 9:00 am - 4:15 pm"
         }
       ],
       "patches": [
@@ -1167,11 +1167,11 @@
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
-          "start_time": "8:45 am",
+          "start_time": "9:00 am",
           "end_time": "4:15 pm",
-          "time_range": "8:45 am - 4:15 pm",
-          "display": "8:45 am - 4:15 pm",
-          "display_full": "Friday, Oct 23: 8:45 am - 4:15 pm"
+          "time_range": "9:00 am - 4:15 pm",
+          "display": "9:00 am - 4:15 pm",
+          "display_full": "Friday, Oct 23: 9:00 am - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
