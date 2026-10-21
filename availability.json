@@ -58,8 +58,8 @@
       "gender": "Male",
       "qualifications": [
         "MBBS",
-        "MRCGP",
-        "Dip Occ Med (RCPI)"
+        "Dip Occ Med (RCPI)",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -89,11 +89,11 @@
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
-          "start_time": "9:15 am",
+          "start_time": "9:45 am",
           "end_time": "4:15 pm",
-          "time_range": "9:15 am - 4:15 pm",
-          "display": "9:15 am - 4:15 pm",
-          "display_full": "Friday, Oct 23: 9:15 am - 4:15 pm"
+          "time_range": "9:45 am - 4:15 pm",
+          "display": "9:45 am - 4:15 pm",
+          "display_full": "Friday, Oct 23: 9:45 am - 4:15 pm"
         },
         {
           "date": "2026-10-25",
@@ -121,11 +121,11 @@
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
-          "start_time": "9:15 am",
+          "start_time": "9:45 am",
           "end_time": "4:15 pm",
-          "time_range": "9:15 am - 4:15 pm",
-          "display": "9:15 am - 4:15 pm",
-          "display_full": "Friday, Oct 23: 9:15 am - 4:15 pm"
+          "time_range": "9:45 am - 4:15 pm",
+          "display": "9:45 am - 4:15 pm",
+          "display_full": "Friday, Oct 23: 9:45 am - 4:15 pm"
         },
         {
           "date": "2026-10-25",
@@ -149,7 +149,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 23 from 9:15 am - 4:15 pm"
+      "availability": "Friday, Oct 23 from 9:45 am - 4:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -179,10 +179,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP",
         "MCPS (Family Medicine)",
-        "MCPS"
+        "MBBS",
+        "MCPS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -292,11 +292,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
         "MCPS",
+        "DFM",
         "MBBS",
-        "General Practitioner",
-        "DFM"
+        "MRCGP",
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -452,9 +452,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MCPS (Family Medicine)",
         "MBBS",
-        "MRCGP",
-        "MCPS (Family Medicine)"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -529,16 +529,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "availability_patches": [
         {
-          "date": "2026-10-22",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 22",
-          "start_time": "10:15 am",
-          "end_time": "10:15 am",
-          "time_range": "10:15 am",
-          "display": "10:15 am",
-          "display_full": "Thursday, Oct 22: 10:15 am"
-        },
-        {
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
@@ -561,16 +551,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-22",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 22",
-          "start_time": "10:15 am",
-          "end_time": "10:15 am",
-          "time_range": "10:15 am",
-          "display": "10:15 am",
-          "display_full": "Thursday, Oct 22: 10:15 am"
-        },
-        {
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
@@ -592,7 +572,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 22 from 10:15 am"
+      "availability": "Friday, Oct 23 from 7:15 am"
     }
   },
   "Calliope": {
@@ -1223,11 +1203,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "1:40 pm",
+          "start_time": "1:50 pm",
           "end_time": "6:30 pm",
-          "time_range": "1:40 pm - 6:30 pm",
-          "display": "1:40 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 22: 1:40 pm - 6:30 pm"
+          "time_range": "1:50 pm - 6:30 pm",
+          "display": "1:50 pm - 6:30 pm",
+          "display_full": "Thursday, Oct 22: 1:50 pm - 6:30 pm"
         },
         {
           "date": "2026-10-23",
@@ -1255,11 +1235,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "1:40 pm",
+          "start_time": "1:50 pm",
           "end_time": "6:30 pm",
-          "time_range": "1:40 pm - 6:30 pm",
-          "display": "1:40 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 22: 1:40 pm - 6:30 pm"
+          "time_range": "1:50 pm - 6:30 pm",
+          "display": "1:50 pm - 6:30 pm",
+          "display_full": "Thursday, Oct 22: 1:50 pm - 6:30 pm"
         },
         {
           "date": "2026-10-23",
@@ -1283,7 +1263,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 22 from 1:40 pm - 6:30 pm"
+      "availability": "Thursday, Oct 22 from 1:50 pm - 6:30 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1336,11 +1316,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "9:20 am",
+          "start_time": "10:50 am",
           "end_time": "3:40 pm",
-          "time_range": "9:20 am - 3:40 pm",
-          "display": "9:20 am - 3:40 pm",
-          "display_full": "Thursday, Oct 22: 9:20 am - 3:40 pm"
+          "time_range": "10:50 am - 3:40 pm",
+          "display": "10:50 am - 3:40 pm",
+          "display_full": "Thursday, Oct 22: 10:50 am - 3:40 pm"
         },
         {
           "date": "2026-10-23",
@@ -1368,11 +1348,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "9:20 am",
+          "start_time": "10:50 am",
           "end_time": "3:40 pm",
-          "time_range": "9:20 am - 3:40 pm",
-          "display": "9:20 am - 3:40 pm",
-          "display_full": "Thursday, Oct 22: 9:20 am - 3:40 pm"
+          "time_range": "10:50 am - 3:40 pm",
+          "display": "10:50 am - 3:40 pm",
+          "display_full": "Thursday, Oct 22: 10:50 am - 3:40 pm"
         },
         {
           "date": "2026-10-23",
@@ -1396,7 +1376,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 22 from 9:20 am - 3:40 pm"
+      "availability": "Thursday, Oct 22 from 10:50 am - 3:40 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
