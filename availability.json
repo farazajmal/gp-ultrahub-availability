@@ -223,11 +223,21 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "5:00 pm",
+          "start_time": "6:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:00 pm - 6:30 pm",
-          "display": "5:00 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 22: 5:00 pm - 6:30 pm"
+          "time_range": "6:30 pm",
+          "display": "6:30 pm",
+          "display_full": "Thursday, Oct 22: 6:30 pm"
+        },
+        {
+          "date": "2026-10-23",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 23",
+          "start_time": "1:15 pm",
+          "end_time": "1:15 pm",
+          "time_range": "1:15 pm",
+          "display": "1:15 pm",
+          "display_full": "Friday, Oct 23: 1:15 pm"
         },
         {
           "date": "2026-10-24",
@@ -255,11 +265,21 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "5:00 pm",
+          "start_time": "6:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:00 pm - 6:30 pm",
-          "display": "5:00 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 22: 5:00 pm - 6:30 pm"
+          "time_range": "6:30 pm",
+          "display": "6:30 pm",
+          "display_full": "Thursday, Oct 22: 6:30 pm"
+        },
+        {
+          "date": "2026-10-23",
+          "day_name": "Friday",
+          "date_label": "Friday, Oct 23",
+          "start_time": "1:15 pm",
+          "end_time": "1:15 pm",
+          "time_range": "1:15 pm",
+          "display": "1:15 pm",
+          "display_full": "Friday, Oct 23: 1:15 pm"
         },
         {
           "date": "2026-10-24",
@@ -283,7 +303,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 22 from 5:00 pm - 6:30 pm"
+      "availability": "Thursday, Oct 22 from 6:30 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -334,11 +354,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "9:15 am",
+          "start_time": "10:45 am",
           "end_time": "11:45 am",
-          "time_range": "9:15 am - 11:45 am",
-          "display": "9:15 am - 11:45 am",
-          "display_full": "Thursday, Oct 22: 9:15 am - 11:45 am"
+          "time_range": "10:45 am - 11:45 am",
+          "display": "10:45 am - 11:45 am",
+          "display_full": "Thursday, Oct 22: 10:45 am - 11:45 am"
         },
         {
           "date": "2026-10-23",
@@ -366,11 +386,11 @@
           "date": "2026-10-22",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 22",
-          "start_time": "9:15 am",
+          "start_time": "10:45 am",
           "end_time": "11:45 am",
-          "time_range": "9:15 am - 11:45 am",
-          "display": "9:15 am - 11:45 am",
-          "display_full": "Thursday, Oct 22: 9:15 am - 11:45 am"
+          "time_range": "10:45 am - 11:45 am",
+          "display": "10:45 am - 11:45 am",
+          "display_full": "Thursday, Oct 22: 10:45 am - 11:45 am"
         },
         {
           "date": "2026-10-23",
@@ -394,7 +414,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 22 from 9:15 am - 11:45 am"
+      "availability": "Thursday, Oct 22 from 10:45 am - 11:45 am"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -529,16 +549,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "availability_patches": [
         {
-          "date": "2026-10-23",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 23",
-          "start_time": "7:15 am",
-          "end_time": "7:15 am",
-          "time_range": "7:15 am",
-          "display": "7:15 am",
-          "display_full": "Friday, Oct 23: 7:15 am"
-        },
-        {
           "date": "2026-10-25",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 25",
@@ -551,16 +561,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-23",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 23",
-          "start_time": "7:15 am",
-          "end_time": "7:15 am",
-          "time_range": "7:15 am",
-          "display": "7:15 am",
-          "display_full": "Friday, Oct 23: 7:15 am"
-        },
-        {
           "date": "2026-10-25",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 25",
@@ -572,7 +572,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 23 from 7:15 am"
+      "availability": "Sunday, Oct 25 from 11:45 am - 3:45 pm"
     }
   },
   "Calliope": {
