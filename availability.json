@@ -57,9 +57,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "Dip Occ Med (RCPI)",
         "MBBS",
-        "MRCGP",
-        "Dip Occ Med (RCPI)"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -199,10 +199,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
+        "MCPS",
         "MBBS",
-        "MRCGP",
-        "MCPS"
+        "MCPS (Family Medicine)",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -294,9 +294,9 @@
       "qualifications": [
         "MBBS",
         "MRCGP",
-        "DFM",
         "MCPS",
-        "General Practitioner"
+        "General Practitioner",
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -452,8 +452,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MBBS",
+        "MCPS (Family Medicine)",
         "MRCGP"
       ],
       "areas_of_interest": [
@@ -849,11 +849,11 @@
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
-          "start_time": "7:30 am",
-          "end_time": "2:00 pm",
-          "time_range": "7:30 am - 2:00 pm",
-          "display": "7:30 am - 2:00 pm",
-          "display_full": "Friday, Oct 23: 7:30 am - 2:00 pm"
+          "start_time": "11:00 am",
+          "end_time": "1:45 pm",
+          "time_range": "11:00 am - 1:45 pm",
+          "display": "11:00 am - 1:45 pm",
+          "display_full": "Friday, Oct 23: 11:00 am - 1:45 pm"
         },
         {
           "date": "2026-10-24",
@@ -891,11 +891,11 @@
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
-          "start_time": "7:30 am",
-          "end_time": "2:00 pm",
-          "time_range": "7:30 am - 2:00 pm",
-          "display": "7:30 am - 2:00 pm",
-          "display_full": "Friday, Oct 23: 7:30 am - 2:00 pm"
+          "start_time": "11:00 am",
+          "end_time": "1:45 pm",
+          "time_range": "11:00 am - 1:45 pm",
+          "display": "11:00 am - 1:45 pm",
+          "display_full": "Friday, Oct 23: 11:00 am - 1:45 pm"
         },
         {
           "date": "2026-10-24",
@@ -929,7 +929,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 23 from 7:30 am - 2:00 pm"
+      "availability": "Friday, Oct 23 from 11:00 am - 1:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1163,11 +1163,11 @@
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
-          "start_time": "12:00 pm",
+          "start_time": "2:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:00 pm - 6:40 pm",
-          "display": "12:00 pm - 6:40 pm",
-          "display_full": "Friday, Oct 23: 12:00 pm - 6:40 pm"
+          "time_range": "2:10 pm - 6:40 pm",
+          "display": "2:10 pm - 6:40 pm",
+          "display_full": "Friday, Oct 23: 2:10 pm - 6:40 pm"
         },
         {
           "date": "2026-10-26",
@@ -1195,11 +1195,11 @@
           "date": "2026-10-23",
           "day_name": "Friday",
           "date_label": "Friday, Oct 23",
-          "start_time": "12:00 pm",
+          "start_time": "2:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:00 pm - 6:40 pm",
-          "display": "12:00 pm - 6:40 pm",
-          "display_full": "Friday, Oct 23: 12:00 pm - 6:40 pm"
+          "time_range": "2:10 pm - 6:40 pm",
+          "display": "2:10 pm - 6:40 pm",
+          "display_full": "Friday, Oct 23: 2:10 pm - 6:40 pm"
         },
         {
           "date": "2026-10-26",
@@ -1223,7 +1223,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 23 from 12:00 pm - 6:40 pm"
+      "availability": "Friday, Oct 23 from 2:10 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
