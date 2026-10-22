@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-22 07:00:45 AM",
+    "last_updated": "2026-10-22 07:00:53 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -56,9 +56,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
+                    "Dip Occ Med (RCPI)",
                     "MRCGP",
-                    "Dip Occ Med (RCPI)"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -109,9 +109,9 @@
                 "gender": "Female",
                 "qualifications": [
                     "MCPS (Family Medicine)",
-                    "MBBS",
+                    "MCPS",
                     "MRCGP",
-                    "MCPS"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -156,9 +156,9 @@
                 "gender": "Male",
                 "qualifications": [
                     "MBBS",
+                    "MCPS",
                     "MRCGP",
                     "DFM",
-                    "MCPS",
                     "General Practitioner"
                 ],
                 "areas_of_interest": [
@@ -246,8 +246,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MCPS (Family Medicine)",
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -471,8 +471,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -667,9 +667,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCPG",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
