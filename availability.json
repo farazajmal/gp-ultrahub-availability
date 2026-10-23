@@ -507,10 +507,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-10-25",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Oct 25",
+          "start_time": "12:00 pm",
+          "end_time": "12:15 pm",
+          "time_range": "12:00 pm - 12:15 pm",
+          "display": "12:00 pm - 12:15 pm",
+          "display_full": "Sunday, Oct 25: 12:00 pm - 12:15 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-10-25",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Oct 25",
+          "start_time": "12:00 pm",
+          "end_time": "12:15 pm",
+          "time_range": "12:00 pm - 12:15 pm",
+          "display": "12:00 pm - 12:15 pm",
+          "display_full": "Sunday, Oct 25: 12:00 pm - 12:15 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Sunday, Oct 25 from 12:00 pm - 12:15 pm"
     }
   },
   "Calliope": {
