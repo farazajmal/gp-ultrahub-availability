@@ -524,11 +524,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "7:45 am",
+          "start_time": "10:15 am",
           "end_time": "2:15 pm",
-          "time_range": "7:45 am - 2:15 pm",
-          "display": "7:45 am - 2:15 pm",
-          "display_full": "Monday, Oct 26: 7:45 am - 2:15 pm"
+          "time_range": "10:15 am - 2:15 pm",
+          "display": "10:15 am - 2:15 pm",
+          "display_full": "Monday, Oct 26: 10:15 am - 2:15 pm"
         },
         {
           "date": "2026-10-27",
@@ -546,11 +546,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "7:45 am",
+          "start_time": "10:15 am",
           "end_time": "2:15 pm",
-          "time_range": "7:45 am - 2:15 pm",
-          "display": "7:45 am - 2:15 pm",
-          "display_full": "Monday, Oct 26: 7:45 am - 2:15 pm"
+          "time_range": "10:15 am - 2:15 pm",
+          "display": "10:15 am - 2:15 pm",
+          "display_full": "Monday, Oct 26: 10:15 am - 2:15 pm"
         },
         {
           "date": "2026-10-27",
@@ -564,7 +564,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 26 from 7:45 am - 2:15 pm"
+      "availability": "Monday, Oct 26 from 10:15 am - 2:15 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
