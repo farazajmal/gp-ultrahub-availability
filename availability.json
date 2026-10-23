@@ -57,9 +57,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MBBS",
         "MRCGP",
-        "Dip Occ Med (RCPI)",
-        "MBBS"
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -89,11 +89,11 @@
           "date": "2026-10-25",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 25",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "10:30 am - 3:45 pm",
-          "display": "10:30 am - 3:45 pm",
-          "display_full": "Sunday, Oct 25: 10:30 am - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Sunday, Oct 25: 10:45 am - 3:45 pm"
         },
         {
           "date": "2026-10-26",
@@ -131,11 +131,11 @@
           "date": "2026-10-25",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 25",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "10:30 am - 3:45 pm",
-          "display": "10:30 am - 3:45 pm",
-          "display_full": "Sunday, Oct 25: 10:30 am - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Sunday, Oct 25: 10:45 am - 3:45 pm"
         },
         {
           "date": "2026-10-26",
@@ -169,7 +169,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 25 from 10:30 am - 3:45 pm"
+      "availability": "Sunday, Oct 25 from 10:45 am - 3:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -199,10 +199,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
+        "MBBS",
         "MCPS (Family Medicine)",
-        "MCPS",
-        "MBBS"
+        "MRCGP",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -272,11 +272,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "General Practitioner",
         "DFM",
-        "MCPS",
-        "MBBS",
         "MRCGP",
-        "General Practitioner"
+        "MBBS",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -432,9 +432,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
+        "MBBS",
         "MCPS (Family Medicine)",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -788,8 +788,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1210,9 +1210,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MRCPG",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
