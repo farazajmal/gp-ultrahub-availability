@@ -57,9 +57,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "MRCGP",
-        "Dip Occ Med (RCPI)"
+        "Dip Occ Med (RCPI)",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -199,10 +199,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MCPS (Family Medicine)",
+        "MCPS",
         "MRCGP",
-        "MCPS"
+        "MCPS (Family Medicine)",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -272,11 +272,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "General Practitioner",
-        "DFM",
-        "MRCGP",
         "MBBS",
-        "MCPS"
+        "MCPS",
+        "General Practitioner",
+        "MRCGP",
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -432,9 +432,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
+        "MRCGP",
         "MCPS (Family Medicine)",
-        "MRCGP"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -564,11 +564,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "12:15 pm",
+          "start_time": "12:30 pm",
           "end_time": "2:00 pm",
-          "time_range": "12:15 pm - 2:00 pm",
-          "display": "12:15 pm - 2:00 pm",
-          "display_full": "Monday, Oct 26: 12:15 pm - 2:00 pm"
+          "time_range": "12:30 pm - 2:00 pm",
+          "display": "12:30 pm - 2:00 pm",
+          "display_full": "Monday, Oct 26: 12:30 pm - 2:00 pm"
         },
         {
           "date": "2026-10-27",
@@ -596,11 +596,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "12:15 pm",
+          "start_time": "12:30 pm",
           "end_time": "2:00 pm",
-          "time_range": "12:15 pm - 2:00 pm",
-          "display": "12:15 pm - 2:00 pm",
-          "display_full": "Monday, Oct 26: 12:15 pm - 2:00 pm"
+          "time_range": "12:30 pm - 2:00 pm",
+          "display": "12:30 pm - 2:00 pm",
+          "display_full": "Monday, Oct 26: 12:30 pm - 2:00 pm"
         },
         {
           "date": "2026-10-27",
@@ -624,7 +624,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 26 from 12:15 pm - 2:00 pm"
+      "availability": "Monday, Oct 26 from 12:30 pm - 2:00 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -766,8 +766,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1168,9 +1168,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MRCGP",
         "MRCPG",
-        "MBBS",
-        "MRCGP"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
