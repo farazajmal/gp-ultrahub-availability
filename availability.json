@@ -89,11 +89,11 @@
           "date": "2026-10-25",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 25",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "3:45 pm",
-          "time_range": "11:15 am - 3:45 pm",
-          "display": "11:15 am - 3:45 pm",
-          "display_full": "Sunday, Oct 25: 11:15 am - 3:45 pm"
+          "time_range": "11:30 am - 3:45 pm",
+          "display": "11:30 am - 3:45 pm",
+          "display_full": "Sunday, Oct 25: 11:30 am - 3:45 pm"
         },
         {
           "date": "2026-10-26",
@@ -131,11 +131,11 @@
           "date": "2026-10-25",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 25",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "3:45 pm",
-          "time_range": "11:15 am - 3:45 pm",
-          "display": "11:15 am - 3:45 pm",
-          "display_full": "Sunday, Oct 25: 11:15 am - 3:45 pm"
+          "time_range": "11:30 am - 3:45 pm",
+          "display": "11:30 am - 3:45 pm",
+          "display_full": "Sunday, Oct 25: 11:30 am - 3:45 pm"
         },
         {
           "date": "2026-10-26",
@@ -169,7 +169,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 25 from 11:15 am - 3:45 pm"
+      "availability": "Sunday, Oct 25 from 11:30 am - 3:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -243,11 +243,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "11:15 am",
+          "start_time": "11:45 am",
           "end_time": "1:45 pm",
-          "time_range": "11:15 am - 1:45 pm",
-          "display": "11:15 am - 1:45 pm",
-          "display_full": "Wednesday, Oct 28: 11:15 am - 1:45 pm"
+          "time_range": "11:45 am - 1:45 pm",
+          "display": "11:45 am - 1:45 pm",
+          "display_full": "Wednesday, Oct 28: 11:45 am - 1:45 pm"
         }
       ],
       "patches": [
@@ -255,15 +255,15 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "11:15 am",
+          "start_time": "11:45 am",
           "end_time": "1:45 pm",
-          "time_range": "11:15 am - 1:45 pm",
-          "display": "11:15 am - 1:45 pm",
-          "display_full": "Wednesday, Oct 28: 11:15 am - 1:45 pm"
+          "time_range": "11:45 am - 1:45 pm",
+          "display": "11:45 am - 1:45 pm",
+          "display_full": "Wednesday, Oct 28: 11:45 am - 1:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 28 from 11:15 am - 1:45 pm"
+      "availability": "Wednesday, Oct 28 from 11:45 am - 1:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -677,11 +677,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "12:45 pm",
-          "time_range": "11:45 am - 12:45 pm",
-          "display": "11:45 am - 12:45 pm",
-          "display_full": "Wednesday, Oct 28: 11:45 am - 12:45 pm"
+          "time_range": "12:00 pm - 12:45 pm",
+          "display": "12:00 pm - 12:45 pm",
+          "display_full": "Wednesday, Oct 28: 12:00 pm - 12:45 pm"
         }
       ],
       "patches": [
@@ -689,15 +689,15 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "12:45 pm",
-          "time_range": "11:45 am - 12:45 pm",
-          "display": "11:45 am - 12:45 pm",
-          "display_full": "Wednesday, Oct 28: 11:45 am - 12:45 pm"
+          "time_range": "12:00 pm - 12:45 pm",
+          "display": "12:00 pm - 12:45 pm",
+          "display_full": "Wednesday, Oct 28: 12:00 pm - 12:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 28 from 11:45 am - 12:45 pm"
+      "availability": "Wednesday, Oct 28 from 12:00 pm - 12:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
