@@ -89,11 +89,11 @@
           "date": "2026-10-25",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 25",
-          "start_time": "10:45 am",
+          "start_time": "11:00 am",
           "end_time": "3:45 pm",
-          "time_range": "10:45 am - 3:45 pm",
-          "display": "10:45 am - 3:45 pm",
-          "display_full": "Sunday, Oct 25: 10:45 am - 3:45 pm"
+          "time_range": "11:00 am - 3:45 pm",
+          "display": "11:00 am - 3:45 pm",
+          "display_full": "Sunday, Oct 25: 11:00 am - 3:45 pm"
         },
         {
           "date": "2026-10-26",
@@ -131,11 +131,11 @@
           "date": "2026-10-25",
           "day_name": "Sunday",
           "date_label": "Sunday, Oct 25",
-          "start_time": "10:45 am",
+          "start_time": "11:00 am",
           "end_time": "3:45 pm",
-          "time_range": "10:45 am - 3:45 pm",
-          "display": "10:45 am - 3:45 pm",
-          "display_full": "Sunday, Oct 25: 10:45 am - 3:45 pm"
+          "time_range": "11:00 am - 3:45 pm",
+          "display": "11:00 am - 3:45 pm",
+          "display_full": "Sunday, Oct 25: 11:00 am - 3:45 pm"
         },
         {
           "date": "2026-10-26",
@@ -169,7 +169,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Oct 25 from 10:45 am - 3:45 pm"
+      "availability": "Sunday, Oct 25 from 11:00 am - 3:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -240,16 +240,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-10-24",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 24",
-          "start_time": "11:30 am",
-          "end_time": "12:30 pm",
-          "time_range": "11:30 am - 12:30 pm",
-          "display": "11:30 am - 12:30 pm",
-          "display_full": "Saturday, Oct 24: 11:30 am - 12:30 pm"
-        },
-        {
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
@@ -262,16 +252,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-24",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 24",
-          "start_time": "11:30 am",
-          "end_time": "12:30 pm",
-          "time_range": "11:30 am - 12:30 pm",
-          "display": "11:30 am - 12:30 pm",
-          "display_full": "Saturday, Oct 24: 11:30 am - 12:30 pm"
-        },
-        {
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
@@ -283,7 +263,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 24 from 11:30 am - 12:30 pm"
+      "availability": "Wednesday, Oct 28 from 11:15 am - 1:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -334,11 +314,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "11:00 am",
+          "start_time": "11:45 am",
           "end_time": "6:15 pm",
-          "time_range": "11:00 am - 6:15 pm",
-          "display": "11:00 am - 6:15 pm",
-          "display_full": "Monday, Oct 26: 11:00 am - 6:15 pm"
+          "time_range": "11:45 am - 6:15 pm",
+          "display": "11:45 am - 6:15 pm",
+          "display_full": "Monday, Oct 26: 11:45 am - 6:15 pm"
         },
         {
           "date": "2026-10-27",
@@ -366,11 +346,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "11:00 am",
+          "start_time": "11:45 am",
           "end_time": "6:15 pm",
-          "time_range": "11:00 am - 6:15 pm",
-          "display": "11:00 am - 6:15 pm",
-          "display_full": "Monday, Oct 26: 11:00 am - 6:15 pm"
+          "time_range": "11:45 am - 6:15 pm",
+          "display": "11:45 am - 6:15 pm",
+          "display_full": "Monday, Oct 26: 11:45 am - 6:15 pm"
         },
         {
           "date": "2026-10-27",
@@ -394,7 +374,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 26 from 11:00 am - 6:15 pm"
+      "availability": "Monday, Oct 26 from 11:45 am - 6:15 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -527,32 +507,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-      "availability_patches": [
-        {
-          "date": "2026-10-25",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Oct 25",
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm",
-          "time_range": "12:00 pm",
-          "display": "12:00 pm",
-          "display_full": "Sunday, Oct 25: 12:00 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-25",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Oct 25",
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm",
-          "time_range": "12:00 pm",
-          "display": "12:00 pm",
-          "display_full": "Sunday, Oct 25: 12:00 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Sunday, Oct 25 from 12:00 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     }
   },
   "Calliope": {
@@ -847,11 +805,11 @@
           "date": "2026-10-24",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 24",
-          "start_time": "12:45 pm",
+          "start_time": "2:15 pm",
           "end_time": "3:30 pm",
-          "time_range": "12:45 pm - 3:30 pm",
-          "display": "12:45 pm - 3:30 pm",
-          "display_full": "Saturday, Oct 24: 12:45 pm - 3:30 pm"
+          "time_range": "2:15 pm - 3:30 pm",
+          "display": "2:15 pm - 3:30 pm",
+          "display_full": "Saturday, Oct 24: 2:15 pm - 3:30 pm"
         },
         {
           "date": "2026-10-26",
@@ -889,11 +847,11 @@
           "date": "2026-10-24",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 24",
-          "start_time": "12:45 pm",
+          "start_time": "2:15 pm",
           "end_time": "3:30 pm",
-          "time_range": "12:45 pm - 3:30 pm",
-          "display": "12:45 pm - 3:30 pm",
-          "display_full": "Saturday, Oct 24: 12:45 pm - 3:30 pm"
+          "time_range": "2:15 pm - 3:30 pm",
+          "display": "2:15 pm - 3:30 pm",
+          "display_full": "Saturday, Oct 24: 2:15 pm - 3:30 pm"
         },
         {
           "date": "2026-10-26",
@@ -927,7 +885,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 24 from 12:45 pm - 3:30 pm"
+      "availability": "Saturday, Oct 24 from 2:15 pm - 3:30 pm"
     }
   },
   "Burnett Heads": {
