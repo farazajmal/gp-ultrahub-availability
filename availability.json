@@ -190,16 +190,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-10-28",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 28",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Wednesday, Oct 28: 1:45 pm"
-        },
-        {
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
@@ -212,16 +202,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-28",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 28",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Wednesday, Oct 28: 1:45 pm"
-        },
-        {
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
@@ -233,7 +213,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 28 from 1:45 pm"
+      "availability": "Thursday, Oct 29 from 9:30 am - 2:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -497,10 +477,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-10-25",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Oct 25",
+          "start_time": "1:00 pm",
+          "end_time": "1:00 pm",
+          "time_range": "1:00 pm",
+          "display": "1:00 pm",
+          "display_full": "Sunday, Oct 25: 1:00 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-10-25",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Oct 25",
+          "start_time": "1:00 pm",
+          "end_time": "1:00 pm",
+          "time_range": "1:00 pm",
+          "display": "1:00 pm",
+          "display_full": "Sunday, Oct 25: 1:00 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Sunday, Oct 25 from 1:00 pm"
     }
   },
   "Calliope": {
