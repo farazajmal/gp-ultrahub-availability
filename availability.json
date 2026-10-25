@@ -775,11 +775,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:45 am - 5:00 pm",
-          "display": "11:45 am - 5:00 pm",
-          "display_full": "Monday, Oct 26: 11:45 am - 5:00 pm"
+          "time_range": "12:00 pm - 5:00 pm",
+          "display": "12:00 pm - 5:00 pm",
+          "display_full": "Monday, Oct 26: 12:00 pm - 5:00 pm"
         },
         {
           "date": "2026-10-27",
@@ -817,11 +817,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:45 am - 5:00 pm",
-          "display": "11:45 am - 5:00 pm",
-          "display_full": "Monday, Oct 26: 11:45 am - 5:00 pm"
+          "time_range": "12:00 pm - 5:00 pm",
+          "display": "12:00 pm - 5:00 pm",
+          "display_full": "Monday, Oct 26: 12:00 pm - 5:00 pm"
         },
         {
           "date": "2026-10-27",
@@ -855,7 +855,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 26 from 11:45 am - 5:00 pm"
+      "availability": "Monday, Oct 26 from 12:00 pm - 5:00 pm"
     }
   },
   "Burnett Heads": {
@@ -1109,11 +1109,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "12:50 pm",
+          "start_time": "1:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:50 pm - 6:40 pm",
-          "display": "12:50 pm - 6:40 pm",
-          "display_full": "Monday, Oct 26: 12:50 pm - 6:40 pm"
+          "time_range": "1:10 pm - 6:40 pm",
+          "display": "1:10 pm - 6:40 pm",
+          "display_full": "Monday, Oct 26: 1:10 pm - 6:40 pm"
         },
         {
           "date": "2026-10-27",
@@ -1151,11 +1151,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "12:50 pm",
+          "start_time": "1:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:50 pm - 6:40 pm",
-          "display": "12:50 pm - 6:40 pm",
-          "display_full": "Monday, Oct 26: 12:50 pm - 6:40 pm"
+          "time_range": "1:10 pm - 6:40 pm",
+          "display": "1:10 pm - 6:40 pm",
+          "display_full": "Monday, Oct 26: 1:10 pm - 6:40 pm"
         },
         {
           "date": "2026-10-27",
@@ -1189,7 +1189,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 26 from 12:50 pm - 6:40 pm"
+      "availability": "Monday, Oct 26 from 1:10 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1357,11 +1357,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Monday, Oct 26: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Monday, Oct 26: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-27",
@@ -1399,11 +1399,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Monday, Oct 26: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Monday, Oct 26: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-27",
@@ -1437,7 +1437,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 26 from 9:10 am - 4:00 pm"
+      "availability": "Monday, Oct 26 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
