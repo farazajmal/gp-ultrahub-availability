@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -149,10 +149,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MCPS",
         "MCPS (Family Medicine)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -190,30 +190,50 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-10-29",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Oct 29",
-          "start_time": "9:30 am",
-          "end_time": "2:45 pm",
-          "time_range": "9:30 am - 2:45 pm",
-          "display": "9:30 am - 2:45 pm",
-          "display_full": "Thursday, Oct 29: 9:30 am - 2:45 pm"
-        }
-      ],
-      "patches": [
+          "date": "2026-10-28",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 28",
+          "start_time": "1:15 pm",
+          "end_time": "1:15 pm",
+          "time_range": "1:15 pm",
+          "display": "1:15 pm",
+          "display_full": "Wednesday, Oct 28: 1:15 pm"
+        },
         {
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "9:30 am",
+          "start_time": "9:45 am",
           "end_time": "2:45 pm",
-          "time_range": "9:30 am - 2:45 pm",
-          "display": "9:30 am - 2:45 pm",
-          "display_full": "Thursday, Oct 29: 9:30 am - 2:45 pm"
+          "time_range": "9:45 am - 2:45 pm",
+          "display": "9:45 am - 2:45 pm",
+          "display_full": "Thursday, Oct 29: 9:45 am - 2:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-10-28",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Oct 28",
+          "start_time": "1:15 pm",
+          "end_time": "1:15 pm",
+          "time_range": "1:15 pm",
+          "display": "1:15 pm",
+          "display_full": "Wednesday, Oct 28: 1:15 pm"
+        },
+        {
+          "date": "2026-10-29",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Oct 29",
+          "start_time": "9:45 am",
+          "end_time": "2:45 pm",
+          "time_range": "9:45 am - 2:45 pm",
+          "display": "9:45 am - 2:45 pm",
+          "display_full": "Thursday, Oct 29: 9:45 am - 2:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 29 from 9:30 am - 2:45 pm"
+      "availability": "Wednesday, Oct 28 from 1:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -223,10 +243,10 @@
       "gender": "Male",
       "qualifications": [
         "DFM",
-        "General Practitioner",
-        "MBBS",
         "MRCGP",
-        "MCPS"
+        "General Practitioner",
+        "MCPS",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -402,8 +422,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MCPS (Family Medicine)",
+        "MBBS",
         "MRCGP"
       ],
       "areas_of_interest": [
@@ -776,8 +796,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1171,11 +1191,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "12:20 pm",
+          "start_time": "12:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:20 pm - 6:40 pm",
-          "display": "12:20 pm - 6:40 pm",
-          "display_full": "Monday, Oct 26: 12:20 pm - 6:40 pm"
+          "time_range": "12:40 pm - 6:40 pm",
+          "display": "12:40 pm - 6:40 pm",
+          "display_full": "Monday, Oct 26: 12:40 pm - 6:40 pm"
         },
         {
           "date": "2026-10-27",
@@ -1213,11 +1233,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "12:20 pm",
+          "start_time": "12:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:20 pm - 6:40 pm",
-          "display": "12:20 pm - 6:40 pm",
-          "display_full": "Monday, Oct 26: 12:20 pm - 6:40 pm"
+          "time_range": "12:40 pm - 6:40 pm",
+          "display": "12:40 pm - 6:40 pm",
+          "display_full": "Monday, Oct 26: 12:40 pm - 6:40 pm"
         },
         {
           "date": "2026-10-27",
@@ -1251,7 +1271,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 26 from 12:20 pm - 6:40 pm"
+      "availability": "Monday, Oct 26 from 12:40 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1260,9 +1280,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCPG",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1304,11 +1324,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "8:20 am",
+          "start_time": "9:50 am",
           "end_time": "3:20 pm",
-          "time_range": "8:20 am - 3:20 pm",
-          "display": "8:20 am - 3:20 pm",
-          "display_full": "Monday, Oct 26: 8:20 am - 3:20 pm"
+          "time_range": "9:50 am - 3:20 pm",
+          "display": "9:50 am - 3:20 pm",
+          "display_full": "Monday, Oct 26: 9:50 am - 3:20 pm"
         },
         {
           "date": "2026-10-27",
@@ -1346,11 +1366,11 @@
           "date": "2026-10-26",
           "day_name": "Monday",
           "date_label": "Monday, Oct 26",
-          "start_time": "8:20 am",
+          "start_time": "9:50 am",
           "end_time": "3:20 pm",
-          "time_range": "8:20 am - 3:20 pm",
-          "display": "8:20 am - 3:20 pm",
-          "display_full": "Monday, Oct 26: 8:20 am - 3:20 pm"
+          "time_range": "9:50 am - 3:20 pm",
+          "display": "9:50 am - 3:20 pm",
+          "display_full": "Monday, Oct 26: 9:50 am - 3:20 pm"
         },
         {
           "date": "2026-10-27",
@@ -1384,7 +1404,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Oct 26 from 8:20 am - 3:20 pm"
+      "availability": "Monday, Oct 26 from 9:50 am - 3:20 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
