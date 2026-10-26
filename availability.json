@@ -1350,16 +1350,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
       "availability_patches": [
         {
-          "date": "2026-10-27",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 27",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Tuesday, Oct 27: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
@@ -1392,16 +1382,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-27",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 27",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Tuesday, Oct 27: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
@@ -1433,7 +1413,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 27 from 3:10 pm - 4:00 pm"
+      "availability": "Wednesday, Oct 28 from 8:00 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
