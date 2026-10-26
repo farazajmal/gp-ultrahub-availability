@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-25 07:00:50 PM",
+    "last_updated": "2026-10-26 07:00:51 AM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -10,8 +10,8 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
                     "Dip Occ Med (RCPI)",
+                    "MBBS",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
@@ -63,9 +63,9 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MCPS",
+                    "MRCGP",
                     "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -109,11 +109,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "MBBS",
                     "General Practitioner",
                     "MRCGP",
                     "DFM",
-                    "MCPS",
-                    "MBBS"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -169,6 +169,7 @@
                 "doctor_slug": "dr-bushra-khan",
                 "availability_type_ids": [
                     "1004658",
+                    "1648354",
                     "1035713",
                     "1035713",
                     "1035713",
@@ -181,8 +182,7 @@
                     "1004658",
                     "1633052",
                     "1633053",
-                    "1629874",
-                    "1629874",
+                    "1648354",
                     "1162368",
                     "1591603",
                     "1591611",
@@ -200,8 +200,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MBBS",
-                    "MCPS (Family Medicine)",
-                    "MRCGP"
+                    "MRCGP",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -621,9 +621,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
