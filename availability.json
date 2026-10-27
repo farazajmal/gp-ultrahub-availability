@@ -733,11 +733,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "1:15 pm",
+          "start_time": "10:15 am",
           "end_time": "5:15 pm",
-          "time_range": "1:15 pm - 5:15 pm",
-          "display": "1:15 pm - 5:15 pm",
-          "display_full": "Wednesday, Oct 28: 1:15 pm - 5:15 pm"
+          "time_range": "10:15 am - 5:15 pm",
+          "display": "10:15 am - 5:15 pm",
+          "display_full": "Wednesday, Oct 28: 10:15 am - 5:15 pm"
         },
         {
           "date": "2026-10-29",
@@ -775,11 +775,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "1:15 pm",
+          "start_time": "10:15 am",
           "end_time": "5:15 pm",
-          "time_range": "1:15 pm - 5:15 pm",
-          "display": "1:15 pm - 5:15 pm",
-          "display_full": "Wednesday, Oct 28: 1:15 pm - 5:15 pm"
+          "time_range": "10:15 am - 5:15 pm",
+          "display": "10:15 am - 5:15 pm",
+          "display_full": "Wednesday, Oct 28: 10:15 am - 5:15 pm"
         },
         {
           "date": "2026-10-29",
@@ -813,7 +813,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 28 from 1:15 pm - 5:15 pm"
+      "availability": "Wednesday, Oct 28 from 10:15 am - 5:15 pm"
     }
   },
   "Burnett Heads": {
@@ -1066,16 +1066,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
       "availability_patches": [
         {
-          "date": "2026-10-27",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 27",
-          "start_time": "6:20 pm",
-          "end_time": "6:40 pm",
-          "time_range": "6:20 pm - 6:40 pm",
-          "display": "6:20 pm - 6:40 pm",
-          "display_full": "Tuesday, Oct 27: 6:20 pm - 6:40 pm"
-        },
-        {
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
@@ -1108,16 +1098,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-27",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Oct 27",
-          "start_time": "6:20 pm",
-          "end_time": "6:40 pm",
-          "time_range": "6:20 pm - 6:40 pm",
-          "display": "6:20 pm - 6:40 pm",
-          "display_full": "Tuesday, Oct 27: 6:20 pm - 6:40 pm"
-        },
-        {
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
@@ -1149,7 +1129,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Oct 27 from 6:20 pm - 6:40 pm"
+      "availability": "Wednesday, Oct 28 from 10:50 am - 3:20 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
