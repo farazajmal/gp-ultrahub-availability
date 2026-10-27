@@ -168,32 +168,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
-      "availability_patches": [
-        {
-          "date": "2026-10-28",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 28",
-          "start_time": "3:00 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:00 pm - 3:15 pm",
-          "display": "3:00 pm - 3:15 pm",
-          "display_full": "Wednesday, Oct 28: 3:00 pm - 3:15 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-10-28",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 28",
-          "start_time": "3:00 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:00 pm - 3:15 pm",
-          "display": "3:00 pm - 3:15 pm",
-          "display_full": "Wednesday, Oct 28: 3:00 pm - 3:15 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Wednesday, Oct 28 from 3:00 pm - 3:15 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -514,11 +492,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "8:45 am",
+          "start_time": "10:15 am",
           "end_time": "10:15 am",
-          "time_range": "8:45 am - 10:15 am",
-          "display": "8:45 am - 10:15 am",
-          "display_full": "Wednesday, Oct 28: 8:45 am - 10:15 am"
+          "time_range": "10:15 am",
+          "display": "10:15 am",
+          "display_full": "Wednesday, Oct 28: 10:15 am"
         },
         {
           "date": "2026-10-29",
@@ -546,11 +524,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "8:45 am",
+          "start_time": "10:15 am",
           "end_time": "10:15 am",
-          "time_range": "8:45 am - 10:15 am",
-          "display": "8:45 am - 10:15 am",
-          "display_full": "Wednesday, Oct 28: 8:45 am - 10:15 am"
+          "time_range": "10:15 am",
+          "display": "10:15 am",
+          "display_full": "Wednesday, Oct 28: 10:15 am"
         },
         {
           "date": "2026-10-29",
@@ -574,7 +552,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 28 from 8:45 am - 10:15 am"
+      "availability": "Wednesday, Oct 28 from 10:15 am"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -961,11 +939,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "12:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "4:15 pm",
-          "time_range": "12:00 pm - 4:15 pm",
-          "display": "12:00 pm - 4:15 pm",
-          "display_full": "Wednesday, Oct 28: 12:00 pm - 4:15 pm"
+          "time_range": "1:15 pm - 4:15 pm",
+          "display": "1:15 pm - 4:15 pm",
+          "display_full": "Wednesday, Oct 28: 1:15 pm - 4:15 pm"
         },
         {
           "date": "2026-10-29",
@@ -993,11 +971,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "12:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "4:15 pm",
-          "time_range": "12:00 pm - 4:15 pm",
-          "display": "12:00 pm - 4:15 pm",
-          "display_full": "Wednesday, Oct 28: 12:00 pm - 4:15 pm"
+          "time_range": "1:15 pm - 4:15 pm",
+          "display": "1:15 pm - 4:15 pm",
+          "display_full": "Wednesday, Oct 28: 1:15 pm - 4:15 pm"
         },
         {
           "date": "2026-10-29",
@@ -1021,7 +999,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 28 from 12:00 pm - 4:15 pm"
+      "availability": "Wednesday, Oct 28 from 1:15 pm - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1277,11 +1255,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Oct 28: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Wednesday, Oct 28: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-29",
@@ -1309,11 +1287,11 @@
           "date": "2026-10-28",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Oct 28",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Oct 28: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Wednesday, Oct 28: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-10-29",
@@ -1337,7 +1315,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 28 from 8:00 am - 4:00 pm"
+      "availability": "Wednesday, Oct 28 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
