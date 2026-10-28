@@ -131,8 +131,8 @@
       "qualifications": [
         "MRCGP",
         "MCPS (Family Medicine)",
-        "MBBS",
-        "MCPS"
+        "MCPS",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -173,11 +173,11 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "3:30 pm",
-          "time_range": "11:45 am - 3:30 pm",
-          "display": "11:45 am - 3:30 pm",
-          "display_full": "Sunday, Nov 01: 11:45 am - 3:30 pm"
+          "time_range": "12:00 pm - 3:30 pm",
+          "display": "12:00 pm - 3:30 pm",
+          "display_full": "Sunday, Nov 01: 12:00 pm - 3:30 pm"
         }
       ],
       "patches": [
@@ -185,15 +185,15 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "3:30 pm",
-          "time_range": "11:45 am - 3:30 pm",
-          "display": "11:45 am - 3:30 pm",
-          "display_full": "Sunday, Nov 01: 11:45 am - 3:30 pm"
+          "time_range": "12:00 pm - 3:30 pm",
+          "display": "12:00 pm - 3:30 pm",
+          "display_full": "Sunday, Nov 01: 12:00 pm - 3:30 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 01 from 11:45 am - 3:30 pm"
+      "availability": "Sunday, Nov 01 from 12:00 pm - 3:30 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -202,11 +202,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
-        "General Practitioner",
-        "DFM",
         "MBBS",
-        "MCPS"
+        "MRCGP",
+        "MCPS",
+        "DFM",
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -244,11 +244,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "12:15 pm",
+          "start_time": "12:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "12:15 pm - 6:30 pm",
-          "display": "12:15 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 29: 12:15 pm - 6:30 pm"
+          "time_range": "12:30 pm - 6:30 pm",
+          "display": "12:30 pm - 6:30 pm",
+          "display_full": "Thursday, Oct 29: 12:30 pm - 6:30 pm"
         },
         {
           "date": "2026-10-30",
@@ -276,11 +276,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "12:15 pm",
+          "start_time": "12:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "12:15 pm - 6:30 pm",
-          "display": "12:15 pm - 6:30 pm",
-          "display_full": "Thursday, Oct 29: 12:15 pm - 6:30 pm"
+          "time_range": "12:30 pm - 6:30 pm",
+          "display": "12:30 pm - 6:30 pm",
+          "display_full": "Thursday, Oct 29: 12:30 pm - 6:30 pm"
         },
         {
           "date": "2026-10-30",
@@ -304,7 +304,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 29 from 12:15 pm - 6:30 pm"
+      "availability": "Thursday, Oct 29 from 12:30 pm - 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -670,24 +670,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
-          "date": "2026-10-28",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 28",
-          "start_time": "5:15 pm",
-          "end_time": "5:15 pm",
-          "time_range": "5:15 pm",
-          "display": "5:15 pm",
-          "display_full": "Wednesday, Oct 28: 5:15 pm"
-        },
-        {
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "11:45 am",
+          "start_time": "12:45 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:45 am - 5:00 pm",
-          "display": "11:45 am - 5:00 pm",
-          "display_full": "Thursday, Oct 29: 11:45 am - 5:00 pm"
+          "time_range": "12:45 pm - 5:00 pm",
+          "display": "12:45 pm - 5:00 pm",
+          "display_full": "Thursday, Oct 29: 12:45 pm - 5:00 pm"
         },
         {
           "date": "2026-10-30",
@@ -712,24 +702,14 @@
       ],
       "patches": [
         {
-          "date": "2026-10-28",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Oct 28",
-          "start_time": "5:15 pm",
-          "end_time": "5:15 pm",
-          "time_range": "5:15 pm",
-          "display": "5:15 pm",
-          "display_full": "Wednesday, Oct 28: 5:15 pm"
-        },
-        {
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "11:45 am",
+          "start_time": "12:45 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:45 am - 5:00 pm",
-          "display": "11:45 am - 5:00 pm",
-          "display_full": "Thursday, Oct 29: 11:45 am - 5:00 pm"
+          "time_range": "12:45 pm - 5:00 pm",
+          "display": "12:45 pm - 5:00 pm",
+          "display_full": "Thursday, Oct 29: 12:45 pm - 5:00 pm"
         },
         {
           "date": "2026-10-30",
@@ -753,7 +733,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Oct 28 from 5:15 pm"
+      "availability": "Thursday, Oct 29 from 12:45 pm - 5:00 pm"
     }
   },
   "Burnett Heads": {
@@ -990,10 +970,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
           "start_time": "8:10 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:10 am - 3:40 pm",
-          "display": "8:10 am - 3:40 pm",
-          "display_full": "Thursday, Oct 29: 8:10 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:10 am - 3:30 pm",
+          "display": "8:10 am - 3:30 pm",
+          "display_full": "Thursday, Oct 29: 8:10 am - 3:30 pm"
         },
         {
           "date": "2026-10-30",
@@ -1012,10 +992,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
           "start_time": "8:10 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:10 am - 3:40 pm",
-          "display": "8:10 am - 3:40 pm",
-          "display_full": "Thursday, Oct 29: 8:10 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:10 am - 3:30 pm",
+          "display": "8:10 am - 3:30 pm",
+          "display_full": "Thursday, Oct 29: 8:10 am - 3:30 pm"
         },
         {
           "date": "2026-10-30",
@@ -1029,7 +1009,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 29 from 8:10 am - 3:40 pm"
+      "availability": "Thursday, Oct 29 from 8:10 am - 3:30 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1039,8 +1019,8 @@
       "gender": "Female",
       "qualifications": [
         "MRCGP",
-        "MBBS",
-        "MRCPG"
+        "MRCPG",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
