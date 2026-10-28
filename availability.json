@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -39,11 +39,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "7:15 am",
+          "start_time": "11:15 am",
           "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Thursday, Oct 29: 7:15 am - 2:15 pm"
+          "time_range": "11:15 am - 2:15 pm",
+          "display": "11:15 am - 2:15 pm",
+          "display_full": "Thursday, Oct 29: 11:15 am - 2:15 pm"
         },
         {
           "date": "2026-10-30",
@@ -81,11 +81,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "7:15 am",
+          "start_time": "11:15 am",
           "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Thursday, Oct 29: 7:15 am - 2:15 pm"
+          "time_range": "11:15 am - 2:15 pm",
+          "display": "11:15 am - 2:15 pm",
+          "display_full": "Thursday, Oct 29: 11:15 am - 2:15 pm"
         },
         {
           "date": "2026-10-30",
@@ -119,7 +119,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 29 from 7:15 am - 2:15 pm"
+      "availability": "Thursday, Oct 29 from 11:15 am - 2:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -149,10 +149,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
+        "MCPS",
         "MCPS (Family Medicine)",
         "MRCGP",
-        "MCPS"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -242,11 +242,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MCPS",
         "General Practitioner",
+        "MRCGP",
         "MBBS",
-        "DFM",
-        "MRCGP"
+        "MCPS",
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -285,10 +285,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
           "start_time": "12:30 pm",
-          "end_time": "6:15 pm",
-          "time_range": "12:30 pm - 6:15 pm",
-          "display": "12:30 pm - 6:15 pm",
-          "display_full": "Thursday, Oct 29: 12:30 pm - 6:15 pm"
+          "end_time": "6:00 pm",
+          "time_range": "12:30 pm - 6:00 pm",
+          "display": "12:30 pm - 6:00 pm",
+          "display_full": "Thursday, Oct 29: 12:30 pm - 6:00 pm"
         },
         {
           "date": "2026-10-30",
@@ -327,10 +327,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
           "start_time": "12:30 pm",
-          "end_time": "6:15 pm",
-          "time_range": "12:30 pm - 6:15 pm",
-          "display": "12:30 pm - 6:15 pm",
-          "display_full": "Thursday, Oct 29: 12:30 pm - 6:15 pm"
+          "end_time": "6:00 pm",
+          "time_range": "12:30 pm - 6:00 pm",
+          "display": "12:30 pm - 6:00 pm",
+          "display_full": "Thursday, Oct 29: 12:30 pm - 6:00 pm"
         },
         {
           "date": "2026-10-30",
@@ -364,7 +364,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 29 from 12:30 pm - 6:15 pm"
+      "availability": "Thursday, Oct 29 from 12:30 pm - 6:00 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -422,9 +422,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MCPS (Family Medicine)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -714,8 +714,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -753,11 +753,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "2:00 pm",
+          "start_time": "2:45 pm",
           "end_time": "5:00 pm",
-          "time_range": "2:00 pm - 5:00 pm",
-          "display": "2:00 pm - 5:00 pm",
-          "display_full": "Thursday, Oct 29: 2:00 pm - 5:00 pm"
+          "time_range": "2:45 pm - 5:00 pm",
+          "display": "2:45 pm - 5:00 pm",
+          "display_full": "Thursday, Oct 29: 2:45 pm - 5:00 pm"
         },
         {
           "date": "2026-10-30",
@@ -795,11 +795,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "2:00 pm",
+          "start_time": "2:45 pm",
           "end_time": "5:00 pm",
-          "time_range": "2:00 pm - 5:00 pm",
-          "display": "2:00 pm - 5:00 pm",
-          "display_full": "Thursday, Oct 29: 2:00 pm - 5:00 pm"
+          "time_range": "2:45 pm - 5:00 pm",
+          "display": "2:45 pm - 5:00 pm",
+          "display_full": "Thursday, Oct 29: 2:45 pm - 5:00 pm"
         },
         {
           "date": "2026-10-30",
@@ -833,7 +833,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 29 from 2:00 pm - 5:00 pm"
+      "availability": "Thursday, Oct 29 from 2:45 pm - 5:00 pm"
     }
   },
   "Burnett Heads": {
@@ -981,11 +981,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "12:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "4:15 pm",
-          "time_range": "12:15 pm - 4:15 pm",
-          "display": "12:15 pm - 4:15 pm",
-          "display_full": "Thursday, Oct 29: 12:15 pm - 4:15 pm"
+          "time_range": "1:30 pm - 4:15 pm",
+          "display": "1:30 pm - 4:15 pm",
+          "display_full": "Thursday, Oct 29: 1:30 pm - 4:15 pm"
         },
         {
           "date": "2026-10-30",
@@ -1013,11 +1013,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "12:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "4:15 pm",
-          "time_range": "12:15 pm - 4:15 pm",
-          "display": "12:15 pm - 4:15 pm",
-          "display_full": "Thursday, Oct 29: 12:15 pm - 4:15 pm"
+          "time_range": "1:30 pm - 4:15 pm",
+          "display": "1:30 pm - 4:15 pm",
+          "display_full": "Thursday, Oct 29: 1:30 pm - 4:15 pm"
         },
         {
           "date": "2026-10-30",
@@ -1041,7 +1041,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 29 from 12:15 pm - 4:15 pm"
+      "availability": "Thursday, Oct 29 from 1:30 pm - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1089,11 +1089,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "8:10 am",
+          "start_time": "8:20 am",
           "end_time": "3:30 pm",
-          "time_range": "8:10 am - 3:30 pm",
-          "display": "8:10 am - 3:30 pm",
-          "display_full": "Thursday, Oct 29: 8:10 am - 3:30 pm"
+          "time_range": "8:20 am - 3:30 pm",
+          "display": "8:20 am - 3:30 pm",
+          "display_full": "Thursday, Oct 29: 8:20 am - 3:30 pm"
         },
         {
           "date": "2026-10-30",
@@ -1121,11 +1121,11 @@
           "date": "2026-10-29",
           "day_name": "Thursday",
           "date_label": "Thursday, Oct 29",
-          "start_time": "8:10 am",
+          "start_time": "8:20 am",
           "end_time": "3:30 pm",
-          "time_range": "8:10 am - 3:30 pm",
-          "display": "8:10 am - 3:30 pm",
-          "display_full": "Thursday, Oct 29: 8:10 am - 3:30 pm"
+          "time_range": "8:20 am - 3:30 pm",
+          "display": "8:20 am - 3:30 pm",
+          "display_full": "Thursday, Oct 29: 8:20 am - 3:30 pm"
         },
         {
           "date": "2026-10-30",
@@ -1149,7 +1149,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Oct 29 from 8:10 am - 3:30 pm"
+      "availability": "Thursday, Oct 29 from 8:20 am - 3:30 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1158,9 +1158,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MRCGP",
         "MBBS",
-        "MRCPG",
-        "MRCGP"
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
