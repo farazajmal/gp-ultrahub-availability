@@ -559,11 +559,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "7:30 am",
+          "start_time": "8:15 am",
           "end_time": "2:15 pm",
-          "time_range": "7:30 am - 2:15 pm",
-          "display": "7:30 am - 2:15 pm",
-          "display_full": "Monday, Nov 02: 7:30 am - 2:15 pm"
+          "time_range": "8:15 am - 2:15 pm",
+          "display": "8:15 am - 2:15 pm",
+          "display_full": "Monday, Nov 02: 8:15 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -571,15 +571,15 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "7:30 am",
+          "start_time": "8:15 am",
           "end_time": "2:15 pm",
-          "time_range": "7:30 am - 2:15 pm",
-          "display": "7:30 am - 2:15 pm",
-          "display_full": "Monday, Nov 02: 7:30 am - 2:15 pm"
+          "time_range": "8:15 am - 2:15 pm",
+          "display": "8:15 am - 2:15 pm",
+          "display_full": "Monday, Nov 02: 8:15 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 7:30 am - 2:15 pm"
+      "availability": "Monday, Nov 02 from 8:15 am - 2:15 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -921,16 +921,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-rezwan-alam",
       "availability_patches": [
         {
-          "date": "2026-10-30",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 30",
-          "start_time": "11:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Friday, Oct 30: 11:45 am - 3:45 pm"
-        },
-        {
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
@@ -943,16 +933,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-30",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 30",
-          "start_time": "11:45 am",
-          "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Friday, Oct 30: 11:45 am - 3:45 pm"
-        },
-        {
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
@@ -964,7 +944,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 30 from 11:45 am - 3:45 pm"
+      "availability": "Monday, Nov 02 from 9:00 am - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1180,11 +1160,11 @@
           "date": "2026-10-30",
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Friday, Oct 30: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Friday, Oct 30: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-02",
@@ -1202,11 +1182,11 @@
           "date": "2026-10-30",
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Friday, Oct 30: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Friday, Oct 30: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-02",
@@ -1220,7 +1200,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 30 from 8:00 am - 4:00 pm"
+      "availability": "Friday, Oct 30 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
