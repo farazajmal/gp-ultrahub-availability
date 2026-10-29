@@ -183,11 +183,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "1:30 pm",
+          "start_time": "1:45 pm",
           "end_time": "4:15 pm",
-          "time_range": "1:30 pm - 4:15 pm",
-          "display": "1:30 pm - 4:15 pm",
-          "display_full": "Monday, Nov 02: 1:30 pm - 4:15 pm"
+          "time_range": "1:45 pm - 4:15 pm",
+          "display": "1:45 pm - 4:15 pm",
+          "display_full": "Monday, Nov 02: 1:45 pm - 4:15 pm"
         }
       ],
       "patches": [
@@ -205,11 +205,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "1:30 pm",
+          "start_time": "1:45 pm",
           "end_time": "4:15 pm",
-          "time_range": "1:30 pm - 4:15 pm",
-          "display": "1:30 pm - 4:15 pm",
-          "display_full": "Monday, Nov 02: 1:30 pm - 4:15 pm"
+          "time_range": "1:45 pm - 4:15 pm",
+          "display": "1:45 pm - 4:15 pm",
+          "display_full": "Monday, Nov 02: 1:45 pm - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -275,10 +275,10 @@
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 31",
           "start_time": "12:30 pm",
-          "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 31: 12:30 pm - 3:45 pm"
+          "end_time": "3:30 pm",
+          "time_range": "12:30 pm - 3:30 pm",
+          "display": "12:30 pm - 3:30 pm",
+          "display_full": "Saturday, Oct 31: 12:30 pm - 3:30 pm"
         },
         {
           "date": "2026-11-02",
@@ -307,10 +307,10 @@
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 31",
           "start_time": "12:30 pm",
-          "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 31: 12:30 pm - 3:45 pm"
+          "end_time": "3:30 pm",
+          "time_range": "12:30 pm - 3:30 pm",
+          "display": "12:30 pm - 3:30 pm",
+          "display_full": "Saturday, Oct 31: 12:30 pm - 3:30 pm"
         },
         {
           "date": "2026-11-02",
@@ -738,11 +738,11 @@
           "date": "2026-10-30",
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
-          "start_time": "11:15 am",
-          "end_time": "3:00 pm",
-          "time_range": "11:15 am - 3:00 pm",
-          "display": "11:15 am - 3:00 pm",
-          "display_full": "Friday, Oct 30: 11:15 am - 3:00 pm"
+          "start_time": "7:30 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:30 am - 2:45 pm",
+          "display": "7:30 am - 2:45 pm",
+          "display_full": "Friday, Oct 30: 7:30 am - 2:45 pm"
         },
         {
           "date": "2026-10-31",
@@ -770,11 +770,11 @@
           "date": "2026-10-30",
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
-          "start_time": "11:15 am",
-          "end_time": "3:00 pm",
-          "time_range": "11:15 am - 3:00 pm",
-          "display": "11:15 am - 3:00 pm",
-          "display_full": "Friday, Oct 30: 11:15 am - 3:00 pm"
+          "start_time": "7:30 am",
+          "end_time": "2:45 pm",
+          "time_range": "7:30 am - 2:45 pm",
+          "display": "7:30 am - 2:45 pm",
+          "display_full": "Friday, Oct 30: 7:30 am - 2:45 pm"
         },
         {
           "date": "2026-10-31",
@@ -798,7 +798,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 30 from 11:15 am - 3:00 pm"
+      "availability": "Friday, Oct 30 from 7:30 am - 2:45 pm"
     }
   },
   "Burnett Heads": {
