@@ -173,11 +173,11 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "12:45 pm",
+          "start_time": "11:45 am",
           "end_time": "2:30 pm",
-          "time_range": "12:45 pm - 2:30 pm",
-          "display": "12:45 pm - 2:30 pm",
-          "display_full": "Sunday, Nov 01: 12:45 pm - 2:30 pm"
+          "time_range": "11:45 am - 2:30 pm",
+          "display": "11:45 am - 2:30 pm",
+          "display_full": "Sunday, Nov 01: 11:45 am - 2:30 pm"
         },
         {
           "date": "2026-11-02",
@@ -195,11 +195,11 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "12:45 pm",
+          "start_time": "11:45 am",
           "end_time": "2:30 pm",
-          "time_range": "12:45 pm - 2:30 pm",
-          "display": "12:45 pm - 2:30 pm",
-          "display_full": "Sunday, Nov 01: 12:45 pm - 2:30 pm"
+          "time_range": "11:45 am - 2:30 pm",
+          "display": "11:45 am - 2:30 pm",
+          "display_full": "Sunday, Nov 01: 11:45 am - 2:30 pm"
         },
         {
           "date": "2026-11-02",
@@ -213,7 +213,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 01 from 12:45 pm - 2:30 pm"
+      "availability": "Sunday, Nov 01 from 11:45 am - 2:30 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -265,10 +265,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
           "start_time": "12:30 pm",
-          "end_time": "6:45 pm",
-          "time_range": "12:30 pm - 6:45 pm",
-          "display": "12:30 pm - 6:45 pm",
-          "display_full": "Friday, Oct 30: 12:30 pm - 6:45 pm"
+          "end_time": "5:15 pm",
+          "time_range": "12:30 pm - 5:15 pm",
+          "display": "12:30 pm - 5:15 pm",
+          "display_full": "Friday, Oct 30: 12:30 pm - 5:15 pm"
         },
         {
           "date": "2026-10-31",
@@ -297,10 +297,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
           "start_time": "12:30 pm",
-          "end_time": "6:45 pm",
-          "time_range": "12:30 pm - 6:45 pm",
-          "display": "12:30 pm - 6:45 pm",
-          "display_full": "Friday, Oct 30: 12:30 pm - 6:45 pm"
+          "end_time": "5:15 pm",
+          "time_range": "12:30 pm - 5:15 pm",
+          "display": "12:30 pm - 5:15 pm",
+          "display_full": "Friday, Oct 30: 12:30 pm - 5:15 pm"
         },
         {
           "date": "2026-10-31",
@@ -324,7 +324,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 30 from 12:30 pm - 6:45 pm"
+      "availability": "Friday, Oct 30 from 12:30 pm - 5:15 pm"
     },
     "Dr. Arooj Fatima": {
       "doctor_id": 209447,
@@ -1160,11 +1160,11 @@
           "date": "2026-10-30",
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Friday, Oct 30: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Friday, Oct 30: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-02",
@@ -1182,11 +1182,11 @@
           "date": "2026-10-30",
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Friday, Oct 30: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Friday, Oct 30: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-02",
@@ -1200,7 +1200,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 30 from 8:10 am - 4:00 pm"
+      "availability": "Friday, Oct 30 from 9:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
