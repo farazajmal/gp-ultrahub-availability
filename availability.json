@@ -36,16 +36,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
-          "date": "2026-10-30",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 30",
-          "start_time": "11:15 am",
-          "end_time": "12:00 pm",
-          "time_range": "11:15 am - 12:00 pm",
-          "display": "11:15 am - 12:00 pm",
-          "display_full": "Friday, Oct 30: 11:15 am - 12:00 pm"
-        },
-        {
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
@@ -78,16 +68,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-30",
-          "day_name": "Friday",
-          "date_label": "Friday, Oct 30",
-          "start_time": "11:15 am",
-          "end_time": "12:00 pm",
-          "time_range": "11:15 am - 12:00 pm",
-          "display": "11:15 am - 12:00 pm",
-          "display_full": "Friday, Oct 30: 11:15 am - 12:00 pm"
-        },
-        {
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
@@ -119,7 +99,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 30 from 11:15 am - 12:00 pm"
+      "availability": "Sunday, Nov 01 from 11:00 am - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -305,20 +285,20 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
           "start_time": "12:30 pm",
-          "end_time": "5:15 pm",
-          "time_range": "12:30 pm - 5:15 pm",
-          "display": "12:30 pm - 5:15 pm",
-          "display_full": "Friday, Oct 30: 12:30 pm - 5:15 pm"
+          "end_time": "6:30 pm",
+          "time_range": "12:30 pm - 6:30 pm",
+          "display": "12:30 pm - 6:30 pm",
+          "display_full": "Friday, Oct 30: 12:30 pm - 6:30 pm"
         },
         {
           "date": "2026-10-31",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 31",
-          "start_time": "12:30 pm",
+          "start_time": "1:00 pm",
           "end_time": "3:30 pm",
-          "time_range": "12:30 pm - 3:30 pm",
-          "display": "12:30 pm - 3:30 pm",
-          "display_full": "Saturday, Oct 31: 12:30 pm - 3:30 pm"
+          "time_range": "1:00 pm - 3:30 pm",
+          "display": "1:00 pm - 3:30 pm",
+          "display_full": "Saturday, Oct 31: 1:00 pm - 3:30 pm"
         },
         {
           "date": "2026-11-02",
@@ -347,20 +327,20 @@
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
           "start_time": "12:30 pm",
-          "end_time": "5:15 pm",
-          "time_range": "12:30 pm - 5:15 pm",
-          "display": "12:30 pm - 5:15 pm",
-          "display_full": "Friday, Oct 30: 12:30 pm - 5:15 pm"
+          "end_time": "6:30 pm",
+          "time_range": "12:30 pm - 6:30 pm",
+          "display": "12:30 pm - 6:30 pm",
+          "display_full": "Friday, Oct 30: 12:30 pm - 6:30 pm"
         },
         {
           "date": "2026-10-31",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 31",
-          "start_time": "12:30 pm",
+          "start_time": "1:00 pm",
           "end_time": "3:30 pm",
-          "time_range": "12:30 pm - 3:30 pm",
-          "display": "12:30 pm - 3:30 pm",
-          "display_full": "Saturday, Oct 31: 12:30 pm - 3:30 pm"
+          "time_range": "1:00 pm - 3:30 pm",
+          "display": "1:00 pm - 3:30 pm",
+          "display_full": "Saturday, Oct 31: 1:00 pm - 3:30 pm"
         },
         {
           "date": "2026-11-02",
@@ -384,7 +364,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 30 from 12:30 pm - 5:15 pm"
+      "availability": "Friday, Oct 30 from 12:30 pm - 6:30 pm"
     },
     "Dr. Arooj Fatima": {
       "doctor_id": 209447,
@@ -713,10 +693,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
           "start_time": "12:45 pm",
-          "end_time": "3:15 pm",
-          "time_range": "12:45 pm - 3:15 pm",
-          "display": "12:45 pm - 3:15 pm",
-          "display_full": "Tuesday, Nov 03: 12:45 pm - 3:15 pm"
+          "end_time": "2:45 pm",
+          "time_range": "12:45 pm - 2:45 pm",
+          "display": "12:45 pm - 2:45 pm",
+          "display_full": "Tuesday, Nov 03: 12:45 pm - 2:45 pm"
         }
       ],
       "patches": [
@@ -725,14 +705,14 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
           "start_time": "12:45 pm",
-          "end_time": "3:15 pm",
-          "time_range": "12:45 pm - 3:15 pm",
-          "display": "12:45 pm - 3:15 pm",
-          "display_full": "Tuesday, Nov 03: 12:45 pm - 3:15 pm"
+          "end_time": "2:45 pm",
+          "time_range": "12:45 pm - 2:45 pm",
+          "display": "12:45 pm - 2:45 pm",
+          "display_full": "Tuesday, Nov 03: 12:45 pm - 2:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 03 from 12:45 pm - 3:15 pm"
+      "availability": "Tuesday, Nov 03 from 12:45 pm - 2:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -840,11 +820,11 @@
           "date": "2026-10-30",
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
-          "start_time": "7:30 am",
+          "start_time": "12:00 pm",
           "end_time": "2:45 pm",
-          "time_range": "7:30 am - 2:45 pm",
-          "display": "7:30 am - 2:45 pm",
-          "display_full": "Friday, Oct 30: 7:30 am - 2:45 pm"
+          "time_range": "12:00 pm - 2:45 pm",
+          "display": "12:00 pm - 2:45 pm",
+          "display_full": "Friday, Oct 30: 12:00 pm - 2:45 pm"
         },
         {
           "date": "2026-10-31",
@@ -882,11 +862,11 @@
           "date": "2026-10-30",
           "day_name": "Friday",
           "date_label": "Friday, Oct 30",
-          "start_time": "7:30 am",
+          "start_time": "12:00 pm",
           "end_time": "2:45 pm",
-          "time_range": "7:30 am - 2:45 pm",
-          "display": "7:30 am - 2:45 pm",
-          "display_full": "Friday, Oct 30: 7:30 am - 2:45 pm"
+          "time_range": "12:00 pm - 2:45 pm",
+          "display": "12:00 pm - 2:45 pm",
+          "display_full": "Friday, Oct 30: 12:00 pm - 2:45 pm"
         },
         {
           "date": "2026-10-31",
@@ -920,7 +900,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Oct 30 from 7:30 am - 2:45 pm"
+      "availability": "Friday, Oct 30 from 12:00 pm - 2:45 pm"
     }
   },
   "Burnett Heads": {
