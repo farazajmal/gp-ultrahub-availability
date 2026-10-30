@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-30 07:00:45 AM",
+    "last_updated": "2026-10-30 07:00:49 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -110,10 +110,10 @@
                 "gender": "Male",
                 "qualifications": [
                     "DFM",
-                    "General Practitioner",
-                    "MBBS",
                     "MRCGP",
-                    "MCPS"
+                    "General Practitioner",
+                    "MCPS",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
