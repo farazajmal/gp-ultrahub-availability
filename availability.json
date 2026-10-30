@@ -39,11 +39,11 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "2:45 pm",
-          "time_range": "11:45 am - 2:45 pm",
-          "display": "11:45 am - 2:45 pm",
-          "display_full": "Sunday, Nov 01: 11:45 am - 2:45 pm"
+          "time_range": "12:00 pm - 2:45 pm",
+          "display": "12:00 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 01: 12:00 pm - 2:45 pm"
         },
         {
           "date": "2026-11-02",
@@ -71,11 +71,11 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "2:45 pm",
-          "time_range": "11:45 am - 2:45 pm",
-          "display": "11:45 am - 2:45 pm",
-          "display_full": "Sunday, Nov 01: 11:45 am - 2:45 pm"
+          "time_range": "12:00 pm - 2:45 pm",
+          "display": "12:00 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 01: 12:00 pm - 2:45 pm"
         },
         {
           "date": "2026-11-02",
@@ -99,7 +99,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 01 from 11:45 am - 2:45 pm"
+      "availability": "Sunday, Nov 01 from 12:00 pm - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -284,11 +284,11 @@
           "date": "2026-10-31",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 31",
-          "start_time": "3:00 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:30 pm",
-          "time_range": "3:00 pm - 3:30 pm",
-          "display": "3:00 pm - 3:30 pm",
-          "display_full": "Saturday, Oct 31: 3:00 pm - 3:30 pm"
+          "time_range": "3:15 pm - 3:30 pm",
+          "display": "3:15 pm - 3:30 pm",
+          "display_full": "Saturday, Oct 31: 3:15 pm - 3:30 pm"
         },
         {
           "date": "2026-11-02",
@@ -316,11 +316,11 @@
           "date": "2026-10-31",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 31",
-          "start_time": "3:00 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:30 pm",
-          "time_range": "3:00 pm - 3:30 pm",
-          "display": "3:00 pm - 3:30 pm",
-          "display_full": "Saturday, Oct 31: 3:00 pm - 3:30 pm"
+          "time_range": "3:15 pm - 3:30 pm",
+          "display": "3:15 pm - 3:30 pm",
+          "display_full": "Saturday, Oct 31: 3:15 pm - 3:30 pm"
         },
         {
           "date": "2026-11-02",
@@ -344,7 +344,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 31 from 3:00 pm - 3:30 pm"
+      "availability": "Saturday, Oct 31 from 3:15 pm - 3:30 pm"
     },
     "Dr. Arooj Fatima": {
       "doctor_id": 209447,
@@ -800,11 +800,11 @@
           "date": "2026-10-31",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 31",
-          "start_time": "12:45 pm",
+          "start_time": "1:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 31: 12:45 pm - 3:45 pm"
+          "time_range": "1:00 pm - 3:45 pm",
+          "display": "1:00 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 31: 1:00 pm - 3:45 pm"
         },
         {
           "date": "2026-11-02",
@@ -832,11 +832,11 @@
           "date": "2026-10-31",
           "day_name": "Saturday",
           "date_label": "Saturday, Oct 31",
-          "start_time": "12:45 pm",
+          "start_time": "1:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Saturday, Oct 31: 12:45 pm - 3:45 pm"
+          "time_range": "1:00 pm - 3:45 pm",
+          "display": "1:00 pm - 3:45 pm",
+          "display_full": "Saturday, Oct 31: 1:00 pm - 3:45 pm"
         },
         {
           "date": "2026-11-02",
@@ -860,7 +860,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 31 from 12:45 pm - 3:45 pm"
+      "availability": "Saturday, Oct 31 from 1:00 pm - 3:45 pm"
     }
   },
   "Burnett Heads": {
