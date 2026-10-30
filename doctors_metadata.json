@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-29 08:43:01 PM",
+    "last_updated": "2026-10-30 07:00:45 AM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -10,9 +10,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
+                    "Dip Occ Med (RCPI)",
                     "MBBS",
-                    "MRCGP",
-                    "Dip Occ Med (RCPI)"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -27,13 +27,13 @@
                 "doctor_slug": "dr-elsadig-hassan",
                 "availability_type_ids": [
                     "1614361",
-                    "1636243",
                     "1614361",
-                    "1614361",
-                    "1614361",
-                    "1636244",
-                    "1636245",
-                    "1636243"
+                    "1664767",
+                    "1664769",
+                    "1664768",
+                    "1664768",
+                    "1664767",
+                    "1664770"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan"
@@ -62,10 +62,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP",
                     "MCPS",
-                    "MCPS (Family Medicine)"
+                    "MCPS (Family Medicine)",
+                    "MBBS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -82,22 +82,22 @@
                 "clinic_slug": "gp-ultra-hub-gladstone",
                 "doctor_slug": "dr-mehwish-javaid",
                 "availability_type_ids": [
-                    "1588205",
-                    "1588208",
-                    "1588207",
                     "1567704",
                     "1567704",
-                    "1591400",
-                    "1588205",
-                    "1567704",
-                    "1567704",
-                    "1567704",
-                    "1591608",
-                    "1591613",
-                    "1591629",
-                    "1591634",
-                    "1567704",
-                    "1567704"
+                    "1664724",
+                    "1664725",
+                    "1664726",
+                    "1664727",
+                    "1664725",
+                    "1664725",
+                    "1664728",
+                    "1664725",
+                    "1664724",
+                    "1664729",
+                    "1664725",
+                    "1664730",
+                    "1664731",
+                    "1664732"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid"
@@ -109,11 +109,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
-                    "MCPS",
+                    "DFM",
                     "General Practitioner",
+                    "MBBS",
                     "MRCGP",
-                    "DFM"
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -240,9 +240,9 @@
                 "provider_type": "Physiotherapist",
                 "gender": "Female",
                 "qualifications": [
+                    "MCPS (Family Medicine)",
                     "MBBS",
-                    "MRCGP",
-                    "MCPS (Family Medicine)"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -293,21 +293,21 @@
                 "doctor_slug": "dr-shahid",
                 "availability_type_ids": [
                     "1371748",
-                    "1358356",
-                    "1373556",
-                    "1373555",
-                    "1591615",
-                    "1591402",
-                    "1371748",
-                    "1371748",
                     "1371748",
                     "1358356",
                     "1358356",
-                    "1591604",
-                    "1591630",
-                    "1591633",
-                    "1358356",
-                    "1358356"
+                    "1664676",
+                    "1664669",
+                    "1664670",
+                    "1664671",
+                    "1664672",
+                    "1664670",
+                    "1664673",
+                    "1664672",
+                    "1664670",
+                    "1664674",
+                    "1664675",
+                    "1664677"
                 ],
                 "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid"
@@ -662,9 +662,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
+                    "MRCPG",
                     "MBBS",
-                    "MRCGP",
-                    "MRCPG"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
