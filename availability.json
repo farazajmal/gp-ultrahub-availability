@@ -39,11 +39,11 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:00 pm - 2:45 pm",
-          "display": "1:00 pm - 2:45 pm",
-          "display_full": "Sunday, Nov 01: 1:00 pm - 2:45 pm"
+          "time_range": "1:15 pm - 2:45 pm",
+          "display": "1:15 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 01: 1:15 pm - 2:45 pm"
         },
         {
           "date": "2026-11-02",
@@ -81,11 +81,11 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:00 pm - 2:45 pm",
-          "display": "1:00 pm - 2:45 pm",
-          "display_full": "Sunday, Nov 01: 1:00 pm - 2:45 pm"
+          "time_range": "1:15 pm - 2:45 pm",
+          "display": "1:15 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 01: 1:15 pm - 2:45 pm"
         },
         {
           "date": "2026-11-02",
@@ -119,7 +119,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 01 from 1:00 pm - 2:45 pm"
+      "availability": "Sunday, Nov 01 from 1:15 pm - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -1134,11 +1134,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "3:40 pm",
-          "time_range": "8:10 am - 3:40 pm",
-          "display": "8:10 am - 3:40 pm",
-          "display_full": "Monday, Nov 02: 8:10 am - 3:40 pm"
+          "time_range": "9:10 am - 3:40 pm",
+          "display": "9:10 am - 3:40 pm",
+          "display_full": "Monday, Nov 02: 9:10 am - 3:40 pm"
         },
         {
           "date": "2026-11-03",
@@ -1166,11 +1166,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "3:40 pm",
-          "time_range": "8:10 am - 3:40 pm",
-          "display": "8:10 am - 3:40 pm",
-          "display_full": "Monday, Nov 02: 8:10 am - 3:40 pm"
+          "time_range": "9:10 am - 3:40 pm",
+          "display": "9:10 am - 3:40 pm",
+          "display_full": "Monday, Nov 02: 9:10 am - 3:40 pm"
         },
         {
           "date": "2026-11-03",
@@ -1194,7 +1194,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 8:10 am - 3:40 pm"
+      "availability": "Monday, Nov 02 from 9:10 am - 3:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
