@@ -850,11 +850,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "5:00 pm",
-          "time_range": "11:30 am - 5:00 pm",
-          "display": "11:30 am - 5:00 pm",
-          "display_full": "Monday, Nov 02: 11:30 am - 5:00 pm"
+          "time_range": "11:45 am - 5:00 pm",
+          "display": "11:45 am - 5:00 pm",
+          "display_full": "Monday, Nov 02: 11:45 am - 5:00 pm"
         },
         {
           "date": "2026-11-03",
@@ -892,11 +892,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "5:00 pm",
-          "time_range": "11:30 am - 5:00 pm",
-          "display": "11:30 am - 5:00 pm",
-          "display_full": "Monday, Nov 02: 11:30 am - 5:00 pm"
+          "time_range": "11:45 am - 5:00 pm",
+          "display": "11:45 am - 5:00 pm",
+          "display_full": "Monday, Nov 02: 11:45 am - 5:00 pm"
         },
         {
           "date": "2026-11-03",
@@ -1046,11 +1046,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "11:15 am",
+          "start_time": "12:00 pm",
           "end_time": "3:30 pm",
-          "time_range": "11:15 am - 3:30 pm",
-          "display": "11:15 am - 3:30 pm",
-          "display_full": "Monday, Nov 02: 11:15 am - 3:30 pm"
+          "time_range": "12:00 pm - 3:30 pm",
+          "display": "12:00 pm - 3:30 pm",
+          "display_full": "Monday, Nov 02: 12:00 pm - 3:30 pm"
         },
         {
           "date": "2026-11-03",
@@ -1078,11 +1078,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "11:15 am",
+          "start_time": "12:00 pm",
           "end_time": "3:30 pm",
-          "time_range": "11:15 am - 3:30 pm",
-          "display": "11:15 am - 3:30 pm",
-          "display_full": "Monday, Nov 02: 11:15 am - 3:30 pm"
+          "time_range": "12:00 pm - 3:30 pm",
+          "display": "12:00 pm - 3:30 pm",
+          "display_full": "Monday, Nov 02: 12:00 pm - 3:30 pm"
         },
         {
           "date": "2026-11-03",
@@ -1106,7 +1106,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 11:15 am - 3:30 pm"
+      "availability": "Monday, Nov 02 from 12:00 pm - 3:30 pm"
     }
   },
   "Toowoomba": {
