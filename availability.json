@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -149,10 +149,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS",
-        "MCPS (Family Medicine)",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "MCPS",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -190,16 +190,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-01",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 01",
-          "start_time": "3:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Sunday, Nov 01: 3:45 pm"
-        },
-        {
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
@@ -232,16 +222,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-01",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 01",
-          "start_time": "3:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Sunday, Nov 01: 3:45 pm"
-        },
-        {
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
@@ -273,7 +253,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 01 from 3:45 pm"
+      "availability": "Monday, Nov 02 from 1:45 pm - 3:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -282,11 +262,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MCPS",
-        "DFM",
         "MBBS",
-        "General Practitioner",
-        "MRCGP"
+        "MCPS",
+        "MRCGP",
+        "DFM",
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -487,9 +467,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -821,8 +801,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1223,9 +1203,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
