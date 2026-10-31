@@ -39,11 +39,11 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "1:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:15 pm - 2:45 pm",
-          "display": "1:15 pm - 2:45 pm",
-          "display_full": "Sunday, Nov 01: 1:15 pm - 2:45 pm"
+          "time_range": "1:30 pm - 2:45 pm",
+          "display": "1:30 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 01: 1:30 pm - 2:45 pm"
         },
         {
           "date": "2026-11-02",
@@ -91,11 +91,11 @@
           "date": "2026-11-01",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 01",
-          "start_time": "1:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:15 pm - 2:45 pm",
-          "display": "1:15 pm - 2:45 pm",
-          "display_full": "Sunday, Nov 01: 1:15 pm - 2:45 pm"
+          "time_range": "1:30 pm - 2:45 pm",
+          "display": "1:30 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 01: 1:30 pm - 2:45 pm"
         },
         {
           "date": "2026-11-02",
@@ -139,7 +139,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 01 from 1:15 pm - 2:45 pm"
+      "availability": "Sunday, Nov 01 from 1:30 pm - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -660,10 +660,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
           "start_time": "1:30 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:30 pm - 1:45 pm",
-          "display": "1:30 pm - 1:45 pm",
-          "display_full": "Monday, Nov 02: 1:30 pm - 1:45 pm"
+          "end_time": "1:30 pm",
+          "time_range": "1:30 pm",
+          "display": "1:30 pm",
+          "display_full": "Monday, Nov 02: 1:30 pm"
         },
         {
           "date": "2026-11-03",
@@ -702,10 +702,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
           "start_time": "1:30 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:30 pm - 1:45 pm",
-          "display": "1:30 pm - 1:45 pm",
-          "display_full": "Monday, Nov 02: 1:30 pm - 1:45 pm"
+          "end_time": "1:30 pm",
+          "time_range": "1:30 pm",
+          "display": "1:30 pm",
+          "display_full": "Monday, Nov 02: 1:30 pm"
         },
         {
           "date": "2026-11-03",
@@ -739,7 +739,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 1:30 pm - 1:45 pm"
+      "availability": "Monday, Nov 02 from 1:30 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
