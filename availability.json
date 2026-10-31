@@ -210,16 +210,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-02",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 02",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Monday, Nov 02: 1:45 pm"
-        },
-        {
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
@@ -252,16 +242,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-02",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 02",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Monday, Nov 02: 1:45 pm"
-        },
-        {
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
@@ -293,7 +273,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 1:45 pm"
+      "availability": "Tuesday, Nov 03 from 8:30 am - 3:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -802,11 +782,11 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "9:00 am",
+          "start_time": "9:45 am",
           "end_time": "1:45 pm",
-          "time_range": "9:00 am - 1:45 pm",
-          "display": "9:00 am - 1:45 pm",
-          "display_full": "Thursday, Nov 05: 9:00 am - 1:45 pm"
+          "time_range": "9:45 am - 1:45 pm",
+          "display": "9:45 am - 1:45 pm",
+          "display_full": "Thursday, Nov 05: 9:45 am - 1:45 pm"
         }
       ],
       "patches": [
@@ -824,11 +804,11 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "9:00 am",
+          "start_time": "9:45 am",
           "end_time": "1:45 pm",
-          "time_range": "9:00 am - 1:45 pm",
-          "display": "9:00 am - 1:45 pm",
-          "display_full": "Thursday, Nov 05: 9:00 am - 1:45 pm"
+          "time_range": "9:45 am - 1:45 pm",
+          "display": "9:45 am - 1:45 pm",
+          "display_full": "Thursday, Nov 05: 9:45 am - 1:45 pm"
         }
       ],
       "scrape_status": "ok",
