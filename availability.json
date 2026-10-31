@@ -857,16 +857,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
-          "date": "2026-10-31",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 31",
-          "start_time": "3:30 pm",
-          "end_time": "3:30 pm",
-          "time_range": "3:30 pm",
-          "display": "3:30 pm",
-          "display_full": "Saturday, Oct 31: 3:30 pm"
-        },
-        {
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
@@ -899,16 +889,6 @@
       ],
       "patches": [
         {
-          "date": "2026-10-31",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Oct 31",
-          "start_time": "3:30 pm",
-          "end_time": "3:30 pm",
-          "time_range": "3:30 pm",
-          "display": "3:30 pm",
-          "display_full": "Saturday, Oct 31: 3:30 pm"
-        },
-        {
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
@@ -940,7 +920,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Oct 31 from 3:30 pm"
+      "availability": "Monday, Nov 02 from 11:45 am - 5:00 pm"
     }
   },
   "Burnett Heads": {
