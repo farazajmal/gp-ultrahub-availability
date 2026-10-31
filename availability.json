@@ -8,8 +8,8 @@
       "gender": "Male",
       "qualifications": [
         "MRCGP",
-        "MBBS",
-        "Dip Occ Med (RCPI)"
+        "Dip Occ Med (RCPI)",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -170,9 +170,9 @@
       "gender": "Female",
       "qualifications": [
         "MRCGP",
-        "MBBS",
         "MCPS",
-        "MCPS (Family Medicine)"
+        "MCPS (Family Medicine)",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -302,11 +302,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
-        "MCPS",
         "MRCGP",
-        "DFM",
-        "General Practitioner"
+        "MCPS",
+        "General Practitioner",
+        "MBBS",
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -527,8 +527,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MBBS",
+        "MRCGP",
         "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
@@ -787,10 +787,52 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-11-04",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 04",
+          "start_time": "2:30 pm",
+          "end_time": "3:15 pm",
+          "time_range": "2:30 pm - 3:15 pm",
+          "display": "2:30 pm - 3:15 pm",
+          "display_full": "Wednesday, Nov 04: 2:30 pm - 3:15 pm"
+        },
+        {
+          "date": "2026-11-05",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Nov 05",
+          "start_time": "9:00 am",
+          "end_time": "1:45 pm",
+          "time_range": "9:00 am - 1:45 pm",
+          "display": "9:00 am - 1:45 pm",
+          "display_full": "Thursday, Nov 05: 9:00 am - 1:45 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-11-04",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 04",
+          "start_time": "2:30 pm",
+          "end_time": "3:15 pm",
+          "time_range": "2:30 pm - 3:15 pm",
+          "display": "2:30 pm - 3:15 pm",
+          "display_full": "Wednesday, Nov 04: 2:30 pm - 3:15 pm"
+        },
+        {
+          "date": "2026-11-05",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Nov 05",
+          "start_time": "9:00 am",
+          "end_time": "1:45 pm",
+          "time_range": "9:00 am - 1:45 pm",
+          "display": "9:00 am - 1:45 pm",
+          "display_full": "Thursday, Nov 05: 9:00 am - 1:45 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Wednesday, Nov 04 from 2:30 pm - 3:15 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -1321,9 +1363,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MRCPG",
         "MRCGP",
-        "MBBS",
-        "MRCPG"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
