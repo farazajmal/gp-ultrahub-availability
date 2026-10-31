@@ -600,10 +600,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
           "start_time": "1:30 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:30 pm - 2:15 pm",
-          "display": "1:30 pm - 2:15 pm",
-          "display_full": "Monday, Nov 02: 1:30 pm - 2:15 pm"
+          "end_time": "1:45 pm",
+          "time_range": "1:30 pm - 1:45 pm",
+          "display": "1:30 pm - 1:45 pm",
+          "display_full": "Monday, Nov 02: 1:30 pm - 1:45 pm"
         },
         {
           "date": "2026-11-03",
@@ -632,10 +632,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
           "start_time": "1:30 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:30 pm - 2:15 pm",
-          "display": "1:30 pm - 2:15 pm",
-          "display_full": "Monday, Nov 02: 1:30 pm - 2:15 pm"
+          "end_time": "1:45 pm",
+          "time_range": "1:30 pm - 1:45 pm",
+          "display": "1:30 pm - 1:45 pm",
+          "display_full": "Monday, Nov 02: 1:30 pm - 1:45 pm"
         },
         {
           "date": "2026-11-03",
@@ -659,7 +659,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 1:30 pm - 2:15 pm"
+      "availability": "Monday, Nov 02 from 1:30 pm - 1:45 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
