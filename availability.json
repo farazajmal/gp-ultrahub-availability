@@ -194,10 +194,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
           "start_time": "10:30 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:30 am - 3:45 pm",
-          "display": "10:30 am - 3:45 pm",
-          "display_full": "Tuesday, Nov 03: 10:30 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "10:30 am - 3:15 pm",
+          "display": "10:30 am - 3:15 pm",
+          "display_full": "Tuesday, Nov 03: 10:30 am - 3:15 pm"
         },
         {
           "date": "2026-11-04",
@@ -226,10 +226,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
           "start_time": "10:30 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:30 am - 3:45 pm",
-          "display": "10:30 am - 3:45 pm",
-          "display_full": "Tuesday, Nov 03: 10:30 am - 3:45 pm"
+          "end_time": "3:15 pm",
+          "time_range": "10:30 am - 3:15 pm",
+          "display": "10:30 am - 3:15 pm",
+          "display_full": "Tuesday, Nov 03: 10:30 am - 3:15 pm"
         },
         {
           "date": "2026-11-04",
@@ -253,7 +253,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 03 from 10:30 am - 3:45 pm"
+      "availability": "Tuesday, Nov 03 from 10:30 am - 3:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -304,11 +304,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:30 pm - 6:45 pm",
-          "display": "12:30 pm - 6:45 pm",
-          "display_full": "Monday, Nov 02: 12:30 pm - 6:45 pm"
+          "time_range": "12:45 pm - 6:45 pm",
+          "display": "12:45 pm - 6:45 pm",
+          "display_full": "Monday, Nov 02: 12:45 pm - 6:45 pm"
         },
         {
           "date": "2026-11-03",
@@ -346,11 +346,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:30 pm - 6:45 pm",
-          "display": "12:30 pm - 6:45 pm",
-          "display_full": "Monday, Nov 02: 12:30 pm - 6:45 pm"
+          "time_range": "12:45 pm - 6:45 pm",
+          "display": "12:45 pm - 6:45 pm",
+          "display_full": "Monday, Nov 02: 12:45 pm - 6:45 pm"
         },
         {
           "date": "2026-11-03",
@@ -384,7 +384,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 12:30 pm - 6:45 pm"
+      "availability": "Monday, Nov 02 from 12:45 pm - 6:45 pm"
     },
     "Dr. Arooj Fatima": {
       "doctor_id": 209447,
@@ -564,7 +564,7 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "availability_patches": [],
       "patches": [],
-      "scrape_status": "no_availability",
+      "scrape_status": "error",
       "availability": "Call clinic to book"
     }
   },
@@ -1032,10 +1032,32 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-11-02",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 02",
+          "start_time": "9:00 am",
+          "end_time": "9:45 am",
+          "time_range": "9:00 am - 9:45 am",
+          "display": "9:00 am - 9:45 am",
+          "display_full": "Monday, Nov 02: 9:00 am - 9:45 am"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-11-02",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 02",
+          "start_time": "9:00 am",
+          "end_time": "9:45 am",
+          "time_range": "9:00 am - 9:45 am",
+          "display": "9:00 am - 9:45 am",
+          "display_full": "Monday, Nov 02: 9:00 am - 9:45 am"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Monday, Nov 02 from 9:00 am - 9:45 am"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
@@ -1462,11 +1484,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Monday, Nov 02: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Monday, Nov 02: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-03",
@@ -1504,11 +1526,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Monday, Nov 02: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Monday, Nov 02: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-03",
@@ -1542,7 +1564,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 10:10 am - 4:00 pm"
+      "availability": "Monday, Nov 02 from 11:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
