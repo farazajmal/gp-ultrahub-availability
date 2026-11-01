@@ -234,10 +234,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
           "start_time": "10:15 am",
-          "end_time": "1:45 pm",
-          "time_range": "10:15 am - 1:45 pm",
-          "display": "10:15 am - 1:45 pm",
-          "display_full": "Thursday, Nov 05: 10:15 am - 1:45 pm"
+          "end_time": "12:15 pm",
+          "time_range": "10:15 am - 12:15 pm",
+          "display": "10:15 am - 12:15 pm",
+          "display_full": "Thursday, Nov 05: 10:15 am - 12:15 pm"
         },
         {
           "date": "2026-11-06",
@@ -276,10 +276,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
           "start_time": "10:15 am",
-          "end_time": "1:45 pm",
-          "time_range": "10:15 am - 1:45 pm",
-          "display": "10:15 am - 1:45 pm",
-          "display_full": "Thursday, Nov 05: 10:15 am - 1:45 pm"
+          "end_time": "12:15 pm",
+          "time_range": "10:15 am - 12:15 pm",
+          "display": "10:15 am - 12:15 pm",
+          "display_full": "Thursday, Nov 05: 10:15 am - 12:15 pm"
         },
         {
           "date": "2026-11-06",
@@ -980,11 +980,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "3:15 pm",
-          "end_time": "4:45 pm",
-          "time_range": "3:15 pm - 4:45 pm",
-          "display": "3:15 pm - 4:45 pm",
-          "display_full": "Monday, Nov 02: 3:15 pm - 4:45 pm"
+          "start_time": "4:00 pm",
+          "end_time": "5:00 pm",
+          "time_range": "4:00 pm - 5:00 pm",
+          "display": "4:00 pm - 5:00 pm",
+          "display_full": "Monday, Nov 02: 4:00 pm - 5:00 pm"
         },
         {
           "date": "2026-11-03",
@@ -1032,11 +1032,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "3:15 pm",
-          "end_time": "4:45 pm",
-          "time_range": "3:15 pm - 4:45 pm",
-          "display": "3:15 pm - 4:45 pm",
-          "display_full": "Monday, Nov 02: 3:15 pm - 4:45 pm"
+          "start_time": "4:00 pm",
+          "end_time": "5:00 pm",
+          "time_range": "4:00 pm - 5:00 pm",
+          "display": "4:00 pm - 5:00 pm",
+          "display_full": "Monday, Nov 02: 4:00 pm - 5:00 pm"
         },
         {
           "date": "2026-11-03",
@@ -1080,7 +1080,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 3:15 pm - 4:45 pm"
+      "availability": "Monday, Nov 02 from 4:00 pm - 5:00 pm"
     }
   },
   "Burnett Heads": {
@@ -1659,10 +1659,92 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-11-03",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 03",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 03: 8:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-11-04",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 04",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 04: 8:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-11-05",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Nov 05",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Thursday, Nov 05: 8:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-11-06",
+          "day_name": "Friday",
+          "date_label": "Friday, Nov 06",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Friday, Nov 06: 8:00 am - 4:00 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-11-03",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 03",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 03: 8:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-11-04",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 04",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 04: 8:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-11-05",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Nov 05",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Thursday, Nov 05: 8:00 am - 4:00 pm"
+        },
+        {
+          "date": "2026-11-06",
+          "day_name": "Friday",
+          "date_label": "Friday, Nov 06",
+          "start_time": "8:00 am",
+          "end_time": "4:00 pm",
+          "time_range": "8:00 am - 4:00 pm",
+          "display": "8:00 am - 4:00 pm",
+          "display_full": "Friday, Nov 06: 8:00 am - 4:00 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Tuesday, Nov 03 from 8:00 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
