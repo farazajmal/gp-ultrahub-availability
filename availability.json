@@ -190,16 +190,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-01",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 01",
-          "start_time": "3:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Sunday, Nov 01: 3:45 pm"
-        },
-        {
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
@@ -232,16 +222,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-01",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 01",
-          "start_time": "3:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Sunday, Nov 01: 3:45 pm"
-        },
-        {
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
@@ -273,7 +253,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 01 from 3:45 pm"
+      "availability": "Tuesday, Nov 03 from 9:45 am - 3:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -900,11 +880,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "11:45 am",
+          "start_time": "2:15 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:45 am - 5:00 pm",
-          "display": "11:45 am - 5:00 pm",
-          "display_full": "Monday, Nov 02: 11:45 am - 5:00 pm"
+          "time_range": "2:15 pm - 5:00 pm",
+          "display": "2:15 pm - 5:00 pm",
+          "display_full": "Monday, Nov 02: 2:15 pm - 5:00 pm"
         },
         {
           "date": "2026-11-03",
@@ -942,11 +922,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "11:45 am",
+          "start_time": "2:15 pm",
           "end_time": "5:00 pm",
-          "time_range": "11:45 am - 5:00 pm",
-          "display": "11:45 am - 5:00 pm",
-          "display_full": "Monday, Nov 02: 11:45 am - 5:00 pm"
+          "time_range": "2:15 pm - 5:00 pm",
+          "display": "2:15 pm - 5:00 pm",
+          "display_full": "Monday, Nov 02: 2:15 pm - 5:00 pm"
         },
         {
           "date": "2026-11-03",
@@ -980,7 +960,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 11:45 am - 5:00 pm"
+      "availability": "Monday, Nov 02 from 2:15 pm - 5:00 pm"
     }
   },
   "Burnett Heads": {
