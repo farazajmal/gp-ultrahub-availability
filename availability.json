@@ -8,8 +8,8 @@
       "gender": "Male",
       "qualifications": [
         "Dip Occ Med (RCPI)",
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -39,11 +39,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "7:15 am",
+          "start_time": "1:30 pm",
           "end_time": "2:45 pm",
-          "time_range": "7:15 am - 2:45 pm",
-          "display": "7:15 am - 2:45 pm",
-          "display_full": "Monday, Nov 02: 7:15 am - 2:45 pm"
+          "time_range": "1:30 pm - 2:45 pm",
+          "display": "1:30 pm - 2:45 pm",
+          "display_full": "Monday, Nov 02: 1:30 pm - 2:45 pm"
         },
         {
           "date": "2026-11-03",
@@ -91,11 +91,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "7:15 am",
+          "start_time": "1:30 pm",
           "end_time": "2:45 pm",
-          "time_range": "7:15 am - 2:45 pm",
-          "display": "7:15 am - 2:45 pm",
-          "display_full": "Monday, Nov 02: 7:15 am - 2:45 pm"
+          "time_range": "1:30 pm - 2:45 pm",
+          "display": "1:30 pm - 2:45 pm",
+          "display_full": "Monday, Nov 02: 1:30 pm - 2:45 pm"
         },
         {
           "date": "2026-11-03",
@@ -139,7 +139,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 7:15 am - 2:45 pm"
+      "availability": "Monday, Nov 02 from 1:30 pm - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -169,10 +169,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS",
         "MCPS",
-        "MCPS (Family Medicine)"
+        "MCPS (Family Medicine)",
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -302,11 +302,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
-        "General Practitioner",
-        "MCPS",
+        "DFM",
         "MRCGP",
-        "DFM"
+        "MCPS",
+        "General Practitioner",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -547,9 +547,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
+        "MCPS (Family Medicine)",
         "MBBS",
-        "MCPS (Family Medicine)"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -941,8 +941,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -980,11 +980,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "2:30 pm",
+          "start_time": "3:15 pm",
           "end_time": "4:45 pm",
-          "time_range": "2:30 pm - 4:45 pm",
-          "display": "2:30 pm - 4:45 pm",
-          "display_full": "Monday, Nov 02: 2:30 pm - 4:45 pm"
+          "time_range": "3:15 pm - 4:45 pm",
+          "display": "3:15 pm - 4:45 pm",
+          "display_full": "Monday, Nov 02: 3:15 pm - 4:45 pm"
         },
         {
           "date": "2026-11-03",
@@ -1032,11 +1032,11 @@
           "date": "2026-11-02",
           "day_name": "Monday",
           "date_label": "Monday, Nov 02",
-          "start_time": "2:30 pm",
+          "start_time": "3:15 pm",
           "end_time": "4:45 pm",
-          "time_range": "2:30 pm - 4:45 pm",
-          "display": "2:30 pm - 4:45 pm",
-          "display_full": "Monday, Nov 02: 2:30 pm - 4:45 pm"
+          "time_range": "3:15 pm - 4:45 pm",
+          "display": "3:15 pm - 4:45 pm",
+          "display_full": "Monday, Nov 02: 3:15 pm - 4:45 pm"
         },
         {
           "date": "2026-11-03",
@@ -1080,7 +1080,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 02 from 2:30 pm - 4:45 pm"
+      "availability": "Monday, Nov 02 from 3:15 pm - 4:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1486,8 +1486,8 @@
       "gender": "Female",
       "qualifications": [
         "MRCPG",
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1659,92 +1659,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
-      "availability_patches": [
-        {
-          "date": "2026-11-03",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 03",
-          "start_time": "8:00 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 03: 8:00 am - 4:00 pm"
-        },
-        {
-          "date": "2026-11-04",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 04",
-          "start_time": "8:00 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 04: 8:00 am - 4:00 pm"
-        },
-        {
-          "date": "2026-11-05",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Nov 05",
-          "start_time": "8:00 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Thursday, Nov 05: 8:00 am - 4:00 pm"
-        },
-        {
-          "date": "2026-11-06",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 06",
-          "start_time": "8:00 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Friday, Nov 06: 8:00 am - 4:00 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-03",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 03",
-          "start_time": "8:00 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 03: 8:00 am - 4:00 pm"
-        },
-        {
-          "date": "2026-11-04",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 04",
-          "start_time": "8:00 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 04: 8:00 am - 4:00 pm"
-        },
-        {
-          "date": "2026-11-05",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Nov 05",
-          "start_time": "8:00 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Thursday, Nov 05: 8:00 am - 4:00 pm"
-        },
-        {
-          "date": "2026-11-06",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 06",
-          "start_time": "8:00 am",
-          "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Friday, Nov 06: 8:00 am - 4:00 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Tuesday, Nov 03 from 8:00 am - 4:00 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
