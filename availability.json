@@ -39,11 +39,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "1:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:15 pm - 2:45 pm",
-          "display": "1:15 pm - 2:45 pm",
-          "display_full": "Tuesday, Nov 03: 1:15 pm - 2:45 pm"
+          "time_range": "1:30 pm - 2:45 pm",
+          "display": "1:30 pm - 2:45 pm",
+          "display_full": "Tuesday, Nov 03: 1:30 pm - 2:45 pm"
         },
         {
           "date": "2026-11-04",
@@ -69,11 +69,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "7:00 am",
+          "start_time": "7:15 am",
           "end_time": "2:45 pm",
-          "time_range": "7:00 am - 2:45 pm",
-          "display": "7:00 am - 2:45 pm",
-          "display_full": "Friday, Nov 06: 7:00 am - 2:45 pm"
+          "time_range": "7:15 am - 2:45 pm",
+          "display": "7:15 am - 2:45 pm",
+          "display_full": "Friday, Nov 06: 7:15 am - 2:45 pm"
         }
       ],
       "patches": [
@@ -81,11 +81,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "1:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:15 pm - 2:45 pm",
-          "display": "1:15 pm - 2:45 pm",
-          "display_full": "Tuesday, Nov 03: 1:15 pm - 2:45 pm"
+          "time_range": "1:30 pm - 2:45 pm",
+          "display": "1:30 pm - 2:45 pm",
+          "display_full": "Tuesday, Nov 03: 1:30 pm - 2:45 pm"
         },
         {
           "date": "2026-11-04",
@@ -111,15 +111,15 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "7:00 am",
+          "start_time": "7:15 am",
           "end_time": "2:45 pm",
-          "time_range": "7:00 am - 2:45 pm",
-          "display": "7:00 am - 2:45 pm",
-          "display_full": "Friday, Nov 06: 7:00 am - 2:45 pm"
+          "time_range": "7:15 am - 2:45 pm",
+          "display": "7:15 am - 2:45 pm",
+          "display_full": "Friday, Nov 06: 7:15 am - 2:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 03 from 1:15 pm - 2:45 pm"
+      "availability": "Tuesday, Nov 03 from 1:30 pm - 2:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -284,11 +284,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "1:15 pm",
+          "start_time": "11:30 am",
           "end_time": "4:30 pm",
-          "time_range": "1:15 pm - 4:30 pm",
-          "display": "1:15 pm - 4:30 pm",
-          "display_full": "Tuesday, Nov 03: 1:15 pm - 4:30 pm"
+          "time_range": "11:30 am - 4:30 pm",
+          "display": "11:30 am - 4:30 pm",
+          "display_full": "Tuesday, Nov 03: 11:30 am - 4:30 pm"
         },
         {
           "date": "2026-11-04",
@@ -314,11 +314,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "6:45 pm",
-          "time_range": "11:00 am - 6:45 pm",
-          "display": "11:00 am - 6:45 pm",
-          "display_full": "Friday, Nov 06: 11:00 am - 6:45 pm"
+          "time_range": "11:15 am - 6:45 pm",
+          "display": "11:15 am - 6:45 pm",
+          "display_full": "Friday, Nov 06: 11:15 am - 6:45 pm"
         }
       ],
       "patches": [
@@ -326,11 +326,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "1:15 pm",
+          "start_time": "11:30 am",
           "end_time": "4:30 pm",
-          "time_range": "1:15 pm - 4:30 pm",
-          "display": "1:15 pm - 4:30 pm",
-          "display_full": "Tuesday, Nov 03: 1:15 pm - 4:30 pm"
+          "time_range": "11:30 am - 4:30 pm",
+          "display": "11:30 am - 4:30 pm",
+          "display_full": "Tuesday, Nov 03: 11:30 am - 4:30 pm"
         },
         {
           "date": "2026-11-04",
@@ -356,15 +356,15 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "6:45 pm",
-          "time_range": "11:00 am - 6:45 pm",
-          "display": "11:00 am - 6:45 pm",
-          "display_full": "Friday, Nov 06: 11:00 am - 6:45 pm"
+          "time_range": "11:15 am - 6:45 pm",
+          "display": "11:15 am - 6:45 pm",
+          "display_full": "Friday, Nov 06: 11:15 am - 6:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 03 from 1:15 pm - 4:30 pm"
+      "availability": "Tuesday, Nov 03 from 11:30 am - 4:30 pm"
     },
     "Dr. Arooj Fatima": {
       "doctor_id": 209447,
@@ -742,11 +742,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "12:15 pm",
+          "start_time": "2:45 pm",
           "end_time": "2:45 pm",
-          "time_range": "12:15 pm - 2:45 pm",
-          "display": "12:15 pm - 2:45 pm",
-          "display_full": "Friday, Nov 06: 12:15 pm - 2:45 pm"
+          "time_range": "2:45 pm",
+          "display": "2:45 pm",
+          "display_full": "Friday, Nov 06: 2:45 pm"
         }
       ],
       "patches": [
@@ -764,11 +764,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "12:15 pm",
+          "start_time": "2:45 pm",
           "end_time": "2:45 pm",
-          "time_range": "12:15 pm - 2:45 pm",
-          "display": "12:15 pm - 2:45 pm",
-          "display_full": "Friday, Nov 06: 12:15 pm - 2:45 pm"
+          "time_range": "2:45 pm",
+          "display": "2:45 pm",
+          "display_full": "Friday, Nov 06: 2:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -880,11 +880,11 @@
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
-          "start_time": "11:30 am",
+          "start_time": "11:00 am",
           "end_time": "5:15 pm",
-          "time_range": "11:30 am - 5:15 pm",
-          "display": "11:30 am - 5:15 pm",
-          "display_full": "Wednesday, Nov 04: 11:30 am - 5:15 pm"
+          "time_range": "11:00 am - 5:15 pm",
+          "display": "11:00 am - 5:15 pm",
+          "display_full": "Wednesday, Nov 04: 11:00 am - 5:15 pm"
         },
         {
           "date": "2026-11-05",
@@ -912,11 +912,11 @@
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
-          "start_time": "11:30 am",
+          "start_time": "11:00 am",
           "end_time": "5:15 pm",
-          "time_range": "11:30 am - 5:15 pm",
-          "display": "11:30 am - 5:15 pm",
-          "display_full": "Wednesday, Nov 04: 11:30 am - 5:15 pm"
+          "time_range": "11:00 am - 5:15 pm",
+          "display": "11:00 am - 5:15 pm",
+          "display_full": "Wednesday, Nov 04: 11:00 am - 5:15 pm"
         },
         {
           "date": "2026-11-05",
@@ -940,7 +940,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 04 from 11:30 am - 5:15 pm"
+      "availability": "Wednesday, Nov 04 from 11:00 am - 5:15 pm"
     }
   },
   "Burnett Heads": {
@@ -1216,11 +1216,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "12:00 pm",
+          "start_time": "8:40 am",
           "end_time": "3:20 pm",
-          "time_range": "12:00 pm - 3:20 pm",
-          "display": "12:00 pm - 3:20 pm",
-          "display_full": "Tuesday, Nov 03: 12:00 pm - 3:20 pm"
+          "time_range": "8:40 am - 3:20 pm",
+          "display": "8:40 am - 3:20 pm",
+          "display_full": "Tuesday, Nov 03: 8:40 am - 3:20 pm"
         },
         {
           "date": "2026-11-04",
@@ -1258,11 +1258,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "12:00 pm",
+          "start_time": "8:40 am",
           "end_time": "3:20 pm",
-          "time_range": "12:00 pm - 3:20 pm",
-          "display": "12:00 pm - 3:20 pm",
-          "display_full": "Tuesday, Nov 03: 12:00 pm - 3:20 pm"
+          "time_range": "8:40 am - 3:20 pm",
+          "display": "8:40 am - 3:20 pm",
+          "display_full": "Tuesday, Nov 03: 8:40 am - 3:20 pm"
         },
         {
           "date": "2026-11-04",
@@ -1296,7 +1296,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 03 from 12:00 pm - 3:20 pm"
+      "availability": "Tuesday, Nov 03 from 8:40 am - 3:20 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
