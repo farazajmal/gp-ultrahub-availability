@@ -7,8 +7,8 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
         "MRCGP",
+        "Dip Occ Med (RCPI)",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -149,9 +149,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MRCGP",
         "MCPS",
+        "MCPS (Family Medicine)",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -242,11 +242,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "DFM",
-        "MBBS",
-        "MRCGP",
         "MCPS",
-        "General Practitioner"
+        "General Practitioner",
+        "DFM",
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -467,8 +467,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MRCGP",
+        "MCPS (Family Medicine)",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -599,11 +599,11 @@
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
-          "start_time": "9:30 am",
+          "start_time": "11:15 am",
           "end_time": "2:15 pm",
-          "time_range": "9:30 am - 2:15 pm",
-          "display": "9:30 am - 2:15 pm",
-          "display_full": "Wednesday, Nov 04: 9:30 am - 2:15 pm"
+          "time_range": "11:15 am - 2:15 pm",
+          "display": "11:15 am - 2:15 pm",
+          "display_full": "Wednesday, Nov 04: 11:15 am - 2:15 pm"
         },
         {
           "date": "2026-11-05",
@@ -641,11 +641,11 @@
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
-          "start_time": "9:30 am",
+          "start_time": "11:15 am",
           "end_time": "2:15 pm",
-          "time_range": "9:30 am - 2:15 pm",
-          "display": "9:30 am - 2:15 pm",
-          "display_full": "Wednesday, Nov 04: 9:30 am - 2:15 pm"
+          "time_range": "11:15 am - 2:15 pm",
+          "display": "11:15 am - 2:15 pm",
+          "display_full": "Wednesday, Nov 04: 11:15 am - 2:15 pm"
         },
         {
           "date": "2026-11-05",
@@ -679,7 +679,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 04 from 9:30 am - 2:15 pm"
+      "availability": "Wednesday, Nov 04 from 11:15 am - 2:15 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -880,11 +880,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "1:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "1:30 pm",
-          "time_range": "1:15 pm - 1:30 pm",
-          "display": "1:15 pm - 1:30 pm",
-          "display_full": "Tuesday, Nov 03: 1:15 pm - 1:30 pm"
+          "time_range": "1:30 pm",
+          "display": "1:30 pm",
+          "display_full": "Tuesday, Nov 03: 1:30 pm"
         },
         {
           "date": "2026-11-04",
@@ -922,11 +922,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "1:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "1:30 pm",
-          "time_range": "1:15 pm - 1:30 pm",
-          "display": "1:15 pm - 1:30 pm",
-          "display_full": "Tuesday, Nov 03: 1:15 pm - 1:30 pm"
+          "time_range": "1:30 pm",
+          "display": "1:30 pm",
+          "display_full": "Tuesday, Nov 03: 1:30 pm"
         },
         {
           "date": "2026-11-04",
@@ -960,7 +960,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 03 from 1:15 pm - 1:30 pm"
+      "availability": "Tuesday, Nov 03 from 1:30 pm"
     }
   },
   "Burnett Heads": {
@@ -1325,8 +1325,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MRCPG",
+        "MRCGP",
         "MBBS"
       ],
       "areas_of_interest": [
