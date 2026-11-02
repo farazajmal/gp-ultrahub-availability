@@ -8,8 +8,8 @@
       "gender": "Male",
       "qualifications": [
         "Dip Occ Med (RCPI)",
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -149,10 +149,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS",
         "MCPS (Family Medicine)",
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MCPS",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -190,6 +190,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
+          "date": "2026-11-03",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 03",
+          "start_time": "4:00 pm",
+          "end_time": "4:00 pm",
+          "time_range": "4:00 pm",
+          "display": "4:00 pm",
+          "display_full": "Tuesday, Nov 03: 4:00 pm"
+        },
+        {
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
@@ -202,6 +212,16 @@
       ],
       "patches": [
         {
+          "date": "2026-11-03",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 03",
+          "start_time": "4:00 pm",
+          "end_time": "4:00 pm",
+          "time_range": "4:00 pm",
+          "display": "4:00 pm",
+          "display_full": "Tuesday, Nov 03: 4:00 pm"
+        },
+        {
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
@@ -213,7 +233,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 06 from 12:15 pm - 4:15 pm"
+      "availability": "Tuesday, Nov 03 from 4:00 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -223,10 +243,10 @@
       "gender": "Male",
       "qualifications": [
         "DFM",
+        "MBBS",
         "MRCGP",
         "MCPS",
-        "General Practitioner",
-        "MBBS"
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -284,11 +304,11 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "6:45 pm",
-          "time_range": "11:00 am - 6:45 pm",
-          "display": "11:00 am - 6:45 pm",
-          "display_full": "Thursday, Nov 05: 11:00 am - 6:45 pm"
+          "time_range": "11:15 am - 6:45 pm",
+          "display": "11:15 am - 6:45 pm",
+          "display_full": "Thursday, Nov 05: 11:15 am - 6:45 pm"
         },
         {
           "date": "2026-11-06",
@@ -326,11 +346,11 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "6:45 pm",
-          "time_range": "11:00 am - 6:45 pm",
-          "display": "11:00 am - 6:45 pm",
-          "display_full": "Thursday, Nov 05: 11:00 am - 6:45 pm"
+          "time_range": "11:15 am - 6:45 pm",
+          "display": "11:15 am - 6:45 pm",
+          "display_full": "Thursday, Nov 05: 11:15 am - 6:45 pm"
         },
         {
           "date": "2026-11-06",
@@ -448,8 +468,8 @@
       "gender": "Female",
       "qualifications": [
         "MCPS (Family Medicine)",
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -579,11 +599,11 @@
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
-          "start_time": "9:30 am",
+          "start_time": "7:45 am",
           "end_time": "2:15 pm",
-          "time_range": "9:30 am - 2:15 pm",
-          "display": "9:30 am - 2:15 pm",
-          "display_full": "Wednesday, Nov 04: 9:30 am - 2:15 pm"
+          "time_range": "7:45 am - 2:15 pm",
+          "display": "7:45 am - 2:15 pm",
+          "display_full": "Wednesday, Nov 04: 7:45 am - 2:15 pm"
         },
         {
           "date": "2026-11-05",
@@ -611,11 +631,11 @@
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
-          "start_time": "9:30 am",
+          "start_time": "7:45 am",
           "end_time": "2:15 pm",
-          "time_range": "9:30 am - 2:15 pm",
-          "display": "9:30 am - 2:15 pm",
-          "display_full": "Wednesday, Nov 04: 9:30 am - 2:15 pm"
+          "time_range": "7:45 am - 2:15 pm",
+          "display": "7:45 am - 2:15 pm",
+          "display_full": "Wednesday, Nov 04: 7:45 am - 2:15 pm"
         },
         {
           "date": "2026-11-05",
@@ -639,7 +659,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 04 from 9:30 am - 2:15 pm"
+      "availability": "Wednesday, Nov 04 from 7:45 am - 2:15 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -692,11 +712,11 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "10:45 am",
+          "start_time": "11:45 am",
           "end_time": "12:30 pm",
-          "time_range": "10:45 am - 12:30 pm",
-          "display": "10:45 am - 12:30 pm",
-          "display_full": "Thursday, Nov 05: 10:45 am - 12:30 pm"
+          "time_range": "11:45 am - 12:30 pm",
+          "display": "11:45 am - 12:30 pm",
+          "display_full": "Thursday, Nov 05: 11:45 am - 12:30 pm"
         },
         {
           "date": "2026-11-06",
@@ -714,11 +734,11 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "10:45 am",
+          "start_time": "11:45 am",
           "end_time": "12:30 pm",
-          "time_range": "10:45 am - 12:30 pm",
-          "display": "10:45 am - 12:30 pm",
-          "display_full": "Thursday, Nov 05: 10:45 am - 12:30 pm"
+          "time_range": "11:45 am - 12:30 pm",
+          "display": "11:45 am - 12:30 pm",
+          "display_full": "Thursday, Nov 05: 11:45 am - 12:30 pm"
         },
         {
           "date": "2026-11-06",
@@ -732,7 +752,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 05 from 10:45 am - 12:30 pm"
+      "availability": "Thursday, Nov 05 from 11:45 am - 12:30 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -801,8 +821,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -997,11 +1017,11 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "10:15 am",
+          "start_time": "11:00 am",
           "end_time": "4:15 pm",
-          "time_range": "10:15 am - 4:15 pm",
-          "display": "10:15 am - 4:15 pm",
-          "display_full": "Thursday, Nov 05: 10:15 am - 4:15 pm"
+          "time_range": "11:00 am - 4:15 pm",
+          "display": "11:00 am - 4:15 pm",
+          "display_full": "Thursday, Nov 05: 11:00 am - 4:15 pm"
         }
       ],
       "patches": [
@@ -1009,15 +1029,15 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "10:15 am",
+          "start_time": "11:00 am",
           "end_time": "4:15 pm",
-          "time_range": "10:15 am - 4:15 pm",
-          "display": "10:15 am - 4:15 pm",
-          "display_full": "Thursday, Nov 05: 10:15 am - 4:15 pm"
+          "time_range": "11:00 am - 4:15 pm",
+          "display": "11:00 am - 4:15 pm",
+          "display_full": "Thursday, Nov 05: 11:00 am - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 05 from 10:15 am - 4:15 pm"
+      "availability": "Thursday, Nov 05 from 11:00 am - 4:15 pm"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
@@ -1196,11 +1216,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "8:20 am",
+          "start_time": "9:40 am",
           "end_time": "3:30 pm",
-          "time_range": "8:20 am - 3:30 pm",
-          "display": "8:20 am - 3:30 pm",
-          "display_full": "Tuesday, Nov 03: 8:20 am - 3:30 pm"
+          "time_range": "9:40 am - 3:30 pm",
+          "display": "9:40 am - 3:30 pm",
+          "display_full": "Tuesday, Nov 03: 9:40 am - 3:30 pm"
         },
         {
           "date": "2026-11-04",
@@ -1216,11 +1236,11 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "12:00 pm",
+          "start_time": "12:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:00 pm - 6:40 pm",
-          "display": "12:00 pm - 6:40 pm",
-          "display_full": "Thursday, Nov 05: 12:00 pm - 6:40 pm"
+          "time_range": "12:10 pm - 6:40 pm",
+          "display": "12:10 pm - 6:40 pm",
+          "display_full": "Thursday, Nov 05: 12:10 pm - 6:40 pm"
         },
         {
           "date": "2026-11-06",
@@ -1238,11 +1258,11 @@
           "date": "2026-11-03",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 03",
-          "start_time": "8:20 am",
+          "start_time": "9:40 am",
           "end_time": "3:30 pm",
-          "time_range": "8:20 am - 3:30 pm",
-          "display": "8:20 am - 3:30 pm",
-          "display_full": "Tuesday, Nov 03: 8:20 am - 3:30 pm"
+          "time_range": "9:40 am - 3:30 pm",
+          "display": "9:40 am - 3:30 pm",
+          "display_full": "Tuesday, Nov 03: 9:40 am - 3:30 pm"
         },
         {
           "date": "2026-11-04",
@@ -1258,11 +1278,11 @@
           "date": "2026-11-05",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 05",
-          "start_time": "12:00 pm",
+          "start_time": "12:10 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:00 pm - 6:40 pm",
-          "display": "12:00 pm - 6:40 pm",
-          "display_full": "Thursday, Nov 05: 12:00 pm - 6:40 pm"
+          "time_range": "12:10 pm - 6:40 pm",
+          "display": "12:10 pm - 6:40 pm",
+          "display_full": "Thursday, Nov 05: 12:10 pm - 6:40 pm"
         },
         {
           "date": "2026-11-06",
@@ -1276,7 +1296,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 03 from 8:20 am - 3:30 pm"
+      "availability": "Tuesday, Nov 03 from 9:40 am - 3:30 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1285,9 +1305,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MRCGP",
         "MRCPG",
-        "MBBS",
-        "MRCGP"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1340,10 +1360,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
           "start_time": "8:30 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:30 am - 3:40 pm",
-          "display": "8:30 am - 3:40 pm",
-          "display_full": "Wednesday, Nov 04: 8:30 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:30 am - 3:30 pm",
+          "display": "8:30 am - 3:30 pm",
+          "display_full": "Wednesday, Nov 04: 8:30 am - 3:30 pm"
         },
         {
           "date": "2026-11-05",
@@ -1382,10 +1402,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
           "start_time": "8:30 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:30 am - 3:40 pm",
-          "display": "8:30 am - 3:40 pm",
-          "display_full": "Wednesday, Nov 04: 8:30 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:30 am - 3:30 pm",
+          "display": "8:30 am - 3:30 pm",
+          "display_full": "Wednesday, Nov 04: 8:30 am - 3:30 pm"
         },
         {
           "date": "2026-11-05",
