@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-02 07:00:47 PM",
+    "last_updated": "2026-11-02 11:14:49 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -10,8 +10,8 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MRCGP",
                     "Dip Occ Med (RCPI)",
+                    "MRCGP",
                     "MBBS"
                 ],
                 "areas_of_interest": [
@@ -62,10 +62,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCGP",
                     "MCPS",
-                    "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MRCGP",
+                    "MBBS",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -109,9 +109,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
                     "General Practitioner",
                     "DFM",
+                    "MCPS",
                     "MRCGP",
                     "MBBS"
                 ],
@@ -241,8 +241,8 @@
                 "gender": "Female",
                 "qualifications": [
                     "MRCGP",
-                    "MCPS (Family Medicine)",
-                    "MBBS"
+                    "MBBS",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -662,9 +662,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MRCPG"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
