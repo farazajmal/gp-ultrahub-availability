@@ -734,10 +734,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
           "start_time": "1:00 pm",
-          "end_time": "3:00 pm",
-          "time_range": "1:00 pm - 3:00 pm",
-          "display": "1:00 pm - 3:00 pm",
-          "display_full": "Wednesday, Nov 04: 1:00 pm - 3:00 pm"
+          "end_time": "2:00 pm",
+          "time_range": "1:00 pm - 2:00 pm",
+          "display": "1:00 pm - 2:00 pm",
+          "display_full": "Wednesday, Nov 04: 1:00 pm - 2:00 pm"
         },
         {
           "date": "2026-11-05",
@@ -766,10 +766,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
           "start_time": "1:00 pm",
-          "end_time": "3:00 pm",
-          "time_range": "1:00 pm - 3:00 pm",
-          "display": "1:00 pm - 3:00 pm",
-          "display_full": "Wednesday, Nov 04: 1:00 pm - 3:00 pm"
+          "end_time": "2:00 pm",
+          "time_range": "1:00 pm - 2:00 pm",
+          "display": "1:00 pm - 2:00 pm",
+          "display_full": "Wednesday, Nov 04: 1:00 pm - 2:00 pm"
         },
         {
           "date": "2026-11-05",
@@ -793,7 +793,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 04 from 1:00 pm - 3:00 pm"
+      "availability": "Wednesday, Nov 04 from 1:00 pm - 2:00 pm"
     }
   },
   "Burnett Heads": {
@@ -1137,16 +1137,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "availability_patches": [
         {
-          "date": "2026-11-03",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 03",
-          "start_time": "6:20 pm",
-          "end_time": "6:20 pm",
-          "time_range": "6:20 pm",
-          "display": "6:20 pm",
-          "display_full": "Tuesday, Nov 03: 6:20 pm"
-        },
-        {
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
@@ -1179,16 +1169,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-03",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 03",
-          "start_time": "6:20 pm",
-          "end_time": "6:20 pm",
-          "time_range": "6:20 pm",
-          "display": "6:20 pm",
-          "display_full": "Tuesday, Nov 03: 6:20 pm"
-        },
-        {
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
@@ -1220,7 +1200,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 03 from 6:20 pm"
+      "availability": "Wednesday, Nov 04 from 9:20 am - 3:20 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
