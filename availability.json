@@ -1160,11 +1160,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "8:20 am",
+          "start_time": "8:10 am",
           "end_time": "3:40 pm",
-          "time_range": "8:20 am - 3:40 pm",
-          "display": "8:20 am - 3:40 pm",
-          "display_full": "Friday, Nov 06: 8:20 am - 3:40 pm"
+          "time_range": "8:10 am - 3:40 pm",
+          "display": "8:10 am - 3:40 pm",
+          "display_full": "Friday, Nov 06: 8:10 am - 3:40 pm"
         }
       ],
       "patches": [
@@ -1192,11 +1192,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "8:20 am",
+          "start_time": "8:10 am",
           "end_time": "3:40 pm",
-          "time_range": "8:20 am - 3:40 pm",
-          "display": "8:20 am - 3:40 pm",
-          "display_full": "Friday, Nov 06: 8:20 am - 3:40 pm"
+          "time_range": "8:10 am - 3:40 pm",
+          "display": "8:10 am - 3:40 pm",
+          "display_full": "Friday, Nov 06: 8:10 am - 3:40 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1235,11 +1235,11 @@
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 04: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 04: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-05",
@@ -1267,11 +1267,11 @@
           "date": "2026-11-04",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 04",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 04: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 04: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-05",
@@ -1295,7 +1295,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 04 from 10:10 am - 4:00 pm"
+      "availability": "Wednesday, Nov 04 from 11:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
