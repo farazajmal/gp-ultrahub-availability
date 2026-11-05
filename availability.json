@@ -536,11 +536,11 @@
           "date": "2026-11-07",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 07",
-          "start_time": "10:15 am",
+          "start_time": "11:15 am",
           "end_time": "3:30 pm",
-          "time_range": "10:15 am - 3:30 pm",
-          "display": "10:15 am - 3:30 pm",
-          "display_full": "Saturday, Nov 07: 10:15 am - 3:30 pm"
+          "time_range": "11:15 am - 3:30 pm",
+          "display": "11:15 am - 3:30 pm",
+          "display_full": "Saturday, Nov 07: 11:15 am - 3:30 pm"
         }
       ],
       "patches": [
@@ -548,15 +548,15 @@
           "date": "2026-11-07",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 07",
-          "start_time": "10:15 am",
+          "start_time": "11:15 am",
           "end_time": "3:30 pm",
-          "time_range": "10:15 am - 3:30 pm",
-          "display": "10:15 am - 3:30 pm",
-          "display_full": "Saturday, Nov 07: 10:15 am - 3:30 pm"
+          "time_range": "11:15 am - 3:30 pm",
+          "display": "11:15 am - 3:30 pm",
+          "display_full": "Saturday, Nov 07: 11:15 am - 3:30 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 07 from 10:15 am - 3:30 pm"
+      "availability": "Saturday, Nov 07 from 11:15 am - 3:30 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -1074,10 +1074,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
           "start_time": "4:50 pm",
-          "end_time": "5:40 pm",
-          "time_range": "4:50 pm - 5:40 pm",
-          "display": "4:50 pm - 5:40 pm",
-          "display_full": "Friday, Nov 06: 4:50 pm - 5:40 pm"
+          "end_time": "5:30 pm",
+          "time_range": "4:50 pm - 5:30 pm",
+          "display": "4:50 pm - 5:30 pm",
+          "display_full": "Friday, Nov 06: 4:50 pm - 5:30 pm"
         },
         {
           "date": "2026-11-09",
@@ -1106,10 +1106,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
           "start_time": "4:50 pm",
-          "end_time": "5:40 pm",
-          "time_range": "4:50 pm - 5:40 pm",
-          "display": "4:50 pm - 5:40 pm",
-          "display_full": "Friday, Nov 06: 4:50 pm - 5:40 pm"
+          "end_time": "5:30 pm",
+          "time_range": "4:50 pm - 5:30 pm",
+          "display": "4:50 pm - 5:30 pm",
+          "display_full": "Friday, Nov 06: 4:50 pm - 5:30 pm"
         },
         {
           "date": "2026-11-09",
@@ -1133,7 +1133,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 06 from 4:50 pm - 5:40 pm"
+      "availability": "Friday, Nov 06 from 4:50 pm - 5:30 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1281,11 +1281,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "12:10 pm",
+          "start_time": "1:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "12:10 pm - 4:00 pm",
-          "display": "12:10 pm - 4:00 pm",
-          "display_full": "Friday, Nov 06: 12:10 pm - 4:00 pm"
+          "time_range": "1:10 pm - 4:00 pm",
+          "display": "1:10 pm - 4:00 pm",
+          "display_full": "Friday, Nov 06: 1:10 pm - 4:00 pm"
         },
         {
           "date": "2026-11-09",
@@ -1313,11 +1313,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "12:10 pm",
+          "start_time": "1:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "12:10 pm - 4:00 pm",
-          "display": "12:10 pm - 4:00 pm",
-          "display_full": "Friday, Nov 06: 12:10 pm - 4:00 pm"
+          "time_range": "1:10 pm - 4:00 pm",
+          "display": "1:10 pm - 4:00 pm",
+          "display_full": "Friday, Nov 06: 1:10 pm - 4:00 pm"
         },
         {
           "date": "2026-11-09",
@@ -1341,7 +1341,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 06 from 12:10 pm - 4:00 pm"
+      "availability": "Friday, Nov 06 from 1:10 pm - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
