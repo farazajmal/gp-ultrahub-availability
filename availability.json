@@ -965,11 +965,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "11:45 am",
+          "start_time": "2:30 pm",
           "end_time": "4:00 pm",
-          "time_range": "11:45 am - 4:00 pm",
-          "display": "11:45 am - 4:00 pm",
-          "display_full": "Friday, Nov 06: 11:45 am - 4:00 pm"
+          "time_range": "2:30 pm - 4:00 pm",
+          "display": "2:30 pm - 4:00 pm",
+          "display_full": "Friday, Nov 06: 2:30 pm - 4:00 pm"
         },
         {
           "date": "2026-11-09",
@@ -997,11 +997,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "11:45 am",
+          "start_time": "2:30 pm",
           "end_time": "4:00 pm",
-          "time_range": "11:45 am - 4:00 pm",
-          "display": "11:45 am - 4:00 pm",
-          "display_full": "Friday, Nov 06: 11:45 am - 4:00 pm"
+          "time_range": "2:30 pm - 4:00 pm",
+          "display": "2:30 pm - 4:00 pm",
+          "display_full": "Friday, Nov 06: 2:30 pm - 4:00 pm"
         },
         {
           "date": "2026-11-09",
@@ -1025,7 +1025,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 06 from 11:45 am - 4:00 pm"
+      "availability": "Friday, Nov 06 from 2:30 pm - 4:00 pm"
     }
   },
   "Toowoomba": {
@@ -1074,10 +1074,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
           "start_time": "4:50 pm",
-          "end_time": "5:30 pm",
-          "time_range": "4:50 pm - 5:30 pm",
-          "display": "4:50 pm - 5:30 pm",
-          "display_full": "Friday, Nov 06: 4:50 pm - 5:30 pm"
+          "end_time": "6:10 pm",
+          "time_range": "4:50 pm - 6:10 pm",
+          "display": "4:50 pm - 6:10 pm",
+          "display_full": "Friday, Nov 06: 4:50 pm - 6:10 pm"
         },
         {
           "date": "2026-11-09",
@@ -1106,10 +1106,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
           "start_time": "4:50 pm",
-          "end_time": "5:30 pm",
-          "time_range": "4:50 pm - 5:30 pm",
-          "display": "4:50 pm - 5:30 pm",
-          "display_full": "Friday, Nov 06: 4:50 pm - 5:30 pm"
+          "end_time": "6:10 pm",
+          "time_range": "4:50 pm - 6:10 pm",
+          "display": "4:50 pm - 6:10 pm",
+          "display_full": "Friday, Nov 06: 4:50 pm - 6:10 pm"
         },
         {
           "date": "2026-11-09",
@@ -1133,7 +1133,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 06 from 4:50 pm - 5:30 pm"
+      "availability": "Friday, Nov 06 from 4:50 pm - 6:10 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
