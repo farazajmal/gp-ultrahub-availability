@@ -36,16 +36,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
-          "date": "2026-11-06",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 06",
-          "start_time": "2:15 pm",
-          "end_time": "2:15 pm",
-          "time_range": "2:15 pm",
-          "display": "2:15 pm",
-          "display_full": "Friday, Nov 06: 2:15 pm"
-        },
-        {
           "date": "2026-11-08",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 08",
@@ -68,16 +58,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-06",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 06",
-          "start_time": "2:15 pm",
-          "end_time": "2:15 pm",
-          "time_range": "2:15 pm",
-          "display": "2:15 pm",
-          "display_full": "Friday, Nov 06: 2:15 pm"
-        },
-        {
           "date": "2026-11-08",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 08",
@@ -99,7 +79,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 06 from 2:15 pm"
+      "availability": "Sunday, Nov 08 from 11:45 am - 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -950,10 +930,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
           "start_time": "4:50 pm",
-          "end_time": "6:40 pm",
-          "time_range": "4:50 pm - 6:40 pm",
-          "display": "4:50 pm - 6:40 pm",
-          "display_full": "Friday, Nov 06: 4:50 pm - 6:40 pm"
+          "end_time": "5:40 pm",
+          "time_range": "4:50 pm - 5:40 pm",
+          "display": "4:50 pm - 5:40 pm",
+          "display_full": "Friday, Nov 06: 4:50 pm - 5:40 pm"
         },
         {
           "date": "2026-11-09",
@@ -972,10 +952,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
           "start_time": "4:50 pm",
-          "end_time": "6:40 pm",
-          "time_range": "4:50 pm - 6:40 pm",
-          "display": "4:50 pm - 6:40 pm",
-          "display_full": "Friday, Nov 06: 4:50 pm - 6:40 pm"
+          "end_time": "5:40 pm",
+          "time_range": "4:50 pm - 5:40 pm",
+          "display": "4:50 pm - 5:40 pm",
+          "display_full": "Friday, Nov 06: 4:50 pm - 5:40 pm"
         },
         {
           "date": "2026-11-09",
@@ -989,7 +969,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 06 from 4:50 pm - 6:40 pm"
+      "availability": "Friday, Nov 06 from 4:50 pm - 5:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1043,10 +1023,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
           "start_time": "2:30 pm",
-          "end_time": "3:30 pm",
-          "time_range": "2:30 pm - 3:30 pm",
-          "display": "2:30 pm - 3:30 pm",
-          "display_full": "Friday, Nov 06: 2:30 pm - 3:30 pm"
+          "end_time": "3:20 pm",
+          "time_range": "2:30 pm - 3:20 pm",
+          "display": "2:30 pm - 3:20 pm",
+          "display_full": "Friday, Nov 06: 2:30 pm - 3:20 pm"
         },
         {
           "date": "2026-11-09",
@@ -1065,10 +1045,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
           "start_time": "2:30 pm",
-          "end_time": "3:30 pm",
-          "time_range": "2:30 pm - 3:30 pm",
-          "display": "2:30 pm - 3:30 pm",
-          "display_full": "Friday, Nov 06: 2:30 pm - 3:30 pm"
+          "end_time": "3:20 pm",
+          "time_range": "2:30 pm - 3:20 pm",
+          "display": "2:30 pm - 3:20 pm",
+          "display_full": "Friday, Nov 06: 2:30 pm - 3:20 pm"
         },
         {
           "date": "2026-11-09",
@@ -1082,7 +1062,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 06 from 2:30 pm - 3:30 pm"
+      "availability": "Friday, Nov 06 from 2:30 pm - 3:20 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
@@ -1117,11 +1097,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Friday, Nov 06: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Friday, Nov 06: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-09",
@@ -1139,11 +1119,11 @@
           "date": "2026-11-06",
           "day_name": "Friday",
           "date_label": "Friday, Nov 06",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Friday, Nov 06: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Friday, Nov 06: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-09",
@@ -1157,7 +1137,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 06 from 8:00 am - 4:00 pm"
+      "availability": "Friday, Nov 06 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
