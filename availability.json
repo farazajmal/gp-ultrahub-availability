@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MRCGP",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -129,10 +129,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MCPS",
         "MCPS (Family Medicine)",
-        "MRCGP",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -223,8 +223,8 @@
       "gender": "Male",
       "qualifications": [
         "DFM",
-        "MRCGP",
         "MCPS",
+        "MRCGP",
         "MBBS",
         "General Practitioner"
       ],
@@ -274,11 +274,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "11:00 am",
+          "start_time": "11:30 am",
           "end_time": "6:30 pm",
-          "time_range": "11:00 am - 6:30 pm",
-          "display": "11:00 am - 6:30 pm",
-          "display_full": "Monday, Nov 09: 11:00 am - 6:30 pm"
+          "time_range": "11:30 am - 6:30 pm",
+          "display": "11:30 am - 6:30 pm",
+          "display_full": "Monday, Nov 09: 11:30 am - 6:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -306,11 +306,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "11:00 am",
+          "start_time": "11:30 am",
           "end_time": "6:30 pm",
-          "time_range": "11:00 am - 6:30 pm",
-          "display": "11:00 am - 6:30 pm",
-          "display_full": "Monday, Nov 09: 11:00 am - 6:30 pm"
+          "time_range": "11:30 am - 6:30 pm",
+          "display": "11:30 am - 6:30 pm",
+          "display_full": "Monday, Nov 09: 11:30 am - 6:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -382,9 +382,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MCPS (Family Medicine)",
-        "MRCGP",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -685,16 +685,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "3:30 pm",
-          "end_time": "3:30 pm",
-          "time_range": "3:30 pm",
-          "display": "3:30 pm",
-          "display_full": "Monday, Nov 09: 3:30 pm"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -717,16 +707,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "3:30 pm",
-          "end_time": "3:30 pm",
-          "time_range": "3:30 pm",
-          "display": "3:30 pm",
-          "display_full": "Monday, Nov 09: 3:30 pm"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -748,7 +728,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 3:30 pm"
+      "availability": "Tuesday, Nov 10 from 10:30 am - 5:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -778,8 +758,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1180,9 +1160,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MRCPG",
-        "MRCGP",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
