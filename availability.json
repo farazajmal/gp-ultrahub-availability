@@ -173,21 +173,21 @@
           "date": "2026-11-07",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 07",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "11:15 am",
-          "time_range": "11:00 am - 11:15 am",
-          "display": "11:00 am - 11:15 am",
-          "display_full": "Saturday, Nov 07: 11:00 am - 11:15 am"
+          "time_range": "11:15 am",
+          "display": "11:15 am",
+          "display_full": "Saturday, Nov 07: 11:15 am"
         },
         {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "7:30 am",
+          "start_time": "8:15 am",
           "end_time": "2:15 pm",
-          "time_range": "7:30 am - 2:15 pm",
-          "display": "7:30 am - 2:15 pm",
-          "display_full": "Tuesday, Nov 10: 7:30 am - 2:15 pm"
+          "time_range": "8:15 am - 2:15 pm",
+          "display": "8:15 am - 2:15 pm",
+          "display_full": "Tuesday, Nov 10: 8:15 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -195,25 +195,25 @@
           "date": "2026-11-07",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 07",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "11:15 am",
-          "time_range": "11:00 am - 11:15 am",
-          "display": "11:00 am - 11:15 am",
-          "display_full": "Saturday, Nov 07: 11:00 am - 11:15 am"
+          "time_range": "11:15 am",
+          "display": "11:15 am",
+          "display_full": "Saturday, Nov 07: 11:15 am"
         },
         {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "7:30 am",
+          "start_time": "8:15 am",
           "end_time": "2:15 pm",
-          "time_range": "7:30 am - 2:15 pm",
-          "display": "7:30 am - 2:15 pm",
-          "display_full": "Tuesday, Nov 10: 7:30 am - 2:15 pm"
+          "time_range": "8:15 am - 2:15 pm",
+          "display": "8:15 am - 2:15 pm",
+          "display_full": "Tuesday, Nov 10: 8:15 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 07 from 11:00 am - 11:15 am"
+      "availability": "Saturday, Nov 07 from 11:15 am"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -625,6 +625,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
+          "date": "2026-11-09",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 09",
+          "start_time": "3:30 pm",
+          "end_time": "3:30 pm",
+          "time_range": "3:30 pm",
+          "display": "3:30 pm",
+          "display_full": "Monday, Nov 09: 3:30 pm"
+        },
+        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -637,6 +647,16 @@
       ],
       "patches": [
         {
+          "date": "2026-11-09",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 09",
+          "start_time": "3:30 pm",
+          "end_time": "3:30 pm",
+          "time_range": "3:30 pm",
+          "display": "3:30 pm",
+          "display_full": "Monday, Nov 09: 3:30 pm"
+        },
+        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -648,7 +668,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 10:30 am - 5:15 pm"
+      "availability": "Monday, Nov 09 from 3:30 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
