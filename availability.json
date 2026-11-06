@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -130,9 +130,9 @@
       "gender": "Female",
       "qualifications": [
         "MCPS (Family Medicine)",
-        "MCPS",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -170,6 +170,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
+          "date": "2026-11-07",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Nov 07",
+          "start_time": "11:00 am",
+          "end_time": "11:15 am",
+          "time_range": "11:00 am - 11:15 am",
+          "display": "11:00 am - 11:15 am",
+          "display_full": "Saturday, Nov 07: 11:00 am - 11:15 am"
+        },
+        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -182,6 +192,16 @@
       ],
       "patches": [
         {
+          "date": "2026-11-07",
+          "day_name": "Saturday",
+          "date_label": "Saturday, Nov 07",
+          "start_time": "11:00 am",
+          "end_time": "11:15 am",
+          "time_range": "11:00 am - 11:15 am",
+          "display": "11:00 am - 11:15 am",
+          "display_full": "Saturday, Nov 07: 11:00 am - 11:15 am"
+        },
+        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -193,7 +213,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 7:30 am - 2:15 pm"
+      "availability": "Saturday, Nov 07 from 11:00 am - 11:15 am"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -202,11 +222,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "General Practitioner",
-        "MBBS",
         "MRCGP",
-        "MCPS",
-        "DFM"
+        "DFM",
+        "MBBS",
+        "General Practitioner",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -244,11 +264,11 @@
           "date": "2026-11-08",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 08",
-          "start_time": "10:30 am",
+          "start_time": "11:30 am",
           "end_time": "3:30 pm",
-          "time_range": "10:30 am - 3:30 pm",
-          "display": "10:30 am - 3:30 pm",
-          "display_full": "Sunday, Nov 08: 10:30 am - 3:30 pm"
+          "time_range": "11:30 am - 3:30 pm",
+          "display": "11:30 am - 3:30 pm",
+          "display_full": "Sunday, Nov 08: 11:30 am - 3:30 pm"
         },
         {
           "date": "2026-11-09",
@@ -266,11 +286,11 @@
           "date": "2026-11-08",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 08",
-          "start_time": "10:30 am",
+          "start_time": "11:30 am",
           "end_time": "3:30 pm",
-          "time_range": "10:30 am - 3:30 pm",
-          "display": "10:30 am - 3:30 pm",
-          "display_full": "Sunday, Nov 08: 10:30 am - 3:30 pm"
+          "time_range": "11:30 am - 3:30 pm",
+          "display": "11:30 am - 3:30 pm",
+          "display_full": "Sunday, Nov 08: 11:30 am - 3:30 pm"
         },
         {
           "date": "2026-11-09",
@@ -284,7 +304,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 08 from 10:30 am - 3:30 pm"
+      "availability": "Sunday, Nov 08 from 11:30 am - 3:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -547,11 +567,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "1:15 pm",
+          "start_time": "1:45 pm",
           "end_time": "2:30 pm",
-          "time_range": "1:15 pm - 2:30 pm",
-          "display": "1:15 pm - 2:30 pm",
-          "display_full": "Tuesday, Nov 10: 1:15 pm - 2:30 pm"
+          "time_range": "1:45 pm - 2:30 pm",
+          "display": "1:45 pm - 2:30 pm",
+          "display_full": "Tuesday, Nov 10: 1:45 pm - 2:30 pm"
         }
       ],
       "patches": [
@@ -559,15 +579,15 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "1:15 pm",
+          "start_time": "1:45 pm",
           "end_time": "2:30 pm",
-          "time_range": "1:15 pm - 2:30 pm",
-          "display": "1:15 pm - 2:30 pm",
-          "display_full": "Tuesday, Nov 10: 1:15 pm - 2:30 pm"
+          "time_range": "1:45 pm - 2:30 pm",
+          "display": "1:45 pm - 2:30 pm",
+          "display_full": "Tuesday, Nov 10: 1:45 pm - 2:30 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 1:15 pm - 2:30 pm"
+      "availability": "Tuesday, Nov 10 from 1:45 pm - 2:30 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -658,8 +678,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -951,11 +971,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "12:20 pm",
+          "start_time": "1:00 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:20 pm - 6:40 pm",
-          "display": "12:20 pm - 6:40 pm",
-          "display_full": "Monday, Nov 09: 12:20 pm - 6:40 pm"
+          "time_range": "1:00 pm - 6:40 pm",
+          "display": "1:00 pm - 6:40 pm",
+          "display_full": "Monday, Nov 09: 1:00 pm - 6:40 pm"
         },
         {
           "date": "2026-11-10",
@@ -973,11 +993,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "12:20 pm",
+          "start_time": "1:00 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:20 pm - 6:40 pm",
-          "display": "12:20 pm - 6:40 pm",
-          "display_full": "Monday, Nov 09: 12:20 pm - 6:40 pm"
+          "time_range": "1:00 pm - 6:40 pm",
+          "display": "1:00 pm - 6:40 pm",
+          "display_full": "Monday, Nov 09: 1:00 pm - 6:40 pm"
         },
         {
           "date": "2026-11-10",
@@ -991,7 +1011,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 12:20 pm - 6:40 pm"
+      "availability": "Monday, Nov 09 from 1:00 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1000,9 +1020,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
