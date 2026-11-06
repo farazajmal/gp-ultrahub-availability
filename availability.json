@@ -170,16 +170,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-07",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Nov 07",
-          "start_time": "11:15 am",
-          "end_time": "11:15 am",
-          "time_range": "11:15 am",
-          "display": "11:15 am",
-          "display_full": "Saturday, Nov 07: 11:15 am"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -192,16 +182,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-07",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Nov 07",
-          "start_time": "11:15 am",
-          "end_time": "11:15 am",
-          "time_range": "11:15 am",
-          "display": "11:15 am",
-          "display_full": "Saturday, Nov 07: 11:15 am"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -213,7 +193,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 07 from 11:15 am"
+      "availability": "Tuesday, Nov 10 from 8:15 am - 2:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
