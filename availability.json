@@ -8,8 +8,8 @@
       "gender": "Male",
       "qualifications": [
         "MBBS",
-        "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "MRCGP",
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -131,8 +131,8 @@
       "qualifications": [
         "MBBS",
         "MCPS",
-        "MCPS (Family Medicine)",
-        "MRCGP"
+        "MRCGP",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -222,11 +222,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "DFM",
-        "MCPS",
         "MRCGP",
         "MBBS",
-        "General Practitioner"
+        "DFM",
+        "General Practitioner",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -264,11 +264,11 @@
           "date": "2026-11-08",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 08",
-          "start_time": "1:30 pm",
+          "start_time": "2:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:30 pm - 3:45 pm",
-          "display": "1:30 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 08: 1:30 pm - 3:45 pm"
+          "time_range": "2:00 pm - 3:45 pm",
+          "display": "2:00 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 08: 2:00 pm - 3:45 pm"
         },
         {
           "date": "2026-11-09",
@@ -296,11 +296,11 @@
           "date": "2026-11-08",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 08",
-          "start_time": "1:30 pm",
+          "start_time": "2:00 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:30 pm - 3:45 pm",
-          "display": "1:30 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 08: 1:30 pm - 3:45 pm"
+          "time_range": "2:00 pm - 3:45 pm",
+          "display": "2:00 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 08: 2:00 pm - 3:45 pm"
         },
         {
           "date": "2026-11-09",
@@ -324,7 +324,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 08 from 1:30 pm - 3:45 pm"
+      "availability": "Sunday, Nov 08 from 2:00 pm - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -383,8 +383,8 @@
       "gender": "Female",
       "qualifications": [
         "MBBS",
-        "MCPS (Family Medicine)",
-        "MRCGP"
+        "MRCGP",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1161,8 +1161,8 @@
       "gender": "Female",
       "qualifications": [
         "MBBS",
-        "MRCPG",
-        "MRCGP"
+        "MRCGP",
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
