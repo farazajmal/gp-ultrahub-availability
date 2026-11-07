@@ -173,11 +173,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "8:15 am",
+          "start_time": "12:15 pm",
           "end_time": "1:45 pm",
-          "time_range": "8:15 am - 1:45 pm",
-          "display": "8:15 am - 1:45 pm",
-          "display_full": "Tuesday, Nov 10: 8:15 am - 1:45 pm"
+          "time_range": "12:15 pm - 1:45 pm",
+          "display": "12:15 pm - 1:45 pm",
+          "display_full": "Tuesday, Nov 10: 12:15 pm - 1:45 pm"
         },
         {
           "date": "2026-11-11",
@@ -195,11 +195,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "8:15 am",
+          "start_time": "12:15 pm",
           "end_time": "1:45 pm",
-          "time_range": "8:15 am - 1:45 pm",
-          "display": "8:15 am - 1:45 pm",
-          "display_full": "Tuesday, Nov 10: 8:15 am - 1:45 pm"
+          "time_range": "12:15 pm - 1:45 pm",
+          "display": "12:15 pm - 1:45 pm",
+          "display_full": "Tuesday, Nov 10: 12:15 pm - 1:45 pm"
         },
         {
           "date": "2026-11-11",
@@ -213,7 +213,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 8:15 am - 1:45 pm"
+      "availability": "Tuesday, Nov 10 from 12:15 pm - 1:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -264,11 +264,11 @@
           "date": "2026-11-08",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 08",
-          "start_time": "1:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:15 pm - 3:45 pm",
-          "display": "1:15 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 08: 1:15 pm - 3:45 pm"
+          "time_range": "1:30 pm - 3:45 pm",
+          "display": "1:30 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 08: 1:30 pm - 3:45 pm"
         },
         {
           "date": "2026-11-09",
@@ -296,11 +296,11 @@
           "date": "2026-11-08",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 08",
-          "start_time": "1:15 pm",
+          "start_time": "1:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:15 pm - 3:45 pm",
-          "display": "1:15 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 08: 1:15 pm - 3:45 pm"
+          "time_range": "1:30 pm - 3:45 pm",
+          "display": "1:30 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 08: 1:30 pm - 3:45 pm"
         },
         {
           "date": "2026-11-09",
@@ -324,7 +324,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 08 from 1:15 pm - 3:45 pm"
+      "availability": "Sunday, Nov 08 from 1:30 pm - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
