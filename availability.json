@@ -40,10 +40,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
           "start_time": "1:45 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:45 pm - 2:15 pm",
-          "display": "1:45 pm - 2:15 pm",
-          "display_full": "Monday, Nov 09: 1:45 pm - 2:15 pm"
+          "end_time": "2:00 pm",
+          "time_range": "1:45 pm - 2:00 pm",
+          "display": "1:45 pm - 2:00 pm",
+          "display_full": "Monday, Nov 09: 1:45 pm - 2:00 pm"
         },
         {
           "date": "2026-11-10",
@@ -72,10 +72,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
           "start_time": "1:45 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:45 pm - 2:15 pm",
-          "display": "1:45 pm - 2:15 pm",
-          "display_full": "Monday, Nov 09: 1:45 pm - 2:15 pm"
+          "end_time": "2:00 pm",
+          "time_range": "1:45 pm - 2:00 pm",
+          "display": "1:45 pm - 2:00 pm",
+          "display_full": "Monday, Nov 09: 1:45 pm - 2:00 pm"
         },
         {
           "date": "2026-11-10",
@@ -99,7 +99,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 1:45 pm - 2:15 pm"
+      "availability": "Monday, Nov 09 from 1:45 pm - 2:00 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -502,11 +502,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "12:00 pm",
+          "start_time": "1:00 pm",
           "end_time": "1:15 pm",
-          "time_range": "12:00 pm - 1:15 pm",
-          "display": "12:00 pm - 1:15 pm",
-          "display_full": "Tuesday, Nov 10: 12:00 pm - 1:15 pm"
+          "time_range": "1:00 pm - 1:15 pm",
+          "display": "1:00 pm - 1:15 pm",
+          "display_full": "Tuesday, Nov 10: 1:00 pm - 1:15 pm"
         },
         {
           "date": "2026-11-11",
@@ -524,11 +524,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "12:00 pm",
+          "start_time": "1:00 pm",
           "end_time": "1:15 pm",
-          "time_range": "12:00 pm - 1:15 pm",
-          "display": "12:00 pm - 1:15 pm",
-          "display_full": "Tuesday, Nov 10: 12:00 pm - 1:15 pm"
+          "time_range": "1:00 pm - 1:15 pm",
+          "display": "1:00 pm - 1:15 pm",
+          "display_full": "Tuesday, Nov 10: 1:00 pm - 1:15 pm"
         },
         {
           "date": "2026-11-11",
@@ -542,7 +542,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 12:00 pm - 1:15 pm"
+      "availability": "Tuesday, Nov 10 from 1:00 pm - 1:15 pm"
     }
   },
   "Calliope": {
@@ -879,11 +879,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "11:00 am",
+          "start_time": "11:30 am",
           "end_time": "1:45 pm",
-          "time_range": "11:00 am - 1:45 pm",
-          "display": "11:00 am - 1:45 pm",
-          "display_full": "Monday, Nov 09: 11:00 am - 1:45 pm"
+          "time_range": "11:30 am - 1:45 pm",
+          "display": "11:30 am - 1:45 pm",
+          "display_full": "Monday, Nov 09: 11:30 am - 1:45 pm"
         },
         {
           "date": "2026-11-10",
@@ -921,11 +921,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "11:00 am",
+          "start_time": "11:30 am",
           "end_time": "1:45 pm",
-          "time_range": "11:00 am - 1:45 pm",
-          "display": "11:00 am - 1:45 pm",
-          "display_full": "Monday, Nov 09: 11:00 am - 1:45 pm"
+          "time_range": "11:30 am - 1:45 pm",
+          "display": "11:30 am - 1:45 pm",
+          "display_full": "Monday, Nov 09: 11:30 am - 1:45 pm"
         },
         {
           "date": "2026-11-10",
@@ -959,7 +959,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 11:00 am - 1:45 pm"
+      "availability": "Monday, Nov 09 from 11:30 am - 1:45 pm"
     }
   },
   "Burnett Heads": {
