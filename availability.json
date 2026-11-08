@@ -281,16 +281,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
       "availability_patches": [
         {
-          "date": "2026-11-08",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 08",
-          "start_time": "2:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "2:45 pm - 3:45 pm",
-          "display": "2:45 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 08: 2:45 pm - 3:45 pm"
-        },
-        {
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
@@ -323,16 +313,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-08",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 08",
-          "start_time": "2:45 pm",
-          "end_time": "3:45 pm",
-          "time_range": "2:45 pm - 3:45 pm",
-          "display": "2:45 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 08: 2:45 pm - 3:45 pm"
-        },
-        {
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
@@ -364,7 +344,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 08 from 2:45 pm - 3:45 pm"
+      "availability": "Monday, Nov 09 from 11:30 am - 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -879,11 +859,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "11:45 am",
+          "start_time": "1:00 pm",
           "end_time": "1:45 pm",
-          "time_range": "11:45 am - 1:45 pm",
-          "display": "11:45 am - 1:45 pm",
-          "display_full": "Monday, Nov 09: 11:45 am - 1:45 pm"
+          "time_range": "1:00 pm - 1:45 pm",
+          "display": "1:00 pm - 1:45 pm",
+          "display_full": "Monday, Nov 09: 1:00 pm - 1:45 pm"
         },
         {
           "date": "2026-11-10",
@@ -921,11 +901,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "11:45 am",
+          "start_time": "1:00 pm",
           "end_time": "1:45 pm",
-          "time_range": "11:45 am - 1:45 pm",
-          "display": "11:45 am - 1:45 pm",
-          "display_full": "Monday, Nov 09: 11:45 am - 1:45 pm"
+          "time_range": "1:00 pm - 1:45 pm",
+          "display": "1:00 pm - 1:45 pm",
+          "display_full": "Monday, Nov 09: 1:00 pm - 1:45 pm"
         },
         {
           "date": "2026-11-10",
@@ -959,7 +939,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 11:45 am - 1:45 pm"
+      "availability": "Monday, Nov 09 from 1:00 pm - 1:45 pm"
     }
   },
   "Burnett Heads": {
