@@ -294,11 +294,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "11:45 am",
+          "start_time": "11:30 am",
           "end_time": "6:45 pm",
-          "time_range": "11:45 am - 6:45 pm",
-          "display": "11:45 am - 6:45 pm",
-          "display_full": "Wednesday, Nov 11: 11:45 am - 6:45 pm"
+          "time_range": "11:30 am - 6:45 pm",
+          "display": "11:30 am - 6:45 pm",
+          "display_full": "Wednesday, Nov 11: 11:30 am - 6:45 pm"
         },
         {
           "date": "2026-11-12",
@@ -326,11 +326,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "11:45 am",
+          "start_time": "11:30 am",
           "end_time": "6:45 pm",
-          "time_range": "11:45 am - 6:45 pm",
-          "display": "11:45 am - 6:45 pm",
-          "display_full": "Wednesday, Nov 11: 11:45 am - 6:45 pm"
+          "time_range": "11:30 am - 6:45 pm",
+          "display": "11:30 am - 6:45 pm",
+          "display_full": "Wednesday, Nov 11: 11:30 am - 6:45 pm"
         },
         {
           "date": "2026-11-12",
