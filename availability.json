@@ -36,6 +36,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
+          "date": "2026-11-08",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Nov 08",
+          "start_time": "3:00 pm",
+          "end_time": "3:15 pm",
+          "time_range": "3:00 pm - 3:15 pm",
+          "display": "3:00 pm - 3:15 pm",
+          "display_full": "Sunday, Nov 08: 3:00 pm - 3:15 pm"
+        },
+        {
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
@@ -68,6 +78,16 @@
       ],
       "patches": [
         {
+          "date": "2026-11-08",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Nov 08",
+          "start_time": "3:00 pm",
+          "end_time": "3:15 pm",
+          "time_range": "3:00 pm - 3:15 pm",
+          "display": "3:00 pm - 3:15 pm",
+          "display_full": "Sunday, Nov 08: 3:00 pm - 3:15 pm"
+        },
+        {
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
@@ -99,7 +119,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 1:45 pm - 2:00 pm"
+      "availability": "Sunday, Nov 08 from 3:00 pm - 3:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -294,11 +314,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "11:30 am",
+          "start_time": "12:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Wednesday, Nov 11: 11:30 am - 6:45 pm"
+          "time_range": "12:45 pm - 6:45 pm",
+          "display": "12:45 pm - 6:45 pm",
+          "display_full": "Wednesday, Nov 11: 12:45 pm - 6:45 pm"
         },
         {
           "date": "2026-11-12",
@@ -326,11 +346,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "11:30 am",
+          "start_time": "12:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Wednesday, Nov 11: 11:30 am - 6:45 pm"
+          "time_range": "12:45 pm - 6:45 pm",
+          "display": "12:45 pm - 6:45 pm",
+          "display_full": "Wednesday, Nov 11: 12:45 pm - 6:45 pm"
         },
         {
           "date": "2026-11-12",
@@ -482,11 +502,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "1:15 pm",
-          "time_range": "1:00 pm - 1:15 pm",
-          "display": "1:00 pm - 1:15 pm",
-          "display_full": "Tuesday, Nov 10: 1:00 pm - 1:15 pm"
+          "time_range": "1:15 pm",
+          "display": "1:15 pm",
+          "display_full": "Tuesday, Nov 10: 1:15 pm"
         },
         {
           "date": "2026-11-11",
@@ -504,11 +524,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "1:15 pm",
-          "time_range": "1:00 pm - 1:15 pm",
-          "display": "1:00 pm - 1:15 pm",
-          "display_full": "Tuesday, Nov 10: 1:00 pm - 1:15 pm"
+          "time_range": "1:15 pm",
+          "display": "1:15 pm",
+          "display_full": "Tuesday, Nov 10: 1:15 pm"
         },
         {
           "date": "2026-11-11",
@@ -522,7 +542,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 1:00 pm - 1:15 pm"
+      "availability": "Tuesday, Nov 10 from 1:15 pm"
     }
   },
   "Calliope": {
@@ -660,10 +680,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
           "start_time": "11:15 am",
-          "end_time": "2:45 pm",
-          "time_range": "11:15 am - 2:45 pm",
-          "display": "11:15 am - 2:45 pm",
-          "display_full": "Wednesday, Nov 11: 11:15 am - 2:45 pm"
+          "end_time": "2:30 pm",
+          "time_range": "11:15 am - 2:30 pm",
+          "display": "11:15 am - 2:30 pm",
+          "display_full": "Wednesday, Nov 11: 11:15 am - 2:30 pm"
         },
         {
           "date": "2026-11-12",
@@ -692,10 +712,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
           "start_time": "11:15 am",
-          "end_time": "2:45 pm",
-          "time_range": "11:15 am - 2:45 pm",
-          "display": "11:15 am - 2:45 pm",
-          "display_full": "Wednesday, Nov 11: 11:15 am - 2:45 pm"
+          "end_time": "2:30 pm",
+          "time_range": "11:15 am - 2:30 pm",
+          "display": "11:15 am - 2:30 pm",
+          "display_full": "Wednesday, Nov 11: 11:15 am - 2:30 pm"
         },
         {
           "date": "2026-11-12",
@@ -869,11 +889,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "7:15 am",
+          "start_time": "7:30 am",
           "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Tuesday, Nov 10: 7:15 am - 2:15 pm"
+          "time_range": "7:30 am - 2:15 pm",
+          "display": "7:30 am - 2:15 pm",
+          "display_full": "Tuesday, Nov 10: 7:30 am - 2:15 pm"
         },
         {
           "date": "2026-11-11",
@@ -911,11 +931,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "7:15 am",
+          "start_time": "7:30 am",
           "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Tuesday, Nov 10: 7:15 am - 2:15 pm"
+          "time_range": "7:30 am - 2:15 pm",
+          "display": "7:30 am - 2:15 pm",
+          "display_full": "Tuesday, Nov 10: 7:30 am - 2:15 pm"
         },
         {
           "date": "2026-11-11",
