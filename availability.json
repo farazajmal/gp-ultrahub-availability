@@ -36,26 +36,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
-          "date": "2026-11-08",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 08",
-          "start_time": "3:00 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:00 pm - 3:15 pm",
-          "display": "3:00 pm - 3:15 pm",
-          "display_full": "Sunday, Nov 08: 3:00 pm - 3:15 pm"
-        },
-        {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "1:45 pm",
-          "end_time": "2:00 pm",
-          "time_range": "1:45 pm - 2:00 pm",
-          "display": "1:45 pm - 2:00 pm",
-          "display_full": "Monday, Nov 09: 1:45 pm - 2:00 pm"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -78,26 +58,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-08",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 08",
-          "start_time": "3:00 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:00 pm - 3:15 pm",
-          "display": "3:00 pm - 3:15 pm",
-          "display_full": "Sunday, Nov 08: 3:00 pm - 3:15 pm"
-        },
-        {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "1:45 pm",
-          "end_time": "2:00 pm",
-          "time_range": "1:45 pm - 2:00 pm",
-          "display": "1:45 pm - 2:00 pm",
-          "display_full": "Monday, Nov 09: 1:45 pm - 2:00 pm"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -119,7 +79,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 08 from 3:00 pm - 3:15 pm"
+      "availability": "Tuesday, Nov 10 from 11:15 am - 6:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -596,11 +556,11 @@
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "7:45 am",
+          "start_time": "11:45 am",
           "end_time": "2:00 pm",
-          "time_range": "7:45 am - 2:00 pm",
-          "display": "7:45 am - 2:00 pm",
-          "display_full": "Thursday, Nov 12: 7:45 am - 2:00 pm"
+          "time_range": "11:45 am - 2:00 pm",
+          "display": "11:45 am - 2:00 pm",
+          "display_full": "Thursday, Nov 12: 11:45 am - 2:00 pm"
         }
       ],
       "patches": [
@@ -608,15 +568,15 @@
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "7:45 am",
+          "start_time": "11:45 am",
           "end_time": "2:00 pm",
-          "time_range": "7:45 am - 2:00 pm",
-          "display": "7:45 am - 2:00 pm",
-          "display_full": "Thursday, Nov 12: 7:45 am - 2:00 pm"
+          "time_range": "11:45 am - 2:00 pm",
+          "display": "11:45 am - 2:00 pm",
+          "display_full": "Thursday, Nov 12: 11:45 am - 2:00 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 12 from 7:45 am - 2:00 pm"
+      "availability": "Thursday, Nov 12 from 11:45 am - 2:00 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
