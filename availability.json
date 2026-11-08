@@ -264,11 +264,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "1:45 pm",
+          "start_time": "3:15 pm",
           "end_time": "6:30 pm",
-          "time_range": "1:45 pm - 6:30 pm",
-          "display": "1:45 pm - 6:30 pm",
-          "display_full": "Monday, Nov 09: 1:45 pm - 6:30 pm"
+          "time_range": "3:15 pm - 6:30 pm",
+          "display": "3:15 pm - 6:30 pm",
+          "display_full": "Monday, Nov 09: 3:15 pm - 6:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -296,11 +296,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "1:45 pm",
+          "start_time": "3:15 pm",
           "end_time": "6:30 pm",
-          "time_range": "1:45 pm - 6:30 pm",
-          "display": "1:45 pm - 6:30 pm",
-          "display_full": "Monday, Nov 09: 1:45 pm - 6:30 pm"
+          "time_range": "3:15 pm - 6:30 pm",
+          "display": "3:15 pm - 6:30 pm",
+          "display_full": "Monday, Nov 09: 3:15 pm - 6:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -324,7 +324,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 1:45 pm - 6:30 pm"
+      "availability": "Monday, Nov 09 from 3:15 pm - 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -629,11 +629,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "1:00 pm",
+          "start_time": "1:45 pm",
           "end_time": "1:45 pm",
-          "time_range": "1:00 pm - 1:45 pm",
-          "display": "1:00 pm - 1:45 pm",
-          "display_full": "Tuesday, Nov 10: 1:00 pm - 1:45 pm"
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Tuesday, Nov 10: 1:45 pm"
         },
         {
           "date": "2026-11-11",
@@ -661,11 +661,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "1:00 pm",
+          "start_time": "1:45 pm",
           "end_time": "1:45 pm",
-          "time_range": "1:00 pm - 1:45 pm",
-          "display": "1:00 pm - 1:45 pm",
-          "display_full": "Tuesday, Nov 10: 1:00 pm - 1:45 pm"
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Tuesday, Nov 10: 1:45 pm"
         },
         {
           "date": "2026-11-11",
@@ -689,7 +689,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 1:00 pm - 1:45 pm"
+      "availability": "Tuesday, Nov 10 from 1:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -1421,11 +1421,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Monday, Nov 09: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Monday, Nov 09: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-10",
@@ -1463,11 +1463,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Monday, Nov 09: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Monday, Nov 09: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-10",
@@ -1501,7 +1501,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 8:00 am - 4:00 pm"
+      "availability": "Monday, Nov 09 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
