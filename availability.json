@@ -304,11 +304,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "4:30 pm",
+          "start_time": "5:15 pm",
           "end_time": "6:30 pm",
-          "time_range": "4:30 pm - 6:30 pm",
-          "display": "4:30 pm - 6:30 pm",
-          "display_full": "Monday, Nov 09: 4:30 pm - 6:30 pm"
+          "time_range": "5:15 pm - 6:30 pm",
+          "display": "5:15 pm - 6:30 pm",
+          "display_full": "Monday, Nov 09: 5:15 pm - 6:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -346,11 +346,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "4:30 pm",
+          "start_time": "5:15 pm",
           "end_time": "6:30 pm",
-          "time_range": "4:30 pm - 6:30 pm",
-          "display": "4:30 pm - 6:30 pm",
-          "display_full": "Monday, Nov 09: 4:30 pm - 6:30 pm"
+          "time_range": "5:15 pm - 6:30 pm",
+          "display": "5:15 pm - 6:30 pm",
+          "display_full": "Monday, Nov 09: 5:15 pm - 6:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -384,7 +384,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 4:30 pm - 6:30 pm"
+      "availability": "Monday, Nov 09 from 5:15 pm - 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -1620,16 +1620,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
       "availability_patches": [
         {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Monday, Nov 09: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -1672,16 +1662,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Monday, Nov 09: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -1723,7 +1703,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 3:10 pm - 4:00 pm"
+      "availability": "Tuesday, Nov 10 from 8:00 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
