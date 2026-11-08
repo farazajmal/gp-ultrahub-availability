@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -35,16 +35,6 @@
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
-        {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "7:00 am",
-          "end_time": "7:15 am",
-          "time_range": "7:00 am - 7:15 am",
-          "display": "7:00 am - 7:15 am",
-          "display_full": "Monday, Nov 09: 7:00 am - 7:15 am"
-        },
         {
           "date": "2026-11-10",
           "day_name": "Tuesday",
@@ -78,16 +68,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "7:00 am",
-          "end_time": "7:15 am",
-          "time_range": "7:00 am - 7:15 am",
-          "display": "7:00 am - 7:15 am",
-          "display_full": "Monday, Nov 09: 7:00 am - 7:15 am"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -119,7 +99,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 7:00 am - 7:15 am"
+      "availability": "Tuesday, Nov 10 from 11:15 am - 6:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -149,8 +129,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
+        "MBBS",
         "MCPS",
         "MCPS (Family Medicine)"
       ],
@@ -262,9 +242,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "MRCGP",
         "General Practitioner",
+        "MBBS",
         "MCPS",
         "DFM"
       ],
@@ -304,11 +284,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "5:15 pm",
+          "start_time": "5:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:15 pm - 6:30 pm",
-          "display": "5:15 pm - 6:30 pm",
-          "display_full": "Monday, Nov 09: 5:15 pm - 6:30 pm"
+          "time_range": "5:30 pm - 6:30 pm",
+          "display": "5:30 pm - 6:30 pm",
+          "display_full": "Monday, Nov 09: 5:30 pm - 6:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -346,11 +326,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "5:15 pm",
+          "start_time": "5:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:15 pm - 6:30 pm",
-          "display": "5:15 pm - 6:30 pm",
-          "display_full": "Monday, Nov 09: 5:15 pm - 6:30 pm"
+          "time_range": "5:30 pm - 6:30 pm",
+          "display": "5:30 pm - 6:30 pm",
+          "display_full": "Monday, Nov 09: 5:30 pm - 6:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -384,7 +364,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 5:15 pm - 6:30 pm"
+      "availability": "Monday, Nov 09 from 5:30 pm - 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -442,8 +422,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
+        "MBBS",
         "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
@@ -830,11 +810,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "5:15 pm",
-          "time_range": "10:45 am - 5:15 pm",
-          "display": "10:45 am - 5:15 pm",
-          "display_full": "Tuesday, Nov 10: 10:45 am - 5:15 pm"
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Tuesday, Nov 10: 11:15 am - 5:15 pm"
         },
         {
           "date": "2026-11-11",
@@ -852,11 +832,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "5:15 pm",
-          "time_range": "10:45 am - 5:15 pm",
-          "display": "10:45 am - 5:15 pm",
-          "display_full": "Tuesday, Nov 10: 10:45 am - 5:15 pm"
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Tuesday, Nov 10: 11:15 am - 5:15 pm"
         },
         {
           "date": "2026-11-11",
@@ -870,7 +850,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 10:45 am - 5:15 pm"
+      "availability": "Tuesday, Nov 10 from 11:15 am - 5:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -900,8 +880,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1335,11 +1315,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "5:20 pm",
+          "start_time": "5:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "5:20 pm - 6:40 pm",
-          "display": "5:20 pm - 6:40 pm",
-          "display_full": "Monday, Nov 09: 5:20 pm - 6:40 pm"
+          "time_range": "5:40 pm - 6:40 pm",
+          "display": "5:40 pm - 6:40 pm",
+          "display_full": "Monday, Nov 09: 5:40 pm - 6:40 pm"
         },
         {
           "date": "2026-11-10",
@@ -1387,11 +1367,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "5:20 pm",
+          "start_time": "5:40 pm",
           "end_time": "6:40 pm",
-          "time_range": "5:20 pm - 6:40 pm",
-          "display": "5:20 pm - 6:40 pm",
-          "display_full": "Monday, Nov 09: 5:20 pm - 6:40 pm"
+          "time_range": "5:40 pm - 6:40 pm",
+          "display": "5:40 pm - 6:40 pm",
+          "display_full": "Monday, Nov 09: 5:40 pm - 6:40 pm"
         },
         {
           "date": "2026-11-10",
@@ -1435,7 +1415,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 5:20 pm - 6:40 pm"
+      "availability": "Monday, Nov 09 from 5:40 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1445,8 +1425,8 @@
       "gender": "Female",
       "qualifications": [
         "MRCPG",
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1488,11 +1468,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "8:20 am",
+          "start_time": "10:50 am",
           "end_time": "3:00 pm",
-          "time_range": "8:20 am - 3:00 pm",
-          "display": "8:20 am - 3:00 pm",
-          "display_full": "Monday, Nov 09: 8:20 am - 3:00 pm"
+          "time_range": "10:50 am - 3:00 pm",
+          "display": "10:50 am - 3:00 pm",
+          "display_full": "Monday, Nov 09: 10:50 am - 3:00 pm"
         },
         {
           "date": "2026-11-10",
@@ -1540,11 +1520,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "8:20 am",
+          "start_time": "10:50 am",
           "end_time": "3:00 pm",
-          "time_range": "8:20 am - 3:00 pm",
-          "display": "8:20 am - 3:00 pm",
-          "display_full": "Monday, Nov 09: 8:20 am - 3:00 pm"
+          "time_range": "10:50 am - 3:00 pm",
+          "display": "10:50 am - 3:00 pm",
+          "display_full": "Monday, Nov 09: 10:50 am - 3:00 pm"
         },
         {
           "date": "2026-11-10",
@@ -1588,7 +1568,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 8:20 am - 3:00 pm"
+      "availability": "Monday, Nov 09 from 10:50 am - 3:00 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
