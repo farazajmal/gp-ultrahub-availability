@@ -36,6 +36,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
+          "date": "2026-11-09",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 09",
+          "start_time": "7:00 am",
+          "end_time": "7:15 am",
+          "time_range": "7:00 am - 7:15 am",
+          "display": "7:00 am - 7:15 am",
+          "display_full": "Monday, Nov 09: 7:00 am - 7:15 am"
+        },
+        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -68,6 +78,16 @@
       ],
       "patches": [
         {
+          "date": "2026-11-09",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 09",
+          "start_time": "7:00 am",
+          "end_time": "7:15 am",
+          "time_range": "7:00 am - 7:15 am",
+          "display": "7:00 am - 7:15 am",
+          "display_full": "Monday, Nov 09: 7:00 am - 7:15 am"
+        },
+        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -99,7 +119,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 11:15 am - 6:45 pm"
+      "availability": "Monday, Nov 09 from 7:00 am - 7:15 am"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -1167,11 +1187,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "9:45 am",
+          "start_time": "10:45 am",
           "end_time": "4:15 pm",
-          "time_range": "9:45 am - 4:15 pm",
-          "display": "9:45 am - 4:15 pm",
-          "display_full": "Monday, Nov 09: 9:45 am - 4:15 pm"
+          "time_range": "10:45 am - 4:15 pm",
+          "display": "10:45 am - 4:15 pm",
+          "display_full": "Monday, Nov 09: 10:45 am - 4:15 pm"
         },
         {
           "date": "2026-11-10",
@@ -1219,11 +1239,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "9:45 am",
+          "start_time": "10:45 am",
           "end_time": "4:15 pm",
-          "time_range": "9:45 am - 4:15 pm",
-          "display": "9:45 am - 4:15 pm",
-          "display_full": "Monday, Nov 09: 9:45 am - 4:15 pm"
+          "time_range": "10:45 am - 4:15 pm",
+          "display": "10:45 am - 4:15 pm",
+          "display_full": "Monday, Nov 09: 10:45 am - 4:15 pm"
         },
         {
           "date": "2026-11-10",
@@ -1267,7 +1287,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 9:45 am - 4:15 pm"
+      "availability": "Monday, Nov 09 from 10:45 am - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1603,11 +1623,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "2:10 pm",
+          "start_time": "3:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "2:10 pm - 4:00 pm",
-          "display": "2:10 pm - 4:00 pm",
-          "display_full": "Monday, Nov 09: 2:10 pm - 4:00 pm"
+          "time_range": "3:10 pm - 4:00 pm",
+          "display": "3:10 pm - 4:00 pm",
+          "display_full": "Monday, Nov 09: 3:10 pm - 4:00 pm"
         },
         {
           "date": "2026-11-10",
@@ -1655,11 +1675,11 @@
           "date": "2026-11-09",
           "day_name": "Monday",
           "date_label": "Monday, Nov 09",
-          "start_time": "2:10 pm",
+          "start_time": "3:10 pm",
           "end_time": "4:00 pm",
-          "time_range": "2:10 pm - 4:00 pm",
-          "display": "2:10 pm - 4:00 pm",
-          "display_full": "Monday, Nov 09: 2:10 pm - 4:00 pm"
+          "time_range": "3:10 pm - 4:00 pm",
+          "display": "3:10 pm - 4:00 pm",
+          "display_full": "Monday, Nov 09: 3:10 pm - 4:00 pm"
         },
         {
           "date": "2026-11-10",
@@ -1703,7 +1723,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 2:10 pm - 4:00 pm"
+      "availability": "Monday, Nov 09 from 3:10 pm - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
