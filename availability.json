@@ -39,11 +39,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "12:00 pm",
+          "start_time": "12:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:00 pm - 6:45 pm",
-          "display": "12:00 pm - 6:45 pm",
-          "display_full": "Tuesday, Nov 10: 12:00 pm - 6:45 pm"
+          "time_range": "12:15 pm - 6:45 pm",
+          "display": "12:15 pm - 6:45 pm",
+          "display_full": "Tuesday, Nov 10: 12:15 pm - 6:45 pm"
         },
         {
           "date": "2026-11-12",
@@ -71,11 +71,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "12:00 pm",
+          "start_time": "12:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:00 pm - 6:45 pm",
-          "display": "12:00 pm - 6:45 pm",
-          "display_full": "Tuesday, Nov 10: 12:00 pm - 6:45 pm"
+          "time_range": "12:15 pm - 6:45 pm",
+          "display": "12:15 pm - 6:45 pm",
+          "display_full": "Tuesday, Nov 10: 12:15 pm - 6:45 pm"
         },
         {
           "date": "2026-11-12",
@@ -99,7 +99,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 12:00 pm - 6:45 pm"
+      "availability": "Tuesday, Nov 10 from 12:15 pm - 6:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -284,21 +284,21 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "12:45 pm",
+          "start_time": "1:00 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:45 pm - 6:45 pm",
-          "display": "12:45 pm - 6:45 pm",
-          "display_full": "Wednesday, Nov 11: 12:45 pm - 6:45 pm"
+          "time_range": "1:00 pm - 6:45 pm",
+          "display": "1:00 pm - 6:45 pm",
+          "display_full": "Wednesday, Nov 11: 1:00 pm - 6:45 pm"
         },
         {
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "8:30 am",
+          "start_time": "9:00 am",
           "end_time": "4:00 pm",
-          "time_range": "8:30 am - 4:00 pm",
-          "display": "8:30 am - 4:00 pm",
-          "display_full": "Thursday, Nov 12: 8:30 am - 4:00 pm"
+          "time_range": "9:00 am - 4:00 pm",
+          "display": "9:00 am - 4:00 pm",
+          "display_full": "Thursday, Nov 12: 9:00 am - 4:00 pm"
         },
         {
           "date": "2026-11-13",
@@ -316,21 +316,21 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "12:45 pm",
+          "start_time": "1:00 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:45 pm - 6:45 pm",
-          "display": "12:45 pm - 6:45 pm",
-          "display_full": "Wednesday, Nov 11: 12:45 pm - 6:45 pm"
+          "time_range": "1:00 pm - 6:45 pm",
+          "display": "1:00 pm - 6:45 pm",
+          "display_full": "Wednesday, Nov 11: 1:00 pm - 6:45 pm"
         },
         {
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "8:30 am",
+          "start_time": "9:00 am",
           "end_time": "4:00 pm",
-          "time_range": "8:30 am - 4:00 pm",
-          "display": "8:30 am - 4:00 pm",
-          "display_full": "Thursday, Nov 12: 8:30 am - 4:00 pm"
+          "time_range": "9:00 am - 4:00 pm",
+          "display": "9:00 am - 4:00 pm",
+          "display_full": "Thursday, Nov 12: 9:00 am - 4:00 pm"
         },
         {
           "date": "2026-11-13",
@@ -344,7 +344,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 12:45 pm - 6:45 pm"
+      "availability": "Wednesday, Nov 11 from 1:00 pm - 6:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -479,6 +479,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "availability_patches": [
         {
+          "date": "2026-11-10",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 10",
+          "start_time": "10:15 am",
+          "end_time": "10:15 am",
+          "time_range": "10:15 am",
+          "display": "10:15 am",
+          "display_full": "Tuesday, Nov 10: 10:15 am"
+        },
+        {
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
@@ -491,6 +501,16 @@
       ],
       "patches": [
         {
+          "date": "2026-11-10",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 10",
+          "start_time": "10:15 am",
+          "end_time": "10:15 am",
+          "time_range": "10:15 am",
+          "display": "10:15 am",
+          "display_full": "Tuesday, Nov 10: 10:15 am"
+        },
+        {
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
@@ -502,7 +522,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 7:30 am"
+      "availability": "Tuesday, Nov 10 from 10:15 am"
     }
   },
   "Calliope": {
@@ -556,11 +576,11 @@
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "12:15 pm",
-          "end_time": "2:00 pm",
-          "time_range": "12:15 pm - 2:00 pm",
-          "display": "12:15 pm - 2:00 pm",
-          "display_full": "Thursday, Nov 12: 12:15 pm - 2:00 pm"
+          "start_time": "12:30 pm",
+          "end_time": "1:45 pm",
+          "time_range": "12:30 pm - 1:45 pm",
+          "display": "12:30 pm - 1:45 pm",
+          "display_full": "Thursday, Nov 12: 12:30 pm - 1:45 pm"
         },
         {
           "date": "2026-11-13",
@@ -578,11 +598,11 @@
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "12:15 pm",
-          "end_time": "2:00 pm",
-          "time_range": "12:15 pm - 2:00 pm",
-          "display": "12:15 pm - 2:00 pm",
-          "display_full": "Thursday, Nov 12: 12:15 pm - 2:00 pm"
+          "start_time": "12:30 pm",
+          "end_time": "1:45 pm",
+          "time_range": "12:30 pm - 1:45 pm",
+          "display": "12:30 pm - 1:45 pm",
+          "display_full": "Thursday, Nov 12: 12:30 pm - 1:45 pm"
         },
         {
           "date": "2026-11-13",
@@ -596,7 +616,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 12 from 12:15 pm - 2:00 pm"
+      "availability": "Thursday, Nov 12 from 12:30 pm - 1:45 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -730,11 +750,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "12:00 pm",
+          "start_time": "12:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:00 pm - 5:15 pm",
-          "display": "12:00 pm - 5:15 pm",
-          "display_full": "Tuesday, Nov 10: 12:00 pm - 5:15 pm"
+          "time_range": "12:15 pm - 5:15 pm",
+          "display": "12:15 pm - 5:15 pm",
+          "display_full": "Tuesday, Nov 10: 12:15 pm - 5:15 pm"
         },
         {
           "date": "2026-11-11",
@@ -752,11 +772,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "12:00 pm",
+          "start_time": "12:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "12:00 pm - 5:15 pm",
-          "display": "12:00 pm - 5:15 pm",
-          "display_full": "Tuesday, Nov 10: 12:00 pm - 5:15 pm"
+          "time_range": "12:15 pm - 5:15 pm",
+          "display": "12:15 pm - 5:15 pm",
+          "display_full": "Tuesday, Nov 10: 12:15 pm - 5:15 pm"
         },
         {
           "date": "2026-11-11",
@@ -770,7 +790,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 12:00 pm - 5:15 pm"
+      "availability": "Tuesday, Nov 10 from 12:15 pm - 5:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -834,10 +854,92 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "no_availability",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-11-10",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 10",
+          "start_time": "7:30 am",
+          "end_time": "2:15 pm",
+          "time_range": "7:30 am - 2:15 pm",
+          "display": "7:30 am - 2:15 pm",
+          "display_full": "Tuesday, Nov 10: 7:30 am - 2:15 pm"
+        },
+        {
+          "date": "2026-11-11",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 11",
+          "start_time": "11:30 am",
+          "end_time": "5:15 pm",
+          "time_range": "11:30 am - 5:15 pm",
+          "display": "11:30 am - 5:15 pm",
+          "display_full": "Wednesday, Nov 11: 11:30 am - 5:15 pm"
+        },
+        {
+          "date": "2026-11-12",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Nov 12",
+          "start_time": "10:00 am",
+          "end_time": "5:15 pm",
+          "time_range": "10:00 am - 5:15 pm",
+          "display": "10:00 am - 5:15 pm",
+          "display_full": "Thursday, Nov 12: 10:00 am - 5:15 pm"
+        },
+        {
+          "date": "2026-11-13",
+          "day_name": "Friday",
+          "date_label": "Friday, Nov 13",
+          "start_time": "10:15 am",
+          "end_time": "5:15 pm",
+          "time_range": "10:15 am - 5:15 pm",
+          "display": "10:15 am - 5:15 pm",
+          "display_full": "Friday, Nov 13: 10:15 am - 5:15 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-11-10",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 10",
+          "start_time": "7:30 am",
+          "end_time": "2:15 pm",
+          "time_range": "7:30 am - 2:15 pm",
+          "display": "7:30 am - 2:15 pm",
+          "display_full": "Tuesday, Nov 10: 7:30 am - 2:15 pm"
+        },
+        {
+          "date": "2026-11-11",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 11",
+          "start_time": "11:30 am",
+          "end_time": "5:15 pm",
+          "time_range": "11:30 am - 5:15 pm",
+          "display": "11:30 am - 5:15 pm",
+          "display_full": "Wednesday, Nov 11: 11:30 am - 5:15 pm"
+        },
+        {
+          "date": "2026-11-12",
+          "day_name": "Thursday",
+          "date_label": "Thursday, Nov 12",
+          "start_time": "10:00 am",
+          "end_time": "5:15 pm",
+          "time_range": "10:00 am - 5:15 pm",
+          "display": "10:00 am - 5:15 pm",
+          "display_full": "Thursday, Nov 12: 10:00 am - 5:15 pm"
+        },
+        {
+          "date": "2026-11-13",
+          "day_name": "Friday",
+          "date_label": "Friday, Nov 13",
+          "start_time": "10:15 am",
+          "end_time": "5:15 pm",
+          "time_range": "10:15 am - 5:15 pm",
+          "display": "10:15 am - 5:15 pm",
+          "display_full": "Friday, Nov 13: 10:15 am - 5:15 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Tuesday, Nov 10 from 7:30 am - 2:15 pm"
     }
   },
   "Burnett Heads": {
@@ -963,11 +1065,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "4:00 pm",
-          "time_range": "11:15 am - 4:00 pm",
-          "display": "11:15 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 10: 11:15 am - 4:00 pm"
+          "time_range": "11:30 am - 4:00 pm",
+          "display": "11:30 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 10: 11:30 am - 4:00 pm"
         },
         {
           "date": "2026-11-11",
@@ -1005,11 +1107,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "11:15 am",
+          "start_time": "11:30 am",
           "end_time": "4:00 pm",
-          "time_range": "11:15 am - 4:00 pm",
-          "display": "11:15 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 10: 11:15 am - 4:00 pm"
+          "time_range": "11:30 am - 4:00 pm",
+          "display": "11:30 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 10: 11:30 am - 4:00 pm"
         },
         {
           "date": "2026-11-11",
@@ -1043,7 +1145,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 11:15 am - 4:00 pm"
+      "availability": "Tuesday, Nov 10 from 11:30 am - 4:00 pm"
     }
   },
   "Toowoomba": {
@@ -1088,6 +1190,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
       "availability_patches": [
         {
+          "date": "2026-11-09",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 09",
+          "start_time": "5:50 pm",
+          "end_time": "5:50 pm",
+          "time_range": "5:50 pm",
+          "display": "5:50 pm",
+          "display_full": "Monday, Nov 09: 5:50 pm"
+        },
+        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -1112,10 +1224,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
           "start_time": "8:20 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:20 am - 3:40 pm",
-          "display": "8:20 am - 3:40 pm",
-          "display_full": "Thursday, Nov 12: 8:20 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:20 am - 3:30 pm",
+          "display": "8:20 am - 3:30 pm",
+          "display_full": "Thursday, Nov 12: 8:20 am - 3:30 pm"
         },
         {
           "date": "2026-11-13",
@@ -1130,6 +1242,16 @@
       ],
       "patches": [
         {
+          "date": "2026-11-09",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 09",
+          "start_time": "5:50 pm",
+          "end_time": "5:50 pm",
+          "time_range": "5:50 pm",
+          "display": "5:50 pm",
+          "display_full": "Monday, Nov 09: 5:50 pm"
+        },
+        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
@@ -1154,10 +1276,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
           "start_time": "8:20 am",
-          "end_time": "3:40 pm",
-          "time_range": "8:20 am - 3:40 pm",
-          "display": "8:20 am - 3:40 pm",
-          "display_full": "Thursday, Nov 12: 8:20 am - 3:40 pm"
+          "end_time": "3:30 pm",
+          "time_range": "8:20 am - 3:30 pm",
+          "display": "8:20 am - 3:30 pm",
+          "display_full": "Thursday, Nov 12: 8:20 am - 3:30 pm"
         },
         {
           "date": "2026-11-13",
@@ -1171,7 +1293,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 12:40 pm - 6:40 pm"
+      "availability": "Monday, Nov 09 from 5:50 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1221,24 +1343,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "availability_patches": [
         {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "3:00 pm",
-          "end_time": "3:00 pm",
-          "time_range": "3:00 pm",
-          "display": "3:00 pm",
-          "display_full": "Monday, Nov 09: 3:00 pm"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "8:30 am",
+          "start_time": "8:50 am",
           "end_time": "3:30 pm",
-          "time_range": "8:30 am - 3:30 pm",
-          "display": "8:30 am - 3:30 pm",
-          "display_full": "Tuesday, Nov 10: 8:30 am - 3:30 pm"
+          "time_range": "8:50 am - 3:30 pm",
+          "display": "8:50 am - 3:30 pm",
+          "display_full": "Tuesday, Nov 10: 8:50 am - 3:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -1254,11 +1366,11 @@
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "12:20 pm",
+          "start_time": "12:30 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:20 pm - 6:40 pm",
-          "display": "12:20 pm - 6:40 pm",
-          "display_full": "Thursday, Nov 12: 12:20 pm - 6:40 pm"
+          "time_range": "12:30 pm - 6:40 pm",
+          "display": "12:30 pm - 6:40 pm",
+          "display_full": "Thursday, Nov 12: 12:30 pm - 6:40 pm"
         },
         {
           "date": "2026-11-13",
@@ -1273,24 +1385,14 @@
       ],
       "patches": [
         {
-          "date": "2026-11-09",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 09",
-          "start_time": "3:00 pm",
-          "end_time": "3:00 pm",
-          "time_range": "3:00 pm",
-          "display": "3:00 pm",
-          "display_full": "Monday, Nov 09: 3:00 pm"
-        },
-        {
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "8:30 am",
+          "start_time": "8:50 am",
           "end_time": "3:30 pm",
-          "time_range": "8:30 am - 3:30 pm",
-          "display": "8:30 am - 3:30 pm",
-          "display_full": "Tuesday, Nov 10: 8:30 am - 3:30 pm"
+          "time_range": "8:50 am - 3:30 pm",
+          "display": "8:50 am - 3:30 pm",
+          "display_full": "Tuesday, Nov 10: 8:50 am - 3:30 pm"
         },
         {
           "date": "2026-11-11",
@@ -1306,11 +1408,11 @@
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "12:20 pm",
+          "start_time": "12:30 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:20 pm - 6:40 pm",
-          "display": "12:20 pm - 6:40 pm",
-          "display_full": "Thursday, Nov 12: 12:20 pm - 6:40 pm"
+          "time_range": "12:30 pm - 6:40 pm",
+          "display": "12:30 pm - 6:40 pm",
+          "display_full": "Thursday, Nov 12: 12:30 pm - 6:40 pm"
         },
         {
           "date": "2026-11-13",
@@ -1324,7 +1426,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 09 from 3:00 pm"
+      "availability": "Tuesday, Nov 10 from 8:50 am - 3:30 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
