@@ -569,11 +569,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "10:30 am",
+          "start_time": "2:15 pm",
           "end_time": "2:30 pm",
-          "time_range": "10:30 am - 2:30 pm",
-          "display": "10:30 am - 2:30 pm",
-          "display_full": "Wednesday, Nov 11: 10:30 am - 2:30 pm"
+          "time_range": "2:15 pm - 2:30 pm",
+          "display": "2:15 pm - 2:30 pm",
+          "display_full": "Wednesday, Nov 11: 2:15 pm - 2:30 pm"
         }
       ],
       "patches": [
@@ -581,15 +581,15 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "10:30 am",
+          "start_time": "2:15 pm",
           "end_time": "2:30 pm",
-          "time_range": "10:30 am - 2:30 pm",
-          "display": "10:30 am - 2:30 pm",
-          "display_full": "Wednesday, Nov 11: 10:30 am - 2:30 pm"
+          "time_range": "2:15 pm - 2:30 pm",
+          "display": "2:15 pm - 2:30 pm",
+          "display_full": "Wednesday, Nov 11: 2:15 pm - 2:30 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 10:30 am - 2:30 pm"
+      "availability": "Wednesday, Nov 11 from 2:15 pm - 2:30 pm"
     }
   },
   "Calliope": {
@@ -946,11 +946,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "11:30 am",
+          "start_time": "9:45 am",
           "end_time": "2:00 pm",
-          "time_range": "11:30 am - 2:00 pm",
-          "display": "11:30 am - 2:00 pm",
-          "display_full": "Tuesday, Nov 10: 11:30 am - 2:00 pm"
+          "time_range": "9:45 am - 2:00 pm",
+          "display": "9:45 am - 2:00 pm",
+          "display_full": "Tuesday, Nov 10: 9:45 am - 2:00 pm"
         },
         {
           "date": "2026-11-11",
@@ -998,11 +998,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "11:30 am",
+          "start_time": "9:45 am",
           "end_time": "2:00 pm",
-          "time_range": "11:30 am - 2:00 pm",
-          "display": "11:30 am - 2:00 pm",
-          "display_full": "Tuesday, Nov 10: 11:30 am - 2:00 pm"
+          "time_range": "9:45 am - 2:00 pm",
+          "display": "9:45 am - 2:00 pm",
+          "display_full": "Tuesday, Nov 10: 9:45 am - 2:00 pm"
         },
         {
           "date": "2026-11-11",
@@ -1046,7 +1046,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 11:30 am - 2:00 pm"
+      "availability": "Tuesday, Nov 10 from 9:45 am - 2:00 pm"
     }
   },
   "Burnett Heads": {
@@ -1300,11 +1300,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "12:50 pm",
+          "start_time": "1:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:50 pm - 6:40 pm",
-          "display": "12:50 pm - 6:40 pm",
-          "display_full": "Tuesday, Nov 10: 12:50 pm - 6:40 pm"
+          "time_range": "1:20 pm - 6:40 pm",
+          "display": "1:20 pm - 6:40 pm",
+          "display_full": "Tuesday, Nov 10: 1:20 pm - 6:40 pm"
         },
         {
           "date": "2026-11-11",
@@ -1342,11 +1342,11 @@
           "date": "2026-11-10",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
-          "start_time": "12:50 pm",
+          "start_time": "1:20 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:50 pm - 6:40 pm",
-          "display": "12:50 pm - 6:40 pm",
-          "display_full": "Tuesday, Nov 10: 12:50 pm - 6:40 pm"
+          "time_range": "1:20 pm - 6:40 pm",
+          "display": "1:20 pm - 6:40 pm",
+          "display_full": "Tuesday, Nov 10: 1:20 pm - 6:40 pm"
         },
         {
           "date": "2026-11-11",
@@ -1380,7 +1380,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 12:50 pm - 6:40 pm"
+      "availability": "Tuesday, Nov 10 from 1:20 pm - 6:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1434,10 +1434,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
           "start_time": "2:10 pm",
-          "end_time": "3:20 pm",
-          "time_range": "2:10 pm - 3:20 pm",
-          "display": "2:10 pm - 3:20 pm",
-          "display_full": "Tuesday, Nov 10: 2:10 pm - 3:20 pm"
+          "end_time": "3:10 pm",
+          "time_range": "2:10 pm - 3:10 pm",
+          "display": "2:10 pm - 3:10 pm",
+          "display_full": "Tuesday, Nov 10: 2:10 pm - 3:10 pm"
         },
         {
           "date": "2026-11-11",
@@ -1476,10 +1476,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 10",
           "start_time": "2:10 pm",
-          "end_time": "3:20 pm",
-          "time_range": "2:10 pm - 3:20 pm",
-          "display": "2:10 pm - 3:20 pm",
-          "display_full": "Tuesday, Nov 10: 2:10 pm - 3:20 pm"
+          "end_time": "3:10 pm",
+          "time_range": "2:10 pm - 3:10 pm",
+          "display": "2:10 pm - 3:10 pm",
+          "display_full": "Tuesday, Nov 10: 2:10 pm - 3:10 pm"
         },
         {
           "date": "2026-11-11",
@@ -1513,7 +1513,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 10 from 2:10 pm - 3:20 pm"
+      "availability": "Tuesday, Nov 10 from 2:10 pm - 3:10 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
