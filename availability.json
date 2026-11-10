@@ -7,8 +7,8 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "Dip Occ Med (RCPI)",
+        "MBBS",
         "MRCGP"
       ],
       "areas_of_interest": [
@@ -49,11 +49,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "7:30 am",
+          "start_time": "7:45 am",
           "end_time": "1:00 pm",
-          "time_range": "7:30 am - 1:00 pm",
-          "display": "7:30 am - 1:00 pm",
-          "display_full": "Friday, Nov 13: 7:30 am - 1:00 pm"
+          "time_range": "7:45 am - 1:00 pm",
+          "display": "7:45 am - 1:00 pm",
+          "display_full": "Friday, Nov 13: 7:45 am - 1:00 pm"
         },
         {
           "date": "2026-11-15",
@@ -81,11 +81,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "7:30 am",
+          "start_time": "7:45 am",
           "end_time": "1:00 pm",
-          "time_range": "7:30 am - 1:00 pm",
-          "display": "7:30 am - 1:00 pm",
-          "display_full": "Friday, Nov 13: 7:30 am - 1:00 pm"
+          "time_range": "7:45 am - 1:00 pm",
+          "display": "7:45 am - 1:00 pm",
+          "display_full": "Friday, Nov 13: 7:45 am - 1:00 pm"
         },
         {
           "date": "2026-11-15",
@@ -196,10 +196,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MCPS",
         "MCPS (Family Medicine)",
-        "MRCGP"
+        "MBBS",
+        "MRCGP",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -237,16 +237,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-11",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 11",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Wednesday, Nov 11: 2:45 pm"
-        },
-        {
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
@@ -260,25 +250,15 @@
           "date": "2026-11-15",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 15",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "10:30 am - 3:45 pm",
-          "display": "10:30 am - 3:45 pm",
-          "display_full": "Sunday, Nov 15: 10:30 am - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Sunday, Nov 15: 10:45 am - 3:45 pm"
         }
       ],
       "patches": [
         {
-          "date": "2026-11-11",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 11",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Wednesday, Nov 11: 2:45 pm"
-        },
-        {
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
@@ -292,15 +272,15 @@
           "date": "2026-11-15",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 15",
-          "start_time": "10:30 am",
+          "start_time": "10:45 am",
           "end_time": "3:45 pm",
-          "time_range": "10:30 am - 3:45 pm",
-          "display": "10:30 am - 3:45 pm",
-          "display_full": "Sunday, Nov 15: 10:30 am - 3:45 pm"
+          "time_range": "10:45 am - 3:45 pm",
+          "display": "10:45 am - 3:45 pm",
+          "display_full": "Sunday, Nov 15: 10:45 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 2:45 pm"
+      "availability": "Friday, Nov 13 from 9:00 am - 1:30 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -309,11 +289,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MCPS",
         "MBBS",
-        "General Practitioner",
         "MRCGP",
-        "DFM"
+        "General Practitioner",
+        "DFM",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -489,8 +469,8 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MCPS (Family Medicine)",
+        "MBBS",
         "MRCGP"
       ],
       "areas_of_interest": [
@@ -711,6 +691,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
       "availability_patches": [
         {
+          "date": "2026-11-11",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 11",
+          "start_time": "3:00 pm",
+          "end_time": "3:00 pm",
+          "time_range": "3:00 pm",
+          "display": "3:00 pm",
+          "display_full": "Wednesday, Nov 11: 3:00 pm"
+        },
+        {
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
@@ -723,6 +713,16 @@
       ],
       "patches": [
         {
+          "date": "2026-11-11",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 11",
+          "start_time": "3:00 pm",
+          "end_time": "3:00 pm",
+          "time_range": "3:00 pm",
+          "display": "3:00 pm",
+          "display_full": "Wednesday, Nov 11: 3:00 pm"
+        },
+        {
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
@@ -734,7 +734,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 13 from 11:30 am - 1:45 pm"
+      "availability": "Wednesday, Nov 11 from 3:00 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -775,11 +775,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "7:45 am",
+          "start_time": "8:15 am",
           "end_time": "1:45 pm",
-          "time_range": "7:45 am - 1:45 pm",
-          "display": "7:45 am - 1:45 pm",
-          "display_full": "Wednesday, Nov 11: 7:45 am - 1:45 pm"
+          "time_range": "8:15 am - 1:45 pm",
+          "display": "8:15 am - 1:45 pm",
+          "display_full": "Wednesday, Nov 11: 8:15 am - 1:45 pm"
         }
       ],
       "patches": [
@@ -787,15 +787,15 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "7:45 am",
+          "start_time": "8:15 am",
           "end_time": "1:45 pm",
-          "time_range": "7:45 am - 1:45 pm",
-          "display": "7:45 am - 1:45 pm",
-          "display_full": "Wednesday, Nov 11: 7:45 am - 1:45 pm"
+          "time_range": "8:15 am - 1:45 pm",
+          "display": "8:15 am - 1:45 pm",
+          "display_full": "Wednesday, Nov 11: 8:15 am - 1:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 7:45 am - 1:45 pm"
+      "availability": "Wednesday, Nov 11 from 8:15 am - 1:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -864,11 +864,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "1:15 pm",
-          "end_time": "3:00 pm",
-          "time_range": "1:15 pm - 3:00 pm",
-          "display": "1:15 pm - 3:00 pm",
-          "display_full": "Wednesday, Nov 11: 1:15 pm - 3:00 pm"
+          "start_time": "1:30 pm",
+          "end_time": "4:45 pm",
+          "time_range": "1:30 pm - 4:45 pm",
+          "display": "1:30 pm - 4:45 pm",
+          "display_full": "Wednesday, Nov 11: 1:30 pm - 4:45 pm"
         },
         {
           "date": "2026-11-12",
@@ -894,11 +894,11 @@
           "date": "2026-11-14",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
-          "start_time": "8:30 am",
+          "start_time": "8:45 am",
           "end_time": "3:45 pm",
-          "time_range": "8:30 am - 3:45 pm",
-          "display": "8:30 am - 3:45 pm",
-          "display_full": "Saturday, Nov 14: 8:30 am - 3:45 pm"
+          "time_range": "8:45 am - 3:45 pm",
+          "display": "8:45 am - 3:45 pm",
+          "display_full": "Saturday, Nov 14: 8:45 am - 3:45 pm"
         }
       ],
       "patches": [
@@ -906,11 +906,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "1:15 pm",
-          "end_time": "3:00 pm",
-          "time_range": "1:15 pm - 3:00 pm",
-          "display": "1:15 pm - 3:00 pm",
-          "display_full": "Wednesday, Nov 11: 1:15 pm - 3:00 pm"
+          "start_time": "1:30 pm",
+          "end_time": "4:45 pm",
+          "time_range": "1:30 pm - 4:45 pm",
+          "display": "1:30 pm - 4:45 pm",
+          "display_full": "Wednesday, Nov 11: 1:30 pm - 4:45 pm"
         },
         {
           "date": "2026-11-12",
@@ -936,15 +936,15 @@
           "date": "2026-11-14",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
-          "start_time": "8:30 am",
+          "start_time": "8:45 am",
           "end_time": "3:45 pm",
-          "time_range": "8:30 am - 3:45 pm",
-          "display": "8:30 am - 3:45 pm",
-          "display_full": "Saturday, Nov 14: 8:30 am - 3:45 pm"
+          "time_range": "8:45 am - 3:45 pm",
+          "display": "8:45 am - 3:45 pm",
+          "display_full": "Saturday, Nov 14: 8:45 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 1:15 pm - 3:00 pm"
+      "availability": "Wednesday, Nov 11 from 1:30 pm - 4:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1016,32 +1016,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/burnett-heads-QLD-4670/gp-ultra-hub-burnett-heads/doctors/dr-carmen-au-1",
-      "availability_patches": [
-        {
-          "date": "2026-11-11",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 11",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Wednesday, Nov 11: 2:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-11",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 11",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Wednesday, Nov 11: 2:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 2:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Rezwan Alam": {
       "doctor_id": 239619,
@@ -1269,9 +1247,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MRCPG",
         "MBBS",
-        "MRCGP",
-        "MRCPG"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
