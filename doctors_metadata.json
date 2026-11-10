@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-09 11:53:15 PM",
+    "last_updated": "2026-11-10 07:00:41 AM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -10,8 +10,8 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "Dip Occ Med (RCPI)",
                     "MRCGP",
+                    "Dip Occ Med (RCPI)",
                     "MBBS"
                 ],
                 "areas_of_interest": [
@@ -103,10 +103,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
-                    "MCPS",
                     "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MCPS",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -150,11 +150,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "General Practitioner",
-                    "MBBS",
-                    "MCPS",
                     "MRCGP",
-                    "DFM"
+                    "General Practitioner",
+                    "DFM",
+                    "MBBS",
+                    "MCPS"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -240,9 +240,9 @@
                 "provider_type": "Physiotherapist",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MRCGP",
-                    "MBBS"
+                    "MBBS",
+                    "MCPS (Family Medicine)"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -662,8 +662,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MRCGP",
+                    "MRCPG",
                     "MBBS"
                 ],
                 "areas_of_interest": [
