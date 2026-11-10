@@ -147,11 +147,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "10:45 am",
+          "start_time": "11:45 am",
           "end_time": "2:45 pm",
-          "time_range": "10:45 am - 2:45 pm",
-          "display": "10:45 am - 2:45 pm",
-          "display_full": "Wednesday, Nov 11: 10:45 am - 2:45 pm"
+          "time_range": "11:45 am - 2:45 pm",
+          "display": "11:45 am - 2:45 pm",
+          "display_full": "Wednesday, Nov 11: 11:45 am - 2:45 pm"
         }
       ],
       "patches": [
@@ -159,15 +159,15 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "10:45 am",
+          "start_time": "11:45 am",
           "end_time": "2:45 pm",
-          "time_range": "10:45 am - 2:45 pm",
-          "display": "10:45 am - 2:45 pm",
-          "display_full": "Wednesday, Nov 11: 10:45 am - 2:45 pm"
+          "time_range": "11:45 am - 2:45 pm",
+          "display": "11:45 am - 2:45 pm",
+          "display_full": "Wednesday, Nov 11: 11:45 am - 2:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 10:45 am - 2:45 pm"
+      "availability": "Wednesday, Nov 11 from 11:45 am - 2:45 pm"
     },
     "Dr. Mehwish Javaid": {
       "doctor_id": 250178,
@@ -591,11 +591,11 @@
           "date": "2026-11-14",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
-          "start_time": "9:15 am",
+          "start_time": "9:45 am",
           "end_time": "3:45 pm",
-          "time_range": "9:15 am - 3:45 pm",
-          "display": "9:15 am - 3:45 pm",
-          "display_full": "Saturday, Nov 14: 9:15 am - 3:45 pm"
+          "time_range": "9:45 am - 3:45 pm",
+          "display": "9:45 am - 3:45 pm",
+          "display_full": "Saturday, Nov 14: 9:45 am - 3:45 pm"
         }
       ],
       "patches": [
@@ -613,11 +613,11 @@
           "date": "2026-11-14",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
-          "start_time": "9:15 am",
+          "start_time": "9:45 am",
           "end_time": "3:45 pm",
-          "time_range": "9:15 am - 3:45 pm",
-          "display": "9:15 am - 3:45 pm",
-          "display_full": "Saturday, Nov 14: 9:15 am - 3:45 pm"
+          "time_range": "9:45 am - 3:45 pm",
+          "display": "9:45 am - 3:45 pm",
+          "display_full": "Saturday, Nov 14: 9:45 am - 3:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1366,11 +1366,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 11: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 11: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-12",
@@ -1398,11 +1398,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 11: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 11: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-12",
@@ -1426,7 +1426,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 8:00 am - 4:00 pm"
+      "availability": "Wednesday, Nov 11 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
