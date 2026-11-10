@@ -755,11 +755,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "7:30 am",
+          "start_time": "7:45 am",
           "end_time": "2:15 pm",
-          "time_range": "7:30 am - 2:15 pm",
-          "display": "7:30 am - 2:15 pm",
-          "display_full": "Wednesday, Nov 11: 7:30 am - 2:15 pm"
+          "time_range": "7:45 am - 2:15 pm",
+          "display": "7:45 am - 2:15 pm",
+          "display_full": "Wednesday, Nov 11: 7:45 am - 2:15 pm"
         }
       ],
       "patches": [
@@ -767,15 +767,15 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "7:30 am",
+          "start_time": "7:45 am",
           "end_time": "2:15 pm",
-          "time_range": "7:30 am - 2:15 pm",
-          "display": "7:30 am - 2:15 pm",
-          "display_full": "Wednesday, Nov 11: 7:30 am - 2:15 pm"
+          "time_range": "7:45 am - 2:15 pm",
+          "display": "7:45 am - 2:15 pm",
+          "display_full": "Wednesday, Nov 11: 7:45 am - 2:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 7:30 am - 2:15 pm"
+      "availability": "Wednesday, Nov 11 from 7:45 am - 2:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1366,11 +1366,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 11: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 11: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-12",
@@ -1398,11 +1398,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 11: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 11: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-12",
@@ -1426,7 +1426,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 10:10 am - 4:00 pm"
+      "availability": "Wednesday, Nov 11 from 11:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
