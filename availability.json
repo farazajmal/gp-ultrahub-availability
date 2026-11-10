@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
+        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -167,11 +167,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "2:45 pm",
-          "time_range": "11:45 am - 2:45 pm",
-          "display": "11:45 am - 2:45 pm",
-          "display_full": "Wednesday, Nov 11: 11:45 am - 2:45 pm"
+          "time_range": "12:00 pm - 2:45 pm",
+          "display": "12:00 pm - 2:45 pm",
+          "display_full": "Wednesday, Nov 11: 12:00 pm - 2:45 pm"
         }
       ],
       "patches": [
@@ -179,15 +179,15 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "11:45 am",
+          "start_time": "12:00 pm",
           "end_time": "2:45 pm",
-          "time_range": "11:45 am - 2:45 pm",
-          "display": "11:45 am - 2:45 pm",
-          "display_full": "Wednesday, Nov 11: 11:45 am - 2:45 pm"
+          "time_range": "12:00 pm - 2:45 pm",
+          "display": "12:00 pm - 2:45 pm",
+          "display_full": "Wednesday, Nov 11: 12:00 pm - 2:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 11:45 am - 2:45 pm"
+      "availability": "Wednesday, Nov 11 from 12:00 pm - 2:45 pm"
     },
     "Dr. Mehwish Javaid": {
       "doctor_id": 250178,
@@ -196,10 +196,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MBBS",
         "MCPS",
-        "MCPS (Family Medicine)"
+        "MCPS (Family Medicine)",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -309,11 +309,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
-        "General Practitioner",
-        "DFM",
+        "MCPS",
         "MBBS",
-        "MCPS"
+        "General Practitioner",
+        "MRCGP",
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -489,9 +489,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MBBS",
-        "MCPS (Family Medicine)"
+        "MCPS (Family Medicine)",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -825,8 +825,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -874,11 +874,11 @@
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "10:15 am",
+          "start_time": "10:45 am",
           "end_time": "5:15 pm",
-          "time_range": "10:15 am - 5:15 pm",
-          "display": "10:15 am - 5:15 pm",
-          "display_full": "Thursday, Nov 12: 10:15 am - 5:15 pm"
+          "time_range": "10:45 am - 5:15 pm",
+          "display": "10:45 am - 5:15 pm",
+          "display_full": "Thursday, Nov 12: 10:45 am - 5:15 pm"
         },
         {
           "date": "2026-11-13",
@@ -916,11 +916,11 @@
           "date": "2026-11-12",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 12",
-          "start_time": "10:15 am",
+          "start_time": "10:45 am",
           "end_time": "5:15 pm",
-          "time_range": "10:15 am - 5:15 pm",
-          "display": "10:15 am - 5:15 pm",
-          "display_full": "Thursday, Nov 12: 10:15 am - 5:15 pm"
+          "time_range": "10:45 am - 5:15 pm",
+          "display": "10:45 am - 5:15 pm",
+          "display_full": "Thursday, Nov 12: 10:45 am - 5:15 pm"
         },
         {
           "date": "2026-11-13",
@@ -1070,11 +1070,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "4:15 pm",
-          "time_range": "10:45 am - 4:15 pm",
-          "display": "10:45 am - 4:15 pm",
-          "display_full": "Wednesday, Nov 11: 10:45 am - 4:15 pm"
+          "time_range": "11:15 am - 4:15 pm",
+          "display": "11:15 am - 4:15 pm",
+          "display_full": "Wednesday, Nov 11: 11:15 am - 4:15 pm"
         },
         {
           "date": "2026-11-12",
@@ -1102,11 +1102,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "4:15 pm",
-          "time_range": "10:45 am - 4:15 pm",
-          "display": "10:45 am - 4:15 pm",
-          "display_full": "Wednesday, Nov 11: 10:45 am - 4:15 pm"
+          "time_range": "11:15 am - 4:15 pm",
+          "display": "11:15 am - 4:15 pm",
+          "display_full": "Wednesday, Nov 11: 11:15 am - 4:15 pm"
         },
         {
           "date": "2026-11-12",
@@ -1130,7 +1130,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 10:45 am - 4:15 pm"
+      "availability": "Wednesday, Nov 11 from 11:15 am - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1247,9 +1247,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MRCGP",
-        "MRCPG",
-        "MBBS"
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1291,11 +1291,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "12:10 pm",
+          "start_time": "1:50 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:10 pm - 6:40 pm",
-          "display": "12:10 pm - 6:40 pm",
-          "display_full": "Wednesday, Nov 11: 12:10 pm - 6:40 pm"
+          "time_range": "1:50 pm - 6:40 pm",
+          "display": "1:50 pm - 6:40 pm",
+          "display_full": "Wednesday, Nov 11: 1:50 pm - 6:40 pm"
         },
         {
           "date": "2026-11-12",
@@ -1323,11 +1323,11 @@
           "date": "2026-11-11",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
-          "start_time": "12:10 pm",
+          "start_time": "1:50 pm",
           "end_time": "6:40 pm",
-          "time_range": "12:10 pm - 6:40 pm",
-          "display": "12:10 pm - 6:40 pm",
-          "display_full": "Wednesday, Nov 11: 12:10 pm - 6:40 pm"
+          "time_range": "1:50 pm - 6:40 pm",
+          "display": "1:50 pm - 6:40 pm",
+          "display_full": "Wednesday, Nov 11: 1:50 pm - 6:40 pm"
         },
         {
           "date": "2026-11-12",
@@ -1351,7 +1351,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 12:10 pm - 6:40 pm"
+      "availability": "Wednesday, Nov 11 from 1:50 pm - 6:40 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
