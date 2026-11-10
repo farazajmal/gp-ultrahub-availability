@@ -581,11 +581,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "1:30 pm",
-          "time_range": "12:30 pm - 1:30 pm",
-          "display": "12:30 pm - 1:30 pm",
-          "display_full": "Friday, Nov 13: 12:30 pm - 1:30 pm"
+          "time_range": "12:45 pm - 1:30 pm",
+          "display": "12:45 pm - 1:30 pm",
+          "display_full": "Friday, Nov 13: 12:45 pm - 1:30 pm"
         },
         {
           "date": "2026-11-14",
@@ -603,11 +603,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "12:30 pm",
+          "start_time": "12:45 pm",
           "end_time": "1:30 pm",
-          "time_range": "12:30 pm - 1:30 pm",
-          "display": "12:30 pm - 1:30 pm",
-          "display_full": "Friday, Nov 13: 12:30 pm - 1:30 pm"
+          "time_range": "12:45 pm - 1:30 pm",
+          "display": "12:45 pm - 1:30 pm",
+          "display_full": "Friday, Nov 13: 12:45 pm - 1:30 pm"
         },
         {
           "date": "2026-11-14",
@@ -621,7 +621,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 13 from 12:30 pm - 1:30 pm"
+      "availability": "Friday, Nov 13 from 12:45 pm - 1:30 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -845,10 +845,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
           "start_time": "1:00 pm",
-          "end_time": "3:15 pm",
-          "time_range": "1:00 pm - 3:15 pm",
-          "display": "1:00 pm - 3:15 pm",
-          "display_full": "Wednesday, Nov 11: 1:00 pm - 3:15 pm"
+          "end_time": "4:15 pm",
+          "time_range": "1:00 pm - 4:15 pm",
+          "display": "1:00 pm - 4:15 pm",
+          "display_full": "Wednesday, Nov 11: 1:00 pm - 4:15 pm"
         },
         {
           "date": "2026-11-12",
@@ -887,10 +887,10 @@
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 11",
           "start_time": "1:00 pm",
-          "end_time": "3:15 pm",
-          "time_range": "1:00 pm - 3:15 pm",
-          "display": "1:00 pm - 3:15 pm",
-          "display_full": "Wednesday, Nov 11: 1:00 pm - 3:15 pm"
+          "end_time": "4:15 pm",
+          "time_range": "1:00 pm - 4:15 pm",
+          "display": "1:00 pm - 4:15 pm",
+          "display_full": "Wednesday, Nov 11: 1:00 pm - 4:15 pm"
         },
         {
           "date": "2026-11-12",
@@ -924,7 +924,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 11 from 1:00 pm - 3:15 pm"
+      "availability": "Wednesday, Nov 11 from 1:00 pm - 4:15 pm"
     }
   },
   "Burnett Heads": {
