@@ -289,11 +289,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "6:15 pm",
+          "start_time": "6:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "6:15 pm - 6:30 pm",
-          "display": "6:15 pm - 6:30 pm",
-          "display_full": "Friday, Nov 13: 6:15 pm - 6:30 pm"
+          "time_range": "6:30 pm",
+          "display": "6:30 pm",
+          "display_full": "Friday, Nov 13: 6:30 pm"
         },
         {
           "date": "2026-11-14",
@@ -321,11 +321,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "6:15 pm",
+          "start_time": "6:30 pm",
           "end_time": "6:30 pm",
-          "time_range": "6:15 pm - 6:30 pm",
-          "display": "6:15 pm - 6:30 pm",
-          "display_full": "Friday, Nov 13: 6:15 pm - 6:30 pm"
+          "time_range": "6:30 pm",
+          "display": "6:30 pm",
+          "display_full": "Friday, Nov 13: 6:30 pm"
         },
         {
           "date": "2026-11-14",
@@ -349,7 +349,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 13 from 6:15 pm - 6:30 pm"
+      "availability": "Friday, Nov 13 from 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -627,32 +627,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
-      "availability_patches": [
-        {
-          "date": "2026-11-16",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 16",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Monday, Nov 16: 1:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-16",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 16",
-          "start_time": "1:45 pm",
-          "end_time": "1:45 pm",
-          "time_range": "1:45 pm",
-          "display": "1:45 pm",
-          "display_full": "Monday, Nov 16: 1:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Monday, Nov 16 from 1:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -1224,11 +1202,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Friday, Nov 13: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Friday, Nov 13: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-16",
@@ -1246,11 +1224,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Friday, Nov 13: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Friday, Nov 13: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-16",
@@ -1264,7 +1242,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 13 from 9:10 am - 4:00 pm"
+      "availability": "Friday, Nov 13 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
