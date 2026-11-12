@@ -208,11 +208,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "9:15 am",
+          "start_time": "9:45 am",
           "end_time": "4:15 pm",
-          "time_range": "9:15 am - 4:15 pm",
-          "display": "9:15 am - 4:15 pm",
-          "display_full": "Monday, Nov 16: 9:15 am - 4:15 pm"
+          "time_range": "9:45 am - 4:15 pm",
+          "display": "9:45 am - 4:15 pm",
+          "display_full": "Monday, Nov 16: 9:45 am - 4:15 pm"
         }
       ],
       "patches": [
@@ -230,11 +230,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "9:15 am",
+          "start_time": "9:45 am",
           "end_time": "4:15 pm",
-          "time_range": "9:15 am - 4:15 pm",
-          "display": "9:15 am - 4:15 pm",
-          "display_full": "Monday, Nov 16: 9:15 am - 4:15 pm"
+          "time_range": "9:45 am - 4:15 pm",
+          "display": "9:45 am - 4:15 pm",
+          "display_full": "Monday, Nov 16: 9:45 am - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -289,11 +289,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "5:00 pm",
+          "start_time": "6:15 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:00 pm - 6:30 pm",
-          "display": "5:00 pm - 6:30 pm",
-          "display_full": "Friday, Nov 13: 5:00 pm - 6:30 pm"
+          "time_range": "6:15 pm - 6:30 pm",
+          "display": "6:15 pm - 6:30 pm",
+          "display_full": "Friday, Nov 13: 6:15 pm - 6:30 pm"
         },
         {
           "date": "2026-11-14",
@@ -321,11 +321,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "5:00 pm",
+          "start_time": "6:15 pm",
           "end_time": "6:30 pm",
-          "time_range": "5:00 pm - 6:30 pm",
-          "display": "5:00 pm - 6:30 pm",
-          "display_full": "Friday, Nov 13: 5:00 pm - 6:30 pm"
+          "time_range": "6:15 pm - 6:30 pm",
+          "display": "6:15 pm - 6:30 pm",
+          "display_full": "Friday, Nov 13: 6:15 pm - 6:30 pm"
         },
         {
           "date": "2026-11-14",
@@ -349,7 +349,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 13 from 5:00 pm - 6:30 pm"
+      "availability": "Friday, Nov 13 from 6:15 pm - 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -1149,11 +1149,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "4:20 pm",
-          "end_time": "5:50 pm",
-          "time_range": "4:20 pm - 5:50 pm",
-          "display": "4:20 pm - 5:50 pm",
-          "display_full": "Friday, Nov 13: 4:20 pm - 5:50 pm"
+          "start_time": "5:40 pm",
+          "end_time": "6:40 pm",
+          "time_range": "5:40 pm - 6:40 pm",
+          "display": "5:40 pm - 6:40 pm",
+          "display_full": "Friday, Nov 13: 5:40 pm - 6:40 pm"
         },
         {
           "date": "2026-11-16",
@@ -1171,11 +1171,11 @@
           "date": "2026-11-13",
           "day_name": "Friday",
           "date_label": "Friday, Nov 13",
-          "start_time": "4:20 pm",
-          "end_time": "5:50 pm",
-          "time_range": "4:20 pm - 5:50 pm",
-          "display": "4:20 pm - 5:50 pm",
-          "display_full": "Friday, Nov 13: 4:20 pm - 5:50 pm"
+          "start_time": "5:40 pm",
+          "end_time": "6:40 pm",
+          "time_range": "5:40 pm - 6:40 pm",
+          "display": "5:40 pm - 6:40 pm",
+          "display_full": "Friday, Nov 13: 5:40 pm - 6:40 pm"
         },
         {
           "date": "2026-11-16",
@@ -1189,7 +1189,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 13 from 4:20 pm - 5:50 pm"
+      "availability": "Friday, Nov 13 from 5:40 pm - 6:40 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
