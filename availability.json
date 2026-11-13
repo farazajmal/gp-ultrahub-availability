@@ -49,11 +49,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "9:30 am",
+          "start_time": "10:00 am",
           "end_time": "4:15 pm",
-          "time_range": "9:30 am - 4:15 pm",
-          "display": "9:30 am - 4:15 pm",
-          "display_full": "Monday, Nov 16: 9:30 am - 4:15 pm"
+          "time_range": "10:00 am - 4:15 pm",
+          "display": "10:00 am - 4:15 pm",
+          "display_full": "Monday, Nov 16: 10:00 am - 4:15 pm"
         },
         {
           "date": "2026-11-17",
@@ -81,11 +81,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "9:30 am",
+          "start_time": "10:00 am",
           "end_time": "4:15 pm",
-          "time_range": "9:30 am - 4:15 pm",
-          "display": "9:30 am - 4:15 pm",
-          "display_full": "Monday, Nov 16: 9:30 am - 4:15 pm"
+          "time_range": "10:00 am - 4:15 pm",
+          "display": "10:00 am - 4:15 pm",
+          "display_full": "Monday, Nov 16: 10:00 am - 4:15 pm"
         },
         {
           "date": "2026-11-17",
@@ -1133,10 +1133,52 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-nauman-ahmed-1",
-      "availability_patches": [],
-      "patches": [],
-      "scrape_status": "error",
-      "availability": "Call clinic to book"
+      "availability_patches": [
+        {
+          "date": "2026-11-16",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 16",
+          "start_time": "8:30 am",
+          "end_time": "2:50 pm",
+          "time_range": "8:30 am - 2:50 pm",
+          "display": "8:30 am - 2:50 pm",
+          "display_full": "Monday, Nov 16: 8:30 am - 2:50 pm"
+        },
+        {
+          "date": "2026-11-17",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 17",
+          "start_time": "8:10 am",
+          "end_time": "3:10 pm",
+          "time_range": "8:10 am - 3:10 pm",
+          "display": "8:10 am - 3:10 pm",
+          "display_full": "Tuesday, Nov 17: 8:10 am - 3:10 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-11-16",
+          "day_name": "Monday",
+          "date_label": "Monday, Nov 16",
+          "start_time": "8:30 am",
+          "end_time": "2:50 pm",
+          "time_range": "8:30 am - 2:50 pm",
+          "display": "8:30 am - 2:50 pm",
+          "display_full": "Monday, Nov 16: 8:30 am - 2:50 pm"
+        },
+        {
+          "date": "2026-11-17",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 17",
+          "start_time": "8:10 am",
+          "end_time": "3:10 pm",
+          "time_range": "8:10 am - 3:10 pm",
+          "display": "8:10 am - 3:10 pm",
+          "display_full": "Tuesday, Nov 17: 8:10 am - 3:10 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Monday, Nov 16 from 8:30 am - 2:50 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1186,16 +1228,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "availability_patches": [
         {
-          "date": "2026-11-13",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 13",
-          "start_time": "6:40 pm",
-          "end_time": "6:40 pm",
-          "time_range": "6:40 pm",
-          "display": "6:40 pm",
-          "display_full": "Friday, Nov 13: 6:40 pm"
-        },
-        {
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
@@ -1218,16 +1250,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-13",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 13",
-          "start_time": "6:40 pm",
-          "end_time": "6:40 pm",
-          "time_range": "6:40 pm",
-          "display": "6:40 pm",
-          "display_full": "Friday, Nov 13: 6:40 pm"
-        },
-        {
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
@@ -1249,7 +1271,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 13 from 6:40 pm"
+      "availability": "Monday, Nov 16 from 12:30 pm - 6:40 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
