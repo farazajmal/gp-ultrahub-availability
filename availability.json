@@ -309,11 +309,11 @@
           "date": "2026-11-14",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
-          "start_time": "3:00 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "3:00 pm - 3:45 pm",
-          "display": "3:00 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 14: 3:00 pm - 3:45 pm"
+          "time_range": "3:15 pm - 3:45 pm",
+          "display": "3:15 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 14: 3:15 pm - 3:45 pm"
         },
         {
           "date": "2026-11-16",
@@ -341,11 +341,11 @@
           "date": "2026-11-14",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
-          "start_time": "3:00 pm",
+          "start_time": "3:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "3:00 pm - 3:45 pm",
-          "display": "3:00 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 14: 3:00 pm - 3:45 pm"
+          "time_range": "3:15 pm - 3:45 pm",
+          "display": "3:15 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 14: 3:15 pm - 3:45 pm"
         },
         {
           "date": "2026-11-16",
@@ -369,7 +369,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 14 from 3:00 pm - 3:45 pm"
+      "availability": "Saturday, Nov 14 from 3:15 pm - 3:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -864,11 +864,11 @@
           "date": "2026-11-14",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
-          "start_time": "9:15 am",
+          "start_time": "11:15 am",
           "end_time": "3:30 pm",
-          "time_range": "9:15 am - 3:30 pm",
-          "display": "9:15 am - 3:30 pm",
-          "display_full": "Saturday, Nov 14: 9:15 am - 3:30 pm"
+          "time_range": "11:15 am - 3:30 pm",
+          "display": "11:15 am - 3:30 pm",
+          "display_full": "Saturday, Nov 14: 11:15 am - 3:30 pm"
         },
         {
           "date": "2026-11-16",
@@ -886,11 +886,11 @@
           "date": "2026-11-14",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
-          "start_time": "9:15 am",
+          "start_time": "11:15 am",
           "end_time": "3:30 pm",
-          "time_range": "9:15 am - 3:30 pm",
-          "display": "9:15 am - 3:30 pm",
-          "display_full": "Saturday, Nov 14: 9:15 am - 3:30 pm"
+          "time_range": "11:15 am - 3:30 pm",
+          "display": "11:15 am - 3:30 pm",
+          "display_full": "Saturday, Nov 14: 11:15 am - 3:30 pm"
         },
         {
           "date": "2026-11-16",
@@ -904,7 +904,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 14 from 9:15 am - 3:30 pm"
+      "availability": "Saturday, Nov 14 from 11:15 am - 3:30 pm"
     }
   },
   "Burnett Heads": {
