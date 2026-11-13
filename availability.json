@@ -310,10 +310,10 @@
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
           "start_time": "3:15 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:15 pm - 3:45 pm",
-          "display": "3:15 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 14: 3:15 pm - 3:45 pm"
+          "end_time": "3:30 pm",
+          "time_range": "3:15 pm - 3:30 pm",
+          "display": "3:15 pm - 3:30 pm",
+          "display_full": "Saturday, Nov 14: 3:15 pm - 3:30 pm"
         },
         {
           "date": "2026-11-16",
@@ -342,10 +342,10 @@
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 14",
           "start_time": "3:15 pm",
-          "end_time": "3:45 pm",
-          "time_range": "3:15 pm - 3:45 pm",
-          "display": "3:15 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 14: 3:15 pm - 3:45 pm"
+          "end_time": "3:30 pm",
+          "time_range": "3:15 pm - 3:30 pm",
+          "display": "3:15 pm - 3:30 pm",
+          "display_full": "Saturday, Nov 14: 3:15 pm - 3:30 pm"
         },
         {
           "date": "2026-11-16",
@@ -369,7 +369,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 14 from 3:15 pm - 3:45 pm"
+      "availability": "Saturday, Nov 14 from 3:15 pm - 3:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
