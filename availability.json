@@ -1228,16 +1228,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-aasma-sheraz",
       "availability_patches": [
         {
-          "date": "2026-11-13",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 13",
-          "start_time": "6:30 pm",
-          "end_time": "6:30 pm",
-          "time_range": "6:30 pm",
-          "display": "6:30 pm",
-          "display_full": "Friday, Nov 13: 6:30 pm"
-        },
-        {
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
@@ -1260,16 +1250,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-13",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 13",
-          "start_time": "6:30 pm",
-          "end_time": "6:30 pm",
-          "time_range": "6:30 pm",
-          "display": "6:30 pm",
-          "display_full": "Friday, Nov 13: 6:30 pm"
-        },
-        {
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
@@ -1291,7 +1271,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 13 from 6:30 pm"
+      "availability": "Monday, Nov 16 from 12:30 pm - 6:40 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
