@@ -7,9 +7,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
+        "MRCGP",
         "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -39,11 +39,11 @@
           "date": "2026-11-15",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 15",
-          "start_time": "3:30 pm",
+          "start_time": "3:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "3:30 pm - 3:45 pm",
-          "display": "3:30 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 15: 3:30 pm - 3:45 pm"
+          "time_range": "3:45 pm",
+          "display": "3:45 pm",
+          "display_full": "Sunday, Nov 15: 3:45 pm"
         },
         {
           "date": "2026-11-16",
@@ -91,11 +91,11 @@
           "date": "2026-11-15",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 15",
-          "start_time": "3:30 pm",
+          "start_time": "3:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "3:30 pm - 3:45 pm",
-          "display": "3:30 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 15: 3:30 pm - 3:45 pm"
+          "time_range": "3:45 pm",
+          "display": "3:45 pm",
+          "display_full": "Sunday, Nov 15: 3:45 pm"
         },
         {
           "date": "2026-11-16",
@@ -139,7 +139,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 15 from 3:30 pm - 3:45 pm"
+      "availability": "Sunday, Nov 15 from 3:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -236,10 +236,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
+        "MRCGP",
         "MCPS",
-        "MCPS (Family Medicine)",
-        "MRCGP"
+        "MBBS",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -349,11 +349,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "General Practitioner",
-        "MCPS",
         "DFM",
-        "MRCGP"
+        "MRCGP",
+        "MCPS",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -509,9 +509,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MRCGP",
         "MBBS",
-        "MCPS (Family Medicine)",
-        "MRCGP"
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -600,10 +600,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
           "start_time": "7:00 am",
-          "end_time": "2:30 pm",
-          "time_range": "7:00 am - 2:30 pm",
-          "display": "7:00 am - 2:30 pm",
-          "display_full": "Tuesday, Nov 17: 7:00 am - 2:30 pm"
+          "end_time": "7:30 am",
+          "time_range": "7:00 am - 7:30 am",
+          "display": "7:00 am - 7:30 am",
+          "display_full": "Tuesday, Nov 17: 7:00 am - 7:30 am"
         },
         {
           "date": "2026-11-19",
@@ -632,10 +632,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
           "start_time": "7:00 am",
-          "end_time": "2:30 pm",
-          "time_range": "7:00 am - 2:30 pm",
-          "display": "7:00 am - 2:30 pm",
-          "display_full": "Tuesday, Nov 17: 7:00 am - 2:30 pm"
+          "end_time": "7:30 am",
+          "time_range": "7:00 am - 7:30 am",
+          "display": "7:00 am - 7:30 am",
+          "display_full": "Tuesday, Nov 17: 7:00 am - 7:30 am"
         },
         {
           "date": "2026-11-19",
@@ -967,8 +967,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1451,8 +1451,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
+        "MBBS",
         "MRCPG"
       ],
       "areas_of_interest": [
