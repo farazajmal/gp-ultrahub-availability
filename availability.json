@@ -371,11 +371,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Wednesday, Nov 18: 11:30 am - 6:45 pm"
+          "time_range": "11:45 am - 6:45 pm",
+          "display": "11:45 am - 6:45 pm",
+          "display_full": "Wednesday, Nov 18: 11:45 am - 6:45 pm"
         }
       ],
       "patches": [
@@ -403,11 +403,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Wednesday, Nov 18: 11:30 am - 6:45 pm"
+          "time_range": "11:45 am - 6:45 pm",
+          "display": "11:45 am - 6:45 pm",
+          "display_full": "Wednesday, Nov 18: 11:45 am - 6:45 pm"
         }
       ],
       "scrape_status": "ok",
