@@ -797,10 +797,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
           "start_time": "12:15 pm",
-          "end_time": "2:30 pm",
-          "time_range": "12:15 pm - 2:30 pm",
-          "display": "12:15 pm - 2:30 pm",
-          "display_full": "Tuesday, Nov 17: 12:15 pm - 2:30 pm"
+          "end_time": "2:15 pm",
+          "time_range": "12:15 pm - 2:15 pm",
+          "display": "12:15 pm - 2:15 pm",
+          "display_full": "Tuesday, Nov 17: 12:15 pm - 2:15 pm"
         },
         {
           "date": "2026-11-18",
@@ -819,10 +819,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
           "start_time": "12:15 pm",
-          "end_time": "2:30 pm",
-          "time_range": "12:15 pm - 2:30 pm",
-          "display": "12:15 pm - 2:30 pm",
-          "display_full": "Tuesday, Nov 17: 12:15 pm - 2:30 pm"
+          "end_time": "2:15 pm",
+          "time_range": "12:15 pm - 2:15 pm",
+          "display": "12:15 pm - 2:15 pm",
+          "display_full": "Tuesday, Nov 17: 12:15 pm - 2:15 pm"
         },
         {
           "date": "2026-11-18",
@@ -836,7 +836,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 17 from 12:15 pm - 2:30 pm"
+      "availability": "Tuesday, Nov 17 from 12:15 pm - 2:15 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
