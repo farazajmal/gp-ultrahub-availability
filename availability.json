@@ -39,11 +39,11 @@
           "date": "2026-11-15",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 15",
-          "start_time": "1:45 pm",
+          "start_time": "2:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:45 pm - 3:45 pm",
-          "display": "1:45 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 15: 1:45 pm - 3:45 pm"
+          "time_range": "2:30 pm - 3:45 pm",
+          "display": "2:30 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 15: 2:30 pm - 3:45 pm"
         },
         {
           "date": "2026-11-16",
@@ -81,11 +81,11 @@
           "date": "2026-11-15",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 15",
-          "start_time": "1:45 pm",
+          "start_time": "2:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:45 pm - 3:45 pm",
-          "display": "1:45 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 15: 1:45 pm - 3:45 pm"
+          "time_range": "2:30 pm - 3:45 pm",
+          "display": "2:30 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 15: 2:30 pm - 3:45 pm"
         },
         {
           "date": "2026-11-16",
@@ -119,7 +119,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 15 from 1:45 pm - 3:45 pm"
+      "availability": "Sunday, Nov 15 from 2:30 pm - 3:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
