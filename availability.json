@@ -7,8 +7,8 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
         "MRCGP",
+        "Dip Occ Med (RCPI)",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -216,8 +216,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MRCGP",
+        "MCPS (Family Medicine)",
         "MBBS",
         "MCPS"
       ],
@@ -257,16 +257,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-15",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 15",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Sunday, Nov 15: 2:45 pm"
-        },
-        {
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
@@ -289,16 +279,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-15",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 15",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Sunday, Nov 15: 2:45 pm"
-        },
-        {
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
@@ -320,7 +300,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 15 from 2:45 pm"
+      "availability": "Monday, Nov 16 from 4:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -330,9 +310,9 @@
       "gender": "Male",
       "qualifications": [
         "DFM",
+        "General Practitioner",
         "MBBS",
         "MCPS",
-        "General Practitioner",
         "MRCGP"
       ],
       "areas_of_interest": [
@@ -673,11 +653,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "9:30 am",
+          "start_time": "8:45 am",
           "end_time": "1:45 pm",
-          "time_range": "9:30 am - 1:45 pm",
-          "display": "9:30 am - 1:45 pm",
-          "display_full": "Tuesday, Nov 17: 9:30 am - 1:45 pm"
+          "time_range": "8:45 am - 1:45 pm",
+          "display": "8:45 am - 1:45 pm",
+          "display_full": "Tuesday, Nov 17: 8:45 am - 1:45 pm"
         }
       ],
       "patches": [
@@ -695,11 +675,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "9:30 am",
+          "start_time": "8:45 am",
           "end_time": "1:45 pm",
-          "time_range": "9:30 am - 1:45 pm",
-          "display": "9:30 am - 1:45 pm",
-          "display_full": "Tuesday, Nov 17: 9:30 am - 1:45 pm"
+          "time_range": "8:45 am - 1:45 pm",
+          "display": "8:45 am - 1:45 pm",
+          "display_full": "Tuesday, Nov 17: 8:45 am - 1:45 pm"
         }
       ],
       "scrape_status": "ok",
@@ -956,11 +936,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "5:15 pm",
-          "time_range": "10:45 am - 5:15 pm",
-          "display": "10:45 am - 5:15 pm",
-          "display_full": "Wednesday, Nov 18: 10:45 am - 5:15 pm"
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Wednesday, Nov 18: 11:15 am - 5:15 pm"
         }
       ],
       "patches": [
@@ -978,11 +958,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "5:15 pm",
-          "time_range": "10:45 am - 5:15 pm",
-          "display": "10:45 am - 5:15 pm",
-          "display_full": "Wednesday, Nov 18: 10:45 am - 5:15 pm"
+          "time_range": "11:15 am - 5:15 pm",
+          "display": "11:15 am - 5:15 pm",
+          "display_full": "Wednesday, Nov 18: 11:15 am - 5:15 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1311,8 +1291,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
         "MRCGP",
+        "MRCPG",
         "MBBS"
       ],
       "areas_of_interest": [
