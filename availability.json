@@ -351,11 +351,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "3:00 pm",
+          "start_time": "4:00 pm",
           "end_time": "6:45 pm",
-          "time_range": "3:00 pm - 6:45 pm",
-          "display": "3:00 pm - 6:45 pm",
-          "display_full": "Monday, Nov 16: 3:00 pm - 6:45 pm"
+          "time_range": "4:00 pm - 6:45 pm",
+          "display": "4:00 pm - 6:45 pm",
+          "display_full": "Monday, Nov 16: 4:00 pm - 6:45 pm"
         },
         {
           "date": "2026-11-17",
@@ -383,11 +383,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "3:00 pm",
+          "start_time": "4:00 pm",
           "end_time": "6:45 pm",
-          "time_range": "3:00 pm - 6:45 pm",
-          "display": "3:00 pm - 6:45 pm",
-          "display_full": "Monday, Nov 16: 3:00 pm - 6:45 pm"
+          "time_range": "4:00 pm - 6:45 pm",
+          "display": "4:00 pm - 6:45 pm",
+          "display_full": "Monday, Nov 16: 4:00 pm - 6:45 pm"
         },
         {
           "date": "2026-11-17",
@@ -411,7 +411,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 16 from 3:00 pm - 6:45 pm"
+      "availability": "Monday, Nov 16 from 4:00 pm - 6:45 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -1322,11 +1322,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "1:40 pm",
+          "start_time": "10:00 am",
           "end_time": "2:40 pm",
-          "time_range": "1:40 pm - 2:40 pm",
-          "display": "1:40 pm - 2:40 pm",
-          "display_full": "Monday, Nov 16: 1:40 pm - 2:40 pm"
+          "time_range": "10:00 am - 2:40 pm",
+          "display": "10:00 am - 2:40 pm",
+          "display_full": "Monday, Nov 16: 10:00 am - 2:40 pm"
         },
         {
           "date": "2026-11-17",
@@ -1364,11 +1364,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "1:40 pm",
+          "start_time": "10:00 am",
           "end_time": "2:40 pm",
-          "time_range": "1:40 pm - 2:40 pm",
-          "display": "1:40 pm - 2:40 pm",
-          "display_full": "Monday, Nov 16: 1:40 pm - 2:40 pm"
+          "time_range": "10:00 am - 2:40 pm",
+          "display": "10:00 am - 2:40 pm",
+          "display_full": "Monday, Nov 16: 10:00 am - 2:40 pm"
         },
         {
           "date": "2026-11-17",
@@ -1402,7 +1402,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 16 from 1:40 pm - 2:40 pm"
+      "availability": "Monday, Nov 16 from 10:00 am - 2:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1570,11 +1570,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Monday, Nov 16: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Monday, Nov 16: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-17",
@@ -1612,11 +1612,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Monday, Nov 16: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Monday, Nov 16: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-17",
@@ -1650,7 +1650,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 16 from 10:10 am - 4:00 pm"
+      "availability": "Monday, Nov 16 from 11:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
