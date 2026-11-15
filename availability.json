@@ -818,10 +818,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
           "start_time": "10:00 am",
-          "end_time": "4:45 pm",
-          "time_range": "10:00 am - 4:45 pm",
-          "display": "10:00 am - 4:45 pm",
-          "display_full": "Tuesday, Nov 17: 10:00 am - 4:45 pm"
+          "end_time": "4:30 pm",
+          "time_range": "10:00 am - 4:30 pm",
+          "display": "10:00 am - 4:30 pm",
+          "display_full": "Tuesday, Nov 17: 10:00 am - 4:30 pm"
         },
         {
           "date": "2026-11-18",
@@ -850,10 +850,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
           "start_time": "10:00 am",
-          "end_time": "4:45 pm",
-          "time_range": "10:00 am - 4:45 pm",
-          "display": "10:00 am - 4:45 pm",
-          "display_full": "Tuesday, Nov 17: 10:00 am - 4:45 pm"
+          "end_time": "4:30 pm",
+          "time_range": "10:00 am - 4:30 pm",
+          "display": "10:00 am - 4:30 pm",
+          "display_full": "Tuesday, Nov 17: 10:00 am - 4:30 pm"
         },
         {
           "date": "2026-11-18",
@@ -877,7 +877,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 17 from 10:00 am - 4:45 pm"
+      "availability": "Tuesday, Nov 17 from 10:00 am - 4:30 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -946,11 +946,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "8:00 am",
+          "start_time": "8:30 am",
           "end_time": "1:45 pm",
-          "time_range": "8:00 am - 1:45 pm",
-          "display": "8:00 am - 1:45 pm",
-          "display_full": "Monday, Nov 16: 8:00 am - 1:45 pm"
+          "time_range": "8:30 am - 1:45 pm",
+          "display": "8:30 am - 1:45 pm",
+          "display_full": "Monday, Nov 16: 8:30 am - 1:45 pm"
         },
         {
           "date": "2026-11-18",
@@ -978,11 +978,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "8:00 am",
+          "start_time": "8:30 am",
           "end_time": "1:45 pm",
-          "time_range": "8:00 am - 1:45 pm",
-          "display": "8:00 am - 1:45 pm",
-          "display_full": "Monday, Nov 16: 8:00 am - 1:45 pm"
+          "time_range": "8:30 am - 1:45 pm",
+          "display": "8:30 am - 1:45 pm",
+          "display_full": "Monday, Nov 16: 8:30 am - 1:45 pm"
         },
         {
           "date": "2026-11-18",
@@ -1006,7 +1006,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 16 from 8:00 am - 1:45 pm"
+      "availability": "Monday, Nov 16 from 8:30 am - 1:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1570,11 +1570,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Monday, Nov 16: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Monday, Nov 16: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-17",
@@ -1612,11 +1612,11 @@
           "date": "2026-11-16",
           "day_name": "Monday",
           "date_label": "Monday, Nov 16",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Monday, Nov 16: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Monday, Nov 16: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-17",
@@ -1650,7 +1650,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 16 from 8:10 am - 4:00 pm"
+      "availability": "Monday, Nov 16 from 9:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
