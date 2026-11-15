@@ -39,11 +39,11 @@
           "date": "2026-11-15",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 15",
-          "start_time": "3:45 pm",
+          "start_time": "3:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Sunday, Nov 15: 3:45 pm"
+          "time_range": "3:30 pm - 3:45 pm",
+          "display": "3:30 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 15: 3:30 pm - 3:45 pm"
         },
         {
           "date": "2026-11-16",
@@ -91,11 +91,11 @@
           "date": "2026-11-15",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 15",
-          "start_time": "3:45 pm",
+          "start_time": "3:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "3:45 pm",
-          "display": "3:45 pm",
-          "display_full": "Sunday, Nov 15: 3:45 pm"
+          "time_range": "3:30 pm - 3:45 pm",
+          "display": "3:30 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 15: 3:30 pm - 3:45 pm"
         },
         {
           "date": "2026-11-16",
@@ -139,7 +139,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 15 from 3:45 pm"
+      "availability": "Sunday, Nov 15 from 3:30 pm - 3:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -277,24 +277,14 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-16",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 16",
-          "start_time": "4:15 pm",
-          "end_time": "4:15 pm",
-          "time_range": "4:15 pm",
-          "display": "4:15 pm",
-          "display_full": "Monday, Nov 16: 4:15 pm"
-        },
-        {
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
           "start_time": "9:45 am",
-          "end_time": "2:45 pm",
-          "time_range": "9:45 am - 2:45 pm",
-          "display": "9:45 am - 2:45 pm",
-          "display_full": "Wednesday, Nov 18: 9:45 am - 2:45 pm"
+          "end_time": "3:00 pm",
+          "time_range": "9:45 am - 3:00 pm",
+          "display": "9:45 am - 3:00 pm",
+          "display_full": "Wednesday, Nov 18: 9:45 am - 3:00 pm"
         },
         {
           "date": "2026-11-19",
@@ -309,24 +299,14 @@
       ],
       "patches": [
         {
-          "date": "2026-11-16",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 16",
-          "start_time": "4:15 pm",
-          "end_time": "4:15 pm",
-          "time_range": "4:15 pm",
-          "display": "4:15 pm",
-          "display_full": "Monday, Nov 16: 4:15 pm"
-        },
-        {
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
           "start_time": "9:45 am",
-          "end_time": "2:45 pm",
-          "time_range": "9:45 am - 2:45 pm",
-          "display": "9:45 am - 2:45 pm",
-          "display_full": "Wednesday, Nov 18: 9:45 am - 2:45 pm"
+          "end_time": "3:00 pm",
+          "time_range": "9:45 am - 3:00 pm",
+          "display": "9:45 am - 3:00 pm",
+          "display_full": "Wednesday, Nov 18: 9:45 am - 3:00 pm"
         },
         {
           "date": "2026-11-19",
@@ -340,7 +320,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 16 from 4:15 pm"
+      "availability": "Wednesday, Nov 18 from 9:45 am - 3:00 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
