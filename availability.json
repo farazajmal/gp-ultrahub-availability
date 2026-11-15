@@ -260,11 +260,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "9:45 am",
+          "start_time": "11:45 am",
           "end_time": "3:00 pm",
-          "time_range": "9:45 am - 3:00 pm",
-          "display": "9:45 am - 3:00 pm",
-          "display_full": "Wednesday, Nov 18: 9:45 am - 3:00 pm"
+          "time_range": "11:45 am - 3:00 pm",
+          "display": "11:45 am - 3:00 pm",
+          "display_full": "Wednesday, Nov 18: 11:45 am - 3:00 pm"
         },
         {
           "date": "2026-11-19",
@@ -282,11 +282,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "9:45 am",
+          "start_time": "11:45 am",
           "end_time": "3:00 pm",
-          "time_range": "9:45 am - 3:00 pm",
-          "display": "9:45 am - 3:00 pm",
-          "display_full": "Wednesday, Nov 18: 9:45 am - 3:00 pm"
+          "time_range": "11:45 am - 3:00 pm",
+          "display": "11:45 am - 3:00 pm",
+          "display_full": "Wednesday, Nov 18: 11:45 am - 3:00 pm"
         },
         {
           "date": "2026-11-19",
@@ -300,7 +300,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 18 from 9:45 am - 3:00 pm"
+      "availability": "Wednesday, Nov 18 from 11:45 am - 3:00 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1352,11 +1352,11 @@
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
-          "start_time": "8:10 am",
+          "start_time": "8:20 am",
           "end_time": "3:40 pm",
-          "time_range": "8:10 am - 3:40 pm",
-          "display": "8:10 am - 3:40 pm",
-          "display_full": "Thursday, Nov 19: 8:10 am - 3:40 pm"
+          "time_range": "8:20 am - 3:40 pm",
+          "display": "8:20 am - 3:40 pm",
+          "display_full": "Thursday, Nov 19: 8:20 am - 3:40 pm"
         }
       ],
       "patches": [
@@ -1394,11 +1394,11 @@
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
-          "start_time": "8:10 am",
+          "start_time": "8:20 am",
           "end_time": "3:40 pm",
-          "time_range": "8:10 am - 3:40 pm",
-          "display": "8:10 am - 3:40 pm",
-          "display_full": "Thursday, Nov 19: 8:10 am - 3:40 pm"
+          "time_range": "8:20 am - 3:40 pm",
+          "display": "8:20 am - 3:40 pm",
+          "display_full": "Thursday, Nov 19: 8:20 am - 3:40 pm"
         }
       ],
       "scrape_status": "ok",
