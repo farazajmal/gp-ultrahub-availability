@@ -110,9 +110,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
         "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -253,9 +253,9 @@
       "gender": "Female",
       "qualifications": [
         "MCPS (Family Medicine)",
-        "MCPS",
         "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -345,11 +345,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
-        "MRCGP",
         "MCPS",
-        "General Practitioner",
-        "DFM"
+        "MBBS",
+        "DFM",
+        "MRCGP",
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -810,16 +810,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
-          "date": "2026-11-17",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 17",
-          "start_time": "4:45 pm",
-          "end_time": "4:45 pm",
-          "time_range": "4:45 pm",
-          "display": "4:45 pm",
-          "display_full": "Tuesday, Nov 17: 4:45 pm"
-        },
-        {
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
@@ -862,16 +852,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-17",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 17",
-          "start_time": "4:45 pm",
-          "end_time": "4:45 pm",
-          "time_range": "4:45 pm",
-          "display": "4:45 pm",
-          "display_full": "Tuesday, Nov 17: 4:45 pm"
-        },
-        {
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
@@ -913,7 +893,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 17 from 4:45 pm"
+      "availability": "Wednesday, Nov 18 from 7:45 am - 2:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -1003,10 +983,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
           "start_time": "7:15 am",
-          "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Friday, Nov 20: 7:15 am - 2:15 pm"
+          "end_time": "2:00 pm",
+          "time_range": "7:15 am - 2:00 pm",
+          "display": "7:15 am - 2:00 pm",
+          "display_full": "Friday, Nov 20: 7:15 am - 2:00 pm"
         },
         {
           "date": "2026-11-21",
@@ -1045,10 +1025,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
           "start_time": "7:15 am",
-          "end_time": "2:15 pm",
-          "time_range": "7:15 am - 2:15 pm",
-          "display": "7:15 am - 2:15 pm",
-          "display_full": "Friday, Nov 20: 7:15 am - 2:15 pm"
+          "end_time": "2:00 pm",
+          "time_range": "7:15 am - 2:00 pm",
+          "display": "7:15 am - 2:00 pm",
+          "display_full": "Friday, Nov 20: 7:15 am - 2:00 pm"
         },
         {
           "date": "2026-11-21",
@@ -1316,11 +1296,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "8:50 am",
+          "start_time": "8:20 am",
           "end_time": "3:10 pm",
-          "time_range": "8:50 am - 3:10 pm",
-          "display": "8:50 am - 3:10 pm",
-          "display_full": "Tuesday, Nov 17: 8:50 am - 3:10 pm"
+          "time_range": "8:20 am - 3:10 pm",
+          "display": "8:20 am - 3:10 pm",
+          "display_full": "Tuesday, Nov 17: 8:20 am - 3:10 pm"
         },
         {
           "date": "2026-11-18",
@@ -1358,11 +1338,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "8:50 am",
+          "start_time": "8:20 am",
           "end_time": "3:10 pm",
-          "time_range": "8:50 am - 3:10 pm",
-          "display": "8:50 am - 3:10 pm",
-          "display_full": "Tuesday, Nov 17: 8:50 am - 3:10 pm"
+          "time_range": "8:20 am - 3:10 pm",
+          "display": "8:20 am - 3:10 pm",
+          "display_full": "Tuesday, Nov 17: 8:20 am - 3:10 pm"
         },
         {
           "date": "2026-11-18",
@@ -1396,7 +1376,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 17 from 8:50 am - 3:10 pm"
+      "availability": "Tuesday, Nov 17 from 8:20 am - 3:10 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1405,8 +1385,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
         "MBBS",
+        "MRCPG",
         "MRCGP"
       ],
       "areas_of_interest": [
