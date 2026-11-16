@@ -1524,11 +1524,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 17: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 17: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-18",
@@ -1566,11 +1566,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 17: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 17: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-18",
@@ -1604,7 +1604,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 17 from 8:10 am - 4:00 pm"
+      "availability": "Tuesday, Nov 17 from 9:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
