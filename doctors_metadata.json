@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-16 07:00:46 PM",
+    "last_updated": "2026-11-16 11:53:20 PM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -84,8 +84,8 @@
                 "gender": "Male",
                 "qualifications": [
                     "MBBS",
-                    "MRCGP",
-                    "Dip Occ Med (RCPI)"
+                    "Dip Occ Med (RCPI)",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -137,8 +137,8 @@
                 "qualifications": [
                     "MCPS (Family Medicine)",
                     "MBBS",
-                    "MRCGP",
-                    "MCPS"
+                    "MCPS",
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -183,8 +183,8 @@
                 "gender": "Male",
                 "qualifications": [
                     "MCPS",
-                    "MBBS",
                     "DFM",
+                    "MBBS",
                     "MRCGP",
                     "General Practitioner"
                 ],
@@ -694,8 +694,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCPG",
+                    "MBBS",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
