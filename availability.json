@@ -1,5 +1,108 @@
 {
   "Gladstone": {
+    "Dr. Arooj Fatima": {
+      "doctor_id": 209447,
+      "doctor": "Dr. Arooj Fatima",
+      "role": "General Practitioner",
+      "provider_type": "GP",
+      "gender": "Female",
+      "qualifications": [
+        "MBBS"
+      ],
+      "areas_of_interest": [
+        "Women\u2019s health",
+        "Chronic disease management",
+        "General medicine",
+        "Family medicine",
+        "Children\u2019s health",
+        "Child Immunization"
+      ],
+      "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in\u00a0women\u2019s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a\u00a0Young Investigator Award and\u00a0a\u00a0Gold Medal for Outstanding Healthcare Achievements. In 2025, she joined\u00a0GP Ultra Hub, where her patient-centered approach and expertise in preventive care empower individuals and families to achieve better health outcomes. Dr. Fatima remains committed to personalized, evidence-based care, fostering trust and well-being for her patients and community. Gladstone",
+      "clinic": "Gladstone",
+      "clinic_id": "15111",
+      "clinic_slug": "gp-ultra-hub-gladstone",
+      "doctor_slug": "dr-arooj-fatima",
+      "availability_type_ids": [
+        "1153461",
+        "1121873",
+        "1153469",
+        "1153461",
+        "1121873",
+        "1121873",
+        "1128707",
+        "1153461",
+        "1121873",
+        "1153470",
+        "1591607",
+        "1591612",
+        "1153479",
+        "1153480"
+      ],
+      "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
+      "availability_patches": [
+        {
+          "date": "2026-11-18",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 18",
+          "start_time": "8:45 am",
+          "end_time": "3:00 pm",
+          "time_range": "8:45 am - 3:00 pm",
+          "display": "8:45 am - 3:00 pm",
+          "display_full": "Wednesday, Nov 18: 8:45 am - 3:00 pm"
+        }
+      ],
+      "patches": [
+        {
+          "date": "2026-11-18",
+          "day_name": "Wednesday",
+          "date_label": "Wednesday, Nov 18",
+          "start_time": "8:45 am",
+          "end_time": "3:00 pm",
+          "time_range": "8:45 am - 3:00 pm",
+          "display": "8:45 am - 3:00 pm",
+          "display_full": "Wednesday, Nov 18: 8:45 am - 3:00 pm"
+        }
+      ],
+      "scrape_status": "ok",
+      "availability": "Wednesday, Nov 18 from 8:45 am - 3:00 pm"
+    },
+    "Saiqa Syeda": {
+      "doctor_id": 194582,
+      "doctor": "Saiqa Syeda",
+      "role": "General Practitioner",
+      "provider_type": "GP",
+      "gender": "Female",
+      "qualifications": [
+        "MBBS",
+        "FRACGP"
+      ],
+      "areas_of_interest": [
+        "General Practice",
+        "Women\u2019s Health",
+        "Mental Health",
+        "Skin cancer checks & procedures",
+        "Preventive & Holistic Healthcare",
+        "Comprehensive Patient Care"
+      ],
+      "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women\u2019s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
+      "clinic": "Gladstone",
+      "clinic_id": "15111",
+      "clinic_slug": "gp-ultra-hub-gladstone",
+      "doctor_slug": "saiqa-syeda-1",
+      "availability_type_ids": [
+        "1678910",
+        "1678910",
+        "1678911",
+        "1678911"
+      ],
+      "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
+      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/saiqa-syeda-1",
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
+    },
     "Dr. Elsadig Hassan": {
       "doctor_id": 254365,
       "doctor": "Dr. Elsadig Hassan",
@@ -8,8 +111,8 @@
       "gender": "Male",
       "qualifications": [
         "Dip Occ Med (RCPI)",
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -142,73 +245,6 @@
       "scrape_status": "error",
       "availability": "Call clinic to book"
     },
-    "Dr. Arooj Fatima": {
-      "doctor_id": 209447,
-      "doctor": "Dr. Arooj Fatima",
-      "role": "General Practitioner",
-      "provider_type": "GP",
-      "gender": "Female",
-      "qualifications": [
-        "MBBS"
-      ],
-      "areas_of_interest": [
-        "Women\u2019s health",
-        "Chronic disease management",
-        "General medicine",
-        "Family medicine",
-        "Children\u2019s health",
-        "Child Immunization"
-      ],
-      "bio": "Dr Arooj Fatima is a dedicated general practitioner with over 8 years of experience spanning primary care, emergency medicine, and paediatric oncology. She has a special interest in\u00a0women\u2019s and child health, focusing on holistic and compassionate care that addresses the unique needs of families. Her passion for continuous learning and improving patient care is reflected in her extensive research contributions, with publications on cancer and preventive health. Dr Fatima has been recognized for her excellence in medicine with numerous prestigious awards, including a\u00a0Young Investigator Award and\u00a0a\u00a0Gold Medal for Outstanding Healthcare Achievements. In 2025, she joined\u00a0GP Ultra Hub, where her patient-centered approach and expertise in preventive care empower individuals and families to achieve better health outcomes. Dr. Fatima remains committed to personalized, evidence-based care, fostering trust and well-being for her patients and community. Gladstone",
-      "clinic": "Gladstone",
-      "clinic_id": "15111",
-      "clinic_slug": "gp-ultra-hub-gladstone",
-      "doctor_slug": "dr-arooj-fatima",
-      "availability_type_ids": [
-        "1153461",
-        "1121873",
-        "1153469",
-        "1153461",
-        "1121873",
-        "1121873",
-        "1128707",
-        "1153461",
-        "1121873",
-        "1153470",
-        "1591607",
-        "1591612",
-        "1153479",
-        "1153480"
-      ],
-      "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-      "availability_patches": [
-        {
-          "date": "2026-11-18",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 18",
-          "start_time": "8:45 am",
-          "end_time": "3:00 pm",
-          "time_range": "8:45 am - 3:00 pm",
-          "display": "8:45 am - 3:00 pm",
-          "display_full": "Wednesday, Nov 18: 8:45 am - 3:00 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-18",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 18",
-          "start_time": "8:45 am",
-          "end_time": "3:00 pm",
-          "time_range": "8:45 am - 3:00 pm",
-          "display": "8:45 am - 3:00 pm",
-          "display_full": "Wednesday, Nov 18: 8:45 am - 3:00 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Wednesday, Nov 18 from 8:45 am - 3:00 pm"
-    },
     "Dr. Mehwish Javaid": {
       "doctor_id": 250178,
       "doctor": "Dr. Mehwish Javaid",
@@ -216,10 +252,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS",
         "MCPS (Family Medicine)",
-        "MCPS"
+        "MCPS",
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -310,10 +346,10 @@
       "gender": "Male",
       "qualifications": [
         "MBBS",
+        "MRCGP",
         "MCPS",
         "General Practitioner",
-        "DFM",
-        "MRCGP"
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -351,11 +387,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "11:30 am",
-          "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Tuesday, Nov 17: 11:30 am - 6:45 pm"
+          "start_time": "11:45 am",
+          "end_time": "6:30 pm",
+          "time_range": "11:45 am - 6:30 pm",
+          "display": "11:45 am - 6:30 pm",
+          "display_full": "Tuesday, Nov 17: 11:45 am - 6:30 pm"
         },
         {
           "date": "2026-11-18",
@@ -383,11 +419,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "11:30 am",
-          "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Tuesday, Nov 17: 11:30 am - 6:45 pm"
+          "start_time": "11:45 am",
+          "end_time": "6:30 pm",
+          "time_range": "11:45 am - 6:30 pm",
+          "display": "11:45 am - 6:30 pm",
+          "display_full": "Tuesday, Nov 17: 11:45 am - 6:30 pm"
         },
         {
           "date": "2026-11-18",
@@ -411,7 +447,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 17 from 11:30 am - 6:45 pm"
+      "availability": "Tuesday, Nov 17 from 11:45 am - 6:30 pm"
     },
     "Dr. Bushra Khan": {
       "doctor_id": 195622,
@@ -469,9 +505,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
+        "MCPS (Family Medicine)",
         "MBBS",
-        "MCPS (Family Medicine)"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -546,16 +582,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "availability_patches": [
         {
-          "date": "2026-11-17",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 17",
-          "start_time": "7:00 am",
-          "end_time": "7:15 am",
-          "time_range": "7:00 am - 7:15 am",
-          "display": "7:00 am - 7:15 am",
-          "display_full": "Tuesday, Nov 17: 7:00 am - 7:15 am"
-        },
-        {
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
@@ -578,16 +604,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-17",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 17",
-          "start_time": "7:00 am",
-          "end_time": "7:15 am",
-          "time_range": "7:00 am - 7:15 am",
-          "display": "7:00 am - 7:15 am",
-          "display_full": "Tuesday, Nov 17: 7:00 am - 7:15 am"
-        },
-        {
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
@@ -609,7 +625,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 17 from 7:00 am - 7:15 am"
+      "availability": "Thursday, Nov 19 from 7:15 am - 2:00 pm"
     }
   },
   "Calliope": {
@@ -733,50 +749,30 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
       "availability_patches": [
         {
-          "date": "2026-11-17",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 17",
-          "start_time": "1:00 pm",
-          "end_time": "1:00 pm",
-          "time_range": "1:00 pm",
-          "display": "1:00 pm",
-          "display_full": "Tuesday, Nov 17: 1:00 pm"
-        },
-        {
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
           "start_time": "1:00 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:00 pm - 2:15 pm",
-          "display": "1:00 pm - 2:15 pm",
-          "display_full": "Wednesday, Nov 18: 1:00 pm - 2:15 pm"
+          "end_time": "2:30 pm",
+          "time_range": "1:00 pm - 2:30 pm",
+          "display": "1:00 pm - 2:30 pm",
+          "display_full": "Wednesday, Nov 18: 1:00 pm - 2:30 pm"
         }
       ],
       "patches": [
         {
-          "date": "2026-11-17",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 17",
-          "start_time": "1:00 pm",
-          "end_time": "1:00 pm",
-          "time_range": "1:00 pm",
-          "display": "1:00 pm",
-          "display_full": "Tuesday, Nov 17: 1:00 pm"
-        },
-        {
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
           "start_time": "1:00 pm",
-          "end_time": "2:15 pm",
-          "time_range": "1:00 pm - 2:15 pm",
-          "display": "1:00 pm - 2:15 pm",
-          "display_full": "Wednesday, Nov 18: 1:00 pm - 2:15 pm"
+          "end_time": "2:30 pm",
+          "time_range": "1:00 pm - 2:30 pm",
+          "display": "1:00 pm - 2:30 pm",
+          "display_full": "Wednesday, Nov 18: 1:00 pm - 2:30 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 17 from 1:00 pm"
+      "availability": "Wednesday, Nov 18 from 1:00 pm - 2:30 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -814,24 +810,34 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
+          "date": "2026-11-17",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 17",
+          "start_time": "4:45 pm",
+          "end_time": "4:45 pm",
+          "time_range": "4:45 pm",
+          "display": "4:45 pm",
+          "display_full": "Tuesday, Nov 17: 4:45 pm"
+        },
+        {
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "7:00 am",
+          "start_time": "7:45 am",
           "end_time": "2:15 pm",
-          "time_range": "7:00 am - 2:15 pm",
-          "display": "7:00 am - 2:15 pm",
-          "display_full": "Wednesday, Nov 18: 7:00 am - 2:15 pm"
+          "time_range": "7:45 am - 2:15 pm",
+          "display": "7:45 am - 2:15 pm",
+          "display_full": "Wednesday, Nov 18: 7:45 am - 2:15 pm"
         },
         {
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
           "start_time": "10:45 am",
-          "end_time": "5:00 pm",
-          "time_range": "10:45 am - 5:00 pm",
-          "display": "10:45 am - 5:00 pm",
-          "display_full": "Thursday, Nov 19: 10:45 am - 5:00 pm"
+          "end_time": "4:30 pm",
+          "time_range": "10:45 am - 4:30 pm",
+          "display": "10:45 am - 4:30 pm",
+          "display_full": "Thursday, Nov 19: 10:45 am - 4:30 pm"
         },
         {
           "date": "2026-11-20",
@@ -846,24 +852,34 @@
       ],
       "patches": [
         {
+          "date": "2026-11-17",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 17",
+          "start_time": "4:45 pm",
+          "end_time": "4:45 pm",
+          "time_range": "4:45 pm",
+          "display": "4:45 pm",
+          "display_full": "Tuesday, Nov 17: 4:45 pm"
+        },
+        {
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "7:00 am",
+          "start_time": "7:45 am",
           "end_time": "2:15 pm",
-          "time_range": "7:00 am - 2:15 pm",
-          "display": "7:00 am - 2:15 pm",
-          "display_full": "Wednesday, Nov 18: 7:00 am - 2:15 pm"
+          "time_range": "7:45 am - 2:15 pm",
+          "display": "7:45 am - 2:15 pm",
+          "display_full": "Wednesday, Nov 18: 7:45 am - 2:15 pm"
         },
         {
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
           "start_time": "10:45 am",
-          "end_time": "5:00 pm",
-          "time_range": "10:45 am - 5:00 pm",
-          "display": "10:45 am - 5:00 pm",
-          "display_full": "Thursday, Nov 19: 10:45 am - 5:00 pm"
+          "end_time": "4:30 pm",
+          "time_range": "10:45 am - 4:30 pm",
+          "display": "10:45 am - 4:30 pm",
+          "display_full": "Thursday, Nov 19: 10:45 am - 4:30 pm"
         },
         {
           "date": "2026-11-20",
@@ -877,7 +893,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 18 from 7:00 am - 2:15 pm"
+      "availability": "Tuesday, Nov 17 from 4:45 pm"
     },
     "Practice Nurse": {
       "doctor_id": 128870,
@@ -907,8 +923,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1260,11 +1276,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "8:40 am",
+          "start_time": "8:50 am",
           "end_time": "3:10 pm",
-          "time_range": "8:40 am - 3:10 pm",
-          "display": "8:40 am - 3:10 pm",
-          "display_full": "Tuesday, Nov 17: 8:40 am - 3:10 pm"
+          "time_range": "8:50 am - 3:10 pm",
+          "display": "8:50 am - 3:10 pm",
+          "display_full": "Tuesday, Nov 17: 8:50 am - 3:10 pm"
         },
         {
           "date": "2026-11-18",
@@ -1302,11 +1318,11 @@
           "date": "2026-11-17",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 17",
-          "start_time": "8:40 am",
+          "start_time": "8:50 am",
           "end_time": "3:10 pm",
-          "time_range": "8:40 am - 3:10 pm",
-          "display": "8:40 am - 3:10 pm",
-          "display_full": "Tuesday, Nov 17: 8:40 am - 3:10 pm"
+          "time_range": "8:50 am - 3:10 pm",
+          "display": "8:50 am - 3:10 pm",
+          "display_full": "Tuesday, Nov 17: 8:50 am - 3:10 pm"
         },
         {
           "date": "2026-11-18",
@@ -1340,7 +1356,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 17 from 8:40 am - 3:10 pm"
+      "availability": "Tuesday, Nov 17 from 8:50 am - 3:10 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1349,9 +1365,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
+        "MRCPG",
         "MBBS",
-        "MRCPG"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
