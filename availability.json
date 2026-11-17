@@ -345,16 +345,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-18",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 18",
-          "start_time": "3:15 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:15 pm",
-          "display": "3:15 pm",
-          "display_full": "Wednesday, Nov 18: 3:15 pm"
-        },
-        {
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
@@ -377,16 +367,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-18",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 18",
-          "start_time": "3:15 pm",
-          "end_time": "3:15 pm",
-          "time_range": "3:15 pm",
-          "display": "3:15 pm",
-          "display_full": "Wednesday, Nov 18: 3:15 pm"
-        },
-        {
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
@@ -408,7 +388,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 18 from 3:15 pm"
+      "availability": "Thursday, Nov 19 from 6:00 pm - 6:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1026,11 +1006,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "12:00 pm",
+          "start_time": "12:45 pm",
           "end_time": "4:00 pm",
-          "time_range": "12:00 pm - 4:00 pm",
-          "display": "12:00 pm - 4:00 pm",
-          "display_full": "Wednesday, Nov 18: 12:00 pm - 4:00 pm"
+          "time_range": "12:45 pm - 4:00 pm",
+          "display": "12:45 pm - 4:00 pm",
+          "display_full": "Wednesday, Nov 18: 12:45 pm - 4:00 pm"
         },
         {
           "date": "2026-11-19",
@@ -1068,11 +1048,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "12:00 pm",
+          "start_time": "12:45 pm",
           "end_time": "4:00 pm",
-          "time_range": "12:00 pm - 4:00 pm",
-          "display": "12:00 pm - 4:00 pm",
-          "display_full": "Wednesday, Nov 18: 12:00 pm - 4:00 pm"
+          "time_range": "12:45 pm - 4:00 pm",
+          "display": "12:45 pm - 4:00 pm",
+          "display_full": "Wednesday, Nov 18: 12:45 pm - 4:00 pm"
         },
         {
           "date": "2026-11-19",
@@ -1106,7 +1086,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 18 from 12:00 pm - 4:00 pm"
+      "availability": "Wednesday, Nov 18 from 12:45 pm - 4:00 pm"
     }
   },
   "Burnett Heads": {
@@ -1487,11 +1467,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "1:20 pm",
+          "start_time": "1:30 pm",
           "end_time": "6:40 pm",
-          "time_range": "1:20 pm - 6:40 pm",
-          "display": "1:20 pm - 6:40 pm",
-          "display_full": "Wednesday, Nov 18: 1:20 pm - 6:40 pm"
+          "time_range": "1:30 pm - 6:40 pm",
+          "display": "1:30 pm - 6:40 pm",
+          "display_full": "Wednesday, Nov 18: 1:30 pm - 6:40 pm"
         },
         {
           "date": "2026-11-19",
@@ -1519,11 +1499,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "1:20 pm",
+          "start_time": "1:30 pm",
           "end_time": "6:40 pm",
-          "time_range": "1:20 pm - 6:40 pm",
-          "display": "1:20 pm - 6:40 pm",
-          "display_full": "Wednesday, Nov 18: 1:20 pm - 6:40 pm"
+          "time_range": "1:30 pm - 6:40 pm",
+          "display": "1:30 pm - 6:40 pm",
+          "display_full": "Wednesday, Nov 18: 1:30 pm - 6:40 pm"
         },
         {
           "date": "2026-11-19",
@@ -1547,7 +1527,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 18 from 1:20 pm - 6:40 pm"
+      "availability": "Wednesday, Nov 18 from 1:30 pm - 6:40 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
@@ -1582,11 +1562,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 18: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 18: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-19",
@@ -1614,11 +1594,11 @@
           "date": "2026-11-18",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 18",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 18: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 18: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-19",
@@ -1642,7 +1622,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 18 from 8:10 am - 4:00 pm"
+      "availability": "Wednesday, Nov 18 from 9:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
