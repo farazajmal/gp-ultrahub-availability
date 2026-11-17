@@ -1,8 +1,54 @@
 {
-    "last_updated": "2026-11-16 11:53:20 PM",
+    "last_updated": "2026-11-17 07:00:43 AM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
+            {
+                "doctor_id": 216798,
+                "doctor": "Dr. Aisha Asghar",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Female",
+                "qualifications": [
+                    "MBBS",
+                    "FRACGP"
+                ],
+                "areas_of_interest": [
+                    "Skin cancer checks & procedures.",
+                    "Chronic disease management.",
+                    "Veteran patients (DVA)",
+                    "Geriatric",
+                    "Women & Child health.",
+                    "Child Immunization"
+                ],
+                "bio": "Dr. Aisha Asgharis a committed General Practitioner with 19 years of experience providing exemplary healthcare. She joined GP Ultra Hub in 2024 where she continues to excel in delivering comprehensive care tailored to each patient’s unique needs. Dr Aisha specializes in general practice, Skin cancer, women’s and child health, geriatric patients. Area of experties: Gladstone",
+                "clinic": "Gladstone",
+                "clinic_id": "15111",
+                "clinic_slug": "gp-ultra-hub-gladstone",
+                "doctor_slug": "dr-aisha-asghar-3",
+                "availability_type_ids": [
+                    "1199460",
+                    "1199461",
+                    "1527452",
+                    "1199463",
+                    "1591610",
+                    "1199461",
+                    "1199460",
+                    "1199461",
+                    "1199460",
+                    "1199460",
+                    "1634280",
+                    "1634280",
+                    "1527450",
+                    "1527453",
+                    "1527455",
+                    "1199461",
+                    "1591605",
+                    "1527451"
+                ],
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-aisha-asghar-3",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-aisha-asghar-3"
+            },
             {
                 "doctor_id": 209447,
                 "doctor": "Dr. Arooj Fatima",
@@ -135,9 +181,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MBBS",
                     "MCPS",
+                    "MCPS (Family Medicine)",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
@@ -182,11 +228,11 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MCPS",
-                    "DFM",
                     "MBBS",
+                    "MCPS",
+                    "General Practitioner",
                     "MRCGP",
-                    "General Practitioner"
+                    "DFM"
                 ],
                 "areas_of_interest": [
                     "Chronic disease management",
@@ -272,8 +318,8 @@
                 "provider_type": "Physiotherapist",
                 "gender": "Female",
                 "qualifications": [
-                    "MCPS (Family Medicine)",
                     "MBBS",
+                    "MCPS (Family Medicine)",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
@@ -475,6 +521,36 @@
                 "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2"
             },
             {
+                "doctor_id": 129248,
+                "doctor": "Dr. Saiqa Syeda",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Female",
+                "qualifications": [
+                    "MBBS",
+                    "FRACGP"
+                ],
+                "areas_of_interest": [
+                    "General Practice",
+                    "Women’s Health",
+                    "Mental Health",
+                    "Skin cancer checks & procedures",
+                    "Preventive & Holistic Healthcare",
+                    "Comprehensive Patient Care"
+                ],
+                "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
+                "clinic": "Calliope",
+                "clinic_id": "8407",
+                "clinic_slug": "outback-gp",
+                "doctor_slug": "dr-saiqa-syeda-1",
+                "availability_type_ids": [
+                    "1680697",
+                    "1680698"
+                ],
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-saiqa-syeda-1"
+            },
+            {
                 "doctor_id": 128870,
                 "doctor": "Practice Nurse",
                 "role": "Practice Nurse",
@@ -648,6 +724,36 @@
         ],
         "Toowoomba": [
             {
+                "doctor_id": 234149,
+                "doctor": "Dr. Saiqa Syeda",
+                "role": "General Practitioner",
+                "provider_type": "GP",
+                "gender": "Female",
+                "qualifications": [
+                    "MBBS",
+                    "FRACGP"
+                ],
+                "areas_of_interest": [
+                    "General Practice",
+                    "Women’s Health",
+                    "Mental Health",
+                    "Skin cancer checks & procedures",
+                    "Preventive & Holistic Healthcare",
+                    "Comprehensive Patient Care"
+                ],
+                "bio": "Dr. Saiqa Syedais a highly experienced and compassionate General Practitioner with a distinguished career spanning over 12 years. She earned her MBBS and BSc degrees and is a Fellow of the Royal Australian College of General Practitioners (FRACGP), underscoring her commitment to excellence in primary care. Since joining the GP Ultrahub team in 2022, Dr. Syeda has continued to provide exceptional healthcare services, building on her extensive experience in the Gladstone community where she has practiced since 2019. Her dedication to her patients is evident in her comprehensive approach to healthcare, addressing a wide range of medical needs with a particular focus on general practice, women’s health, mental health, and skin cancer management. Dr. Syeda is deeply committed to a patient-first philosophy, ensuring that each patient receives personalized, high-quality care. She adopts a holistic approach to medicine, emphasizing the importance of treating the whole person rather than just their symptoms. This patient-centreed approach fosters trust and ensures that her patients feel heard, respected, and well-cared for. Gladstone",
+                "clinic": "Toowoomba",
+                "clinic_id": "17187",
+                "clinic_slug": "gp-ultra-hub-toowoomba-plaza",
+                "doctor_slug": "dr-saiqa-syeda-4",
+                "availability_type_ids": [
+                    "1680687",
+                    "1680688"
+                ],
+                "profile_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-saiqa-syeda-4",
+                "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-saiqa-syeda-4"
+            },
+            {
                 "doctor_id": 247082,
                 "doctor": "Dr. Nauman Ahmed",
                 "role": "General Practitioner",
@@ -694,8 +800,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MRCPG",
                     "MBBS",
+                    "MRCPG",
                     "MRCGP"
                 ],
                 "areas_of_interest": [
