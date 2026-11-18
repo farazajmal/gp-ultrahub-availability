@@ -415,11 +415,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MRCGP",
         "MCPS",
         "MBBS",
-        "MRCGP",
-        "General Practitioner",
-        "DFM"
+        "DFM",
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -615,8 +615,8 @@
       "gender": "Female",
       "qualifications": [
         "MRCGP",
-        "MCPS (Family Medicine)",
-        "MBBS"
+        "MBBS",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1041,21 +1041,21 @@
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
-          "start_time": "10:15 am",
+          "start_time": "10:45 am",
           "end_time": "3:30 pm",
-          "time_range": "10:15 am - 3:30 pm",
-          "display": "10:15 am - 3:30 pm",
-          "display_full": "Thursday, Nov 19: 10:15 am - 3:30 pm"
+          "time_range": "10:45 am - 3:30 pm",
+          "display": "10:45 am - 3:30 pm",
+          "display_full": "Thursday, Nov 19: 10:45 am - 3:30 pm"
         },
         {
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "7:15 am",
+          "start_time": "8:45 am",
           "end_time": "1:45 pm",
-          "time_range": "7:15 am - 1:45 pm",
-          "display": "7:15 am - 1:45 pm",
-          "display_full": "Friday, Nov 20: 7:15 am - 1:45 pm"
+          "time_range": "8:45 am - 1:45 pm",
+          "display": "8:45 am - 1:45 pm",
+          "display_full": "Friday, Nov 20: 8:45 am - 1:45 pm"
         },
         {
           "date": "2026-11-21",
@@ -1083,21 +1083,21 @@
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
-          "start_time": "10:15 am",
+          "start_time": "10:45 am",
           "end_time": "3:30 pm",
-          "time_range": "10:15 am - 3:30 pm",
-          "display": "10:15 am - 3:30 pm",
-          "display_full": "Thursday, Nov 19: 10:15 am - 3:30 pm"
+          "time_range": "10:45 am - 3:30 pm",
+          "display": "10:45 am - 3:30 pm",
+          "display_full": "Thursday, Nov 19: 10:45 am - 3:30 pm"
         },
         {
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "7:15 am",
+          "start_time": "8:45 am",
           "end_time": "1:45 pm",
-          "time_range": "7:15 am - 1:45 pm",
-          "display": "7:15 am - 1:45 pm",
-          "display_full": "Friday, Nov 20: 7:15 am - 1:45 pm"
+          "time_range": "8:45 am - 1:45 pm",
+          "display": "8:45 am - 1:45 pm",
+          "display_full": "Friday, Nov 20: 8:45 am - 1:45 pm"
         },
         {
           "date": "2026-11-21",
@@ -1121,7 +1121,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 19 from 10:15 am - 3:30 pm"
+      "availability": "Thursday, Nov 19 from 10:45 am - 3:30 pm"
     }
   },
   "Burnett Heads": {
