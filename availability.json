@@ -799,10 +799,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
           "start_time": "1:00 pm",
-          "end_time": "4:15 pm",
-          "time_range": "1:00 pm - 4:15 pm",
-          "display": "1:00 pm - 4:15 pm",
-          "display_full": "Thursday, Nov 19: 1:00 pm - 4:15 pm"
+          "end_time": "3:00 pm",
+          "time_range": "1:00 pm - 3:00 pm",
+          "display": "1:00 pm - 3:00 pm",
+          "display_full": "Thursday, Nov 19: 1:00 pm - 3:00 pm"
         },
         {
           "date": "2026-11-20",
@@ -831,10 +831,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
           "start_time": "1:00 pm",
-          "end_time": "4:15 pm",
-          "time_range": "1:00 pm - 4:15 pm",
-          "display": "1:00 pm - 4:15 pm",
-          "display_full": "Thursday, Nov 19: 1:00 pm - 4:15 pm"
+          "end_time": "3:00 pm",
+          "time_range": "1:00 pm - 3:00 pm",
+          "display": "1:00 pm - 3:00 pm",
+          "display_full": "Thursday, Nov 19: 1:00 pm - 3:00 pm"
         },
         {
           "date": "2026-11-20",
@@ -858,7 +858,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 19 from 1:00 pm - 4:15 pm"
+      "availability": "Thursday, Nov 19 from 1:00 pm - 3:00 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1279,11 +1279,11 @@
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "8:40 am",
+          "start_time": "8:50 am",
           "end_time": "3:10 pm",
-          "time_range": "8:40 am - 3:10 pm",
-          "display": "8:40 am - 3:10 pm",
-          "display_full": "Friday, Nov 20: 8:40 am - 3:10 pm"
+          "time_range": "8:50 am - 3:10 pm",
+          "display": "8:50 am - 3:10 pm",
+          "display_full": "Friday, Nov 20: 8:50 am - 3:10 pm"
         }
       ],
       "patches": [
@@ -1301,11 +1301,11 @@
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "8:40 am",
+          "start_time": "8:50 am",
           "end_time": "3:10 pm",
-          "time_range": "8:40 am - 3:10 pm",
-          "display": "8:40 am - 3:10 pm",
-          "display_full": "Friday, Nov 20: 8:40 am - 3:10 pm"
+          "time_range": "8:50 am - 3:10 pm",
+          "display": "8:50 am - 3:10 pm",
+          "display_full": "Friday, Nov 20: 8:50 am - 3:10 pm"
         }
       ],
       "scrape_status": "ok",
@@ -1437,11 +1437,11 @@
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Thursday, Nov 19: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Thursday, Nov 19: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-20",
@@ -1459,11 +1459,11 @@
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Thursday, Nov 19: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Thursday, Nov 19: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-20",
@@ -1477,7 +1477,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 19 from 9:10 am - 4:00 pm"
+      "availability": "Thursday, Nov 19 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
