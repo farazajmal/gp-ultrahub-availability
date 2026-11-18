@@ -51,10 +51,10 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
           "start_time": "12:30 pm",
-          "end_time": "12:45 pm",
-          "time_range": "12:30 pm - 12:45 pm",
-          "display": "12:30 pm - 12:45 pm",
-          "display_full": "Thursday, Nov 19: 12:30 pm - 12:45 pm"
+          "end_time": "12:30 pm",
+          "time_range": "12:30 pm",
+          "display": "12:30 pm",
+          "display_full": "Thursday, Nov 19: 12:30 pm"
         }
       ],
       "patches": [
@@ -63,14 +63,14 @@
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
           "start_time": "12:30 pm",
-          "end_time": "12:45 pm",
-          "time_range": "12:30 pm - 12:45 pm",
-          "display": "12:30 pm - 12:45 pm",
-          "display_full": "Thursday, Nov 19: 12:30 pm - 12:45 pm"
+          "end_time": "12:30 pm",
+          "time_range": "12:30 pm",
+          "display": "12:30 pm",
+          "display_full": "Thursday, Nov 19: 12:30 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 19 from 12:30 pm - 12:45 pm"
+      "availability": "Thursday, Nov 19 from 12:30 pm"
     },
     "Dr. Arooj Fatima": {
       "doctor_id": 209447,
@@ -1574,16 +1574,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/kearneys-spring-QLD-4350/gp-ultra-hub-toowoomba-plaza/doctors/dr-jahangir-khan-6",
       "availability_patches": [
         {
-          "date": "2026-11-19",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Nov 19",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Thursday, Nov 19: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
@@ -1606,16 +1596,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-19",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Nov 19",
-          "start_time": "3:10 pm",
-          "end_time": "4:00 pm",
-          "time_range": "3:10 pm - 4:00 pm",
-          "display": "3:10 pm - 4:00 pm",
-          "display_full": "Thursday, Nov 19: 3:10 pm - 4:00 pm"
-        },
-        {
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
@@ -1637,7 +1617,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 19 from 3:10 pm - 4:00 pm"
+      "availability": "Friday, Nov 20 from 8:00 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
