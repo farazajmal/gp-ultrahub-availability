@@ -306,11 +306,11 @@
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
-          "start_time": "6:30 pm",
+          "start_time": "5:00 pm",
           "end_time": "6:45 pm",
-          "time_range": "6:30 pm - 6:45 pm",
-          "display": "6:30 pm - 6:45 pm",
-          "display_full": "Thursday, Nov 19: 6:30 pm - 6:45 pm"
+          "time_range": "5:00 pm - 6:45 pm",
+          "display": "5:00 pm - 6:45 pm",
+          "display_full": "Thursday, Nov 19: 5:00 pm - 6:45 pm"
         },
         {
           "date": "2026-11-20",
@@ -338,11 +338,11 @@
           "date": "2026-11-19",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 19",
-          "start_time": "6:30 pm",
+          "start_time": "5:00 pm",
           "end_time": "6:45 pm",
-          "time_range": "6:30 pm - 6:45 pm",
-          "display": "6:30 pm - 6:45 pm",
-          "display_full": "Thursday, Nov 19: 6:30 pm - 6:45 pm"
+          "time_range": "5:00 pm - 6:45 pm",
+          "display": "5:00 pm - 6:45 pm",
+          "display_full": "Thursday, Nov 19: 5:00 pm - 6:45 pm"
         },
         {
           "date": "2026-11-20",
@@ -366,7 +366,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 19 from 6:30 pm - 6:45 pm"
+      "availability": "Thursday, Nov 19 from 5:00 pm - 6:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
