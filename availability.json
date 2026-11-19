@@ -1,257 +1,5 @@
 {
   "Gladstone": {
-    "Dr. Aisha Asghar": {
-      "doctor_id": 216798,
-      "doctor": "Dr. Aisha Asghar",
-      "role": "General Practitioner",
-      "provider_type": "GP",
-      "gender": "Female",
-      "qualifications": [
-        "MBBS",
-        "FRACGP"
-      ],
-      "areas_of_interest": [
-        "Skin cancer checks & procedures.",
-        "Chronic disease management.",
-        "Veteran patients (DVA)",
-        "Geriatric",
-        "Women & Child health.",
-        "Child Immunization"
-      ],
-      "bio": "Dr. Aisha Asgharis a committed General Practitioner with 19 years of experience providing exemplary healthcare. She joined GP Ultra Hub in 2024 where she continues to excel in delivering comprehensive care tailored to each patient\u2019s unique needs. Dr Aisha specializes in general practice, Skin cancer, women\u2019s and child health, geriatric patients. Area of experties: Gladstone",
-      "clinic": "Gladstone",
-      "clinic_id": "15111",
-      "clinic_slug": "gp-ultra-hub-gladstone",
-      "doctor_slug": "dr-aisha-asghar-3",
-      "availability_type_ids": [
-        "1199460",
-        "1199461",
-        "1527452",
-        "1199463",
-        "1591610",
-        "1199461",
-        "1199460",
-        "1199461",
-        "1199460",
-        "1199460",
-        "1634280",
-        "1634280",
-        "1527450",
-        "1527453",
-        "1527455",
-        "1199461",
-        "1591605",
-        "1527451"
-      ],
-      "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-aisha-asghar-3",
-      "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-aisha-asghar-3",
-      "availability_patches": [
-        {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "7:45 am",
-          "end_time": "7:45 am",
-          "time_range": "7:45 am",
-          "display": "7:45 am",
-          "display_full": "Friday, Nov 20: 7:45 am"
-        },
-        {
-          "date": "2026-11-22",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 22",
-          "start_time": "12:30 pm",
-          "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 22: 12:30 pm - 3:45 pm"
-        },
-        {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "12:15 pm",
-          "end_time": "2:45 pm",
-          "time_range": "12:15 pm - 2:45 pm",
-          "display": "12:15 pm - 2:45 pm",
-          "display_full": "Monday, Nov 23: 12:15 pm - 2:45 pm"
-        },
-        {
-          "date": "2026-11-24",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 24",
-          "start_time": "10:15 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:15 am - 3:45 pm",
-          "display": "10:15 am - 3:45 pm",
-          "display_full": "Tuesday, Nov 24: 10:15 am - 3:45 pm"
-        },
-        {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "4:45 pm",
-          "end_time": "6:45 pm",
-          "time_range": "4:45 pm - 6:45 pm",
-          "display": "4:45 pm - 6:45 pm",
-          "display_full": "Friday, Nov 20: 4:45 pm - 6:45 pm"
-        },
-        {
-          "date": "2026-11-22",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 22",
-          "start_time": "10:00 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:00 am - 3:45 pm",
-          "display": "10:00 am - 3:45 pm",
-          "display_full": "Sunday, Nov 22: 10:00 am - 3:45 pm"
-        },
-        {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "11:30 am",
-          "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Monday, Nov 23: 11:30 am - 6:45 pm"
-        },
-        {
-          "date": "2026-11-24",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 24",
-          "start_time": "11:15 am",
-          "end_time": "6:45 pm",
-          "time_range": "11:15 am - 6:45 pm",
-          "display": "11:15 am - 6:45 pm",
-          "display_full": "Tuesday, Nov 24: 11:15 am - 6:45 pm"
-        },
-        {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "8:15 am",
-          "end_time": "12:45 pm",
-          "time_range": "8:15 am - 12:45 pm",
-          "display": "8:15 am - 12:45 pm",
-          "display_full": "Friday, Nov 20: 8:15 am - 12:45 pm"
-        },
-        {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "9:00 am",
-          "end_time": "4:15 pm",
-          "time_range": "9:00 am - 4:15 pm",
-          "display": "9:00 am - 4:15 pm",
-          "display_full": "Monday, Nov 23: 9:00 am - 4:15 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "7:45 am",
-          "end_time": "7:45 am",
-          "time_range": "7:45 am",
-          "display": "7:45 am",
-          "display_full": "Friday, Nov 20: 7:45 am"
-        },
-        {
-          "date": "2026-11-22",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 22",
-          "start_time": "12:30 pm",
-          "end_time": "3:45 pm",
-          "time_range": "12:30 pm - 3:45 pm",
-          "display": "12:30 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 22: 12:30 pm - 3:45 pm"
-        },
-        {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "12:15 pm",
-          "end_time": "2:45 pm",
-          "time_range": "12:15 pm - 2:45 pm",
-          "display": "12:15 pm - 2:45 pm",
-          "display_full": "Monday, Nov 23: 12:15 pm - 2:45 pm"
-        },
-        {
-          "date": "2026-11-24",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 24",
-          "start_time": "10:15 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:15 am - 3:45 pm",
-          "display": "10:15 am - 3:45 pm",
-          "display_full": "Tuesday, Nov 24: 10:15 am - 3:45 pm"
-        },
-        {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "4:45 pm",
-          "end_time": "6:45 pm",
-          "time_range": "4:45 pm - 6:45 pm",
-          "display": "4:45 pm - 6:45 pm",
-          "display_full": "Friday, Nov 20: 4:45 pm - 6:45 pm"
-        },
-        {
-          "date": "2026-11-22",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 22",
-          "start_time": "10:00 am",
-          "end_time": "3:45 pm",
-          "time_range": "10:00 am - 3:45 pm",
-          "display": "10:00 am - 3:45 pm",
-          "display_full": "Sunday, Nov 22: 10:00 am - 3:45 pm"
-        },
-        {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "11:30 am",
-          "end_time": "6:45 pm",
-          "time_range": "11:30 am - 6:45 pm",
-          "display": "11:30 am - 6:45 pm",
-          "display_full": "Monday, Nov 23: 11:30 am - 6:45 pm"
-        },
-        {
-          "date": "2026-11-24",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 24",
-          "start_time": "11:15 am",
-          "end_time": "6:45 pm",
-          "time_range": "11:15 am - 6:45 pm",
-          "display": "11:15 am - 6:45 pm",
-          "display_full": "Tuesday, Nov 24: 11:15 am - 6:45 pm"
-        },
-        {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "8:15 am",
-          "end_time": "12:45 pm",
-          "time_range": "8:15 am - 12:45 pm",
-          "display": "8:15 am - 12:45 pm",
-          "display_full": "Friday, Nov 20: 8:15 am - 12:45 pm"
-        },
-        {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "9:00 am",
-          "end_time": "4:15 pm",
-          "time_range": "9:00 am - 4:15 pm",
-          "display": "9:00 am - 4:15 pm",
-          "display_full": "Monday, Nov 23: 9:00 am - 4:15 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Friday, Nov 20 from 7:45 am and 4:45 pm - 6:45 pm and 8:15 am - 12:45 pm"
-    },
     "Dr. Arooj Fatima": {
       "doctor_id": 209447,
       "doctor": "Dr. Arooj Fatima",
@@ -340,9 +88,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
+        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -369,16 +117,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "8:15 am",
-          "end_time": "12:45 pm",
-          "time_range": "8:15 am - 12:45 pm",
-          "display": "8:15 am - 12:45 pm",
-          "display_full": "Friday, Nov 20: 8:15 am - 12:45 pm"
-        },
-        {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
@@ -391,16 +129,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "8:15 am",
-          "end_time": "12:45 pm",
-          "time_range": "8:15 am - 12:45 pm",
-          "display": "8:15 am - 12:45 pm",
-          "display_full": "Friday, Nov 20: 8:15 am - 12:45 pm"
-        },
-        {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
@@ -412,7 +140,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 20 from 8:15 am - 12:45 pm"
+      "availability": "Monday, Nov 23 from 9:00 am - 4:15 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -442,10 +170,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MCPS",
         "MCPS (Family Medicine)",
-        "MBBS"
+        "MBBS",
+        "MCPS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -555,10 +283,10 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
-        "MBBS",
         "DFM",
+        "MBBS",
         "General Practitioner",
+        "MRCGP",
         "MCPS"
       ],
       "areas_of_interest": [
@@ -774,9 +502,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MRCGP",
-        "MCPS (Family Medicine)",
-        "MBBS"
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -849,32 +577,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-      "availability_patches": [
-        {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "7:45 am",
-          "end_time": "7:45 am",
-          "time_range": "7:45 am",
-          "display": "7:45 am",
-          "display_full": "Friday, Nov 20: 7:45 am"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-20",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 20",
-          "start_time": "7:45 am",
-          "end_time": "7:45 am",
-          "time_range": "7:45 am",
-          "display": "7:45 am",
-          "display_full": "Friday, Nov 20: 7:45 am"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Friday, Nov 20 from 7:45 am"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     }
   },
   "Calliope": {
@@ -1186,8 +892,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1411,11 +1117,11 @@
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "8:45 am",
+          "start_time": "3:00 pm",
           "end_time": "4:15 pm",
-          "time_range": "8:45 am - 4:15 pm",
-          "display": "8:45 am - 4:15 pm",
-          "display_full": "Friday, Nov 20: 8:45 am - 4:15 pm"
+          "time_range": "3:00 pm - 4:15 pm",
+          "display": "3:00 pm - 4:15 pm",
+          "display_full": "Friday, Nov 20: 3:00 pm - 4:15 pm"
         }
       ],
       "patches": [
@@ -1423,15 +1129,15 @@
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "8:45 am",
+          "start_time": "3:00 pm",
           "end_time": "4:15 pm",
-          "time_range": "8:45 am - 4:15 pm",
-          "display": "8:45 am - 4:15 pm",
-          "display_full": "Friday, Nov 20: 8:45 am - 4:15 pm"
+          "time_range": "3:00 pm - 4:15 pm",
+          "display": "3:00 pm - 4:15 pm",
+          "display_full": "Friday, Nov 20: 3:00 pm - 4:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 20 from 8:45 am - 4:15 pm"
+      "availability": "Friday, Nov 20 from 3:00 pm - 4:15 pm"
     }
   },
   "Toowoomba": {
@@ -1582,9 +1288,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MRCPG",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
