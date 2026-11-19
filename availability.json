@@ -284,11 +284,11 @@
           "date": "2026-11-22",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 22",
-          "start_time": "12:15 pm",
+          "start_time": "12:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:15 pm - 3:45 pm",
-          "display": "12:15 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 22: 12:15 pm - 3:45 pm"
+          "time_range": "12:30 pm - 3:45 pm",
+          "display": "12:30 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 22: 12:30 pm - 3:45 pm"
         },
         {
           "date": "2026-11-23",
@@ -306,11 +306,11 @@
           "date": "2026-11-22",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 22",
-          "start_time": "12:15 pm",
+          "start_time": "12:30 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:15 pm - 3:45 pm",
-          "display": "12:15 pm - 3:45 pm",
-          "display_full": "Sunday, Nov 22: 12:15 pm - 3:45 pm"
+          "time_range": "12:30 pm - 3:45 pm",
+          "display": "12:30 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 22: 12:30 pm - 3:45 pm"
         },
         {
           "date": "2026-11-23",
@@ -324,7 +324,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 22 from 12:15 pm - 3:45 pm"
+      "availability": "Sunday, Nov 22 from 12:30 pm - 3:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1375,11 +1375,11 @@
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Friday, Nov 20: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Friday, Nov 20: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-23",
@@ -1397,11 +1397,11 @@
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "9:10 am",
+          "start_time": "10:10 am",
           "end_time": "4:00 pm",
-          "time_range": "9:10 am - 4:00 pm",
-          "display": "9:10 am - 4:00 pm",
-          "display_full": "Friday, Nov 20: 9:10 am - 4:00 pm"
+          "time_range": "10:10 am - 4:00 pm",
+          "display": "10:10 am - 4:00 pm",
+          "display_full": "Friday, Nov 20: 10:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-23",
@@ -1415,7 +1415,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 20 from 9:10 am - 4:00 pm"
+      "availability": "Friday, Nov 20 from 10:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
@@ -1462,11 +1462,11 @@
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "3:20 pm",
+          "start_time": "2:20 pm",
           "end_time": "4:40 pm",
-          "time_range": "3:20 pm - 4:40 pm",
-          "display": "3:20 pm - 4:40 pm",
-          "display_full": "Friday, Nov 20: 3:20 pm - 4:40 pm"
+          "time_range": "2:20 pm - 4:40 pm",
+          "display": "2:20 pm - 4:40 pm",
+          "display_full": "Friday, Nov 20: 2:20 pm - 4:40 pm"
         },
         {
           "date": "2026-11-23",
@@ -1484,11 +1484,11 @@
           "date": "2026-11-20",
           "day_name": "Friday",
           "date_label": "Friday, Nov 20",
-          "start_time": "3:20 pm",
+          "start_time": "2:20 pm",
           "end_time": "4:40 pm",
-          "time_range": "3:20 pm - 4:40 pm",
-          "display": "3:20 pm - 4:40 pm",
-          "display_full": "Friday, Nov 20: 3:20 pm - 4:40 pm"
+          "time_range": "2:20 pm - 4:40 pm",
+          "display": "2:20 pm - 4:40 pm",
+          "display_full": "Friday, Nov 20: 2:20 pm - 4:40 pm"
         },
         {
           "date": "2026-11-23",
@@ -1502,7 +1502,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 20 from 3:20 pm - 4:40 pm"
+      "availability": "Friday, Nov 20 from 2:20 pm - 4:40 pm"
     },
     "Practice Nurse": {
       "doctor_id": 239587,
