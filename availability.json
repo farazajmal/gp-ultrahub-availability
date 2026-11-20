@@ -1271,10 +1271,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
           "start_time": "8:10 am",
-          "end_time": "3:30 pm",
-          "time_range": "8:10 am - 3:30 pm",
-          "display": "8:10 am - 3:30 pm",
-          "display_full": "Monday, Nov 23: 8:10 am - 3:30 pm"
+          "end_time": "3:20 pm",
+          "time_range": "8:10 am - 3:20 pm",
+          "display": "8:10 am - 3:20 pm",
+          "display_full": "Monday, Nov 23: 8:10 am - 3:20 pm"
         },
         {
           "date": "2026-11-24",
@@ -1293,10 +1293,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
           "start_time": "8:10 am",
-          "end_time": "3:30 pm",
-          "time_range": "8:10 am - 3:30 pm",
-          "display": "8:10 am - 3:30 pm",
-          "display_full": "Monday, Nov 23: 8:10 am - 3:30 pm"
+          "end_time": "3:20 pm",
+          "time_range": "8:10 am - 3:20 pm",
+          "display": "8:10 am - 3:20 pm",
+          "display_full": "Monday, Nov 23: 8:10 am - 3:20 pm"
         },
         {
           "date": "2026-11-24",
@@ -1310,7 +1310,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 23 from 8:10 am - 3:30 pm"
+      "availability": "Monday, Nov 23 from 8:10 am - 3:20 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
