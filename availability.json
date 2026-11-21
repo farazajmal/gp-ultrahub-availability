@@ -231,16 +231,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-22",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 22",
-          "start_time": "12:45 pm",
-          "end_time": "12:45 pm",
-          "time_range": "12:45 pm",
-          "display": "12:45 pm",
-          "display_full": "Sunday, Nov 22: 12:45 pm"
-        },
-        {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
@@ -273,16 +263,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-22",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 22",
-          "start_time": "12:45 pm",
-          "end_time": "12:45 pm",
-          "time_range": "12:45 pm",
-          "display": "12:45 pm",
-          "display_full": "Sunday, Nov 22: 12:45 pm"
-        },
-        {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
@@ -314,7 +294,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 22 from 12:45 pm"
+      "availability": "Monday, Nov 23 from 1:15 pm - 2:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -988,16 +968,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "11:45 am",
-          "end_time": "11:45 am",
-          "time_range": "11:45 am",
-          "display": "11:45 am",
-          "display_full": "Monday, Nov 23: 11:45 am"
-        },
-        {
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
@@ -1010,16 +980,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "11:45 am",
-          "end_time": "11:45 am",
-          "time_range": "11:45 am",
-          "display": "11:45 am",
-          "display_full": "Monday, Nov 23: 11:45 am"
-        },
-        {
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
@@ -1031,7 +991,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 23 from 11:45 am"
+      "availability": "Wednesday, Nov 25 from 10:30 am - 5:15 pm"
     }
   },
   "Burnett Heads": {
