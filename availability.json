@@ -234,11 +234,11 @@
           "date": "2026-11-22",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 22",
-          "start_time": "2:30 pm",
+          "start_time": "3:30 pm",
           "end_time": "3:30 pm",
-          "time_range": "2:30 pm - 3:30 pm",
-          "display": "2:30 pm - 3:30 pm",
-          "display_full": "Sunday, Nov 22: 2:30 pm - 3:30 pm"
+          "time_range": "3:30 pm",
+          "display": "3:30 pm",
+          "display_full": "Sunday, Nov 22: 3:30 pm"
         },
         {
           "date": "2026-11-23",
@@ -276,11 +276,11 @@
           "date": "2026-11-22",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 22",
-          "start_time": "2:30 pm",
+          "start_time": "3:30 pm",
           "end_time": "3:30 pm",
-          "time_range": "2:30 pm - 3:30 pm",
-          "display": "2:30 pm - 3:30 pm",
-          "display_full": "Sunday, Nov 22: 2:30 pm - 3:30 pm"
+          "time_range": "3:30 pm",
+          "display": "3:30 pm",
+          "display_full": "Sunday, Nov 22: 3:30 pm"
         },
         {
           "date": "2026-11-23",
@@ -314,7 +314,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 22 from 2:30 pm - 3:30 pm"
+      "availability": "Sunday, Nov 22 from 3:30 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -617,32 +617,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-shahid",
-      "availability_patches": [
-        {
-          "date": "2026-11-21",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Nov 21",
-          "start_time": "1:00 pm",
-          "end_time": "1:00 pm",
-          "time_range": "1:00 pm",
-          "display": "1:00 pm",
-          "display_full": "Saturday, Nov 21: 1:00 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-21",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Nov 21",
-          "start_time": "1:00 pm",
-          "end_time": "1:00 pm",
-          "time_range": "1:00 pm",
-          "display": "1:00 pm",
-          "display_full": "Saturday, Nov 21: 1:00 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Saturday, Nov 21 from 1:00 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     }
   },
   "Calliope": {
@@ -1013,21 +991,21 @@
           "date": "2026-11-21",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 21",
-          "start_time": "12:45 pm",
-          "end_time": "1:30 pm",
-          "time_range": "12:45 pm - 1:30 pm",
-          "display": "12:45 pm - 1:30 pm",
-          "display_full": "Saturday, Nov 21: 12:45 pm - 1:30 pm"
+          "start_time": "1:00 pm",
+          "end_time": "1:15 pm",
+          "time_range": "1:00 pm - 1:15 pm",
+          "display": "1:00 pm - 1:15 pm",
+          "display_full": "Saturday, Nov 21: 1:00 pm - 1:15 pm"
         },
         {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "11:45 am",
-          "time_range": "10:45 am - 11:45 am",
-          "display": "10:45 am - 11:45 am",
-          "display_full": "Monday, Nov 23: 10:45 am - 11:45 am"
+          "time_range": "11:15 am - 11:45 am",
+          "display": "11:15 am - 11:45 am",
+          "display_full": "Monday, Nov 23: 11:15 am - 11:45 am"
         },
         {
           "date": "2026-11-25",
@@ -1045,21 +1023,21 @@
           "date": "2026-11-21",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 21",
-          "start_time": "12:45 pm",
-          "end_time": "1:30 pm",
-          "time_range": "12:45 pm - 1:30 pm",
-          "display": "12:45 pm - 1:30 pm",
-          "display_full": "Saturday, Nov 21: 12:45 pm - 1:30 pm"
+          "start_time": "1:00 pm",
+          "end_time": "1:15 pm",
+          "time_range": "1:00 pm - 1:15 pm",
+          "display": "1:00 pm - 1:15 pm",
+          "display_full": "Saturday, Nov 21: 1:00 pm - 1:15 pm"
         },
         {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
-          "start_time": "10:45 am",
+          "start_time": "11:15 am",
           "end_time": "11:45 am",
-          "time_range": "10:45 am - 11:45 am",
-          "display": "10:45 am - 11:45 am",
-          "display_full": "Monday, Nov 23: 10:45 am - 11:45 am"
+          "time_range": "11:15 am - 11:45 am",
+          "display": "11:15 am - 11:45 am",
+          "display_full": "Monday, Nov 23: 11:15 am - 11:45 am"
         },
         {
           "date": "2026-11-25",
@@ -1073,7 +1051,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 21 from 12:45 pm - 1:30 pm"
+      "availability": "Saturday, Nov 21 from 1:00 pm - 1:15 pm"
     }
   },
   "Burnett Heads": {
