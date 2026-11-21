@@ -88,9 +88,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -210,10 +210,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MCPS (Family Medicine)",
+        "MCPS",
         "MRCGP",
-        "MCPS"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -343,11 +343,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "General Practitioner",
+        "MRCGP",
         "DFM",
         "MCPS",
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "General Practitioner"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -385,11 +385,11 @@
           "date": "2026-11-22",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 22",
-          "start_time": "1:30 pm",
+          "start_time": "1:45 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:30 pm - 2:45 pm",
-          "display": "1:30 pm - 2:45 pm",
-          "display_full": "Sunday, Nov 22: 1:30 pm - 2:45 pm"
+          "time_range": "1:45 pm - 2:45 pm",
+          "display": "1:45 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 22: 1:45 pm - 2:45 pm"
         },
         {
           "date": "2026-11-23",
@@ -427,11 +427,11 @@
           "date": "2026-11-22",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 22",
-          "start_time": "1:30 pm",
+          "start_time": "1:45 pm",
           "end_time": "2:45 pm",
-          "time_range": "1:30 pm - 2:45 pm",
-          "display": "1:30 pm - 2:45 pm",
-          "display_full": "Sunday, Nov 22: 1:30 pm - 2:45 pm"
+          "time_range": "1:45 pm - 2:45 pm",
+          "display": "1:45 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 22: 1:45 pm - 2:45 pm"
         },
         {
           "date": "2026-11-23",
@@ -465,7 +465,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 22 from 1:30 pm - 2:45 pm"
+      "availability": "Sunday, Nov 22 from 1:45 pm - 2:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 231388,
@@ -562,9 +562,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MCPS (Family Medicine)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -992,8 +992,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1366,9 +1366,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCPG",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
