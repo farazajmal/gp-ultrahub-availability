@@ -88,9 +88,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MBBS",
         "Dip Occ Med (RCPI)",
-        "MRCGP",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -210,10 +210,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MCPS (Family Medicine)",
-        "MCPS",
         "MRCGP",
-        "MBBS"
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -251,6 +251,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
+          "date": "2026-11-22",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Nov 22",
+          "start_time": "2:15 pm",
+          "end_time": "2:15 pm",
+          "time_range": "2:15 pm",
+          "display": "2:15 pm",
+          "display_full": "Sunday, Nov 22: 2:15 pm"
+        },
+        {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
@@ -284,15 +294,25 @@
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
-          "start_time": "7:15 am",
+          "start_time": "7:30 am",
           "end_time": "1:30 pm",
-          "time_range": "7:15 am - 1:30 pm",
-          "display": "7:15 am - 1:30 pm",
-          "display_full": "Thursday, Nov 26: 7:15 am - 1:30 pm"
+          "time_range": "7:30 am - 1:30 pm",
+          "display": "7:30 am - 1:30 pm",
+          "display_full": "Thursday, Nov 26: 7:30 am - 1:30 pm"
         }
       ],
       "patches": [
         {
+          "date": "2026-11-22",
+          "day_name": "Sunday",
+          "date_label": "Sunday, Nov 22",
+          "start_time": "2:15 pm",
+          "end_time": "2:15 pm",
+          "time_range": "2:15 pm",
+          "display": "2:15 pm",
+          "display_full": "Sunday, Nov 22: 2:15 pm"
+        },
+        {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
@@ -326,15 +346,15 @@
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
-          "start_time": "7:15 am",
+          "start_time": "7:30 am",
           "end_time": "1:30 pm",
-          "time_range": "7:15 am - 1:30 pm",
-          "display": "7:15 am - 1:30 pm",
-          "display_full": "Thursday, Nov 26: 7:15 am - 1:30 pm"
+          "time_range": "7:30 am - 1:30 pm",
+          "display": "7:30 am - 1:30 pm",
+          "display_full": "Thursday, Nov 26: 7:30 am - 1:30 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 23 from 1:15 pm - 2:30 pm"
+      "availability": "Sunday, Nov 22 from 2:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -343,10 +363,10 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
-        "DFM",
-        "MCPS",
         "MBBS",
+        "DFM",
+        "MRCGP",
+        "MCPS",
         "General Practitioner"
       ],
       "areas_of_interest": [
@@ -382,16 +402,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-nasim-ullah",
       "availability_patches": [
         {
-          "date": "2026-11-22",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 22",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Sunday, Nov 22: 2:45 pm"
-        },
-        {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
@@ -424,16 +434,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-22",
-          "day_name": "Sunday",
-          "date_label": "Sunday, Nov 22",
-          "start_time": "2:45 pm",
-          "end_time": "2:45 pm",
-          "time_range": "2:45 pm",
-          "display": "2:45 pm",
-          "display_full": "Sunday, Nov 22: 2:45 pm"
-        },
-        {
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
@@ -465,7 +465,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 22 from 2:45 pm"
+      "availability": "Monday, Nov 23 from 11:45 am - 6:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 231388,
@@ -562,9 +562,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MCPS (Family Medicine)",
-        "MRCGP",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -992,8 +992,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1366,9 +1366,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
+        "MBBS",
         "MRCPG",
-        "MRCGP",
-        "MBBS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
