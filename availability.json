@@ -345,11 +345,11 @@
           "date": "2026-11-22",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 22",
-          "start_time": "2:00 pm",
+          "start_time": "2:15 pm",
           "end_time": "2:45 pm",
-          "time_range": "2:00 pm - 2:45 pm",
-          "display": "2:00 pm - 2:45 pm",
-          "display_full": "Sunday, Nov 22: 2:00 pm - 2:45 pm"
+          "time_range": "2:15 pm - 2:45 pm",
+          "display": "2:15 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 22: 2:15 pm - 2:45 pm"
         },
         {
           "date": "2026-11-23",
@@ -387,11 +387,11 @@
           "date": "2026-11-22",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 22",
-          "start_time": "2:00 pm",
+          "start_time": "2:15 pm",
           "end_time": "2:45 pm",
-          "time_range": "2:00 pm - 2:45 pm",
-          "display": "2:00 pm - 2:45 pm",
-          "display_full": "Sunday, Nov 22: 2:00 pm - 2:45 pm"
+          "time_range": "2:15 pm - 2:45 pm",
+          "display": "2:15 pm - 2:45 pm",
+          "display_full": "Sunday, Nov 22: 2:15 pm - 2:45 pm"
         },
         {
           "date": "2026-11-23",
@@ -425,7 +425,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 22 from 2:00 pm - 2:45 pm"
+      "availability": "Sunday, Nov 22 from 2:15 pm - 2:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 231388,
@@ -744,16 +744,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
       "availability_patches": [
         {
-          "date": "2026-11-24",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 24",
-          "start_time": "2:30 pm",
-          "end_time": "2:30 pm",
-          "time_range": "2:30 pm",
-          "display": "2:30 pm",
-          "display_full": "Tuesday, Nov 24: 2:30 pm"
-        },
-        {
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
@@ -766,16 +756,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-24",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Nov 24",
-          "start_time": "2:30 pm",
-          "end_time": "2:30 pm",
-          "time_range": "2:30 pm",
-          "display": "2:30 pm",
-          "display_full": "Tuesday, Nov 24: 2:30 pm"
-        },
-        {
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
@@ -787,7 +767,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 24 from 2:30 pm"
+      "availability": "Wednesday, Nov 25 from 10:30 am - 2:30 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
