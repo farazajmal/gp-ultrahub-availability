@@ -254,11 +254,11 @@
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
-          "start_time": "1:15 pm",
-          "end_time": "2:30 pm",
-          "time_range": "1:15 pm - 2:30 pm",
-          "display": "1:15 pm - 2:30 pm",
-          "display_full": "Monday, Nov 23: 1:15 pm - 2:30 pm"
+          "start_time": "1:45 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Monday, Nov 23: 1:45 pm"
         },
         {
           "date": "2026-11-24",
@@ -296,11 +296,11 @@
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
-          "start_time": "1:15 pm",
-          "end_time": "2:30 pm",
-          "time_range": "1:15 pm - 2:30 pm",
-          "display": "1:15 pm - 2:30 pm",
-          "display_full": "Monday, Nov 23: 1:15 pm - 2:30 pm"
+          "start_time": "1:45 pm",
+          "end_time": "1:45 pm",
+          "time_range": "1:45 pm",
+          "display": "1:45 pm",
+          "display_full": "Monday, Nov 23: 1:45 pm"
         },
         {
           "date": "2026-11-24",
@@ -334,7 +334,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 23 from 1:15 pm - 2:30 pm"
+      "availability": "Monday, Nov 23 from 1:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -684,11 +684,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "7:30 am",
+          "start_time": "8:00 am",
           "end_time": "2:00 pm",
-          "time_range": "7:30 am - 2:00 pm",
-          "display": "7:30 am - 2:00 pm",
-          "display_full": "Wednesday, Nov 25: 7:30 am - 2:00 pm"
+          "time_range": "8:00 am - 2:00 pm",
+          "display": "8:00 am - 2:00 pm",
+          "display_full": "Wednesday, Nov 25: 8:00 am - 2:00 pm"
         },
         {
           "date": "2026-11-26",
@@ -716,11 +716,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "7:30 am",
+          "start_time": "8:00 am",
           "end_time": "2:00 pm",
-          "time_range": "7:30 am - 2:00 pm",
-          "display": "7:30 am - 2:00 pm",
-          "display_full": "Wednesday, Nov 25: 7:30 am - 2:00 pm"
+          "time_range": "8:00 am - 2:00 pm",
+          "display": "8:00 am - 2:00 pm",
+          "display_full": "Wednesday, Nov 25: 8:00 am - 2:00 pm"
         },
         {
           "date": "2026-11-26",
