@@ -89,8 +89,8 @@
       "gender": "Male",
       "qualifications": [
         "MRCGP",
-        "MBBS",
-        "Dip Occ Med (RCPI)"
+        "Dip Occ Med (RCPI)",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -230,10 +230,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS",
-        "MCPS (Family Medicine)",
         "MRCGP",
-        "MBBS"
+        "MCPS",
+        "MBBS",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -363,11 +363,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MCPS",
-        "MBBS",
         "DFM",
         "General Practitioner",
-        "MRCGP"
+        "MBBS",
+        "MRCGP",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -570,32 +570,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-      "availability_patches": [
-        {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "7:15 am",
-          "end_time": "7:15 am",
-          "time_range": "7:15 am",
-          "display": "7:15 am",
-          "display_full": "Monday, Nov 23: 7:15 am"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-23",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 23",
-          "start_time": "7:15 am",
-          "end_time": "7:15 am",
-          "time_range": "7:15 am",
-          "display": "7:15 am",
-          "display_full": "Monday, Nov 23: 7:15 am"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Monday, Nov 23 from 7:15 am"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Mehwish Saghir": {
       "doctor_id": 219466,
@@ -604,9 +582,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -869,21 +847,21 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "2:30 pm",
-          "time_range": "11:00 am - 2:30 pm",
-          "display": "11:00 am - 2:30 pm",
-          "display_full": "Wednesday, Nov 25: 11:00 am - 2:30 pm"
+          "time_range": "11:15 am - 2:30 pm",
+          "display": "11:15 am - 2:30 pm",
+          "display_full": "Wednesday, Nov 25: 11:15 am - 2:30 pm"
         },
         {
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
-          "start_time": "11:30 am",
+          "start_time": "12:15 pm",
           "end_time": "2:45 pm",
-          "time_range": "11:30 am - 2:45 pm",
-          "display": "11:30 am - 2:45 pm",
-          "display_full": "Friday, Nov 27: 11:30 am - 2:45 pm"
+          "time_range": "12:15 pm - 2:45 pm",
+          "display": "12:15 pm - 2:45 pm",
+          "display_full": "Friday, Nov 27: 12:15 pm - 2:45 pm"
         }
       ],
       "patches": [
@@ -891,25 +869,25 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "2:30 pm",
-          "time_range": "11:00 am - 2:30 pm",
-          "display": "11:00 am - 2:30 pm",
-          "display_full": "Wednesday, Nov 25: 11:00 am - 2:30 pm"
+          "time_range": "11:15 am - 2:30 pm",
+          "display": "11:15 am - 2:30 pm",
+          "display_full": "Wednesday, Nov 25: 11:15 am - 2:30 pm"
         },
         {
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
-          "start_time": "11:30 am",
+          "start_time": "12:15 pm",
           "end_time": "2:45 pm",
-          "time_range": "11:30 am - 2:45 pm",
-          "display": "11:30 am - 2:45 pm",
-          "display_full": "Friday, Nov 27: 11:30 am - 2:45 pm"
+          "time_range": "12:15 pm - 2:45 pm",
+          "display": "12:15 pm - 2:45 pm",
+          "display_full": "Friday, Nov 27: 12:15 pm - 2:45 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 25 from 11:00 am - 2:30 pm"
+      "availability": "Wednesday, Nov 25 from 11:15 am - 2:30 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -1530,9 +1508,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCPG",
         "MRCGP",
-        "MBBS"
+        "MBBS",
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
