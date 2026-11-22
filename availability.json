@@ -88,9 +88,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MRCGP",
         "MBBS",
-        "Dip Occ Med (RCPI)",
-        "MRCGP"
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -210,10 +210,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
+        "MCPS",
         "MCPS (Family Medicine)",
         "MRCGP",
-        "MCPS"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -343,11 +343,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
+        "MCPS",
         "MBBS",
         "DFM",
-        "MRCGP",
-        "MCPS",
-        "General Practitioner"
+        "General Practitioner",
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -385,11 +385,11 @@
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
-          "start_time": "12:45 pm",
+          "start_time": "1:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:45 pm - 6:45 pm",
-          "display": "12:45 pm - 6:45 pm",
-          "display_full": "Monday, Nov 23: 12:45 pm - 6:45 pm"
+          "time_range": "1:45 pm - 6:45 pm",
+          "display": "1:45 pm - 6:45 pm",
+          "display_full": "Monday, Nov 23: 1:45 pm - 6:45 pm"
         },
         {
           "date": "2026-11-24",
@@ -417,11 +417,11 @@
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
-          "start_time": "12:45 pm",
+          "start_time": "1:45 pm",
           "end_time": "6:45 pm",
-          "time_range": "12:45 pm - 6:45 pm",
-          "display": "12:45 pm - 6:45 pm",
-          "display_full": "Monday, Nov 23: 12:45 pm - 6:45 pm"
+          "time_range": "1:45 pm - 6:45 pm",
+          "display": "1:45 pm - 6:45 pm",
+          "display_full": "Monday, Nov 23: 1:45 pm - 6:45 pm"
         },
         {
           "date": "2026-11-24",
@@ -445,7 +445,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 23 from 12:45 pm - 6:45 pm"
+      "availability": "Monday, Nov 23 from 1:45 pm - 6:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 231388,
@@ -542,9 +542,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MCPS (Family Medicine)",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -952,8 +952,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -991,11 +991,11 @@
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
-          "start_time": "10:15 am",
+          "start_time": "10:30 am",
           "end_time": "10:30 am",
-          "time_range": "10:15 am - 10:30 am",
-          "display": "10:15 am - 10:30 am",
-          "display_full": "Monday, Nov 23: 10:15 am - 10:30 am"
+          "time_range": "10:30 am",
+          "display": "10:30 am",
+          "display_full": "Monday, Nov 23: 10:30 am"
         },
         {
           "date": "2026-11-25",
@@ -1023,11 +1023,11 @@
           "date": "2026-11-23",
           "day_name": "Monday",
           "date_label": "Monday, Nov 23",
-          "start_time": "10:15 am",
+          "start_time": "10:30 am",
           "end_time": "10:30 am",
-          "time_range": "10:15 am - 10:30 am",
-          "display": "10:15 am - 10:30 am",
-          "display_full": "Monday, Nov 23: 10:15 am - 10:30 am"
+          "time_range": "10:30 am",
+          "display": "10:30 am",
+          "display_full": "Monday, Nov 23: 10:30 am"
         },
         {
           "date": "2026-11-25",
@@ -1051,7 +1051,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 23 from 10:15 am - 10:30 am"
+      "availability": "Monday, Nov 23 from 10:30 am"
     }
   },
   "Burnett Heads": {
@@ -1346,9 +1346,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCPG",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
