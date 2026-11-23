@@ -828,11 +828,11 @@
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
-          "start_time": "11:30 am",
+          "start_time": "12:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "11:30 am - 5:15 pm",
-          "display": "11:30 am - 5:15 pm",
-          "display_full": "Thursday, Nov 26: 11:30 am - 5:15 pm"
+          "time_range": "12:15 pm - 5:15 pm",
+          "display": "12:15 pm - 5:15 pm",
+          "display_full": "Thursday, Nov 26: 12:15 pm - 5:15 pm"
         },
         {
           "date": "2026-11-27",
@@ -850,11 +850,11 @@
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
-          "start_time": "11:30 am",
+          "start_time": "12:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "11:30 am - 5:15 pm",
-          "display": "11:30 am - 5:15 pm",
-          "display_full": "Thursday, Nov 26: 11:30 am - 5:15 pm"
+          "time_range": "12:15 pm - 5:15 pm",
+          "display": "12:15 pm - 5:15 pm",
+          "display_full": "Thursday, Nov 26: 12:15 pm - 5:15 pm"
         },
         {
           "date": "2026-11-27",
@@ -868,7 +868,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 26 from 11:30 am - 5:15 pm"
+      "availability": "Thursday, Nov 26 from 12:15 pm - 5:15 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -1370,11 +1370,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "10:40 am",
+          "start_time": "11:20 am",
           "end_time": "2:50 pm",
-          "time_range": "10:40 am - 2:50 pm",
-          "display": "10:40 am - 2:50 pm",
-          "display_full": "Tuesday, Nov 24: 10:40 am - 2:50 pm"
+          "time_range": "11:20 am - 2:50 pm",
+          "display": "11:20 am - 2:50 pm",
+          "display_full": "Tuesday, Nov 24: 11:20 am - 2:50 pm"
         },
         {
           "date": "2026-11-25",
@@ -1412,11 +1412,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "10:40 am",
+          "start_time": "11:20 am",
           "end_time": "2:50 pm",
-          "time_range": "10:40 am - 2:50 pm",
-          "display": "10:40 am - 2:50 pm",
-          "display_full": "Tuesday, Nov 24: 10:40 am - 2:50 pm"
+          "time_range": "11:20 am - 2:50 pm",
+          "display": "11:20 am - 2:50 pm",
+          "display_full": "Tuesday, Nov 24: 11:20 am - 2:50 pm"
         },
         {
           "date": "2026-11-25",
@@ -1450,7 +1450,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 24 from 10:40 am - 2:50 pm"
+      "availability": "Tuesday, Nov 24 from 11:20 am - 2:50 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
@@ -1485,11 +1485,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 24: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 24: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-25",
@@ -1527,11 +1527,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "8:00 am",
+          "start_time": "8:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:00 am - 4:00 pm",
-          "display": "8:00 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 24: 8:00 am - 4:00 pm"
+          "time_range": "8:10 am - 4:00 pm",
+          "display": "8:10 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 24: 8:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-25",
@@ -1565,7 +1565,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 24 from 8:00 am - 4:00 pm"
+      "availability": "Tuesday, Nov 24 from 8:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
