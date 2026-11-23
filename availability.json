@@ -254,11 +254,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "1:15 pm",
-          "time_range": "1:00 pm - 1:15 pm",
-          "display": "1:00 pm - 1:15 pm",
-          "display_full": "Tuesday, Nov 24: 1:00 pm - 1:15 pm"
+          "time_range": "1:15 pm",
+          "display": "1:15 pm",
+          "display_full": "Tuesday, Nov 24: 1:15 pm"
         },
         {
           "date": "2026-11-26",
@@ -286,11 +286,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "1:15 pm",
-          "time_range": "1:00 pm - 1:15 pm",
-          "display": "1:00 pm - 1:15 pm",
-          "display_full": "Tuesday, Nov 24: 1:00 pm - 1:15 pm"
+          "time_range": "1:15 pm",
+          "display": "1:15 pm",
+          "display_full": "Tuesday, Nov 24: 1:15 pm"
         },
         {
           "date": "2026-11-26",
@@ -314,7 +314,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 24 from 1:00 pm - 1:15 pm"
+      "availability": "Tuesday, Nov 24 from 1:15 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1485,11 +1485,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 24: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 24: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-25",
@@ -1527,11 +1527,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Tuesday, Nov 24: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Tuesday, Nov 24: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-25",
@@ -1565,7 +1565,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 24 from 10:10 am - 4:00 pm"
+      "availability": "Tuesday, Nov 24 from 11:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
