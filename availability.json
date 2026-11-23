@@ -142,11 +142,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "8:00 am",
+          "start_time": "10:15 am",
           "end_time": "11:45 am",
-          "time_range": "8:00 am - 11:45 am",
-          "display": "8:00 am - 11:45 am",
-          "display_full": "Wednesday, Nov 25: 8:00 am - 11:45 am"
+          "time_range": "10:15 am - 11:45 am",
+          "display": "10:15 am - 11:45 am",
+          "display_full": "Wednesday, Nov 25: 10:15 am - 11:45 am"
         },
         {
           "date": "2026-11-26",
@@ -174,11 +174,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "8:00 am",
+          "start_time": "10:15 am",
           "end_time": "11:45 am",
-          "time_range": "8:00 am - 11:45 am",
-          "display": "8:00 am - 11:45 am",
-          "display_full": "Wednesday, Nov 25: 8:00 am - 11:45 am"
+          "time_range": "10:15 am - 11:45 am",
+          "display": "10:15 am - 11:45 am",
+          "display_full": "Wednesday, Nov 25: 10:15 am - 11:45 am"
         },
         {
           "date": "2026-11-26",
@@ -202,7 +202,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 25 from 8:00 am - 11:45 am"
+      "availability": "Wednesday, Nov 25 from 10:15 am - 11:45 am"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -367,11 +367,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "1:45 pm",
+          "start_time": "3:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "1:45 pm - 6:45 pm",
-          "display": "1:45 pm - 6:45 pm",
-          "display_full": "Tuesday, Nov 24: 1:45 pm - 6:45 pm"
+          "time_range": "3:15 pm - 6:45 pm",
+          "display": "3:15 pm - 6:45 pm",
+          "display_full": "Tuesday, Nov 24: 3:15 pm - 6:45 pm"
         },
         {
           "date": "2026-11-25",
@@ -399,11 +399,11 @@
           "date": "2026-11-24",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Nov 24",
-          "start_time": "1:45 pm",
+          "start_time": "3:15 pm",
           "end_time": "6:45 pm",
-          "time_range": "1:45 pm - 6:45 pm",
-          "display": "1:45 pm - 6:45 pm",
-          "display_full": "Tuesday, Nov 24: 1:45 pm - 6:45 pm"
+          "time_range": "3:15 pm - 6:45 pm",
+          "display": "3:15 pm - 6:45 pm",
+          "display_full": "Tuesday, Nov 24: 3:15 pm - 6:45 pm"
         },
         {
           "date": "2026-11-25",
@@ -427,7 +427,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Nov 24 from 1:45 pm - 6:45 pm"
+      "availability": "Tuesday, Nov 24 from 3:15 pm - 6:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 231388,
@@ -770,10 +770,10 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
           "start_time": "10:15 am",
-          "end_time": "1:45 pm",
-          "time_range": "10:15 am - 1:45 pm",
-          "display": "10:15 am - 1:45 pm",
-          "display_full": "Friday, Nov 27: 10:15 am - 1:45 pm"
+          "end_time": "10:15 am",
+          "time_range": "10:15 am",
+          "display": "10:15 am",
+          "display_full": "Friday, Nov 27: 10:15 am"
         }
       ],
       "patches": [
@@ -782,14 +782,14 @@
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
           "start_time": "10:15 am",
-          "end_time": "1:45 pm",
-          "time_range": "10:15 am - 1:45 pm",
-          "display": "10:15 am - 1:45 pm",
-          "display_full": "Friday, Nov 27: 10:15 am - 1:45 pm"
+          "end_time": "10:15 am",
+          "time_range": "10:15 am",
+          "display": "10:15 am",
+          "display_full": "Friday, Nov 27: 10:15 am"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 27 from 10:15 am - 1:45 pm"
+      "availability": "Friday, Nov 27 from 10:15 am"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -827,6 +827,16 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-arif-2",
       "availability_patches": [
         {
+          "date": "2026-11-24",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 24",
+          "start_time": "3:30 pm",
+          "end_time": "3:30 pm",
+          "time_range": "3:30 pm",
+          "display": "3:30 pm",
+          "display_full": "Tuesday, Nov 24: 3:30 pm"
+        },
+        {
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
@@ -859,6 +869,16 @@
       ],
       "patches": [
         {
+          "date": "2026-11-24",
+          "day_name": "Tuesday",
+          "date_label": "Tuesday, Nov 24",
+          "start_time": "3:30 pm",
+          "end_time": "3:30 pm",
+          "time_range": "3:30 pm",
+          "display": "3:30 pm",
+          "display_full": "Tuesday, Nov 24: 3:30 pm"
+        },
+        {
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
@@ -890,7 +910,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 26 from 12:15 pm - 3:15 pm"
+      "availability": "Tuesday, Nov 24 from 3:30 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
