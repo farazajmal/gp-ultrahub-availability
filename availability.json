@@ -253,16 +253,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "availability_patches": [
         {
-          "date": "2026-11-26",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Nov 26",
-          "start_time": "11:00 am",
-          "end_time": "11:00 am",
-          "time_range": "11:00 am",
-          "display": "11:00 am",
-          "display_full": "Thursday, Nov 26: 11:00 am"
-        },
-        {
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
@@ -275,16 +265,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-26",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Nov 26",
-          "start_time": "11:00 am",
-          "end_time": "11:00 am",
-          "time_range": "11:00 am",
-          "display": "11:00 am",
-          "display_full": "Thursday, Nov 26: 11:00 am"
-        },
-        {
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
@@ -296,7 +276,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 26 from 11:00 am"
+      "availability": "Friday, Nov 27 from 12:15 pm - 6:45 pm"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -908,16 +888,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-beenish-zafar",
       "availability_patches": [
         {
-          "date": "2026-11-25",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 25",
-          "start_time": "3:00 pm",
-          "end_time": "3:00 pm",
-          "time_range": "3:00 pm",
-          "display": "3:00 pm",
-          "display_full": "Wednesday, Nov 25: 3:00 pm"
-        },
-        {
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
@@ -950,16 +920,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-25",
-          "day_name": "Wednesday",
-          "date_label": "Wednesday, Nov 25",
-          "start_time": "3:00 pm",
-          "end_time": "3:00 pm",
-          "time_range": "3:00 pm",
-          "display": "3:00 pm",
-          "display_full": "Wednesday, Nov 25: 3:00 pm"
-        },
-        {
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
@@ -991,7 +951,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 25 from 3:00 pm"
+      "availability": "Thursday, Nov 26 from 10:00 am - 3:15 pm"
     }
   },
   "Burnett Heads": {
@@ -1405,11 +1365,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 25: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 25: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-26",
@@ -1437,11 +1397,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 25: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 25: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-26",
@@ -1465,7 +1425,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 25 from 10:10 am - 4:00 pm"
+      "availability": "Wednesday, Nov 25 from 11:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
