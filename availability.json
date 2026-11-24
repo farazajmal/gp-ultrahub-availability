@@ -347,11 +347,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "3:00 pm",
+          "start_time": "4:00 pm",
           "end_time": "6:30 pm",
-          "time_range": "3:00 pm - 6:30 pm",
-          "display": "3:00 pm - 6:30 pm",
-          "display_full": "Wednesday, Nov 25: 3:00 pm - 6:30 pm"
+          "time_range": "4:00 pm - 6:30 pm",
+          "display": "4:00 pm - 6:30 pm",
+          "display_full": "Wednesday, Nov 25: 4:00 pm - 6:30 pm"
         },
         {
           "date": "2026-11-27",
@@ -369,11 +369,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "3:00 pm",
+          "start_time": "4:00 pm",
           "end_time": "6:30 pm",
-          "time_range": "3:00 pm - 6:30 pm",
-          "display": "3:00 pm - 6:30 pm",
-          "display_full": "Wednesday, Nov 25: 3:00 pm - 6:30 pm"
+          "time_range": "4:00 pm - 6:30 pm",
+          "display": "4:00 pm - 6:30 pm",
+          "display_full": "Wednesday, Nov 25: 4:00 pm - 6:30 pm"
         },
         {
           "date": "2026-11-27",
@@ -387,7 +387,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 25 from 3:00 pm - 6:30 pm"
+      "availability": "Wednesday, Nov 25 from 4:00 pm - 6:30 pm"
     },
     "Dr. Arif": {
       "doctor_id": 231388,
@@ -1405,11 +1405,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 25: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 25: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-26",
@@ -1437,11 +1437,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "8:10 am",
+          "start_time": "9:10 am",
           "end_time": "4:00 pm",
-          "time_range": "8:10 am - 4:00 pm",
-          "display": "8:10 am - 4:00 pm",
-          "display_full": "Wednesday, Nov 25: 8:10 am - 4:00 pm"
+          "time_range": "9:10 am - 4:00 pm",
+          "display": "9:10 am - 4:00 pm",
+          "display_full": "Wednesday, Nov 25: 9:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-26",
@@ -1465,7 +1465,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 25 from 8:10 am - 4:00 pm"
+      "availability": "Wednesday, Nov 25 from 9:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
