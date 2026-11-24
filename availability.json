@@ -110,8 +110,8 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MRCGP",
         "Dip Occ Med (RCPI)",
+        "MRCGP",
         "MBBS"
       ],
       "areas_of_interest": [
@@ -233,8 +233,8 @@
       "gender": "Female",
       "qualifications": [
         "MRCGP",
-        "MCPS",
         "MBBS",
+        "MCPS",
         "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
@@ -305,11 +305,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MCPS",
+        "MBBS",
+        "General Practitioner",
         "DFM",
         "MRCGP",
-        "General Practitioner",
-        "MBBS"
+        "MCPS"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -1266,8 +1266,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
         "MRCPG",
+        "MRCGP",
         "MBBS"
       ],
       "areas_of_interest": [
