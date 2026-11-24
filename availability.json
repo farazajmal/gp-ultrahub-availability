@@ -778,11 +778,11 @@
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "4:15 pm",
-          "time_range": "11:30 am - 4:15 pm",
-          "display": "11:30 am - 4:15 pm",
-          "display_full": "Friday, Nov 27: 11:30 am - 4:15 pm"
+          "time_range": "11:45 am - 4:15 pm",
+          "display": "11:45 am - 4:15 pm",
+          "display_full": "Friday, Nov 27: 11:45 am - 4:15 pm"
         },
         {
           "date": "2026-11-28",
@@ -810,11 +810,11 @@
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
-          "start_time": "11:30 am",
+          "start_time": "11:45 am",
           "end_time": "4:15 pm",
-          "time_range": "11:30 am - 4:15 pm",
-          "display": "11:30 am - 4:15 pm",
-          "display_full": "Friday, Nov 27: 11:30 am - 4:15 pm"
+          "time_range": "11:45 am - 4:15 pm",
+          "display": "11:45 am - 4:15 pm",
+          "display_full": "Friday, Nov 27: 11:45 am - 4:15 pm"
         },
         {
           "date": "2026-11-28",
@@ -1207,11 +1207,11 @@
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
-          "start_time": "11:40 am",
+          "start_time": "11:50 am",
           "end_time": "6:40 pm",
-          "time_range": "11:40 am - 6:40 pm",
-          "display": "11:40 am - 6:40 pm",
-          "display_full": "Thursday, Nov 26: 11:40 am - 6:40 pm"
+          "time_range": "11:50 am - 6:40 pm",
+          "display": "11:50 am - 6:40 pm",
+          "display_full": "Thursday, Nov 26: 11:50 am - 6:40 pm"
         },
         {
           "date": "2026-11-27",
@@ -1239,11 +1239,11 @@
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
-          "start_time": "11:40 am",
+          "start_time": "11:50 am",
           "end_time": "6:40 pm",
-          "time_range": "11:40 am - 6:40 pm",
-          "display": "11:40 am - 6:40 pm",
-          "display_full": "Thursday, Nov 26: 11:40 am - 6:40 pm"
+          "time_range": "11:50 am - 6:40 pm",
+          "display": "11:50 am - 6:40 pm",
+          "display_full": "Thursday, Nov 26: 11:50 am - 6:40 pm"
         },
         {
           "date": "2026-11-27",
@@ -1310,11 +1310,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "8:10 am",
+          "start_time": "8:30 am",
           "end_time": "2:10 pm",
-          "time_range": "8:10 am - 2:10 pm",
-          "display": "8:10 am - 2:10 pm",
-          "display_full": "Wednesday, Nov 25: 8:10 am - 2:10 pm"
+          "time_range": "8:30 am - 2:10 pm",
+          "display": "8:30 am - 2:10 pm",
+          "display_full": "Wednesday, Nov 25: 8:30 am - 2:10 pm"
         },
         {
           "date": "2026-11-26",
@@ -1342,11 +1342,11 @@
           "date": "2026-11-25",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Nov 25",
-          "start_time": "8:10 am",
+          "start_time": "8:30 am",
           "end_time": "2:10 pm",
-          "time_range": "8:10 am - 2:10 pm",
-          "display": "8:10 am - 2:10 pm",
-          "display_full": "Wednesday, Nov 25: 8:10 am - 2:10 pm"
+          "time_range": "8:30 am - 2:10 pm",
+          "display": "8:30 am - 2:10 pm",
+          "display_full": "Wednesday, Nov 25: 8:30 am - 2:10 pm"
         },
         {
           "date": "2026-11-26",
@@ -1370,7 +1370,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Wednesday, Nov 25 from 8:10 am - 2:10 pm"
+      "availability": "Wednesday, Nov 25 from 8:30 am - 2:10 pm"
     },
     "Dr. Jahangir Khan": {
       "doctor_id": 228958,
