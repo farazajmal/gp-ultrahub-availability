@@ -139,16 +139,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-elsadig-hassan",
       "availability_patches": [
         {
-          "date": "2026-11-26",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Nov 26",
-          "start_time": "6:45 pm",
-          "end_time": "6:45 pm",
-          "time_range": "6:45 pm",
-          "display": "6:45 pm",
-          "display_full": "Thursday, Nov 26: 6:45 pm"
-        },
-        {
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
@@ -181,16 +171,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-26",
-          "day_name": "Thursday",
-          "date_label": "Thursday, Nov 26",
-          "start_time": "6:45 pm",
-          "end_time": "6:45 pm",
-          "time_range": "6:45 pm",
-          "display": "6:45 pm",
-          "display_full": "Thursday, Nov 26: 6:45 pm"
-        },
-        {
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
@@ -222,7 +202,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 26 from 6:45 pm"
+      "availability": "Friday, Nov 27 from 7:30 am - 2:30 pm"
     },
     "Practice Nurse": {
       "doctor_id": 198821,
@@ -252,10 +232,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MRCGP",
-        "MBBS",
         "MCPS",
-        "MCPS (Family Medicine)"
+        "MRCGP",
+        "MCPS (Family Medicine)",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -327,9 +307,9 @@
       "qualifications": [
         "General Practitioner",
         "DFM",
+        "MCPS",
         "MBBS",
-        "MRCGP",
-        "MCPS"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -524,9 +504,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
-        "MCPS (Family Medicine)"
+        "MCPS (Family Medicine)",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
