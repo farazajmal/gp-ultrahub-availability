@@ -271,32 +271,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-mehwish-javaid",
-      "availability_patches": [
-        {
-          "date": "2026-11-27",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 27",
-          "start_time": "6:45 pm",
-          "end_time": "6:45 pm",
-          "time_range": "6:45 pm",
-          "display": "6:45 pm",
-          "display_full": "Friday, Nov 27: 6:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-27",
-          "day_name": "Friday",
-          "date_label": "Friday, Nov 27",
-          "start_time": "6:45 pm",
-          "end_time": "6:45 pm",
-          "time_range": "6:45 pm",
-          "display": "6:45 pm",
-          "display_full": "Friday, Nov 27: 6:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Friday, Nov 27 from 6:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Dr. Nasim Ullah": {
       "doctor_id": 246027,
@@ -1159,11 +1137,11 @@
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
-          "start_time": "8:20 am",
+          "start_time": "8:30 am",
           "end_time": "2:40 pm",
-          "time_range": "8:20 am - 2:40 pm",
-          "display": "8:20 am - 2:40 pm",
-          "display_full": "Friday, Nov 27: 8:20 am - 2:40 pm"
+          "time_range": "8:30 am - 2:40 pm",
+          "display": "8:30 am - 2:40 pm",
+          "display_full": "Friday, Nov 27: 8:30 am - 2:40 pm"
         }
       ],
       "patches": [
@@ -1171,15 +1149,15 @@
           "date": "2026-11-27",
           "day_name": "Friday",
           "date_label": "Friday, Nov 27",
-          "start_time": "8:20 am",
+          "start_time": "8:30 am",
           "end_time": "2:40 pm",
-          "time_range": "8:20 am - 2:40 pm",
-          "display": "8:20 am - 2:40 pm",
-          "display_full": "Friday, Nov 27: 8:20 am - 2:40 pm"
+          "time_range": "8:30 am - 2:40 pm",
+          "display": "8:30 am - 2:40 pm",
+          "display_full": "Friday, Nov 27: 8:30 am - 2:40 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Friday, Nov 27 from 8:20 am - 2:40 pm"
+      "availability": "Friday, Nov 27 from 8:30 am - 2:40 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
@@ -1265,11 +1243,11 @@
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Thursday, Nov 26: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Thursday, Nov 26: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-27",
@@ -1287,11 +1265,11 @@
           "date": "2026-11-26",
           "day_name": "Thursday",
           "date_label": "Thursday, Nov 26",
-          "start_time": "10:10 am",
+          "start_time": "11:10 am",
           "end_time": "4:00 pm",
-          "time_range": "10:10 am - 4:00 pm",
-          "display": "10:10 am - 4:00 pm",
-          "display_full": "Thursday, Nov 26: 10:10 am - 4:00 pm"
+          "time_range": "11:10 am - 4:00 pm",
+          "display": "11:10 am - 4:00 pm",
+          "display_full": "Thursday, Nov 26: 11:10 am - 4:00 pm"
         },
         {
           "date": "2026-11-27",
@@ -1305,7 +1283,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Thursday, Nov 26 from 10:10 am - 4:00 pm"
+      "availability": "Thursday, Nov 26 from 11:10 am - 4:00 pm"
     },
     "Dr. Umair Siddiqui": {
       "doctor_id": 218037,
