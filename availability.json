@@ -110,9 +110,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "Dip Occ Med (RCPI)",
         "MRCGP",
-        "MBBS"
+        "MBBS",
+        "Dip Occ Med (RCPI)"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -252,10 +252,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
         "MRCGP",
-        "MCPS",
-        "MBBS"
+        "MBBS",
+        "MCPS (Family Medicine)",
+        "MCPS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -345,11 +345,11 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "General Practitioner",
+        "MRCGP",
         "MCPS",
+        "General Practitioner",
         "MBBS",
-        "DFM",
-        "MRCGP"
+        "DFM"
       ],
       "areas_of_interest": [
         "Chronic disease management",
@@ -564,9 +564,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
-        "MCPS (Family Medicine)",
+        "MRCGP",
         "MBBS",
-        "MRCGP"
+        "MCPS (Family Medicine)"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -786,16 +786,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
       "availability_patches": [
         {
-          "date": "2026-11-30",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 30",
-          "start_time": "10:45 am",
-          "end_time": "10:45 am",
-          "time_range": "10:45 am",
-          "display": "10:45 am",
-          "display_full": "Monday, Nov 30: 10:45 am"
-        },
-        {
           "date": "2026-12-01",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Dec 01",
@@ -818,16 +808,6 @@
       ],
       "patches": [
         {
-          "date": "2026-11-30",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 30",
-          "start_time": "10:45 am",
-          "end_time": "10:45 am",
-          "time_range": "10:45 am",
-          "display": "10:45 am",
-          "display_full": "Monday, Nov 30: 10:45 am"
-        },
-        {
           "date": "2026-12-01",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Dec 01",
@@ -849,7 +829,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 30 from 10:45 am"
+      "availability": "Tuesday, Dec 01 from 11:15 am - 12:15 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
@@ -1053,11 +1033,11 @@
           "date": "2026-11-28",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 28",
-          "start_time": "1:15 pm",
+          "start_time": "1:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:15 pm - 3:45 pm",
-          "display": "1:15 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 1:15 pm - 3:45 pm"
+          "time_range": "1:45 pm - 3:45 pm",
+          "display": "1:45 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 28: 1:45 pm - 3:45 pm"
         },
         {
           "date": "2026-11-30",
@@ -1085,11 +1065,11 @@
           "date": "2026-11-28",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 28",
-          "start_time": "1:15 pm",
+          "start_time": "1:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:15 pm - 3:45 pm",
-          "display": "1:15 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 1:15 pm - 3:45 pm"
+          "time_range": "1:45 pm - 3:45 pm",
+          "display": "1:45 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 28: 1:45 pm - 3:45 pm"
         },
         {
           "date": "2026-11-30",
@@ -1113,7 +1093,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 28 from 1:15 pm - 3:45 pm"
+      "availability": "Saturday, Nov 28 from 1:45 pm - 3:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1451,8 +1431,8 @@
       "gender": "Female",
       "qualifications": [
         "MRCGP",
-        "MRCPG",
-        "MBBS"
+        "MBBS",
+        "MRCPG"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
