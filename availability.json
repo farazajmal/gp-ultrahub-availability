@@ -40,32 +40,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-arooj-fatima",
-      "availability_patches": [
-        {
-          "date": "2026-11-28",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Nov 28",
-          "start_time": "2:15 pm",
-          "end_time": "3:45 pm",
-          "time_range": "2:15 pm - 3:45 pm",
-          "display": "2:15 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 2:15 pm - 3:45 pm"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-28",
-          "day_name": "Saturday",
-          "date_label": "Saturday, Nov 28",
-          "start_time": "2:15 pm",
-          "end_time": "3:45 pm",
-          "time_range": "2:15 pm - 3:45 pm",
-          "display": "2:15 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 2:15 pm - 3:45 pm"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Saturday, Nov 28 from 2:15 pm - 3:45 pm"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Saiqa Syeda": {
       "doctor_id": 194582,
@@ -110,9 +88,9 @@
       "provider_type": "GP",
       "gender": "Male",
       "qualifications": [
-        "MBBS",
+        "Dip Occ Med (RCPI)",
         "MRCGP",
-        "Dip Occ Med (RCPI)"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Family Medicine",
@@ -232,10 +210,10 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
+        "MCPS (Family Medicine)",
         "MRCGP",
         "MCPS",
-        "MCPS (Family Medicine)"
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -347,21 +325,21 @@
           "date": "2026-11-29",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 29",
-          "start_time": "11:15 am",
+          "start_time": "11:45 am",
           "end_time": "3:45 pm",
-          "time_range": "11:15 am - 3:45 pm",
-          "display": "11:15 am - 3:45 pm",
-          "display_full": "Sunday, Nov 29: 11:15 am - 3:45 pm"
+          "time_range": "11:45 am - 3:45 pm",
+          "display": "11:45 am - 3:45 pm",
+          "display_full": "Sunday, Nov 29: 11:45 am - 3:45 pm"
         },
         {
           "date": "2026-11-30",
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "6:45 pm",
-          "time_range": "11:00 am - 6:45 pm",
-          "display": "11:00 am - 6:45 pm",
-          "display_full": "Monday, Nov 30: 11:00 am - 6:45 pm"
+          "time_range": "11:15 am - 6:45 pm",
+          "display": "11:15 am - 6:45 pm",
+          "display_full": "Monday, Nov 30: 11:15 am - 6:45 pm"
         },
         {
           "date": "2026-12-01",
@@ -379,21 +357,21 @@
           "date": "2026-11-29",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 29",
-          "start_time": "11:15 am",
+          "start_time": "11:45 am",
           "end_time": "3:45 pm",
-          "time_range": "11:15 am - 3:45 pm",
-          "display": "11:15 am - 3:45 pm",
-          "display_full": "Sunday, Nov 29: 11:15 am - 3:45 pm"
+          "time_range": "11:45 am - 3:45 pm",
+          "display": "11:45 am - 3:45 pm",
+          "display_full": "Sunday, Nov 29: 11:45 am - 3:45 pm"
         },
         {
           "date": "2026-11-30",
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
-          "start_time": "11:00 am",
+          "start_time": "11:15 am",
           "end_time": "6:45 pm",
-          "time_range": "11:00 am - 6:45 pm",
-          "display": "11:00 am - 6:45 pm",
-          "display_full": "Monday, Nov 30: 11:00 am - 6:45 pm"
+          "time_range": "11:15 am - 6:45 pm",
+          "display": "11:15 am - 6:45 pm",
+          "display_full": "Monday, Nov 30: 11:15 am - 6:45 pm"
         },
         {
           "date": "2026-12-01",
@@ -407,7 +385,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 29 from 11:15 am - 3:45 pm"
+      "availability": "Sunday, Nov 29 from 11:45 am - 3:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 231388,
@@ -504,9 +482,9 @@
       "provider_type": "Physiotherapist",
       "gender": "Female",
       "qualifications": [
+        "MCPS (Family Medicine)",
         "MBBS",
-        "MRCGP",
-        "MCPS (Family Medicine)"
+        "MRCGP"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -810,21 +788,21 @@
           "date": "2026-11-28",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 28",
-          "start_time": "2:30 pm",
+          "start_time": "12:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "2:30 pm - 3:45 pm",
-          "display": "2:30 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 2:30 pm - 3:45 pm"
+          "time_range": "12:15 pm - 3:45 pm",
+          "display": "12:15 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 28: 12:15 pm - 3:45 pm"
         },
         {
           "date": "2026-12-01",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Dec 01",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "1:00 pm - 5:15 pm",
-          "display": "1:00 pm - 5:15 pm",
-          "display_full": "Tuesday, Dec 01: 1:00 pm - 5:15 pm"
+          "time_range": "1:15 pm - 5:15 pm",
+          "display": "1:15 pm - 5:15 pm",
+          "display_full": "Tuesday, Dec 01: 1:15 pm - 5:15 pm"
         }
       ],
       "patches": [
@@ -832,25 +810,25 @@
           "date": "2026-11-28",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 28",
-          "start_time": "2:30 pm",
+          "start_time": "12:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "2:30 pm - 3:45 pm",
-          "display": "2:30 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 2:30 pm - 3:45 pm"
+          "time_range": "12:15 pm - 3:45 pm",
+          "display": "12:15 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 28: 12:15 pm - 3:45 pm"
         },
         {
           "date": "2026-12-01",
           "day_name": "Tuesday",
           "date_label": "Tuesday, Dec 01",
-          "start_time": "1:00 pm",
+          "start_time": "1:15 pm",
           "end_time": "5:15 pm",
-          "time_range": "1:00 pm - 5:15 pm",
-          "display": "1:00 pm - 5:15 pm",
-          "display_full": "Tuesday, Dec 01: 1:00 pm - 5:15 pm"
+          "time_range": "1:15 pm - 5:15 pm",
+          "display": "1:15 pm - 5:15 pm",
+          "display_full": "Tuesday, Dec 01: 1:15 pm - 5:15 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 28 from 2:30 pm - 3:45 pm"
+      "availability": "Saturday, Nov 28 from 12:15 pm - 3:45 pm"
     },
     "Dr. Saiqa Syeda": {
       "doctor_id": 129248,
@@ -914,8 +892,8 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
-        "MRCGP"
+        "MRCGP",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1119,11 +1097,11 @@
           "date": "2026-11-30",
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
-          "start_time": "9:00 am",
+          "start_time": "9:15 am",
           "end_time": "11:15 am",
-          "time_range": "9:00 am - 11:15 am",
-          "display": "9:00 am - 11:15 am",
-          "display_full": "Monday, Nov 30: 9:00 am - 11:15 am"
+          "time_range": "9:15 am - 11:15 am",
+          "display": "9:15 am - 11:15 am",
+          "display_full": "Monday, Nov 30: 9:15 am - 11:15 am"
         },
         {
           "date": "2026-12-01",
@@ -1141,11 +1119,11 @@
           "date": "2026-11-30",
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
-          "start_time": "9:00 am",
+          "start_time": "9:15 am",
           "end_time": "11:15 am",
-          "time_range": "9:00 am - 11:15 am",
-          "display": "9:00 am - 11:15 am",
-          "display_full": "Monday, Nov 30: 9:00 am - 11:15 am"
+          "time_range": "9:15 am - 11:15 am",
+          "display": "9:15 am - 11:15 am",
+          "display_full": "Monday, Nov 30: 9:15 am - 11:15 am"
         },
         {
           "date": "2026-12-01",
@@ -1159,7 +1137,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 30 from 9:00 am - 11:15 am"
+      "availability": "Monday, Nov 30 from 9:15 am - 11:15 am"
     }
   },
   "Toowoomba": {
@@ -1290,9 +1268,9 @@
       "provider_type": "GP",
       "gender": "Female",
       "qualifications": [
-        "MBBS",
         "MRCGP",
-        "MRCPG"
+        "MRCPG",
+        "MBBS"
       ],
       "areas_of_interest": [
         "Women\u2019s health",
@@ -1496,11 +1474,11 @@
           "date": "2026-11-30",
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
-          "start_time": "1:20 pm",
-          "end_time": "2:50 pm",
-          "time_range": "1:20 pm - 2:50 pm",
-          "display": "1:20 pm - 2:50 pm",
-          "display_full": "Monday, Nov 30: 1:20 pm - 2:50 pm"
+          "start_time": "1:40 pm",
+          "end_time": "2:30 pm",
+          "time_range": "1:40 pm - 2:30 pm",
+          "display": "1:40 pm - 2:30 pm",
+          "display_full": "Monday, Nov 30: 1:40 pm - 2:30 pm"
         }
       ],
       "patches": [
@@ -1508,15 +1486,15 @@
           "date": "2026-11-30",
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
-          "start_time": "1:20 pm",
-          "end_time": "2:50 pm",
-          "time_range": "1:20 pm - 2:50 pm",
-          "display": "1:20 pm - 2:50 pm",
-          "display_full": "Monday, Nov 30: 1:20 pm - 2:50 pm"
+          "start_time": "1:40 pm",
+          "end_time": "2:30 pm",
+          "time_range": "1:40 pm - 2:30 pm",
+          "display": "1:40 pm - 2:30 pm",
+          "display_full": "Monday, Nov 30: 1:40 pm - 2:30 pm"
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 30 from 1:20 pm - 2:50 pm"
+      "availability": "Monday, Nov 30 from 1:40 pm - 2:30 pm"
     },
     "Practice Nurse": {
       "doctor_id": 239587,
