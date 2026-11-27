@@ -697,10 +697,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
           "start_time": "11:45 am",
-          "end_time": "2:00 pm",
-          "time_range": "11:45 am - 2:00 pm",
-          "display": "11:45 am - 2:00 pm",
-          "display_full": "Monday, Nov 30: 11:45 am - 2:00 pm"
+          "end_time": "1:15 pm",
+          "time_range": "11:45 am - 1:15 pm",
+          "display": "11:45 am - 1:15 pm",
+          "display_full": "Monday, Nov 30: 11:45 am - 1:15 pm"
         },
         {
           "date": "2026-12-01",
@@ -719,10 +719,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
           "start_time": "11:45 am",
-          "end_time": "2:00 pm",
-          "time_range": "11:45 am - 2:00 pm",
-          "display": "11:45 am - 2:00 pm",
-          "display_full": "Monday, Nov 30: 11:45 am - 2:00 pm"
+          "end_time": "1:15 pm",
+          "time_range": "11:45 am - 1:15 pm",
+          "display": "11:45 am - 1:15 pm",
+          "display_full": "Monday, Nov 30: 11:45 am - 1:15 pm"
         },
         {
           "date": "2026-12-01",
@@ -736,7 +736,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 30 from 11:45 am - 2:00 pm"
+      "availability": "Monday, Nov 30 from 11:45 am - 1:15 pm"
     },
     "Dr. Aisha Asghar": {
       "doctor_id": 150207,
@@ -1033,11 +1033,11 @@
           "date": "2026-11-28",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 28",
-          "start_time": "1:45 pm",
+          "start_time": "1:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:45 pm - 3:45 pm",
-          "display": "1:45 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 1:45 pm - 3:45 pm"
+          "time_range": "1:15 pm - 3:45 pm",
+          "display": "1:15 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 28: 1:15 pm - 3:45 pm"
         },
         {
           "date": "2026-11-30",
@@ -1065,11 +1065,11 @@
           "date": "2026-11-28",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 28",
-          "start_time": "1:45 pm",
+          "start_time": "1:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "1:45 pm - 3:45 pm",
-          "display": "1:45 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 1:45 pm - 3:45 pm"
+          "time_range": "1:15 pm - 3:45 pm",
+          "display": "1:15 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 28: 1:15 pm - 3:45 pm"
         },
         {
           "date": "2026-11-30",
@@ -1093,7 +1093,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 28 from 1:45 pm - 3:45 pm"
+      "availability": "Saturday, Nov 28 from 1:15 pm - 3:45 pm"
     }
   },
   "Burnett Heads": {
@@ -1220,10 +1220,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
           "start_time": "9:15 am",
-          "end_time": "11:15 am",
-          "time_range": "9:15 am - 11:15 am",
-          "display": "9:15 am - 11:15 am",
-          "display_full": "Monday, Nov 30: 9:15 am - 11:15 am"
+          "end_time": "9:15 am",
+          "time_range": "9:15 am",
+          "display": "9:15 am",
+          "display_full": "Monday, Nov 30: 9:15 am"
         },
         {
           "date": "2026-12-01",
@@ -1252,10 +1252,10 @@
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
           "start_time": "9:15 am",
-          "end_time": "11:15 am",
-          "time_range": "9:15 am - 11:15 am",
-          "display": "9:15 am - 11:15 am",
-          "display_full": "Monday, Nov 30: 9:15 am - 11:15 am"
+          "end_time": "9:15 am",
+          "time_range": "9:15 am",
+          "display": "9:15 am",
+          "display_full": "Monday, Nov 30: 9:15 am"
         },
         {
           "date": "2026-12-01",
@@ -1279,7 +1279,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 30 from 9:15 am - 11:15 am"
+      "availability": "Monday, Nov 30 from 9:15 am"
     }
   },
   "Toowoomba": {
