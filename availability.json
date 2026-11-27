@@ -931,11 +931,11 @@
           "date": "2026-11-28",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 28",
-          "start_time": "12:45 pm",
+          "start_time": "1:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 12:45 pm - 3:45 pm"
+          "time_range": "1:15 pm - 3:45 pm",
+          "display": "1:15 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 28: 1:15 pm - 3:45 pm"
         },
         {
           "date": "2026-11-30",
@@ -953,11 +953,11 @@
           "date": "2026-11-28",
           "day_name": "Saturday",
           "date_label": "Saturday, Nov 28",
-          "start_time": "12:45 pm",
+          "start_time": "1:15 pm",
           "end_time": "3:45 pm",
-          "time_range": "12:45 pm - 3:45 pm",
-          "display": "12:45 pm - 3:45 pm",
-          "display_full": "Saturday, Nov 28: 12:45 pm - 3:45 pm"
+          "time_range": "1:15 pm - 3:45 pm",
+          "display": "1:15 pm - 3:45 pm",
+          "display_full": "Saturday, Nov 28: 1:15 pm - 3:45 pm"
         },
         {
           "date": "2026-11-30",
@@ -971,7 +971,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Saturday, Nov 28 from 12:45 pm - 3:45 pm"
+      "availability": "Saturday, Nov 28 from 1:15 pm - 3:45 pm"
     }
   },
   "Burnett Heads": {
