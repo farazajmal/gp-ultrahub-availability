@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-27 12:08:45 AM",
+    "last_updated": "2026-11-27 07:00:43 AM",
     "total_clinics": 4,
     "clinics": {
         "Gladstone": [
@@ -83,9 +83,9 @@
                 "provider_type": "GP",
                 "gender": "Male",
                 "qualifications": [
-                    "MBBS",
+                    "Dip Occ Med (RCPI)",
                     "MRCGP",
-                    "Dip Occ Med (RCPI)"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Family Medicine",
@@ -135,10 +135,10 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
+                    "MCPS (Family Medicine)",
                     "MRCGP",
                     "MCPS",
-                    "MCPS (Family Medicine)"
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -307,9 +307,9 @@
                 "provider_type": "Physiotherapist",
                 "gender": "Female",
                 "qualifications": [
+                    "MCPS (Family Medicine)",
                     "MBBS",
-                    "MRCGP",
-                    "MCPS (Family Medicine)"
+                    "MRCGP"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -563,8 +563,8 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
-                    "MRCGP"
+                    "MRCGP",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
@@ -789,9 +789,9 @@
                 "provider_type": "GP",
                 "gender": "Female",
                 "qualifications": [
-                    "MBBS",
                     "MRCGP",
-                    "MRCPG"
+                    "MRCPG",
+                    "MBBS"
                 ],
                 "areas_of_interest": [
                     "Women’s health",
