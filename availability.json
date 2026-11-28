@@ -367,11 +367,11 @@
           "date": "2026-11-29",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 29",
-          "start_time": "11:45 am",
+          "start_time": "12:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Sunday, Nov 29: 11:45 am - 3:45 pm"
+          "time_range": "12:45 pm - 3:45 pm",
+          "display": "12:45 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 29: 12:45 pm - 3:45 pm"
         },
         {
           "date": "2026-11-30",
@@ -409,11 +409,11 @@
           "date": "2026-11-29",
           "day_name": "Sunday",
           "date_label": "Sunday, Nov 29",
-          "start_time": "11:45 am",
+          "start_time": "12:45 pm",
           "end_time": "3:45 pm",
-          "time_range": "11:45 am - 3:45 pm",
-          "display": "11:45 am - 3:45 pm",
-          "display_full": "Sunday, Nov 29: 11:45 am - 3:45 pm"
+          "time_range": "12:45 pm - 3:45 pm",
+          "display": "12:45 pm - 3:45 pm",
+          "display_full": "Sunday, Nov 29: 12:45 pm - 3:45 pm"
         },
         {
           "date": "2026-11-30",
@@ -447,7 +447,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Sunday, Nov 29 from 11:45 am - 3:45 pm"
+      "availability": "Sunday, Nov 29 from 12:45 pm - 3:45 pm"
     },
     "Dr. Arif": {
       "doctor_id": 231388,
@@ -532,32 +532,10 @@
       ],
       "profile_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
       "booking_url": "https://www.hotdoc.com.au/medical-centres/gladstone-QLD-4680/gp-ultra-hub-gladstone/doctors/dr-bushra-khan",
-      "availability_patches": [
-        {
-          "date": "2026-11-30",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 30",
-          "start_time": "11:15 am",
-          "end_time": "11:15 am",
-          "time_range": "11:15 am",
-          "display": "11:15 am",
-          "display_full": "Monday, Nov 30: 11:15 am"
-        }
-      ],
-      "patches": [
-        {
-          "date": "2026-11-30",
-          "day_name": "Monday",
-          "date_label": "Monday, Nov 30",
-          "start_time": "11:15 am",
-          "end_time": "11:15 am",
-          "time_range": "11:15 am",
-          "display": "11:15 am",
-          "display_full": "Monday, Nov 30: 11:15 am"
-        }
-      ],
-      "scrape_status": "ok",
-      "availability": "Monday, Nov 30 from 11:15 am"
+      "availability_patches": [],
+      "patches": [],
+      "scrape_status": "no_availability",
+      "availability": "Call clinic to book"
     },
     "Mehwish Saghir": {
       "doctor_id": 219466,
@@ -788,16 +766,6 @@
       "booking_url": "https://www.hotdoc.com.au/medical-centres/calliope-QLD-4680/outback-gp/doctors/dr-aisha-asghar-1",
       "availability_patches": [
         {
-          "date": "2026-12-01",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Dec 01",
-          "start_time": "12:15 pm",
-          "end_time": "12:15 pm",
-          "time_range": "12:15 pm",
-          "display": "12:15 pm",
-          "display_full": "Tuesday, Dec 01: 12:15 pm"
-        },
-        {
           "date": "2026-12-02",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Dec 02",
@@ -810,16 +778,6 @@
       ],
       "patches": [
         {
-          "date": "2026-12-01",
-          "day_name": "Tuesday",
-          "date_label": "Tuesday, Dec 01",
-          "start_time": "12:15 pm",
-          "end_time": "12:15 pm",
-          "time_range": "12:15 pm",
-          "display": "12:15 pm",
-          "display_full": "Tuesday, Dec 01: 12:15 pm"
-        },
-        {
           "date": "2026-12-02",
           "day_name": "Wednesday",
           "date_label": "Wednesday, Dec 02",
@@ -831,7 +789,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Tuesday, Dec 01 from 12:15 pm"
+      "availability": "Wednesday, Dec 02 from 9:30 am - 2:00 pm"
     },
     "Dr. Arif": {
       "doctor_id": 232607,
