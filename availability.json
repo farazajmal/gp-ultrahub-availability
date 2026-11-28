@@ -163,10 +163,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Dec 01",
           "start_time": "9:45 am",
-          "end_time": "4:00 pm",
-          "time_range": "9:45 am - 4:00 pm",
-          "display": "9:45 am - 4:00 pm",
-          "display_full": "Tuesday, Dec 01: 9:45 am - 4:00 pm"
+          "end_time": "3:45 pm",
+          "time_range": "9:45 am - 3:45 pm",
+          "display": "9:45 am - 3:45 pm",
+          "display_full": "Tuesday, Dec 01: 9:45 am - 3:45 pm"
         },
         {
           "date": "2026-12-02",
@@ -205,10 +205,10 @@
           "day_name": "Tuesday",
           "date_label": "Tuesday, Dec 01",
           "start_time": "9:45 am",
-          "end_time": "4:00 pm",
-          "time_range": "9:45 am - 4:00 pm",
-          "display": "9:45 am - 4:00 pm",
-          "display_full": "Tuesday, Dec 01: 9:45 am - 4:00 pm"
+          "end_time": "3:45 pm",
+          "time_range": "9:45 am - 3:45 pm",
+          "display": "9:45 am - 3:45 pm",
+          "display_full": "Tuesday, Dec 01: 9:45 am - 3:45 pm"
         },
         {
           "date": "2026-12-02",
