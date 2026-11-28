@@ -1303,11 +1303,11 @@
           "date": "2026-11-30",
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
-          "start_time": "11:40 am",
+          "start_time": "1:50 pm",
           "end_time": "2:50 pm",
-          "time_range": "11:40 am - 2:50 pm",
-          "display": "11:40 am - 2:50 pm",
-          "display_full": "Monday, Nov 30: 11:40 am - 2:50 pm"
+          "time_range": "1:50 pm - 2:50 pm",
+          "display": "1:50 pm - 2:50 pm",
+          "display_full": "Monday, Nov 30: 1:50 pm - 2:50 pm"
         },
         {
           "date": "2026-12-01",
@@ -1335,11 +1335,11 @@
           "date": "2026-11-30",
           "day_name": "Monday",
           "date_label": "Monday, Nov 30",
-          "start_time": "11:40 am",
+          "start_time": "1:50 pm",
           "end_time": "2:50 pm",
-          "time_range": "11:40 am - 2:50 pm",
-          "display": "11:40 am - 2:50 pm",
-          "display_full": "Monday, Nov 30: 11:40 am - 2:50 pm"
+          "time_range": "1:50 pm - 2:50 pm",
+          "display": "1:50 pm - 2:50 pm",
+          "display_full": "Monday, Nov 30: 1:50 pm - 2:50 pm"
         },
         {
           "date": "2026-12-01",
@@ -1363,7 +1363,7 @@
         }
       ],
       "scrape_status": "ok",
-      "availability": "Monday, Nov 30 from 11:40 am - 2:50 pm"
+      "availability": "Monday, Nov 30 from 1:50 pm - 2:50 pm"
     },
     "Dr. Aasma Sheraz": {
       "doctor_id": 242874,
